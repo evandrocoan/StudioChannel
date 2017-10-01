@@ -1,10 +1,2137 @@
 {
-	"schema_version": "3.0.0",
-	"packages": [],
-	"dependencies": [],
-	"includes":
-    [
-		"./packages.json",
-		"./dependencies.json"
-	]
+    "packages": [
+        {
+            "name": "User", 
+            "homepage": "https://github.com/evandrocoan/User", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/User/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/User"
+        }, 
+        {
+            "name": ".versioning", 
+            "homepage": "https://github.com/evandrocoan/.versioning", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/.versioning/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/.versioning"
+        }, 
+        {
+            "name": "PythonDebugTools", 
+            "homepage": "https://github.com/evandrocoan/PythonDebugTools", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/PythonDebugTools/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/PythonDebugTools"
+        }, 
+        {
+            "name": "Active View Jump Back", 
+            "homepage": "https://github.com/evandrocoan/SublimeActiveViewJumpBack", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeActiveViewJumpBack/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeActiveViewJumpBack"
+        }, 
+        {
+            "name": "amxmodx", 
+            "homepage": "https://github.com/evandrocoan/SublimeAMXX_Editor", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeAMXX_Editor/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeAMXX_Editor"
+        }, 
+        {
+            "name": "Amxx Pawn", 
+            "homepage": "https://github.com/evandrocoan/SublimeAmxxPawn", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeAmxxPawn/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeAmxxPawn"
+        }, 
+        {
+            "name": "Clear Cursors Carets", 
+            "homepage": "https://github.com/evandrocoan/ClearCursorsCarets", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ClearCursorsCarets/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ClearCursorsCarets"
+        }, 
+        {
+            "name": "Clipboard Scope Copy", 
+            "homepage": "https://github.com/evandrocoan/SublimeClipboardScopeCopy", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeClipboardScopeCopy/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeClipboardScopeCopy"
+        }, 
+        {
+            "name": "Default Syntax", 
+            "homepage": "https://github.com/evandrocoan/SublimeDefaultSyntax", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeDefaultSyntax/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeDefaultSyntax"
+        }, 
+        {
+            "name": "Fix Project Switch Restart Bug", 
+            "homepage": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug"
+        }, 
+        {
+            "name": "Fix Selection After Indent", 
+            "homepage": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent"
+        }, 
+        {
+            "name": "Fixed Selections Clear", 
+            "homepage": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeFixedSelectionsClear/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear"
+        }, 
+        {
+            "name": "Force Rewrite Sublime Settings", 
+            "homepage": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings"
+        }, 
+        {
+            "name": "Notepad++ Color Scheme", 
+            "homepage": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme"
+        }, 
+        {
+            "name": "Octave", 
+            "homepage": "https://github.com/evandrocoan/SublimeOctave", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeOctave/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeOctave"
+        }, 
+        {
+            "name": "Open Auto Completion", 
+            "homepage": "https://github.com/evandrocoan/SublimeOpenAutoCompletion", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeOpenAutoCompletion/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeOpenAutoCompletion"
+        }, 
+        {
+            "name": "Override Unpacked Packages", 
+            "homepage": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride"
+        }, 
+        {
+            "name": "Overwrite Commit Completion", 
+            "homepage": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion"
+        }, 
+        {
+            "name": "QuickSettings", 
+            "homepage": "https://github.com/evandrocoan/SublimePreferencesEditor", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimePreferencesEditor/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimePreferencesEditor"
+        }, 
+        {
+            "name": "Rich Plain Text", 
+            "homepage": "https://github.com/evandrocoan/SublimeRichPlainText", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeRichPlainText/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeRichPlainText"
+        }, 
+        {
+            "name": "SQL Keyword Uppercase", 
+            "homepage": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase"
+        }, 
+        {
+            "name": "Select All Spelling Errors", 
+            "homepage": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors"
+        }, 
+        {
+            "name": "StudioChannel", 
+            "homepage": "https://github.com/evandrocoan/SublimeTextStudioChannel", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeTextStudioChannel/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeTextStudioChannel"
+        }, 
+        {
+            "name": "Uncrustify", 
+            "homepage": "https://github.com/evandrocoan/SublimeUncrustify", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeUncrustify/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeUncrustify"
+        }, 
+        {
+            "name": "View Settings Freely", 
+            "homepage": "https://github.com/evandrocoan/SublimeViewSettingsFreely", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeViewSettingsFreely/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeViewSettingsFreely"
+        }, 
+        {
+            "name": "Language - English and Portuguese", 
+            "homepage": "https://github.com/evandrocoan/SublimeMultilingualDictionary", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeMultilingualDictionary/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeMultilingualDictionary"
+        }, 
+        {
+            "name": "Default.sublime-package", 
+            "homepage": "https://github.com/evandrocoan/DefaultSublimePackage", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/DefaultSublimePackage/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/DefaultSublimePackage"
+        }, 
+        {
+            "name": "ANSIescape", 
+            "homepage": "https://github.com/evandrocoan/SublimeANSI", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeANSI/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeANSI"
+        }, 
+        {
+            "name": "Add Folder To Project", 
+            "homepage": "https://github.com/evandrocoan/AddFolderToProject-SublimePlugin", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AddFolderToProject-SublimePlugin/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AddFolderToProject-SublimePlugin"
+        }, 
+        {
+            "name": "Advanced CSV", 
+            "homepage": "https://github.com/evandrocoan/Sublime-Text-Advanced-CSV", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-Text-Advanced-CSV/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-Text-Advanced-CSV"
+        }, 
+        {
+            "name": "AdvancedNewFile", 
+            "homepage": "https://github.com/evandrocoan/Sublime-AdvancedNewFile", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-AdvancedNewFile/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-AdvancedNewFile"
+        }, 
+        {
+            "name": "AlignTab", 
+            "homepage": "https://github.com/evandrocoan/AlignTab", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AlignTab/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AlignTab"
+        }, 
+        {
+            "name": "All Autocomplete", 
+            "homepage": "https://github.com/evandrocoan/SublimeAllAutocomplete", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeAllAutocomplete/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeAllAutocomplete"
+        }, 
+        {
+            "name": "AutoFileName", 
+            "homepage": "https://github.com/evandrocoan/AutoFileName", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AutoFileName/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AutoFileName"
+        }, 
+        {
+            "name": "BBCode", 
+            "homepage": "https://github.com/evandrocoan/BBCode", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/BBCode/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/BBCode"
+        }, 
+        {
+            "name": "Better CoffeeScript", 
+            "homepage": "https://github.com/evandrocoan/sublime-better-coffeescript", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-better-coffeescript/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-better-coffeescript"
+        }, 
+        {
+            "name": "BufferScroll", 
+            "homepage": "https://github.com/evandrocoan/BufferScroll", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/BufferScroll/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/BufferScroll"
+        }, 
+        {
+            "name": "ChannelRepositoryTools", 
+            "homepage": "https://github.com/evandrocoan/ChannelRepositoryTools", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ChannelRepositoryTools/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ChannelRepositoryTools"
+        }, 
+        {
+            "name": "ColorHighlighter", 
+            "homepage": "https://github.com/evandrocoan/ColorHighlighter", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ColorHighlighter/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ColorHighlighter"
+        }, 
+        {
+            "name": "ColorHelper", 
+            "homepage": "https://github.com/evandrocoan/ColorHelper", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ColorHelper/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ColorHelper"
+        }, 
+        {
+            "name": "Compare Side-By-Side", 
+            "homepage": "https://github.com/evandrocoan/sublime-compare-side-by-side", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-compare-side-by-side/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-compare-side-by-side"
+        }, 
+        {
+            "name": "Copy Filepath With Line Numbers", 
+            "homepage": "https://github.com/evandrocoan/CopyFilepathWithLineNumbers", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/CopyFilepathWithLineNumbers/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/CopyFilepathWithLineNumbers"
+        }, 
+        {
+            "name": "CopyWithLineNumbersReloaded", 
+            "homepage": "https://github.com/evandrocoan/CopyWithLineNumbersReloaded", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/CopyWithLineNumbersReloaded/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/CopyWithLineNumbersReloaded"
+        }, 
+        {
+            "name": "DocBlockr", 
+            "homepage": "https://github.com/evandrocoan/SublimeDocBlockr-jsdocs", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeDocBlockr-jsdocs/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeDocBlockr-jsdocs"
+        }, 
+        {
+            "name": "ExportHtml", 
+            "homepage": "https://github.com/evandrocoan/ExportHtml", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ExportHtml/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ExportHtml"
+        }, 
+        {
+            "name": "ExtendedTabSwitcher", 
+            "homepage": "https://github.com/evandrocoan/SublimeExtendedTabSwitcher", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeExtendedTabSwitcher/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeExtendedTabSwitcher"
+        }, 
+        {
+            "name": "FileDiffs", 
+            "homepage": "https://github.com/evandrocoan/SublimeFileDiffs", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeFileDiffs/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeFileDiffs"
+        }, 
+        {
+            "name": "FileManager", 
+            "homepage": "https://github.com/evandrocoan/FileManager", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FileManager/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FileManager"
+        }, 
+        {
+            "name": "FuzzyFileNav", 
+            "homepage": "https://github.com/evandrocoan/FuzzyFileNav", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FuzzyFileNav/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FuzzyFileNav"
+        }, 
+        {
+            "name": "FuzzyFilePath", 
+            "homepage": "https://github.com/evandrocoan/FuzzyFilePath", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FuzzyFilePath/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FuzzyFilePath"
+        }, 
+        {
+            "name": "Gist", 
+            "homepage": "https://github.com/evandrocoan/Gist", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Gist/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Gist"
+        }, 
+        {
+            "name": "Google Spell Check", 
+            "homepage": "https://github.com/evandrocoan/google-spell-check", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/google-spell-check/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/google-spell-check"
+        }, 
+        {
+            "name": "GotoLastEditEnhanced", 
+            "homepage": "https://github.com/evandrocoan/sublime-goto-last-edit-enhanced", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-goto-last-edit-enhanced/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-goto-last-edit-enhanced"
+        }, 
+        {
+            "name": "Highlight Build Errors", 
+            "homepage": "https://github.com/evandrocoan/SublimeText-HighlightBuildErrors", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeText-HighlightBuildErrors/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeText-HighlightBuildErrors"
+        }, 
+        {
+            "name": "Hungry Backspace", 
+            "homepage": "https://github.com/evandrocoan/Hungry-Backspace", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Hungry-Backspace/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Hungry-Backspace"
+        }, 
+        {
+            "name": "Indent and braces", 
+            "homepage": "https://github.com/evandrocoan/sublime_indent_and_braces", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime_indent_and_braces/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime_indent_and_braces"
+        }, 
+        {
+            "name": "Invert Selection", 
+            "homepage": "https://github.com/evandrocoan/sublime-invert-selection", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-invert-selection/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-invert-selection"
+        }, 
+        {
+            "name": "LaTeXTools", 
+            "homepage": "https://github.com/evandrocoan/LaTeXTools", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/LaTeXTools/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/LaTeXTools"
+        }, 
+        {
+            "name": "Local History", 
+            "homepage": "https://github.com/evandrocoan/local-history", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/local-history/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/local-history"
+        }, 
+        {
+            "name": "Markdown to BB Code Converter", 
+            "homepage": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode"
+        }, 
+        {
+            "name": "Origami", 
+            "homepage": "https://github.com/evandrocoan/Origami", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Origami/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Origami"
+        }, 
+        {
+            "name": "Package Control", 
+            "homepage": "https://github.com/evandrocoan/package_control", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/package_control/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/package_control"
+        }, 
+        {
+            "name": "PackageDev", 
+            "homepage": "https://github.com/evandrocoan/PackageDev", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/PackageDev/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/PackageDev"
+        }, 
+        {
+            "name": "PowerCursors", 
+            "homepage": "https://github.com/evandrocoan/PowerCursors", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/PowerCursors/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/PowerCursors"
+        }, 
+        {
+            "name": "Project Specific Syntax Settings", 
+            "homepage": "https://github.com/evandrocoan/sublime-project-specific-syntax", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-project-specific-syntax/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-project-specific-syntax"
+        }, 
+        {
+            "name": "Side-by-Side Settings", 
+            "homepage": "https://github.com/evandrocoan/sxs-settings", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sxs-settings/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sxs-settings"
+        }, 
+        {
+            "name": "SideBarEnhancements", 
+            "homepage": "https://github.com/evandrocoan/SideBarEnhancements", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SideBarEnhancements/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SideBarEnhancements"
+        }, 
+        {
+            "name": "SublimeCodeIntel", 
+            "homepage": "https://github.com/evandrocoan/SublimeCodeIntel", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeCodeIntel/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeCodeIntel"
+        }, 
+        {
+            "name": "SublimeREPL", 
+            "homepage": "https://github.com/evandrocoan/SublimeREPL", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeREPL/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeREPL"
+        }, 
+        {
+            "name": "SyncedSideBar", 
+            "homepage": "https://github.com/evandrocoan/SyncedSideBar", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SyncedSideBar/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SyncedSideBar"
+        }, 
+        {
+            "name": "SyntaxManager", 
+            "homepage": "https://github.com/evandrocoan/SyntaxManager", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SyntaxManager/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SyntaxManager"
+        }, 
+        {
+            "name": "Text Pastry", 
+            "homepage": "https://github.com/evandrocoan/Text-Pastry", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Text-Pastry/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Text-Pastry"
+        }, 
+        {
+            "name": "Toolbar", 
+            "homepage": "https://github.com/evandrocoan/SublimeTextToolBar", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeTextToolBar/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeTextToolBar"
+        }, 
+        {
+            "name": "Trimmer", 
+            "homepage": "https://github.com/evandrocoan/Trimmer", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Trimmer/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Trimmer"
+        }, 
+        {
+            "name": "Wrap Plus", 
+            "homepage": "https://github.com/evandrocoan/Sublime-Wrap-Plus", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-Wrap-Plus/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-Wrap-Plus"
+        }, 
+        {
+            "name": "TypeScript", 
+            "homepage": "https://github.com/evandrocoan/TypeScript-Sublime-Plugin", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/TypeScript-Sublime-Plugin/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/TypeScript-Sublime-Plugin"
+        }, 
+        {
+            "name": "Pretty JSON", 
+            "homepage": "https://github.com/evandrocoan/SublimePrettyJson", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimePrettyJson/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimePrettyJson"
+        }, 
+        {
+            "name": "VBScript", 
+            "homepage": "https://github.com/evandrocoan/VBScript", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/VBScript/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/VBScript"
+        }, 
+        {
+            "name": "REG", 
+            "homepage": "https://github.com/evandrocoan/REG", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/REG/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/REG"
+        }, 
+        {
+            "name": "Generic Config", 
+            "homepage": "https://github.com/evandrocoan/Sublime-GenericConfig", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-GenericConfig/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-GenericConfig"
+        }, 
+        {
+            "name": "Dotfiles Syntax Highlighting", 
+            "homepage": "https://github.com/evandrocoan/dotfiles-syntax-highlighting-st2", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/dotfiles-syntax-highlighting-st2/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/dotfiles-syntax-highlighting-st2"
+        }, 
+        {
+            "name": "Maven", 
+            "homepage": "https://github.com/evandrocoan/SublimeMaven", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeMaven/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeMaven"
+        }, 
+        {
+            "name": "SublimeLinter", 
+            "homepage": "https://github.com/evandrocoan/SublimeLinter3", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeLinter3/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeLinter3"
+        }, 
+        {
+            "name": "SublimeLinter-javac", 
+            "homepage": "https://github.com/evandrocoan/SublimeLinter-javac", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeLinter-javac/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeLinter-javac"
+        }, 
+        {
+            "name": "Anaconda", 
+            "homepage": "https://github.com/evandrocoan/anaconda", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/anaconda/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/anaconda"
+        }, 
+        {
+            "name": "SelectUntil", 
+            "homepage": "https://github.com/evandrocoan/sublime-selectuntil", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-selectuntil/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-selectuntil"
+        }, 
+        {
+            "name": "Case Conversion", 
+            "homepage": "https://github.com/evandrocoan/CaseConversion", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/CaseConversion/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/CaseConversion"
+        }, 
+        {
+            "name": "ApplySyntax", 
+            "homepage": "https://github.com/evandrocoan/ApplySyntax", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ApplySyntax/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ApplySyntax"
+        }, 
+        {
+            "name": "x86 and x86_64 Assembly", 
+            "homepage": "https://github.com/evandrocoan/x86-assembly-textmate-bundle", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/x86-assembly-textmate-bundle/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/x86-assembly-textmate-bundle"
+        }, 
+        {
+            "name": "Incrementor", 
+            "homepage": "https://github.com/evandrocoan/Incrementor", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Incrementor/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Incrementor"
+        }, 
+        {
+            "name": "TabsExtra", 
+            "homepage": "https://github.com/evandrocoan/TabsExtra", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/TabsExtra/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/TabsExtra"
+        }, 
+        {
+            "name": "Default", 
+            "homepage": "https://github.com/evandrocoan/SublimeDefault", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeDefault/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeDefault"
+        }, 
+        {
+            "name": "Increment Selection", 
+            "homepage": "https://github.com/evandrocoan/IncrementSelection", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/IncrementSelection/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/IncrementSelection"
+        }, 
+        {
+            "name": "AutomaticPackageReloader", 
+            "homepage": "https://github.com/evandrocoan/AutomaticPackageReloader", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AutomaticPackageReloader/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AutomaticPackageReloader"
+        }, 
+        {
+            "name": "LaTeXSmartQuotes", 
+            "homepage": "https://github.com/evandrocoan/sublime-text-latex-smart-quotes", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-text-latex-smart-quotes/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-text-latex-smart-quotes"
+        }, 
+        {
+            "name": "A File Icon", 
+            "homepage": "https://github.com/evandrocoan/a-file-icon", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/a-file-icon/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/a-file-icon"
+        }, 
+        {
+            "name": "Alignment", 
+            "homepage": "https://github.com/evandrocoan/sublime_alignment", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime_alignment/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime_alignment"
+        }, 
+        {
+            "name": "Auto Refresh", 
+            "homepage": "https://github.com/evandrocoan/AutoRefresh", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AutoRefresh/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AutoRefresh"
+        }, 
+        {
+            "name": "BracketHighlighter", 
+            "homepage": "https://github.com/evandrocoan/BracketHighlighter", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/BracketHighlighter/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/BracketHighlighter"
+        }, 
+        {
+            "name": "C++ Completions", 
+            "homepage": "https://github.com/evandrocoan/CPP-Completions", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/CPP-Completions/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/CPP-Completions"
+        }, 
+        {
+            "name": "C++ Snippets", 
+            "homepage": "https://github.com/evandrocoan/cpp-sublime-snippet", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/cpp-sublime-snippet/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/cpp-sublime-snippet"
+        }, 
+        {
+            "name": "Chain of Command", 
+            "homepage": "https://github.com/evandrocoan/ChainOfCommand", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ChainOfCommand/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ChainOfCommand"
+        }, 
+        {
+            "name": "ChangeQuotes", 
+            "homepage": "https://github.com/evandrocoan/SublimeChangeQuotes", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeChangeQuotes/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeChangeQuotes"
+        }, 
+        {
+            "name": "Clickable URLs", 
+            "homepage": "https://github.com/evandrocoan/ClickableUrls_SublimeText", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ClickableUrls_SublimeText/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ClickableUrls_SublimeText"
+        }, 
+        {
+            "name": "ColorSchemeEditor", 
+            "homepage": "https://github.com/evandrocoan/ColorSchemeEditor", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ColorSchemeEditor/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ColorSchemeEditor"
+        }, 
+        {
+            "name": "Column Select", 
+            "homepage": "https://github.com/evandrocoan/Sublime-Column-Select", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-Column-Select/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-Column-Select"
+        }, 
+        {
+            "name": "Delete Current File", 
+            "homepage": "https://github.com/evandrocoan/Sublime-DeleteCurrentFile", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-DeleteCurrentFile/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-DeleteCurrentFile"
+        }, 
+        {
+            "name": "DictionaryAutoComplete", 
+            "homepage": "https://github.com/evandrocoan/DictionaryAutoComplete", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/DictionaryAutoComplete/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/DictionaryAutoComplete"
+        }, 
+        {
+            "name": "DistractionFreeWindow", 
+            "homepage": "https://github.com/evandrocoan/DistractionFreeWindow", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/DistractionFreeWindow/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/DistractionFreeWindow"
+        }, 
+        {
+            "name": "DuplicateSelections", 
+            "homepage": "https://github.com/evandrocoan/SublimeDuplicateSelections", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeDuplicateSelections/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeDuplicateSelections"
+        }, 
+        {
+            "name": "Edit Preferences", 
+            "homepage": "https://github.com/evandrocoan/EditPreferences", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/EditPreferences/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/EditPreferences"
+        }, 
+        {
+            "name": "Emmet", 
+            "homepage": "https://github.com/evandrocoan/emmet-sublime", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/emmet-sublime/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/emmet-sublime"
+        }, 
+        {
+            "name": "Extract Text to File", 
+            "homepage": "https://github.com/evandrocoan/sublime-extract-to-file", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-extract-to-file/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-extract-to-file"
+        }, 
+        {
+            "name": "File History", 
+            "homepage": "https://github.com/evandrocoan/FileHistory", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FileHistory/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FileHistory"
+        }, 
+        {
+            "name": "File Rename", 
+            "homepage": "https://github.com/evandrocoan/FileRename", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FileRename/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FileRename"
+        }, 
+        {
+            "name": "Find++", 
+            "homepage": "https://github.com/evandrocoan/FindPlusPlus", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FindPlusPlus/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FindPlusPlus"
+        }, 
+        {
+            "name": "FindKeyConflicts", 
+            "homepage": "https://github.com/evandrocoan/FindKeyConflicts", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/FindKeyConflicts/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/FindKeyConflicts"
+        }, 
+        {
+            "name": "Git", 
+            "homepage": "https://github.com/evandrocoan/sublime-text-git", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-text-git/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-text-git"
+        }, 
+        {
+            "name": "GitGutter", 
+            "homepage": "https://github.com/evandrocoan/GitGutter", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/GitGutter/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/GitGutter"
+        }, 
+        {
+            "name": "GitHub Markdown Snippets", 
+            "homepage": "https://github.com/evandrocoan/github_markdown_snippets", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/github_markdown_snippets/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/github_markdown_snippets"
+        }, 
+        {
+            "name": "Glue", 
+            "homepage": "https://github.com/evandrocoan/glue", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/glue/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/glue"
+        }, 
+        {
+            "name": "HighlightWords", 
+            "homepage": "https://github.com/evandrocoan/HighlightWords", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/HighlightWords/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/HighlightWords"
+        }, 
+        {
+            "name": "Horizontal Scroll", 
+            "homepage": "https://github.com/evandrocoan/sublime-horizontal-scroll", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-horizontal-scroll/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-horizontal-scroll"
+        }, 
+        {
+            "name": "BetterFindBuffer", 
+            "homepage": "https://github.com/evandrocoan/BetterFindBuffer", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/BetterFindBuffer/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/BetterFindBuffer"
+        }, 
+        {
+            "name": "Indent Size", 
+            "homepage": "https://github.com/evandrocoan/sublime-indent-size", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-indent-size/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-indent-size"
+        }, 
+        {
+            "name": "Javatar", 
+            "homepage": "https://github.com/evandrocoan/Javatar", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Javatar/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Javatar"
+        }, 
+        {
+            "name": "LaTeX Word Count", 
+            "homepage": "https://github.com/evandrocoan/SublimeLaTeXWordCount", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeLaTeXWordCount/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeLaTeXWordCount"
+        }, 
+        {
+            "name": "LESS", 
+            "homepage": "https://github.com/evandrocoan/LESS-sublime", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/LESS-sublime/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/LESS-sublime"
+        }, 
+        {
+            "name": "Line Endings Unify", 
+            "homepage": "https://github.com/evandrocoan/sublime-line-endings-unify", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-line-endings-unify/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-line-endings-unify"
+        }, 
+        {
+            "name": "Markdown Preview", 
+            "homepage": "https://github.com/evandrocoan/sublimetext-markdown-preview", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublimetext-markdown-preview/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublimetext-markdown-preview"
+        }, 
+        {
+            "name": "Matlab Completions", 
+            "homepage": "https://github.com/evandrocoan/Matlab-Completions", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Matlab-Completions/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Matlab-Completions"
+        }, 
+        {
+            "name": "MatlabFilenameAutoComplete", 
+            "homepage": "https://github.com/evandrocoan/MatlabFilenameAutoComplete", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/MatlabFilenameAutoComplete/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/MatlabFilenameAutoComplete"
+        }, 
+        {
+            "name": "MaxPane", 
+            "homepage": "https://github.com/evandrocoan/MaxPane", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/MaxPane/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/MaxPane"
+        }, 
+        {
+            "name": "MoveText", 
+            "homepage": "https://github.com/evandrocoan/SublimeMoveText", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeMoveText/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeMoveText"
+        }, 
+        {
+            "name": "MultiEditUtils", 
+            "homepage": "https://github.com/evandrocoan/Sublime-MultiEditUtils", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-MultiEditUtils/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-MultiEditUtils"
+        }, 
+        {
+            "name": "MySQL Snippets", 
+            "homepage": "https://github.com/evandrocoan/sublime-sql-snippets", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-sql-snippets/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-sql-snippets"
+        }, 
+        {
+            "name": "Number King", 
+            "homepage": "https://github.com/evandrocoan/SublimeNumberKing", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeNumberKing/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeNumberKing"
+        }, 
+        {
+            "name": "OverrideAudit", 
+            "homepage": "https://github.com/evandrocoan/OverrideAudit", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/OverrideAudit/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/OverrideAudit"
+        }, 
+        {
+            "name": "PackageResourceViewer", 
+            "homepage": "https://github.com/evandrocoan/PackageResourceViewer", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/PackageResourceViewer/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/PackageResourceViewer"
+        }, 
+        {
+            "name": "Path Translator", 
+            "homepage": "https://github.com/evandrocoan/Path-Translator", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Path-Translator/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Path-Translator"
+        }, 
+        {
+            "name": "PostScript", 
+            "homepage": "https://github.com/evandrocoan/sublime-syntax-postscript", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-syntax-postscript/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-syntax-postscript"
+        }, 
+        {
+            "name": "Qt Completions for C++", 
+            "homepage": "https://github.com/evandrocoan/Qt-Completions-for-Cpp", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Qt-Completions-for-Cpp/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Qt-Completions-for-Cpp"
+        }, 
+        {
+            "name": "ReIndent", 
+            "homepage": "https://github.com/evandrocoan/Sublime-Text-ReIndent", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-Text-ReIndent/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-Text-ReIndent"
+        }, 
+        {
+            "name": "ScopeHunter", 
+            "homepage": "https://github.com/evandrocoan/ScopeHunter", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ScopeHunter/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ScopeHunter"
+        }, 
+        {
+            "name": "SQLExec", 
+            "homepage": "https://github.com/evandrocoan/sublime-sqlexec", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-sqlexec/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-sqlexec"
+        }, 
+        {
+            "name": "StickySearch", 
+            "homepage": "https://github.com/evandrocoan/StickySearch", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/StickySearch/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/StickySearch"
+        }, 
+        {
+            "name": "ScopeAlways", 
+            "homepage": "https://github.com/evandrocoan/Sublime-ScopeAlways", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Sublime-ScopeAlways/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Sublime-ScopeAlways"
+        }, 
+        {
+            "name": "sublime-text-2-buildview", 
+            "homepage": "https://github.com/evandrocoan/sublime-text-2-buildview", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime-text-2-buildview/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime-text-2-buildview"
+        }, 
+        {
+            "name": "Swift", 
+            "homepage": "https://github.com/evandrocoan/Swift-Sublime-Package", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Swift-Sublime-Package/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Swift-Sublime-Package"
+        }, 
+        {
+            "name": "Sync View Scroll", 
+            "homepage": "https://github.com/evandrocoan/syncViewScroll", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/syncViewScroll/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/syncViewScroll"
+        }, 
+        {
+            "name": "TOML", 
+            "homepage": "https://github.com/evandrocoan/sublime_toml_highlighting", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime_toml_highlighting/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime_toml_highlighting"
+        }, 
+        {
+            "name": "UnitTesting", 
+            "homepage": "https://github.com/evandrocoan/UnitTesting", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/UnitTesting/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/UnitTesting"
+        }, 
+        {
+            "name": "Whitespace", 
+            "homepage": "https://github.com/evandrocoan/Whitespace", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Whitespace/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Whitespace"
+        }, 
+        {
+            "name": "WordHighlight", 
+            "homepage": "https://github.com/evandrocoan/WordHighlight", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/WordHighlight/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/WordHighlight"
+        }, 
+        {
+            "name": "Terminal", 
+            "homepage": "https://github.com/evandrocoan/sublime_terminal", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/sublime_terminal/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/sublime_terminal"
+        }, 
+        {
+            "name": "Sublime Tutor", 
+            "homepage": "https://github.com/evandrocoan/SublimeTutor", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeTutor/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeTutor"
+        }, 
+        {
+            "name": "Jedi - Python autocompletion", 
+            "homepage": "https://github.com/evandrocoan/SublimeJEDI", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SublimeJEDI/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SublimeJEDI"
+        }, 
+        {
+            "name": "SQLTools", 
+            "homepage": "https://github.com/evandrocoan/SQLTools", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/SQLTools/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/SQLTools"
+        }, 
+        {
+            "name": "Syntax Highlighting for Sass", 
+            "homepage": "https://github.com/evandrocoan/Syntax-highlighting-for-Sass", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/Syntax-highlighting-for-Sass/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/Syntax-highlighting-for-Sass"
+        }, 
+        {
+            "name": "ConvertToUTF8", 
+            "homepage": "https://github.com/evandrocoan/ConvertToUTF8", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ConvertToUTF8/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ConvertToUTF8"
+        }, 
+        {
+            "name": "Random Everything", 
+            "homepage": "https://github.com/evandrocoan/random-sublime-text-plugin", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/random-sublime-text-plugin/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/random-sublime-text-plugin"
+        }, 
+        {
+            "name": "Insert Nums", 
+            "homepage": "https://github.com/evandrocoan/InsertNums", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/InsertNums/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/InsertNums"
+        }, 
+        {
+            "name": "AutoWrap", 
+            "homepage": "https://github.com/evandrocoan/AutoWrap", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/AutoWrap/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/AutoWrap"
+        }, 
+        {
+            "name": "Toggle Words", 
+            "homepage": "https://github.com/evandrocoan/ToggleWords", 
+            "releases": [
+                {
+                    "sublime_text": ">=3126", 
+                    "version": "1.0.0", 
+                    "platforms": "*", 
+                    "url": "https://github.com/evandrocoan/ToggleWords/archive/master.zip"
+                }
+            ], 
+            "details": "https://github.com/evandrocoan/ToggleWords"
+        }
+    ], 
+    "schema_version": "3.0.0"
 }
