@@ -5,6 +5,7 @@
     "packages_cache": {
         "https://raw.githubusercontent.com/evandrocoan/SublimeTextStudioChannel/master/repository.json": [
             {
+                "details": "https://github.com/evandrocoan/User", 
                 "homepage": "https://github.com/evandrocoan/User", 
                 "name": "User", 
                 "releases": [
@@ -16,10 +17,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/User"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/PythonDebugTools", 
                 "homepage": "https://github.com/evandrocoan/PythonDebugTools", 
                 "name": "PythonDebugTools", 
                 "releases": [
@@ -31,10 +35,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/PythonDebugTools"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeActiveViewJumpBack", 
                 "homepage": "https://github.com/evandrocoan/SublimeActiveViewJumpBack", 
                 "name": "Active View Jump Back", 
                 "releases": [
@@ -46,8 +53,10 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeActiveViewJumpBack"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/evandrocoan/SublimeAMXX_Editor", 
@@ -63,6 +72,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Auto-complete and Build System for Amx Mod X on Sublime Text", 
                 "labels": [
                     "autocompletion", 
                     "auto-complete", 
@@ -72,12 +82,11 @@
                     "pawn", 
                     "build system"
                 ], 
-                "last_modified": "2017-09-08 18:06:46", 
                 "issues": "https://github.com/evandrocoan/SublimeAMXX_Editor/issues", 
-                "previous_names": [], 
-                "name": "amxmodx", 
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
-                "description": "Auto-complete and Build System for Amx Mod X on Sublime Text", 
+                "last_modified": "2017-09-08 18:06:46", 
+                "name": "amxmodx", 
+                "previous_names": [], 
                 "authors": [
                     "evandrocoan"
                 ], 
@@ -97,23 +106,24 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Amx Mod X self-contained syntax definition for Sublime Text", 
                 "labels": [
                     "language syntax", 
                     "amxmodx", 
                     "amx mod x"
                 ], 
-                "last_modified": "2017-07-13 04:28:24", 
                 "issues": "https://github.com/evandrocoan/SublimeAmxxPawn/issues", 
-                "previous_names": [], 
-                "name": "Amxx Pawn", 
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAmxxPawn/master/README.md", 
-                "description": "Amx Mod X self-contained syntax definition for Sublime Text", 
+                "last_modified": "2017-07-13 04:28:24", 
+                "name": "Amxx Pawn", 
+                "previous_names": [], 
                 "authors": [
                     "evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/ClearCursorsCarets", 
                 "homepage": "https://github.com/evandrocoan/ClearCursorsCarets", 
                 "name": "Clear Cursors Carets", 
                 "releases": [
@@ -125,10 +135,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/ClearCursorsCarets"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeClipboardScopeCopy", 
                 "homepage": "https://github.com/evandrocoan/SublimeClipboardScopeCopy", 
                 "name": "Clipboard Scope Copy", 
                 "releases": [
@@ -140,10 +153,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeClipboardScopeCopy"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeDefaultSyntax", 
                 "homepage": "https://github.com/evandrocoan/SublimeDefaultSyntax", 
                 "name": "Default Syntax", 
                 "releases": [
@@ -155,10 +171,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeDefaultSyntax"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug", 
                 "homepage": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug", 
                 "name": "Fix Project Switch Restart Bug", 
                 "releases": [
@@ -170,10 +189,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent", 
                 "homepage": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent", 
                 "name": "Fix Selection After Indent", 
                 "releases": [
@@ -185,10 +207,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
                 "homepage": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
                 "name": "Fixed Selections Clear", 
                 "releases": [
@@ -200,10 +225,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings", 
                 "homepage": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings", 
                 "name": "Force Rewrite Sublime Settings", 
                 "releases": [
@@ -215,8 +243,10 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme", 
@@ -232,22 +262,23 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Notepad++ Theme", 
                 "labels": [
                     "color scheme", 
                     "notepad++"
                 ], 
-                "last_modified": "2017-08-11 02:50:25", 
                 "issues": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme/issues", 
-                "previous_names": [], 
-                "name": "Notepad++ Color Scheme", 
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md", 
-                "description": "Sublime Notepad++ Theme", 
+                "last_modified": "2017-08-11 02:50:25", 
+                "name": "Notepad++ Color Scheme", 
+                "previous_names": [], 
                 "authors": [
                     "evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeOctave", 
                 "homepage": "https://github.com/evandrocoan/SublimeOctave", 
                 "name": "Octave", 
                 "releases": [
@@ -259,10 +290,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeOctave"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeOpenAutoCompletion", 
                 "homepage": "https://github.com/evandrocoan/SublimeOpenAutoCompletion", 
                 "name": "Open Auto Completion", 
                 "releases": [
@@ -274,10 +308,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeOpenAutoCompletion"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
                 "homepage": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
                 "name": "Override Unpacked Packages", 
                 "releases": [
@@ -289,10 +326,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
                 "homepage": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
                 "name": "Overwrite Commit Completion", 
                 "releases": [
@@ -304,25 +344,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion"
-            }, 
-            {
-                "homepage": "https://github.com/evandrocoan/SublimePreferencesEditor", 
-                "name": "QuickSettings", 
-                "releases": [
-                    {
-                        "date": "2017-09-26 14:21:36", 
-                        "version": "2017.09.26", 
-                        "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimePreferencesEditor/zip/master", 
-                        "platforms": "*"
-                    }
+                "authors": [
+                    "evandrocoan"
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimePreferencesEditor"
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeRichPlainText", 
                 "homepage": "https://github.com/evandrocoan/SublimeRichPlainText", 
                 "name": "Rich Plain Text", 
                 "releases": [
@@ -334,10 +362,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeRichPlainText"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
                 "homepage": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
                 "name": "SQL Keyword Uppercase", 
                 "releases": [
@@ -349,10 +380,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors", 
                 "homepage": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors", 
                 "name": "Select All Spelling Errors", 
                 "releases": [
@@ -364,23 +398,28 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeTextStudioChannel", 
                 "homepage": "https://github.com/evandrocoan/SublimeTextStudioChannel", 
                 "name": "StudioChannel", 
                 "releases": [
                     {
-                        "date": "2017-10-01 14:50:48", 
+                        "date": "2017-10-01 15:44:00", 
                         "version": "2017.10.01", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeTextStudioChannel/zip/master", 
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeTextStudioChannel"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/obxyann/Sublime-Uncrustify", 
@@ -396,6 +435,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A source code beautifier/formatter plugin that allows the user to use Uncrustify to format the C-like languages in Sublime Text.", 
                 "labels": [
                     "formatting", 
                     "c", 
@@ -405,18 +445,19 @@
                     "beautifier", 
                     "code style"
                 ], 
-                "last_modified": "2016-12-26 08:38:03", 
                 "issues": "https://github.com/obxyann/Sublime-Uncrustify/issues", 
-                "previous_names": [], 
-                "name": "Uncrustify", 
                 "readme": "https://raw.githubusercontent.com/obxyann/Sublime-Uncrustify/master/README.md", 
-                "description": "A source code beautifier/formatter plugin that allows the user to use Uncrustify to format the C-like languages in Sublime Text.", 
+                "last_modified": "2016-12-26 08:38:03", 
+                "name": "Uncrustify", 
+                "previous_names": [], 
                 "authors": [
-                    "obxyann"
+                    "obxyann", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeViewSettingsFreely", 
                 "homepage": "https://github.com/evandrocoan/SublimeViewSettingsFreely", 
                 "name": "View Settings Freely", 
                 "releases": [
@@ -428,10 +469,13 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeViewSettingsFreely"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeMultilingualDictionary", 
                 "homepage": "https://github.com/evandrocoan/SublimeMultilingualDictionary", 
                 "name": "Language - English and Portuguese", 
                 "releases": [
@@ -443,8 +487,29 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeMultilingualDictionary"
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available."
+            }, 
+            {
+                "details": "https://github.com/evandrocoan/SublimePreferencesEditor", 
+                "homepage": "https://github.com/evandrocoan/SublimePreferencesEditor", 
+                "name": "QuickSettings", 
+                "releases": [
+                    {
+                        "date": "2017-09-26 14:21:36", 
+                        "version": "2017.09.26", 
+                        "sublime_text": ">=3126", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimePreferencesEditor/zip/master", 
+                        "platforms": "*"
+                    }
+                ], 
+                "authors": [
+                    "klorenz", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/aziz/SublimeANSI", 
@@ -460,17 +525,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "ANSI escape codes color highlighting for SublimeText 3", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2016-04-13 04:45:58", 
                 "issues": "https://github.com/aziz/SublimeANSI/issues", 
-                "previous_names": [], 
-                "name": "ANSIescape", 
                 "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md", 
-                "description": "ANSI escape codes color highlighting for SublimeText 3", 
+                "last_modified": "2016-04-13 04:45:58", 
+                "name": "ANSIescape", 
+                "previous_names": [], 
                 "authors": [
-                    "aziz"
+                    "aziz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -488,15 +554,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-02-09 08:49:43", 
-                "issues": "https://github.com/DavidGerva/AddFolderToProject-SublimePlugin/issues", 
-                "previous_names": [], 
-                "name": "Add Folder To Project", 
-                "readme": "https://raw.githubusercontent.com/DavidGerva/AddFolderToProject-SublimePlugin/master/README.md", 
                 "description": "Repository for the AddFolderToProject Sublime Plugin", 
+                "labels": [], 
+                "issues": "https://github.com/DavidGerva/AddFolderToProject-SublimePlugin/issues", 
+                "readme": "https://raw.githubusercontent.com/DavidGerva/AddFolderToProject-SublimePlugin/master/README.md", 
+                "last_modified": "2015-02-09 08:49:43", 
+                "name": "Add Folder To Project", 
+                "previous_names": [], 
                 "authors": [
-                    "DavidGerva"
+                    "DavidGerva", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -514,15 +581,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-12-09 17:07:35", 
-                "issues": "https://github.com/wadetb/Sublime-Text-Advanced-CSV/issues", 
-                "previous_names": [], 
-                "name": "Advanced CSV", 
-                "readme": "https://raw.githubusercontent.com/wadetb/Sublime-Text-Advanced-CSV/master/README.md", 
                 "description": "Efficiently format, edit, arrange, and evaluate cells in CSV files", 
+                "labels": [], 
+                "issues": "https://github.com/wadetb/Sublime-Text-Advanced-CSV/issues", 
+                "readme": "https://raw.githubusercontent.com/wadetb/Sublime-Text-Advanced-CSV/master/README.md", 
+                "last_modified": "2016-12-09 17:07:35", 
+                "name": "Advanced CSV", 
+                "previous_names": [], 
                 "authors": [
-                    "wadetb"
+                    "wadetb", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -540,15 +608,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-07-10 04:41:15", 
-                "issues": "https://github.com/skuroda/Sublime-AdvancedNewFile/issues", 
-                "previous_names": [], 
-                "name": "AdvancedNewFile", 
-                "readme": "https://raw.githubusercontent.com/skuroda/Sublime-AdvancedNewFile/master/README.md", 
                 "description": "File creation plugin for Sublime Text 2 and Sublime Text 3.", 
+                "labels": [], 
+                "issues": "https://github.com/skuroda/Sublime-AdvancedNewFile/issues", 
+                "readme": "https://raw.githubusercontent.com/skuroda/Sublime-AdvancedNewFile/master/README.md", 
+                "last_modified": "2015-07-10 04:41:15", 
+                "name": "AdvancedNewFile", 
+                "previous_names": [], 
                 "authors": [
-                    "skuroda"
+                    "skuroda", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -566,15 +635,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-25 14:47:15", 
-                "issues": "https://github.com/randy3k/AlignTab/issues", 
-                "previous_names": [], 
-                "name": "AlignTab", 
-                "readme": "https://raw.githubusercontent.com/randy3k/AlignTab/master/README.md", 
                 "description": "An alignment plugin using regular expression", 
+                "labels": [], 
+                "issues": "https://github.com/randy3k/AlignTab/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/AlignTab/master/README.md", 
+                "last_modified": "2017-09-25 14:47:15", 
+                "name": "AlignTab", 
+                "previous_names": [], 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -592,17 +662,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Extend Sublime autocompletion to find matches in all open files of the current window", 
                 "labels": [
                     "auto-complete"
                 ], 
-                "last_modified": "2017-04-11 21:19:15", 
                 "issues": "https://github.com/alienhard/SublimeAllAutocomplete/issues", 
-                "previous_names": [], 
-                "name": "All Autocomplete", 
                 "readme": "https://raw.githubusercontent.com/alienhard/SublimeAllAutocomplete/master/README.md", 
-                "description": "Extend Sublime autocompletion to find matches in all open files of the current window", 
+                "last_modified": "2017-04-11 21:19:15", 
+                "name": "All Autocomplete", 
+                "previous_names": [], 
                 "authors": [
-                    "alienhard"
+                    "alienhard", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -620,19 +691,21 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-01-13 07:57:49", 
-                "issues": "https://github.com/BoundInCode/AutoFileName/issues", 
-                "previous_names": [], 
-                "name": "AutoFileName", 
-                "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md", 
                 "description": "Sublime Text plugin that autocompletes filenames", 
+                "labels": [], 
+                "issues": "https://github.com/BoundInCode/AutoFileName/issues", 
+                "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md", 
+                "last_modified": "2014-01-13 07:57:49", 
+                "name": "AutoFileName", 
+                "previous_names": [], 
                 "authors": [
-                    "BoundInCode"
+                    "BoundInCode", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/BBCode", 
                 "homepage": "https://github.com/evandrocoan/BBCode", 
                 "name": "BBCode", 
                 "releases": [
@@ -644,8 +717,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/BBCode"
+                "authors": [
+                    "chipotle", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "http://aponxi.github.com/sublime-better-coffeescript/", 
@@ -661,6 +737,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.", 
                 "labels": [
                     "language syntax", 
                     "snippets", 
@@ -668,18 +745,19 @@
                     "watch", 
                     "coffeescript"
                 ], 
-                "last_modified": "2016-09-11 08:53:12", 
                 "issues": "https://github.com/aponxi/sublime-better-coffeescript/issues", 
-                "previous_names": [], 
-                "name": "Better CoffeeScript", 
                 "readme": "https://raw.githubusercontent.com/aponxi/sublime-better-coffeescript/master/README.md", 
-                "description": "Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.", 
+                "last_modified": "2016-09-11 08:53:12", 
+                "name": "Better CoffeeScript", 
+                "previous_names": [], 
                 "authors": [
-                    "aponxi"
+                    "aponxi", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/BufferScroll", 
                 "homepage": "https://github.com/evandrocoan/BufferScroll", 
                 "name": "BufferScroll", 
                 "releases": [
@@ -691,8 +769,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/BufferScroll"
+                "authors": [
+                    "titoBouzout", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://packagecontrol.io/packages/ChannelRepositoryTools", 
@@ -708,19 +789,21 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-12-06 16:10:57", 
-                "issues": "https://github.com/wbond/ChannelRepositoryTools/issues", 
-                "previous_names": [], 
-                "name": "ChannelRepositoryTools", 
-                "readme": "https://raw.githubusercontent.com/wbond/ChannelRepositoryTools/master/readme.md", 
                 "description": "A Sublime Text package for working with channels and repositories", 
+                "labels": [], 
+                "issues": "https://github.com/wbond/ChannelRepositoryTools/issues", 
+                "readme": "https://raw.githubusercontent.com/wbond/ChannelRepositoryTools/master/readme.md", 
+                "last_modified": "2014-12-06 16:10:57", 
+                "name": "ChannelRepositoryTools", 
+                "previous_names": [], 
                 "authors": [
-                    "Will Bond (wbond)"
+                    "Will Bond (wbond)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/ColorHighlighter", 
                 "homepage": "https://github.com/evandrocoan/ColorHighlighter", 
                 "name": "ColorHighlighter", 
                 "releases": [
@@ -732,8 +815,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/ColorHighlighter"
+                "authors": [
+                    "Monnoroch", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/facelessuser/ColorHelper", 
@@ -749,15 +835,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-05-27 19:09:50", 
-                "issues": "https://github.com/facelessuser/ColorHelper/issues", 
-                "previous_names": [], 
-                "name": "ColorHelper", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md", 
                 "description": "Sublime plugin that provides helpful color tooltips http://facelessuser.github.io/ColorHelper/", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/ColorHelper/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md", 
+                "last_modified": "2017-05-27 19:09:50", 
+                "name": "ColorHelper", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -775,19 +862,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Side-by-side file comparison & difference tool for ST2/3", 
                 "labels": [
                     "diff", 
                     "compare", 
                     "comparison"
                 ], 
-                "last_modified": "2017-09-17 23:50:24", 
                 "issues": "https://github.com/DougTy/sublime-compare-side-by-side/issues", 
-                "previous_names": [], 
-                "name": "Compare Side-By-Side", 
                 "readme": "https://raw.githubusercontent.com/DougTy/sublime-compare-side-by-side/master/README.md", 
-                "description": "Side-by-side file comparison & difference tool for ST2/3", 
+                "last_modified": "2017-09-17 23:50:24", 
+                "name": "Compare Side-By-Side", 
+                "previous_names": [], 
                 "authors": [
-                    "Doug Ty"
+                    "Doug Ty", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -805,15 +893,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-12-02 19:23:04", 
-                "issues": "https://github.com/theskyliner/CopyFilepathWithLineNumbers/issues", 
-                "previous_names": [], 
-                "name": "Copy Filepath With Line Numbers", 
-                "readme": "https://raw.githubusercontent.com/theskyliner/CopyFilepathWithLineNumbers/master/readme.md", 
                 "description": "Copy filepath of current file with number of selected line(s)", 
+                "labels": [], 
+                "issues": "https://github.com/theskyliner/CopyFilepathWithLineNumbers/issues", 
+                "readme": "https://raw.githubusercontent.com/theskyliner/CopyFilepathWithLineNumbers/master/readme.md", 
+                "last_modified": "2015-12-02 19:23:04", 
+                "name": "Copy Filepath With Line Numbers", 
+                "previous_names": [], 
                 "authors": [
-                    "theskyliner"
+                    "theskyliner", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -831,15 +920,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-07-19 20:11:46", 
-                "issues": "https://github.com/crash5/CopyWithLineNumbersReloaded/issues", 
-                "previous_names": [], 
-                "name": "CopyWithLineNumbersReloaded", 
-                "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/master/README.md", 
                 "description": "Copy selected lines with line number and file name.", 
+                "labels": [], 
+                "issues": "https://github.com/crash5/CopyWithLineNumbersReloaded/issues", 
+                "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/master/README.md", 
+                "last_modified": "2016-07-19 20:11:46", 
+                "name": "CopyWithLineNumbersReloaded", 
+                "previous_names": [], 
                 "authors": [
-                    "crash5"
+                    "crash5", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -857,20 +947,21 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++", 
                 "labels": [
                     "documentation", 
                     "comments"
                 ], 
-                "last_modified": "2015-08-17 21:19:47", 
                 "issues": "https://github.com/spadgos/sublime-jsdocs/issues", 
+                "readme": "https://raw.githubusercontent.com/spadgos/sublime-jsdocs/master/README.md", 
+                "last_modified": "2015-08-17 21:19:47", 
+                "name": "DocBlockr", 
                 "previous_names": [
                     "JSDocs"
                 ], 
-                "name": "DocBlockr", 
-                "readme": "https://raw.githubusercontent.com/spadgos/sublime-jsdocs/master/README.md", 
-                "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++", 
                 "authors": [
-                    "spadgos"
+                    "spadgos", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "http://pledgie.com/campaigns/16316"
             }, 
@@ -888,15 +979,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-08-12 19:51:26", 
-                "issues": "https://github.com/facelessuser/ExportHtml/issues", 
-                "previous_names": [], 
-                "name": "ExportHtml", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
                 "description": "Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/ExportHtml/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
+                "last_modified": "2017-08-12 19:51:26", 
+                "name": "ExportHtml", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -914,18 +1006,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "View all open files (sorted/unsorted) for switching between them.", 
                 "labels": [], 
-                "last_modified": "2015-03-02 06:37:29", 
                 "issues": "https://github.com/rajeshvaya/Sublime-Extended-Tab-Switcher/issues", 
+                "readme": "https://raw.githubusercontent.com/rajeshvaya/Sublime-Extended-Tab-Switcher/master/README.md", 
+                "last_modified": "2015-03-02 06:37:29", 
+                "name": "ExtendedTabSwitcher", 
                 "previous_names": [
                     "GotoOpenFile", 
                     "OpenFileList"
                 ], 
-                "name": "ExtendedTabSwitcher", 
-                "readme": "https://raw.githubusercontent.com/rajeshvaya/Sublime-Extended-Tab-Switcher/master/README.md", 
-                "description": "View all open files (sorted/unsorted) for switching between them.", 
                 "authors": [
-                    "rajeshvaya"
+                    "rajeshvaya", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -943,17 +1036,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.  With contributions from Sebastian Pape (spape) and Jiri Urban (jiriurban)", 
                 "labels": [
                     "diff/merge"
                 ], 
-                "last_modified": "2017-03-20 14:11:22", 
                 "issues": "https://github.com/colinta/SublimeFileDiffs/issues", 
-                "previous_names": [], 
-                "name": "FileDiffs", 
                 "readme": "https://raw.githubusercontent.com/colinta/SublimeFileDiffs/master/README.md", 
-                "description": "Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.  With contributions from Sebastian Pape (spape) and Jiri Urban (jiriurban)", 
+                "last_modified": "2017-03-20 14:11:22", 
+                "name": "FileDiffs", 
+                "previous_names": [], 
                 "authors": [
-                    "Colin T.A. Gray (colinta)"
+                    "Colin T.A. Gray (colinta)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -971,6 +1065,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "\u26a1\ufe0f A Sublime Text 3 package to help with file (duplicate, move, create...) \u26a1\ufe0f", 
                 "labels": [
                     "sidebar", 
                     "folder", 
@@ -980,14 +1075,14 @@
                     "file creation", 
                     "file navigation"
                 ], 
-                "last_modified": "2017-06-24 07:32:59", 
                 "issues": "https://github.com/math2001/FileManager/issues", 
-                "previous_names": [], 
-                "name": "FileManager", 
                 "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md", 
-                "description": "\u26a1\ufe0f A Sublime Text 3 package to help with file (duplicate, move, create...) \u26a1\ufe0f", 
+                "last_modified": "2017-06-24 07:32:59", 
+                "name": "FileManager", 
+                "previous_names": [], 
                 "authors": [
-                    "math2001"
+                    "math2001", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1005,15 +1100,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-01-08 17:30:39", 
-                "issues": "https://github.com/facelessuser/FuzzyFileNav/issues", 
-                "previous_names": [], 
-                "name": "FuzzyFileNav", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/FuzzyFileNav/master/README.md", 
                 "description": "Sublime Text Plugin that allows for file navigation via the quick panel taking advantage of Sublime's fuzzy searching.", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/FuzzyFileNav/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/FuzzyFileNav/master/README.md", 
+                "last_modified": "2016-01-08 17:30:39", 
+                "name": "FuzzyFileNav", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1031,19 +1127,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Autocomplete relative or absolute file paths in Sublime Text project folder ", 
                 "labels": [
                     "filename", 
                     "filepath", 
                     "auto-complete"
                 ], 
-                "last_modified": "2017-04-24 18:05:55", 
                 "issues": "https://github.com/sagold/FuzzyFilePath/issues", 
-                "previous_names": [], 
-                "name": "FuzzyFilePath", 
                 "readme": "https://raw.githubusercontent.com/sagold/FuzzyFilePath/master/README.md", 
-                "description": "Autocomplete relative or absolute file paths in Sublime Text project folder ", 
+                "last_modified": "2017-04-24 18:05:55", 
+                "name": "FuzzyFilePath", 
+                "previous_names": [], 
                 "authors": [
-                    "sagold"
+                    "sagold", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1061,15 +1158,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-07-31 18:43:39", 
-                "issues": "https://github.com/condemil/Gist/issues", 
-                "previous_names": [], 
-                "name": "Gist", 
-                "readme": "https://raw.githubusercontent.com/condemil/Gist/master/README.md", 
                 "description": "Sublime Text plugin for creating new Gists from selected text", 
+                "labels": [], 
+                "issues": "https://github.com/condemil/Gist/issues", 
+                "readme": "https://raw.githubusercontent.com/condemil/Gist/master/README.md", 
+                "last_modified": "2017-07-31 18:43:39", 
+                "name": "Gist", 
+                "previous_names": [], 
                 "authors": [
-                    "condemil"
+                    "condemil", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1087,15 +1185,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-10-19 16:12:01", 
-                "issues": "https://github.com/noahcoad/google-spell-check/issues", 
-                "previous_names": [], 
-                "name": "Google Spell Check", 
-                "readme": "https://raw.githubusercontent.com/noahcoad/google-spell-check/master/README.md", 
                 "description": "Uses Google Search spelling magic to fix words or phrases for Sublime Text.", 
+                "labels": [], 
+                "issues": "https://github.com/noahcoad/google-spell-check/issues", 
+                "readme": "https://raw.githubusercontent.com/noahcoad/google-spell-check/master/README.md", 
+                "last_modified": "2015-10-19 16:12:01", 
+                "name": "Google Spell Check", 
+                "previous_names": [], 
                 "authors": [
-                    "noahcoad"
+                    "noahcoad", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1113,18 +1212,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Better goto last edit", 
                 "labels": [
                     "sublime-enhanced", 
                     "file navigation"
                 ], 
-                "last_modified": "2017-07-03 03:25:34", 
                 "issues": "https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced/issues", 
-                "previous_names": [], 
-                "name": "GotoLastEditEnhanced", 
                 "readme": "https://raw.githubusercontent.com/shagabutdinov/sublime-goto-last-edit-enhanced/master/readme.md", 
-                "description": "Better goto last edit", 
+                "last_modified": "2017-07-03 03:25:34", 
+                "name": "GotoLastEditEnhanced", 
+                "previous_names": [], 
                 "authors": [
-                    "shagabutdinov"
+                    "shagabutdinov", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md"
             }, 
@@ -1142,17 +1242,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "\ud83d\udc7b A plugin for Sublime Text 3 that highlights the lines that caused errors in the build", 
                 "labels": [
                     "build system"
                 ], 
-                "last_modified": "2016-09-11 07:45:37", 
                 "issues": "https://github.com/bblanchon/SublimeText-HighlightBuildErrors/issues", 
-                "previous_names": [], 
-                "name": "Highlight Build Errors", 
                 "readme": "https://raw.githubusercontent.com/bblanchon/SublimeText-HighlightBuildErrors/master/README.md", 
-                "description": "\ud83d\udc7b A plugin for Sublime Text 3 that highlights the lines that caused errors in the build", 
+                "last_modified": "2016-09-11 07:45:37", 
+                "name": "Highlight Build Errors", 
+                "previous_names": [], 
                 "authors": [
-                    "bblanchon"
+                    "bblanchon", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1170,6 +1271,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "This small plugin brings to Sublime Text the \"hungry\"/\"smart\" backspace feature from IntelliJ. The hungry backspace retains the scope (indentation) when the backspace key is pressed on an empty line. ", 
                 "labels": [
                     "hungry", 
                     "backspace", 
@@ -1178,14 +1280,14 @@
                     "delete", 
                     "line"
                 ], 
-                "last_modified": "2017-04-03 17:40:25", 
                 "issues": "https://github.com/xdrop/Hungry-Backspace/issues", 
-                "previous_names": [], 
-                "name": "Hungry Backspace", 
                 "readme": "https://raw.githubusercontent.com/xdrop/Hungry-Backspace/master/README.md", 
-                "description": "This small plugin brings to Sublime Text the \"hungry\"/\"smart\" backspace feature from IntelliJ. The hungry backspace retains the scope (indentation) when the backspace key is pressed on an empty line. ", 
+                "last_modified": "2017-04-03 17:40:25", 
+                "name": "Hungry Backspace", 
+                "previous_names": [], 
                 "authors": [
-                    "xdrop"
+                    "xdrop", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1203,17 +1305,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Indent selection and wrap it in braces.", 
                 "labels": [
                     "text manipulation"
                 ], 
-                "last_modified": "2015-01-22 19:48:15", 
                 "issues": "https://github.com/Epskampie/sublime_indent_and_braces/issues", 
-                "previous_names": [], 
-                "name": "Indent and braces", 
                 "readme": "https://raw.githubusercontent.com/Epskampie/sublime_indent_and_braces/master/README.md", 
-                "description": "Indent selection and wrap it in braces.", 
+                "last_modified": "2015-01-22 19:48:15", 
+                "name": "Indent and braces", 
+                "previous_names": [], 
                 "authors": [
-                    "Simon Epskamp (Epskampie)"
+                    "Simon Epskamp (Epskampie)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1231,17 +1334,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "sublime 2 missing feature invert selection", 
                 "labels": [
                     "text manipulation"
                 ], 
-                "last_modified": "2013-09-05 03:37:05", 
                 "issues": "https://github.com/vontio/sublime-invert-selection/issues", 
-                "previous_names": [], 
-                "name": "Invert Selection", 
                 "readme": "https://raw.githubusercontent.com/vontio/sublime-invert-selection/master/README.md", 
-                "description": "sublime 2 missing feature invert selection", 
+                "last_modified": "2013-09-05 03:37:05", 
+                "name": "Invert Selection", 
+                "previous_names": [], 
                 "authors": [
-                    "vontio"
+                    "vontio", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1259,15 +1363,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-18 09:16:57", 
-                "issues": "https://github.com/SublimeText/LaTeXTools/issues", 
-                "previous_names": [], 
-                "name": "LaTeXTools", 
-                "readme": "https://raw.githubusercontent.com/SublimeText/LaTeXTools/master/README.markdown", 
                 "description": "LaTeX plugin for Sublime Text 2 and 3", 
+                "labels": [], 
+                "issues": "https://github.com/SublimeText/LaTeXTools/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeText/LaTeXTools/master/README.markdown", 
+                "last_modified": "2017-09-18 09:16:57", 
+                "name": "LaTeXTools", 
+                "previous_names": [], 
                 "authors": [
-                    "SublimeText"
+                    "SublimeText", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1285,19 +1390,21 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-29 17:19:51", 
-                "issues": "https://github.com/vishr/local-history/issues", 
-                "previous_names": [], 
-                "name": "Local History", 
-                "readme": "https://raw.githubusercontent.com/vishr/local-history/master/README.md", 
                 "description": "A Sublime Text 2/3 plugin for maintaining local history of files. [backup | open | compare | incremental diff]", 
+                "labels": [], 
+                "issues": "https://github.com/vishr/local-history/issues", 
+                "readme": "https://raw.githubusercontent.com/vishr/local-history/master/README.md", 
+                "last_modified": "2017-09-29 17:19:51", 
+                "name": "Local History", 
+                "previous_names": [], 
                 "authors": [
-                    "vishr"
+                    "vishr", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode", 
                 "homepage": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode", 
                 "name": "Markdown to BB Code Converter", 
                 "releases": [
@@ -1309,8 +1416,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeTextMarkdowToBBCode"
+                "authors": [
+                    "Kristinita", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/SublimeText/Origami", 
@@ -1326,15 +1436,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-20 14:46:20", 
-                "issues": "https://github.com/SublimeText/Origami/issues", 
-                "previous_names": [], 
-                "name": "Origami", 
-                "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown", 
                 "description": "Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.", 
+                "labels": [], 
+                "issues": "https://github.com/SublimeText/Origami/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown", 
+                "last_modified": "2017-09-20 14:46:20", 
+                "name": "Origami", 
+                "previous_names": [], 
                 "authors": [
-                    "SublimeText"
+                    "SublimeText", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1352,15 +1463,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-11 10:50:00", 
-                "issues": null, 
-                "previous_names": [], 
-                "name": "Package Control", 
-                "readme": null, 
                 "description": "A full-featured package manager", 
+                "labels": [], 
+                "issues": null, 
+                "readme": null, 
+                "last_modified": "2017-09-11 10:50:00", 
+                "name": "Package Control", 
+                "previous_names": [], 
                 "authors": [
-                    "Will Bond (wbond)"
+                    "Will Bond (wbond)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://packagecontrol.io/say_thanks"
             }, 
@@ -1378,18 +1490,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.", 
                 "labels": [], 
-                "last_modified": "2017-09-20 13:31:18", 
                 "issues": "https://github.com/SublimeText/PackageDev/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeText/PackageDev/master/README.md", 
+                "last_modified": "2017-09-20 13:31:18", 
+                "name": "PackageDev", 
                 "previous_names": [
                     "AAAPackageDev"
                 ], 
-                "name": "PackageDev", 
-                "readme": "https://raw.githubusercontent.com/SublimeText/PackageDev/master/README.md", 
-                "description": "Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.", 
                 "authors": [
                     "guillermooo", 
-                    "FichteFoll"
+                    "FichteFoll", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1407,15 +1520,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-04-13 03:47:24", 
-                "issues": "https://github.com/MaokaiLin/PowerCursors/issues", 
-                "previous_names": [], 
-                "name": "PowerCursors", 
-                "readme": "https://raw.githubusercontent.com/MaokaiLin/PowerCursors/master/README.md", 
                 "description": "A Sublime Text 3 package that makes the add/remove/select of multiple cursors more convenient with keyboard.", 
+                "labels": [], 
+                "issues": "https://github.com/MaokaiLin/PowerCursors/issues", 
+                "readme": "https://raw.githubusercontent.com/MaokaiLin/PowerCursors/master/README.md", 
+                "last_modified": "2014-04-13 03:47:24", 
+                "name": "PowerCursors", 
+                "previous_names": [], 
                 "authors": [
-                    "MaokaiLin"
+                    "MaokaiLin", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1433,18 +1547,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Allows syntax settings to be specified per project in Sublime Text", 
                 "labels": [
                     "language syntax", 
                     "project"
                 ], 
-                "last_modified": "2016-02-12 00:17:43", 
                 "issues": "https://github.com/reywood/sublime-project-specific-syntax/issues", 
-                "previous_names": [], 
-                "name": "Project Specific Syntax Settings", 
                 "readme": "https://raw.githubusercontent.com/reywood/sublime-project-specific-syntax/master/README.md", 
-                "description": "Allows syntax settings to be specified per project in Sublime Text", 
+                "last_modified": "2016-02-12 00:17:43", 
+                "name": "Project Specific Syntax Settings", 
+                "previous_names": [], 
                 "authors": [
-                    "reywood"
+                    "reywood", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1462,19 +1577,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Plug-in for Sublime Text that makes it easy to view default and user settings side-by-side. Works for key bindings and other plug-ins too!", 
                 "labels": [
                     "utilities"
                 ], 
-                "last_modified": "2015-06-16 13:32:07", 
                 "issues": "https://github.com/jgbishop/sxs-settings/issues", 
+                "readme": "https://raw.githubusercontent.com/jgbishop/sxs-settings/master/README.md", 
+                "last_modified": "2015-06-16 13:32:07", 
+                "name": "Side-by-Side Settings", 
                 "previous_names": [
                     "SxS Settings"
                 ], 
-                "name": "Side-by-Side Settings", 
-                "readme": "https://raw.githubusercontent.com/jgbishop/sxs-settings/master/README.md", 
-                "description": "Plug-in for Sublime Text that makes it easy to view default and user settings side-by-side. Works for key bindings and other plug-ins too!", 
                 "authors": [
-                    "jgbishop"
+                    "jgbishop", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FJM9Y54FV6E4"
             }, 
@@ -1492,6 +1608,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Enhancements to Sublime Text sidebar. Files and folders.", 
                 "labels": [
                     "sidebar", 
                     "folder", 
@@ -1499,14 +1616,14 @@
                     "file", 
                     "clipboard"
                 ], 
-                "last_modified": "2017-09-22 19:58:42", 
                 "issues": "https://github.com/SideBarEnhancements-org/SideBarEnhancements/issues", 
-                "previous_names": [], 
-                "name": "SideBarEnhancements", 
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md", 
-                "description": "Enhancements to Sublime Text sidebar. Files and folders.", 
+                "last_modified": "2017-09-22 19:58:42", 
+                "name": "SideBarEnhancements", 
+                "previous_names": [], 
                 "authors": [
-                    "SideBarEnhancements-org"
+                    "SideBarEnhancements-org", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW"
             }, 
@@ -1524,19 +1641,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Full-featured code intelligence and smart autocomplete engine", 
                 "labels": [
                     "auto-complete", 
                     "code navigation", 
                     "snippets"
                 ], 
-                "last_modified": "2017-09-04 00:00:00", 
                 "issues": "https://github.com/SublimeCodeIntel/SublimeCodeIntel/issues", 
-                "previous_names": [], 
-                "name": "SublimeCodeIntel", 
                 "readme": "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/README.rst", 
-                "description": "Full-featured code intelligence and smart autocomplete engine", 
+                "last_modified": "2017-09-04 00:00:00", 
+                "name": "SublimeCodeIntel", 
+                "previous_names": [], 
                 "authors": [
-                    "German M. Bravo (Kronuz)"
+                    "German M. Bravo (Kronuz)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "http://sublimecodeintel.github.io/SublimeCodeIntel/donate.html"
             }, 
@@ -1554,15 +1672,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-02-20 12:08:31", 
-                "issues": "https://github.com/wuub/SublimeREPL/issues", 
-                "previous_names": [], 
-                "name": "SublimeREPL", 
-                "readme": "https://raw.githubusercontent.com/wuub/SublimeREPL/master/README.md", 
                 "description": "SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python + virtualenv, R, Ruby, Scala...)", 
+                "labels": [], 
+                "issues": "https://github.com/wuub/SublimeREPL/issues", 
+                "readme": "https://raw.githubusercontent.com/wuub/SublimeREPL/master/README.md", 
+                "last_modified": "2015-02-20 12:08:31", 
+                "name": "SublimeREPL", 
+                "previous_names": [], 
                 "authors": [
-                    "wuub"
+                    "wuub", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1580,15 +1699,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-01-03 02:30:28", 
-                "issues": "https://github.com/TheSpyder/SyncedSideBar/issues", 
-                "previous_names": [], 
-                "name": "SyncedSideBar", 
-                "readme": "https://raw.githubusercontent.com/TheSpyder/SyncedSideBar/master/README.md", 
                 "description": "Sublime Text plugin to sync project sidebar (folder view) with currently active file.", 
+                "labels": [], 
+                "issues": "https://github.com/TheSpyder/SyncedSideBar/issues", 
+                "readme": "https://raw.githubusercontent.com/TheSpyder/SyncedSideBar/master/README.md", 
+                "last_modified": "2017-01-03 02:30:28", 
+                "name": "SyncedSideBar", 
+                "previous_names": [], 
                 "authors": [
-                    "TheSpyder"
+                    "TheSpyder", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1606,15 +1726,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-07-21 15:15:35", 
-                "issues": "https://github.com/randy3k/SyntaxManager/issues", 
-                "previous_names": [], 
-                "name": "SyntaxManager", 
-                "readme": "https://raw.githubusercontent.com/randy3k/SyntaxManager/master/README.md", 
                 "description": "Applying settings to a given syntax/extension", 
+                "labels": [], 
+                "issues": "https://github.com/randy3k/SyntaxManager/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/SyntaxManager/master/README.md", 
+                "last_modified": "2017-07-21 15:15:35", 
+                "name": "SyntaxManager", 
+                "previous_names": [], 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1632,19 +1753,21 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-05-21 09:28:02", 
-                "issues": "https://github.com/duydao/Text-Pastry/issues", 
-                "previous_names": [], 
-                "name": "Text Pastry", 
-                "readme": "https://raw.githubusercontent.com/duydao/Text-Pastry/master/README.md", 
                 "description": "Extend the power of multiple selections in Sublime Text 2/3. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.", 
+                "labels": [], 
+                "issues": "https://github.com/duydao/Text-Pastry/issues", 
+                "readme": "https://raw.githubusercontent.com/duydao/Text-Pastry/master/README.md", 
+                "last_modified": "2017-05-21 09:28:02", 
+                "name": "Text Pastry", 
+                "previous_names": [], 
                 "authors": [
-                    "duydao"
+                    "duydao", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeTextToolBar", 
                 "homepage": "https://github.com/evandrocoan/SublimeTextToolBar", 
                 "name": "Toolbar", 
                 "releases": [
@@ -1656,8 +1779,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeTextToolBar"
+                "authors": [
+                    "titoBouzout", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/jonlabelle/Trimmer", 
@@ -1673,18 +1799,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A Sublime Text plug-in for cleaning up whitespace.", 
                 "labels": [
                     "text manipulation", 
                     "formatting"
                 ], 
-                "last_modified": "2017-10-01 09:38:51", 
                 "issues": "https://github.com/jonlabelle/Trimmer/issues", 
-                "previous_names": [], 
-                "name": "Trimmer", 
                 "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md", 
-                "description": "A Sublime Text plug-in for cleaning up whitespace.", 
+                "last_modified": "2017-10-01 09:38:51", 
+                "name": "Trimmer", 
+                "previous_names": [], 
                 "authors": [
-                    "jonlabelle"
+                    "jonlabelle", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1702,15 +1829,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-04-07 00:04:57", 
-                "issues": "https://github.com/ehuss/Sublime-Wrap-Plus/issues", 
-                "previous_names": [], 
-                "name": "Wrap Plus", 
-                "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
                 "description": "Enhanced \"wrap lines\" command for Sublime Text 2 or 3.", 
+                "labels": [], 
+                "issues": "https://github.com/ehuss/Sublime-Wrap-Plus/issues", 
+                "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
+                "last_modified": "2017-04-07 00:04:57", 
+                "name": "Wrap Plus", 
+                "previous_names": [], 
                 "authors": [
-                    "ehuss"
+                    "ehuss", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1728,6 +1856,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins", 
                 "labels": [
                     "auto-complete", 
                     "code navigation", 
@@ -1737,14 +1866,14 @@
                     "typescript", 
                     "javascript"
                 ], 
-                "last_modified": "2017-04-13 19:25:53", 
                 "issues": "https://github.com/Microsoft/TypeScript-Sublime-Plugin/issues", 
-                "previous_names": [], 
-                "name": "TypeScript", 
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md", 
-                "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins", 
+                "last_modified": "2017-04-13 19:25:53", 
+                "name": "TypeScript", 
+                "previous_names": [], 
                 "authors": [
-                    "Microsoft"
+                    "Microsoft", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1762,6 +1891,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3", 
                 "labels": [
                     "json", 
                     "pretty", 
@@ -1771,14 +1901,14 @@
                     "query", 
                     "json2xml"
                 ], 
-                "last_modified": "2016-09-01 14:51:10", 
                 "issues": "https://github.com/dzhibas/SublimePrettyJson/issues", 
-                "previous_names": [], 
-                "name": "Pretty JSON", 
                 "readme": "https://raw.githubusercontent.com/dzhibas/SublimePrettyJson/master/README.md", 
-                "description": "Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3", 
+                "last_modified": "2016-09-01 14:51:10", 
+                "name": "Pretty JSON", 
+                "previous_names": [], 
                 "authors": [
-                    "dzhibas"
+                    "dzhibas", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1796,15 +1926,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-06-13 15:16:42", 
-                "issues": "https://github.com/SublimeText/VBScript/issues", 
-                "previous_names": [], 
-                "name": "VBScript", 
-                "readme": "https://raw.githubusercontent.com/SublimeText/VBScript/master/readme.md", 
                 "description": "VBScript package for Sublime Text", 
+                "labels": [], 
+                "issues": "https://github.com/SublimeText/VBScript/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeText/VBScript/master/readme.md", 
+                "last_modified": "2016-06-13 15:16:42", 
+                "name": "VBScript", 
+                "previous_names": [], 
                 "authors": [
-                    "SublimeText"
+                    "SublimeText", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1822,15 +1953,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-05-19 09:48:56", 
-                "issues": "https://github.com/robertcollier4/REG/issues", 
-                "previous_names": [], 
-                "name": "REG", 
-                "readme": "https://raw.githubusercontent.com/robertcollier4/REG/master/README.md", 
                 "description": "Windows Registry Script (.reg) Language package for SublimeText. Includes syntax highlighting, comments toggling, declaration snippets, a build system to merge current reg file to registry, and a Jump To Reg Key command.", 
+                "labels": [], 
+                "issues": "https://github.com/robertcollier4/REG/issues", 
+                "readme": "https://raw.githubusercontent.com/robertcollier4/REG/master/README.md", 
+                "last_modified": "2015-05-19 09:48:56", 
+                "name": "REG", 
+                "previous_names": [], 
                 "authors": [
-                    "robertcollier4"
+                    "robertcollier4", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1848,17 +1980,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Generic highlighting of the configuration files for Sublime Text 2 and Sublime Text 3", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2016-05-15 14:00:46", 
                 "issues": "https://github.com/skozlovf/Sublime-GenericConfig/issues", 
-                "previous_names": [], 
-                "name": "Generic Config", 
                 "readme": "https://raw.githubusercontent.com/skozlovf/Sublime-GenericConfig/master/README.md", 
-                "description": "Generic highlighting of the configuration files for Sublime Text 2 and Sublime Text 3", 
+                "last_modified": "2016-05-15 14:00:46", 
+                "name": "Generic Config", 
+                "previous_names": [], 
                 "authors": [
-                    "skozlovf"
+                    "skozlovf", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1876,17 +2009,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "User settings to bring ShellScript (Bash) syntax highlighting to dotfiles", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2017-07-29 00:28:54", 
                 "issues": "https://github.com/mattbanks/dotfiles-syntax-highlighting-st2/issues", 
-                "previous_names": [], 
-                "name": "Dotfiles Syntax Highlighting", 
                 "readme": "https://raw.githubusercontent.com/mattbanks/dotfiles-syntax-highlighting-st2/master/README.md", 
-                "description": "User settings to bring ShellScript (Bash) syntax highlighting to dotfiles", 
+                "last_modified": "2017-07-29 00:28:54", 
+                "name": "Dotfiles Syntax Highlighting", 
+                "previous_names": [], 
                 "authors": [
-                    "mattbanks"
+                    "mattbanks", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1904,15 +2038,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-09-06 18:10:20", 
-                "issues": "https://github.com/nlloyd/SublimeMaven/issues", 
-                "previous_names": [], 
-                "name": "Maven", 
-                "readme": "https://raw.githubusercontent.com/nlloyd/SublimeMaven/master/README.md", 
                 "description": "Sublime Text 2 Plugin providing integration with the Apache Maven build and project management tool", 
+                "labels": [], 
+                "issues": "https://github.com/nlloyd/SublimeMaven/issues", 
+                "readme": "https://raw.githubusercontent.com/nlloyd/SublimeMaven/master/README.md", 
+                "last_modified": "2014-09-06 18:10:20", 
+                "name": "Maven", 
+                "previous_names": [], 
                 "authors": [
-                    "nlloyd"
+                    "nlloyd", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -1930,20 +2065,21 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Interactive code linting framework for Sublime Text 3", 
                 "labels": [
                     "linting", 
                     "SublimeLinter"
                 ], 
-                "last_modified": "2017-04-11 14:57:03", 
                 "issues": "https://github.com/SublimeLinter/SublimeLinter3/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter3/master/README.md", 
+                "last_modified": "2017-04-11 14:57:03", 
+                "name": "SublimeLinter", 
                 "previous_names": [
                     "SublimeLinter Beta"
                 ], 
-                "name": "SublimeLinter", 
-                "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter3/master/README.md", 
-                "description": "Interactive code linting framework for Sublime Text 3", 
                 "authors": [
-                    "SublimeLinter"
+                    "SublimeLinter", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love"
             }, 
@@ -1961,19 +2097,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "SublimeLinter 3 plugin for Java, using javac -Xlint.", 
                 "labels": [
                     "linting", 
                     "SublimeLinter", 
                     "java"
                 ], 
-                "last_modified": "2014-10-05 05:23:10", 
                 "issues": "https://github.com/SublimeLinter/SublimeLinter-javac/issues", 
-                "previous_names": [], 
-                "name": "SublimeLinter-javac", 
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-javac/master/README.md", 
-                "description": "SublimeLinter 3 plugin for Java, using javac -Xlint.", 
+                "last_modified": "2014-10-05 05:23:10", 
+                "name": "SublimeLinter-javac", 
+                "previous_names": [], 
                 "authors": [
-                    "SublimeLinter"
+                    "SublimeLinter", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love"
             }, 
@@ -1991,19 +2128,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3", 
                 "labels": [
                     "linting", 
                     "auto-complete", 
                     "python"
                 ], 
-                "last_modified": "2017-09-28 17:38:39", 
                 "issues": "https://github.com/DamnWidget/anaconda/issues", 
-                "previous_names": [], 
-                "name": "Anaconda", 
                 "readme": "https://raw.githubusercontent.com/DamnWidget/anaconda/master/README.md", 
-                "description": "Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3", 
+                "last_modified": "2017-09-28 17:38:39", 
+                "name": "Anaconda", 
+                "previous_names": [], 
                 "authors": [
-                    "DamnWidget"
+                    "DamnWidget", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2021,19 +2159,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A sublime package that lets you expand your current selection until a specific character, regex, or char-count is encountered.", 
                 "labels": [
                     "text manipulation", 
                     "text navigation", 
                     "text selection"
                 ], 
-                "last_modified": "2013-08-27 19:16:59", 
                 "issues": "https://github.com/xavi-/sublime-selectuntil/issues", 
-                "previous_names": [], 
-                "name": "SelectUntil", 
                 "readme": "https://raw.githubusercontent.com/xavi-/sublime-selectuntil/master/README.md", 
-                "description": "A sublime package that lets you expand your current selection until a specific character, regex, or char-count is encountered.", 
+                "last_modified": "2013-08-27 19:16:59", 
+                "name": "SelectUntil", 
+                "previous_names": [], 
                 "authors": [
-                    "xavi-"
+                    "xavi-", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2051,15 +2190,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-08-07 15:50:53", 
-                "issues": "https://github.com/jdc0589/CaseConversion/issues", 
-                "previous_names": [], 
-                "name": "Case Conversion", 
-                "readme": "https://raw.githubusercontent.com/jdc0589/CaseConversion/master/readme.md", 
                 "description": "Case conversion plugin (pascal, camel, snake) for sublime text 2", 
+                "labels": [], 
+                "issues": "https://github.com/jdc0589/CaseConversion/issues", 
+                "readme": "https://raw.githubusercontent.com/jdc0589/CaseConversion/master/readme.md", 
+                "last_modified": "2017-08-07 15:50:53", 
+                "name": "Case Conversion", 
+                "previous_names": [], 
                 "authors": [
-                    "jdc0589"
+                    "jdc0589", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2077,15 +2217,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-06-17 01:07:33", 
-                "issues": "https://github.com/facelessuser/ApplySyntax/issues", 
-                "previous_names": [], 
-                "name": "ApplySyntax", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md", 
                 "description": "Syntax detector for Sublime Text http://facelessuser.github.io/ApplySyntax/", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/ApplySyntax/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md", 
+                "last_modified": "2017-06-17 01:07:33", 
+                "name": "ApplySyntax", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2103,19 +2244,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A bundle for TextMate/Sublime Text providing syntax highlighting for x86 assembly code.", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2017-06-05 15:34:58", 
                 "issues": "https://github.com/13xforever/x86-assembly-textmate-bundle/issues", 
+                "readme": "https://raw.githubusercontent.com/13xforever/x86-assembly-textmate-bundle/master/README.md", 
+                "last_modified": "2017-06-05 15:34:58", 
+                "name": "x86 and x86_64 Assembly", 
                 "previous_names": [
                     "X86 and X86_64 assembly"
                 ], 
-                "name": "x86 and x86_64 Assembly", 
-                "readme": "https://raw.githubusercontent.com/13xforever/x86-assembly-textmate-bundle/master/README.md", 
-                "description": "A bundle for TextMate/Sublime Text providing syntax highlighting for x86 assembly code.", 
                 "authors": [
-                    "13xforever"
+                    "13xforever", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2133,15 +2275,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-09-07 16:15:46", 
-                "issues": "https://github.com/eBookArchitects/Incrementor/issues", 
-                "previous_names": [], 
-                "name": "Incrementor", 
-                "readme": "https://raw.githubusercontent.com/eBookArchitects/Incrementor/master/README.markdown", 
                 "description": "A Sublime Text 2 Plugin that can generate a sequence of numbers using search and replace.", 
+                "labels": [], 
+                "issues": "https://github.com/eBookArchitects/Incrementor/issues", 
+                "readme": "https://raw.githubusercontent.com/eBookArchitects/Incrementor/master/README.markdown", 
+                "last_modified": "2016-09-07 16:15:46", 
+                "name": "Incrementor", 
+                "previous_names": [], 
                 "authors": [
-                    "eBookArchitects"
+                    "eBookArchitects", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2159,19 +2302,21 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-05-29 14:19:16", 
-                "issues": "https://github.com/facelessuser/TabsExtra/issues", 
-                "previous_names": [], 
-                "name": "TabsExtra", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md", 
                 "description": "Sublime Plugin with sticky tabs, more tab closing options, and additional menu items. http://facelessuser.github.io/TabsExtra/", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/TabsExtra/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md", 
+                "last_modified": "2017-05-29 14:19:16", 
+                "name": "TabsExtra", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
             {
+                "details": "https://github.com/evandrocoan/SublimeDefault", 
                 "homepage": "https://github.com/evandrocoan/SublimeDefault", 
                 "name": "Default", 
                 "releases": [
@@ -2183,8 +2328,11 @@
                         "platforms": "*"
                     }
                 ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeDefault"
+                "authors": [
+                    "", 
+                    "Forked by evandrocoan"
+                ], 
+                "description": "No description available."
             }, 
             {
                 "homepage": "https://github.com/yulanggong/IncrementSelection", 
@@ -2200,15 +2348,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-19 10:21:01", 
-                "issues": "https://github.com/yulanggong/IncrementSelection/issues", 
-                "previous_names": [], 
-                "name": "Increment Selection", 
-                "readme": "https://raw.githubusercontent.com/yulanggong/IncrementSelection/master/README.md", 
                 "description": "Add a number to each selection in Sublime Text, incremented once per selection", 
+                "labels": [], 
+                "issues": "https://github.com/yulanggong/IncrementSelection/issues", 
+                "readme": "https://raw.githubusercontent.com/yulanggong/IncrementSelection/master/README.md", 
+                "last_modified": "2017-09-19 10:21:01", 
+                "name": "Increment Selection", 
+                "previous_names": [], 
                 "authors": [
-                    "yulanggong"
+                    "yulanggong", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2226,17 +2375,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Automaticly reload submodules while developing a Sublime Text package.", 
                 "labels": [], 
-                "last_modified": "2017-08-19 21:08:40", 
                 "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/AutomaticPackageReloader/master/README.md", 
+                "last_modified": "2017-08-19 21:08:40", 
+                "name": "AutomaticPackageReloader", 
                 "previous_names": [
                     "PackageReloader"
                 ], 
-                "name": "AutomaticPackageReloader", 
-                "readme": "https://raw.githubusercontent.com/randy3k/AutomaticPackageReloader/master/README.md", 
-                "description": "Automaticly reload submodules while developing a Sublime Text package.", 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2254,17 +2404,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A Sublime Text Package to insert the quotes in a smart way", 
                 "labels": [
                     "latex"
                 ], 
-                "last_modified": "2016-07-25 08:30:08", 
                 "issues": "https://github.com/r-stein/sublime-text-latex-smart-quotes/issues", 
-                "previous_names": [], 
-                "name": "LaTeXSmartQuotes", 
                 "readme": "https://raw.githubusercontent.com/r-stein/sublime-text-latex-smart-quotes/master/README.md", 
-                "description": "A Sublime Text Package to insert the quotes in a smart way", 
+                "last_modified": "2016-07-25 08:30:08", 
+                "name": "LaTeXSmartQuotes", 
+                "previous_names": [], 
                 "authors": [
-                    "r-stein"
+                    "r-stein", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2282,22 +2433,23 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Text File-Specific Icons for Improved Visual Grepping", 
                 "labels": [
                     "theme", 
                     "file", 
                     "icons"
                 ], 
-                "last_modified": "2017-04-13 16:44:14", 
                 "issues": "https://github.com/ihodev/a-file-icon/issues", 
+                "readme": "https://raw.githubusercontent.com/ihodev/a-file-icon/master/README.md", 
+                "last_modified": "2017-04-13 16:44:14", 
+                "name": "A File Icon", 
                 "previous_names": [
                     "File Icons Extended", 
                     "zz File Icons"
                 ], 
-                "name": "A File Icon", 
-                "readme": "https://raw.githubusercontent.com/ihodev/a-file-icon/master/README.md", 
-                "description": "Sublime Text File-Specific Icons for Improved Visual Grepping", 
                 "authors": [
-                    "ihodev"
+                    "ihodev", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2315,15 +2467,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2013-08-08 08:41:47", 
-                "issues": "https://github.com/wbond/sublime_alignment/issues", 
-                "previous_names": [], 
-                "name": "Alignment", 
-                "readme": "https://raw.githubusercontent.com/wbond/sublime_alignment/master/readme.creole", 
                 "description": "Easy alignment of multiple selections and multi-line selections", 
+                "labels": [], 
+                "issues": "https://github.com/wbond/sublime_alignment/issues", 
+                "readme": "https://raw.githubusercontent.com/wbond/sublime_alignment/master/readme.creole", 
+                "last_modified": "2013-08-08 08:41:47", 
+                "name": "Alignment", 
+                "previous_names": [], 
                 "authors": [
-                    "Will Bond (wbond)"
+                    "Will Bond (wbond)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2341,15 +2494,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-08-04 21:38:51", 
-                "issues": "https://github.com/Waterflames/AutoRefresh/issues", 
-                "previous_names": [], 
-                "name": "Auto Refresh", 
-                "readme": "https://raw.githubusercontent.com/Waterflames/AutoRefresh/master/README.md", 
                 "description": "A plugin for Sublime Text to automatically reload files on an interval", 
+                "labels": [], 
+                "issues": "https://github.com/Waterflames/AutoRefresh/issues", 
+                "readme": "https://raw.githubusercontent.com/Waterflames/AutoRefresh/master/README.md", 
+                "last_modified": "2017-08-04 21:38:51", 
+                "name": "Auto Refresh", 
+                "previous_names": [], 
                 "authors": [
-                    "Waterflames"
+                    "Waterflames", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2367,15 +2521,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-08-12 19:53:48", 
-                "issues": "https://github.com/facelessuser/BracketHighlighter/issues", 
-                "previous_names": [], 
-                "name": "BracketHighlighter", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md", 
                 "description": "Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/BracketHighlighter/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md", 
+                "last_modified": "2017-08-12 19:53:48", 
+                "name": "BracketHighlighter", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2393,6 +2548,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "C++ Completions for Sublime text.", 
                 "labels": [
                     "c++", 
                     "completions", 
@@ -2402,14 +2558,14 @@
                     "snippet", 
                     "Completion"
                 ], 
-                "last_modified": "2015-11-27 13:21:41", 
                 "issues": "https://github.com/tushortz/CPP-Completions/issues", 
-                "previous_names": [], 
-                "name": "C++ Completions", 
                 "readme": "https://raw.githubusercontent.com/tushortz/CPP-Completions/master/readme.md", 
-                "description": "C++ Completions for Sublime text.", 
+                "last_modified": "2015-11-27 13:21:41", 
+                "name": "C++ Completions", 
+                "previous_names": [], 
                 "authors": [
-                    "tushortz"
+                    "tushortz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2427,17 +2583,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "C++11 Sublime Text Snippets", 
                 "labels": [
                     "snippets"
                 ], 
-                "last_modified": "2015-05-26 00:15:10", 
                 "issues": "https://github.com/Rapptz/cpp-sublime-snippet/issues", 
-                "previous_names": [], 
-                "name": "C++ Snippets", 
                 "readme": "https://raw.githubusercontent.com/Rapptz/cpp-sublime-snippet/master/README.md", 
-                "description": "C++11 Sublime Text Snippets", 
+                "last_modified": "2015-05-26 00:15:10", 
+                "name": "C++ Snippets", 
+                "previous_names": [], 
                 "authors": [
-                    "Rapptz"
+                    "Rapptz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2455,15 +2612,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-01-26 09:05:33", 
-                "issues": "https://github.com/jisaacks/ChainOfCommand/issues", 
-                "previous_names": [], 
-                "name": "Chain of Command", 
-                "readme": "https://raw.githubusercontent.com/jisaacks/ChainOfCommand/master/README.md", 
                 "description": "Sublime text plugin to run a chain of commands", 
+                "labels": [], 
+                "issues": "https://github.com/jisaacks/ChainOfCommand/issues", 
+                "readme": "https://raw.githubusercontent.com/jisaacks/ChainOfCommand/master/README.md", 
+                "last_modified": "2014-01-26 09:05:33", 
+                "name": "Chain of Command", 
+                "previous_names": [], 
                 "authors": [
-                    "jisaacks"
+                    "jisaacks", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2481,17 +2639,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.", 
                 "labels": [
                     "text manipulation"
                 ], 
-                "last_modified": "2016-06-27 15:59:50", 
                 "issues": "https://github.com/colinta/SublimeChangeQuotes/issues", 
-                "previous_names": [], 
-                "name": "ChangeQuotes", 
                 "readme": "https://raw.githubusercontent.com/colinta/SublimeChangeQuotes/master/README.md", 
-                "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.", 
+                "last_modified": "2016-06-27 15:59:50", 
+                "name": "ChangeQuotes", 
+                "previous_names": [], 
                 "authors": [
-                    "Colin T.A. Gray (colinta)"
+                    "Colin T.A. Gray (colinta)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2509,15 +2668,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-06-19 21:52:50", 
-                "issues": "https://github.com/leonid-shevtsov/ClickableUrls_SublimeText/issues", 
-                "previous_names": [], 
-                "name": "Clickable URLs", 
-                "readme": "https://raw.githubusercontent.com/leonid-shevtsov/ClickableUrls_SublimeText/master/README.md", 
                 "description": "Underlines URLs in Sublime Text, and lets you open them with a keystroke.", 
+                "labels": [], 
+                "issues": "https://github.com/leonid-shevtsov/ClickableUrls_SublimeText/issues", 
+                "readme": "https://raw.githubusercontent.com/leonid-shevtsov/ClickableUrls_SublimeText/master/README.md", 
+                "last_modified": "2015-06-19 21:52:50", 
+                "name": "Clickable URLs", 
+                "previous_names": [], 
                 "authors": [
-                    "leonid-shevtsov"
+                    "leonid-shevtsov", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2535,15 +2695,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-09-22 11:43:08", 
-                "issues": "https://github.com/bobef/ColorSchemeEditor/issues", 
-                "previous_names": [], 
-                "name": "ColorSchemeEditor", 
-                "readme": "https://raw.githubusercontent.com/bobef/ColorSchemeEditor/master/README.md", 
                 "description": "\"Real-time\" color scheme editor plugin for Sublime Text 2/3.", 
+                "labels": [], 
+                "issues": "https://github.com/bobef/ColorSchemeEditor/issues", 
+                "readme": "https://raw.githubusercontent.com/bobef/ColorSchemeEditor/master/README.md", 
+                "last_modified": "2015-09-22 11:43:08", 
+                "name": "ColorSchemeEditor", 
+                "previous_names": [], 
                 "authors": [
-                    "bobef"
+                    "bobef", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2561,15 +2722,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-18 17:48:17", 
-                "issues": "https://github.com/ehuss/Sublime-Column-Select/issues", 
-                "previous_names": [], 
-                "name": "Column Select", 
-                "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Column-Select/master/README.md", 
                 "description": "Alternate behavior for Sublime keyboard column selection.", 
+                "labels": [], 
+                "issues": "https://github.com/ehuss/Sublime-Column-Select/issues", 
+                "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Column-Select/master/README.md", 
+                "last_modified": "2017-09-18 17:48:17", 
+                "name": "Column Select", 
+                "previous_names": [], 
                 "authors": [
-                    "ehuss"
+                    "ehuss", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2587,15 +2749,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2013-10-12 19:58:19", 
-                "issues": "https://github.com/yaworsw/Sublime-DeleteCurrentFile/issues", 
-                "previous_names": [], 
-                "name": "Delete Current File", 
-                "readme": "https://raw.githubusercontent.com/yaworsw/Sublime-DeleteCurrentFile/master/README.md", 
                 "description": "Adds a \"File: Delete\" command which deletes the current file and closes the current buffer.", 
+                "labels": [], 
+                "issues": "https://github.com/yaworsw/Sublime-DeleteCurrentFile/issues", 
+                "readme": "https://raw.githubusercontent.com/yaworsw/Sublime-DeleteCurrentFile/master/README.md", 
+                "last_modified": "2013-10-12 19:58:19", 
+                "name": "Delete Current File", 
+                "previous_names": [], 
                 "authors": [
-                    "yaworsw"
+                    "yaworsw", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2613,15 +2776,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-01-01 20:28:30", 
-                "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues", 
-                "previous_names": [], 
-                "name": "DictionaryAutoComplete", 
-                "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md", 
                 "description": "This adds dictionary entries to the completions inside comments. For lazy typers!", 
+                "labels": [], 
+                "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues", 
+                "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md", 
+                "last_modified": "2015-01-01 20:28:30", 
+                "name": "DictionaryAutoComplete", 
+                "previous_names": [], 
                 "authors": [
-                    "Zinggi"
+                    "Zinggi", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2639,18 +2803,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "SublimeText \"Distraction free mode\" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!", 
                 "labels": [
                     "fullscreen", 
                     "distraction-free"
                 ], 
-                "last_modified": "2017-02-20 10:25:02", 
                 "issues": "https://github.com/aziz/DistractionFreeWindow/issues", 
-                "previous_names": [], 
-                "name": "DistractionFreeWindow", 
                 "readme": "https://raw.githubusercontent.com/aziz/DistractionFreeWindow/master/README.md", 
-                "description": "SublimeText \"Distraction free mode\" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!", 
+                "last_modified": "2017-02-20 10:25:02", 
+                "name": "DistractionFreeWindow", 
+                "previous_names": [], 
                 "authors": [
-                    "aziz"
+                    "aziz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2668,17 +2833,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.", 
                 "labels": [
                     "text manipulation"
                 ], 
-                "last_modified": "2015-04-16 20:14:22", 
                 "issues": "https://github.com/colinta/SublimeDuplicateSelections/issues", 
-                "previous_names": [], 
-                "name": "DuplicateSelections", 
                 "readme": "https://raw.githubusercontent.com/colinta/SublimeDuplicateSelections/master/README.md", 
-                "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.", 
+                "last_modified": "2015-04-16 20:14:22", 
+                "name": "DuplicateSelections", 
+                "previous_names": [], 
                 "authors": [
-                    "Colin T.A. Gray (colinta)"
+                    "Colin T.A. Gray (colinta)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2696,15 +2862,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2013-02-26 12:14:25", 
-                "issues": "https://github.com/sublimator/EditPreferences/issues", 
-                "previous_names": [], 
-                "name": "Edit Preferences", 
-                "readme": "https://raw.githubusercontent.com/sublimator/EditPreferences/master/README.creole", 
                 "description": "Helper commands for working with sublime package assets/preferences. ST3 only.", 
+                "labels": [], 
+                "issues": "https://github.com/sublimator/EditPreferences/issues", 
+                "readme": "https://raw.githubusercontent.com/sublimator/EditPreferences/master/README.creole", 
+                "last_modified": "2013-02-26 12:14:25", 
+                "name": "Edit Preferences", 
+                "previous_names": [], 
                 "authors": [
-                    "sublimator"
+                    "sublimator", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2722,15 +2889,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-03-23 21:16:14", 
-                "issues": "https://github.com/sergeche/emmet-sublime/issues", 
-                "previous_names": [], 
-                "name": "Emmet", 
-                "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md", 
                 "description": "Emmet for Sublime Text", 
+                "labels": [], 
+                "issues": "https://github.com/sergeche/emmet-sublime/issues", 
+                "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md", 
+                "last_modified": "2017-03-23 21:16:14", 
+                "name": "Emmet", 
+                "previous_names": [], 
                 "authors": [
-                    "sergeche"
+                    "sergeche", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2748,15 +2916,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-05-18 04:02:06", 
-                "issues": "https://github.com/dreki/sublime-extract-to-file/issues", 
-                "previous_names": [], 
-                "name": "Extract Text to File", 
-                "readme": "https://raw.githubusercontent.com/dreki/sublime-extract-to-file/master/README.md", 
                 "description": "Extract selected text to another file", 
+                "labels": [], 
+                "issues": "https://github.com/dreki/sublime-extract-to-file/issues", 
+                "readme": "https://raw.githubusercontent.com/dreki/sublime-extract-to-file/master/README.md", 
+                "last_modified": "2015-05-18 04:02:06", 
+                "name": "Extract Text to File", 
+                "previous_names": [], 
                 "authors": [
-                    "dreki"
+                    "dreki", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2774,18 +2943,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Provides access to the history of recently accessed files - project-wise or globally", 
                 "labels": [
                     "file navigation"
                 ], 
-                "last_modified": "2016-04-05 23:57:12", 
                 "issues": "https://github.com/FichteFoll/FileHistory/issues", 
-                "previous_names": [], 
-                "name": "File History", 
                 "readme": "https://raw.githubusercontent.com/FichteFoll/FileHistory/master/README.md", 
-                "description": "Provides access to the history of recently accessed files - project-wise or globally", 
+                "last_modified": "2016-04-05 23:57:12", 
+                "name": "File History", 
+                "previous_names": [], 
                 "authors": [
                     "FichteFoll", 
-                    "Josh Bjornson"
+                    "Josh Bjornson", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2803,20 +2973,21 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Rename files from the ST3 command palette", 
                 "labels": [
                     "rename", 
                     "file rename"
                 ], 
-                "last_modified": "2015-11-10 00:36:54", 
                 "issues": "https://github.com/brianlow/FileRename/issues", 
+                "readme": "https://raw.githubusercontent.com/brianlow/FileRename/master/README.md", 
+                "last_modified": "2015-11-10 00:36:54", 
+                "name": "File Rename", 
                 "previous_names": [
                     "FileRename"
                 ], 
-                "name": "File Rename", 
-                "readme": "https://raw.githubusercontent.com/brianlow/FileRename/master/README.md", 
-                "description": "Rename files from the ST3 command palette", 
                 "authors": [
-                    "brianlow"
+                    "brianlow", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2834,18 +3005,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Find code quickly in Sublime Text.", 
                 "labels": [
                     "file navigation", 
                     "search"
                 ], 
-                "last_modified": "2015-12-23 07:29:19", 
                 "issues": "https://github.com/twolfson/FindPlusPlus/issues", 
-                "previous_names": [], 
-                "name": "Find++", 
                 "readme": "https://raw.githubusercontent.com/twolfson/FindPlusPlus/master/README.md", 
-                "description": "Find code quickly in Sublime Text.", 
+                "last_modified": "2015-12-23 07:29:19", 
+                "name": "Find++", 
+                "previous_names": [], 
                 "authors": [
-                    "twolfson"
+                    "twolfson", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2863,15 +3035,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-08-21 05:07:00", 
-                "issues": "https://github.com/skuroda/FindKeyConflicts/issues", 
-                "previous_names": [], 
-                "name": "FindKeyConflicts", 
-                "readme": "https://raw.githubusercontent.com/skuroda/FindKeyConflicts/master/README.md", 
                 "description": "Plugin for Sublime Text to help identify conflicting key mappings.", 
+                "labels": [], 
+                "issues": "https://github.com/skuroda/FindKeyConflicts/issues", 
+                "readme": "https://raw.githubusercontent.com/skuroda/FindKeyConflicts/master/README.md", 
+                "last_modified": "2016-08-21 05:07:00", 
+                "name": "FindKeyConflicts", 
+                "previous_names": [], 
                 "authors": [
-                    "skuroda"
+                    "skuroda", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2889,18 +3062,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Plugin for some git integration into sublime text", 
                 "labels": [
                     "git", 
                     "vcs"
                 ], 
-                "last_modified": "2017-01-11 17:40:32", 
                 "issues": "https://github.com/kemayo/sublime-text-git/issues", 
-                "previous_names": [], 
-                "name": "Git", 
                 "readme": "https://raw.githubusercontent.com/kemayo/sublime-text-git/master/README.markdown", 
-                "description": "Plugin for some git integration into sublime text", 
+                "last_modified": "2017-01-11 17:40:32", 
+                "name": "Git", 
+                "previous_names": [], 
                 "authors": [
-                    "kemayo"
+                    "kemayo", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2918,18 +3092,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A Sublime Text 2/3 plugin to see git diff in gutter", 
                 "labels": [], 
-                "last_modified": "2017-09-18 14:49:28", 
                 "issues": "https://github.com/jisaacks/GitGutter/issues", 
+                "readme": "https://raw.githubusercontent.com/jisaacks/GitGutter/master/README.md", 
+                "last_modified": "2017-09-18 14:49:28", 
+                "name": "GitGutter", 
                 "previous_names": [
                     "Git Gutter", 
                     "GitGutter-Edge"
                 ], 
-                "name": "GitGutter", 
-                "readme": "https://raw.githubusercontent.com/jisaacks/GitGutter/master/README.md", 
-                "description": "A Sublime Text 2/3 plugin to see git diff in gutter", 
                 "authors": [
-                    "jisaacks"
+                    "jisaacks", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2947,15 +3122,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-11-27 04:53:09", 
-                "issues": "https://github.com/praveenpuglia/github_markdown_snippets/issues", 
-                "previous_names": [], 
-                "name": "GitHub Markdown Snippets", 
-                "readme": "https://raw.githubusercontent.com/praveenpuglia/github_markdown_snippets/master/README.md", 
                 "description": "GitHub flavored Markdown with plain'ol HTML knowledge! Boom!", 
+                "labels": [], 
+                "issues": "https://github.com/praveenpuglia/github_markdown_snippets/issues", 
+                "readme": "https://raw.githubusercontent.com/praveenpuglia/github_markdown_snippets/master/README.md", 
+                "last_modified": "2016-11-27 04:53:09", 
+                "name": "GitHub Markdown Snippets", 
+                "previous_names": [], 
                 "authors": [
-                    "praveenpuglia"
+                    "praveenpuglia", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -2973,19 +3149,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Glue is a plugin that joins your shell to Sublime Text in quasi-perfect harmony.", 
                 "labels": [
                     "terminal", 
                     "console", 
                     "command line"
                 ], 
-                "last_modified": "2014-04-21 23:15:26", 
                 "issues": "https://github.com/chrissimpkins/glue/issues", 
-                "previous_names": [], 
-                "name": "Glue", 
                 "readme": "https://raw.githubusercontent.com/chrissimpkins/glue/master/README.md", 
-                "description": "Glue is a plugin that joins your shell to Sublime Text in quasi-perfect harmony.", 
+                "last_modified": "2014-04-21 23:15:26", 
+                "name": "Glue", 
+                "previous_names": [], 
                 "authors": [
-                    "chrissimpkins"
+                    "chrissimpkins", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3003,15 +3180,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-12-21 04:05:23", 
-                "issues": "https://github.com/seanliang/HighlightWords/issues", 
-                "previous_names": [], 
-                "name": "HighlightWords", 
-                "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md", 
                 "description": "A Sublime Text 2 & 3 plugin for highlighting mutiple words in different colors", 
+                "labels": [], 
+                "issues": "https://github.com/seanliang/HighlightWords/issues", 
+                "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md", 
+                "last_modified": "2015-12-21 04:05:23", 
+                "name": "HighlightWords", 
+                "previous_names": [], 
                 "authors": [
-                    "seanliang"
+                    "seanliang", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3029,15 +3207,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2013-09-05 15:49:48", 
-                "issues": "https://github.com/TheOnlyRew/sublime-horizontal-scroll/issues", 
-                "previous_names": [], 
-                "name": "Horizontal Scroll", 
-                "readme": "https://raw.githubusercontent.com/TheOnlyRew/sublime-horizontal-scroll/master/README.md", 
                 "description": "Adds hotkeys to scroll horizontally using the keyboard.", 
+                "labels": [], 
+                "issues": "https://github.com/TheOnlyRew/sublime-horizontal-scroll/issues", 
+                "readme": "https://raw.githubusercontent.com/TheOnlyRew/sublime-horizontal-scroll/master/README.md", 
+                "last_modified": "2013-09-05 15:49:48", 
+                "name": "Horizontal Scroll", 
+                "previous_names": [], 
                 "authors": [
-                    "TheOnlyRew"
+                    "TheOnlyRew", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3055,18 +3234,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Adds a couple of missing features to SublimeText 3 Find Results buffer", 
                 "labels": [
                     "find results", 
                     "search"
                 ], 
-                "last_modified": "2016-07-01 23:43:49", 
                 "issues": "https://github.com/aziz/BetterFindBuffer/issues", 
-                "previous_names": [], 
-                "name": "BetterFindBuffer", 
                 "readme": "https://raw.githubusercontent.com/aziz/BetterFindBuffer/master/README.md", 
-                "description": "Adds a couple of missing features to SublimeText 3 Find Results buffer", 
+                "last_modified": "2016-07-01 23:43:49", 
+                "name": "BetterFindBuffer", 
+                "previous_names": [], 
                 "authors": [
-                    "aziz"
+                    "aziz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3084,19 +3264,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Tex plugin for adding commands to update indent size", 
                 "labels": [
                     "indent", 
                     "tab", 
                     "size"
                 ], 
-                "last_modified": "2015-09-21 20:16:11", 
                 "issues": "https://github.com/socsieng/sublime-indent-size/issues", 
-                "previous_names": [], 
-                "name": "Indent Size", 
                 "readme": "https://raw.githubusercontent.com/socsieng/sublime-indent-size/master/readme.md", 
-                "description": "Sublime Tex plugin for adding commands to update indent size", 
+                "last_modified": "2015-09-21 20:16:11", 
+                "name": "Indent Size", 
+                "previous_names": [], 
                 "authors": [
-                    "socsieng"
+                    "socsieng", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3114,18 +3295,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Java Development Plugin for Sublime Text 3", 
                 "labels": [
                     "build system", 
                     "java"
                 ], 
-                "last_modified": "2016-06-27 15:47:06", 
                 "issues": "https://github.com/spywhere/Javatar/issues", 
-                "previous_names": [], 
-                "name": "Javatar", 
                 "readme": "https://raw.githubusercontent.com/spywhere/Javatar/master/README.md", 
-                "description": "Java Development Plugin for Sublime Text 3", 
+                "last_modified": "2016-06-27 15:47:06", 
+                "name": "Javatar", 
+                "previous_names": [], 
                 "authors": [
-                    "spywhere"
+                    "spywhere", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3143,15 +3325,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-06-30 10:07:42", 
-                "issues": "https://github.com/kevinstadler/SublimeLaTeXWordCount/issues", 
-                "previous_names": [], 
-                "name": "LaTeX Word Count", 
-                "readme": "https://raw.githubusercontent.com/kevinstadler/SublimeLaTeXWordCount/master/README.md", 
                 "description": "SublimeText 2+3 plugin providing a customisable word and character counter for LaTeX and plaintext files", 
+                "labels": [], 
+                "issues": "https://github.com/kevinstadler/SublimeLaTeXWordCount/issues", 
+                "readme": "https://raw.githubusercontent.com/kevinstadler/SublimeLaTeXWordCount/master/README.md", 
+                "last_modified": "2017-06-30 10:07:42", 
+                "name": "LaTeX Word Count", 
+                "previous_names": [], 
                 "authors": [
-                    "kevinstadler"
+                    "kevinstadler", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3169,15 +3352,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2014-08-31 22:28:34", 
-                "issues": "https://github.com/danro/LESS-sublime/issues", 
-                "previous_names": [], 
-                "name": "LESS", 
-                "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md", 
                 "description": "LESS syntax highlighting for Sublime Text.", 
+                "labels": [], 
+                "issues": "https://github.com/danro/LESS-sublime/issues", 
+                "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md", 
+                "last_modified": "2014-08-31 22:28:34", 
+                "name": "LESS", 
+                "previous_names": [], 
                 "authors": [
-                    "danro"
+                    "danro", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3195,18 +3379,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "batch change files endings", 
                 "labels": [
                     "text manipulation", 
                     "formatting"
                 ], 
-                "last_modified": "2016-07-24 10:20:10", 
                 "issues": "https://github.com/vontio/sublime-line-endings-unify/issues", 
-                "previous_names": [], 
-                "name": "Line Endings Unify", 
                 "readme": "https://raw.githubusercontent.com/vontio/sublime-line-endings-unify/master/README.md", 
-                "description": "batch change files endings", 
+                "last_modified": "2016-07-24 10:20:10", 
+                "name": "Line Endings Unify", 
+                "previous_names": [], 
                 "authors": [
-                    "vontio"
+                    "vontio", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3224,19 +3409,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "markdown preview and build plugin for sublime text 2/3", 
                 "labels": [
                     "markdown", 
                     "preview", 
                     "build"
                 ], 
-                "last_modified": "2017-06-03 18:02:40", 
                 "issues": "https://github.com/revolunet/sublimetext-markdown-preview/issues", 
-                "previous_names": [], 
-                "name": "Markdown Preview", 
                 "readme": "https://raw.githubusercontent.com/revolunet/sublimetext-markdown-preview/master/README.md", 
-                "description": "markdown preview and build plugin for sublime text 2/3", 
+                "last_modified": "2017-06-03 18:02:40", 
+                "name": "Markdown Preview", 
+                "previous_names": [], 
                 "authors": [
-                    "revolunet"
+                    "revolunet", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3254,19 +3440,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Offers Completion Suggestions for Matlab on Sublime text.", 
                 "labels": [
                     "matlab", 
                     "completion", 
                     "auto-complete"
                 ], 
-                "last_modified": "2016-08-22 17:47:55", 
                 "issues": "https://github.com/tushortz/Matlab-Completions/issues", 
-                "previous_names": [], 
-                "name": "Matlab Completions", 
                 "readme": "https://raw.githubusercontent.com/tushortz/Matlab-Completions/master/README.md", 
-                "description": "Offers Completion Suggestions for Matlab on Sublime text.", 
+                "last_modified": "2016-08-22 17:47:55", 
+                "name": "Matlab Completions", 
+                "previous_names": [], 
                 "authors": [
-                    "tushortz"
+                    "tushortz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3284,18 +3471,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime package that adds all Matlab filenames in your project to auto complete", 
                 "labels": [
                     "auto-complete", 
                     "matlab"
                 ], 
-                "last_modified": "2015-06-29 16:38:42", 
                 "issues": "https://github.com/joepmoritz/MatlabFilenameAutoComplete/issues", 
-                "previous_names": [], 
-                "name": "MatlabFilenameAutoComplete", 
                 "readme": "https://raw.githubusercontent.com/joepmoritz/MatlabFilenameAutoComplete/master/README.md", 
-                "description": "Sublime package that adds all Matlab filenames in your project to auto complete", 
+                "last_modified": "2015-06-29 16:38:42", 
+                "name": "MatlabFilenameAutoComplete", 
+                "previous_names": [], 
                 "authors": [
-                    "joepmoritz"
+                    "joepmoritz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3313,15 +3501,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-09-06 17:38:05", 
-                "issues": "https://github.com/jisaacks/MaxPane/issues", 
-                "previous_names": [], 
-                "name": "MaxPane", 
-                "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md", 
                 "description": "Sublime Text plugin to quickly maximize a pane in a multi pane layout without resetting the layout.", 
+                "labels": [], 
+                "issues": "https://github.com/jisaacks/MaxPane/issues", 
+                "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md", 
+                "last_modified": "2017-09-06 17:38:05", 
+                "name": "MaxPane", 
+                "previous_names": [], 
                 "authors": [
-                    "jisaacks"
+                    "jisaacks", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3339,18 +3528,19 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.", 
                 "labels": [
                     "formatting", 
                     "text manipulation"
                 ], 
-                "last_modified": "2016-09-02 17:39:16", 
                 "issues": "https://github.com/colinta/SublimeMoveText/issues", 
-                "previous_names": [], 
-                "name": "MoveText", 
                 "readme": "https://raw.githubusercontent.com/colinta/SublimeMoveText/master/README.md", 
-                "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.", 
+                "last_modified": "2016-09-02 17:39:16", 
+                "name": "MoveText", 
+                "previous_names": [], 
                 "authors": [
-                    "Colin T.A. Gray (colinta)"
+                    "Colin T.A. Gray (colinta)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3368,19 +3558,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A Sublime Text Plugin which enhances editing of multiple selections by adding various features.", 
                 "labels": [
                     "text manipulation", 
                     "code navigation", 
                     "text selection"
                 ], 
-                "last_modified": "2017-10-01 16:52:41", 
                 "issues": "https://github.com/philippotto/Sublime-MultiEditUtils/issues", 
-                "previous_names": [], 
-                "name": "MultiEditUtils", 
                 "readme": "https://raw.githubusercontent.com/philippotto/Sublime-MultiEditUtils/master/README.md", 
-                "description": "A Sublime Text Plugin which enhances editing of multiple selections by adding various features.", 
+                "last_modified": "2017-10-01 16:52:41", 
+                "name": "MultiEditUtils", 
+                "previous_names": [], 
                 "authors": [
-                    "philippotto"
+                    "philippotto", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3398,19 +3589,20 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Many snippets for quick creation of sql commands", 
                 "labels": [
                     "snippets", 
                     "mysql", 
                     "sql"
                 ], 
-                "last_modified": "2016-07-30 00:54:30", 
                 "issues": "https://github.com/ancor-dev/sublime-sql-snippets/issues", 
-                "previous_names": [], 
-                "name": "MySQL Snippets", 
                 "readme": "https://raw.githubusercontent.com/ancor-dev/sublime-sql-snippets/master/README.md", 
-                "description": "Many snippets for quick creation of sql commands", 
+                "last_modified": "2016-07-30 00:54:30", 
+                "name": "MySQL Snippets", 
+                "previous_names": [], 
                 "authors": [
-                    "ancor-dev"
+                    "ancor-dev", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3428,6 +3620,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Manipulate numbers like a King -- Unparalleled number/CSV/spreadsheet plugin in Sublime Text", 
                 "labels": [
                     "number manipulation", 
                     "batch processing", 
@@ -3435,14 +3628,14 @@
                     "big data", 
                     "mathematical operations"
                 ], 
-                "last_modified": "2016-11-28 04:23:45", 
                 "issues": "https://github.com/hktonylee/SublimeNumberKing/issues", 
-                "previous_names": [], 
-                "name": "Number King", 
                 "readme": "https://raw.githubusercontent.com/hktonylee/SublimeNumberKing/master/README.md", 
-                "description": "Manipulate numbers like a King -- Unparalleled number/CSV/spreadsheet plugin in Sublime Text", 
+                "last_modified": "2016-11-28 04:23:45", 
+                "name": "Number King", 
+                "previous_names": [], 
                 "authors": [
-                    "hktonylee"
+                    "hktonylee", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3460,15 +3653,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-05-01 17:58:39", 
-                "issues": "https://github.com/OdatNurd/OverrideAudit/issues", 
-                "previous_names": [], 
-                "name": "OverrideAudit", 
-                "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/master/README.md", 
                 "description": "Easily Manage Your Sublime Text Package Overrides", 
+                "labels": [], 
+                "issues": "https://github.com/OdatNurd/OverrideAudit/issues", 
+                "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/master/README.md", 
+                "last_modified": "2017-05-01 17:58:39", 
+                "name": "OverrideAudit", 
+                "previous_names": [], 
                 "authors": [
-                    "OdatNurd"
+                    "OdatNurd", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3486,15 +3680,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-07-11 19:48:54", 
-                "issues": "https://github.com/skuroda/PackageResourceViewer/issues", 
-                "previous_names": [], 
-                "name": "PackageResourceViewer", 
-                "readme": "https://raw.githubusercontent.com/skuroda/PackageResourceViewer/master/README.md", 
                 "description": "Sublime Text plugin to view package resources. ", 
+                "labels": [], 
+                "issues": "https://github.com/skuroda/PackageResourceViewer/issues", 
+                "readme": "https://raw.githubusercontent.com/skuroda/PackageResourceViewer/master/README.md", 
+                "last_modified": "2016-07-11 19:48:54", 
+                "name": "PackageResourceViewer", 
+                "previous_names": [], 
                 "authors": [
-                    "skuroda"
+                    "skuroda", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3512,15 +3707,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-02-10 17:06:17", 
-                "issues": "https://github.com/hbhakhra/Path-Translator/issues", 
-                "previous_names": [], 
-                "name": "Path Translator", 
-                "readme": "https://raw.githubusercontent.com/hbhakhra/Path-Translator/master/README.md", 
                 "description": "Converts windows path to unix friendly and unix path to windows friendly path.", 
+                "labels": [], 
+                "issues": "https://github.com/hbhakhra/Path-Translator/issues", 
+                "readme": "https://raw.githubusercontent.com/hbhakhra/Path-Translator/master/README.md", 
+                "last_modified": "2016-02-10 17:06:17", 
+                "name": "Path Translator", 
+                "previous_names": [], 
                 "authors": [
-                    "hbhakhra"
+                    "hbhakhra", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3538,17 +3734,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Syntax for Adobe PostScript 3", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2016-06-02 19:48:12", 
                 "issues": "https://github.com/Briles/sublime-syntax-postscript/issues", 
-                "previous_names": [], 
-                "name": "PostScript", 
                 "readme": "https://raw.githubusercontent.com/Briles/sublime-syntax-postscript/master/README.md", 
-                "description": "Sublime Syntax for Adobe PostScript 3", 
+                "last_modified": "2016-06-02 19:48:12", 
+                "name": "PostScript", 
+                "previous_names": [], 
                 "authors": [
-                    "Briles"
+                    "Briles", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3566,6 +3763,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Completion features for Qt with Sublime text ", 
                 "labels": [
                     "c++", 
                     "completions", 
@@ -3575,14 +3773,14 @@
                     "snippet", 
                     "Completion"
                 ], 
-                "last_modified": "2015-10-21 19:18:48", 
                 "issues": "https://github.com/tushortz/Qt-Completions-for-Cpp/issues", 
-                "previous_names": [], 
-                "name": "Qt Completions for C++", 
                 "readme": "https://raw.githubusercontent.com/tushortz/Qt-Completions-for-Cpp/master/README.md", 
-                "description": "Completion features for Qt with Sublime text ", 
+                "last_modified": "2015-10-21 19:18:48", 
+                "name": "Qt Completions for C++", 
+                "previous_names": [], 
                 "authors": [
-                    "tushortz"
+                    "tushortz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3600,15 +3798,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-04-19 05:29:01", 
-                "issues": "https://github.com/kamilkp/Sublime-Text-ReIndent/issues", 
-                "previous_names": [], 
-                "name": "ReIndent", 
-                "readme": "https://raw.githubusercontent.com/kamilkp/Sublime-Text-ReIndent/master/README.md", 
                 "description": "Quickly re-indent file to two or four spaces tabsize.", 
+                "labels": [], 
+                "issues": "https://github.com/kamilkp/Sublime-Text-ReIndent/issues", 
+                "readme": "https://raw.githubusercontent.com/kamilkp/Sublime-Text-ReIndent/master/README.md", 
+                "last_modified": "2016-04-19 05:29:01", 
+                "name": "ReIndent", 
+                "previous_names": [], 
                 "authors": [
-                    "kamilkp"
+                    "kamilkp", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3626,15 +3825,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-05-27 13:27:30", 
-                "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
-                "previous_names": [], 
-                "name": "ScopeHunter", 
-                "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
                 "description": "A plugin for Sublime Text that gets the scope under the cursor.", 
+                "labels": [], 
+                "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
+                "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
+                "last_modified": "2017-05-27 13:27:30", 
+                "name": "ScopeHunter", 
+                "previous_names": [], 
                 "authors": [
-                    "facelessuser"
+                    "facelessuser", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3652,15 +3852,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-04-01 09:06:10", 
-                "issues": "https://github.com/jum4/sublime-sqlexec/issues", 
-                "previous_names": [], 
-                "name": "SQLExec", 
-                "readme": "https://raw.githubusercontent.com/jum4/sublime-sqlexec/master/README.md", 
                 "description": "A Plugin for running SQL commands in Sublime Text", 
+                "labels": [], 
+                "issues": "https://github.com/jum4/sublime-sqlexec/issues", 
+                "readme": "https://raw.githubusercontent.com/jum4/sublime-sqlexec/master/README.md", 
+                "last_modified": "2015-04-01 09:06:10", 
+                "name": "SQLExec", 
+                "previous_names": [], 
                 "authors": [
-                    "jum4"
+                    "jum4", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3678,15 +3879,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-06-03 07:22:22", 
-                "issues": "https://github.com/vim-zz/StickySearch/issues", 
-                "previous_names": [], 
-                "name": "StickySearch", 
-                "readme": "https://raw.githubusercontent.com/vim-zz/StickySearch/master/README.md", 
                 "description": "Sublime Text 3 plugin - persistent highlight of selected text", 
+                "labels": [], 
+                "issues": "https://github.com/vim-zz/StickySearch/issues", 
+                "readme": "https://raw.githubusercontent.com/vim-zz/StickySearch/master/README.md", 
+                "last_modified": "2015-06-03 07:22:22", 
+                "name": "StickySearch", 
+                "previous_names": [], 
                 "authors": [
-                    "vim-zz"
+                    "vim-zz", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3704,15 +3906,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2013-08-21 22:14:47", 
-                "issues": "https://github.com/yaworsw/Sublime-ScopeAlways/issues", 
-                "previous_names": [], 
-                "name": "ScopeAlways", 
-                "readme": "https://raw.githubusercontent.com/yaworsw/Sublime-ScopeAlways/master/README.md", 
                 "description": "Adds a command which displays the current scope in the status bar at all times", 
+                "labels": [], 
+                "issues": "https://github.com/yaworsw/Sublime-ScopeAlways/issues", 
+                "readme": "https://raw.githubusercontent.com/yaworsw/Sublime-ScopeAlways/master/README.md", 
+                "last_modified": "2013-08-21 22:14:47", 
+                "name": "ScopeAlways", 
+                "previous_names": [], 
                 "authors": [
-                    "yaworsw"
+                    "yaworsw", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3730,15 +3933,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-03-09 12:05:10", 
-                "issues": "https://github.com/rctay/sublime-text-2-buildview/issues", 
-                "previous_names": [], 
-                "name": "sublime-text-2-buildview", 
-                "readme": "https://raw.githubusercontent.com/rctay/sublime-text-2-buildview/master/README.md", 
                 "description": "A Sublime Text 2/3 plugin to show build output in a view.", 
+                "labels": [], 
+                "issues": "https://github.com/rctay/sublime-text-2-buildview/issues", 
+                "readme": "https://raw.githubusercontent.com/rctay/sublime-text-2-buildview/master/README.md", 
+                "last_modified": "2015-03-09 12:05:10", 
+                "name": "sublime-text-2-buildview", 
+                "previous_names": [], 
                 "authors": [
-                    "rctay"
+                    "rctay", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3756,17 +3960,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "A Sublime Text package for the Swift programming language", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2016-08-19 21:36:13", 
                 "issues": "https://github.com/quiqueg/Swift-Sublime-Package/issues", 
-                "previous_names": [], 
-                "name": "Swift", 
                 "readme": "https://raw.githubusercontent.com/quiqueg/Swift-Sublime-Package/master/README.md", 
-                "description": "A Sublime Text package for the Swift programming language", 
+                "last_modified": "2016-08-19 21:36:13", 
+                "name": "Swift", 
+                "previous_names": [], 
                 "authors": [
-                    "quiqueg"
+                    "quiqueg", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3784,15 +3989,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2015-12-26 15:22:27", 
-                "issues": "https://github.com/zzjin/syncViewScroll/issues", 
-                "previous_names": [], 
-                "name": "Sync View Scroll", 
-                "readme": "https://raw.githubusercontent.com/zzjin/syncViewScroll/master/ReadMe.md", 
                 "description": "sublimetext3 sync scroll among views", 
+                "labels": [], 
+                "issues": "https://github.com/zzjin/syncViewScroll/issues", 
+                "readme": "https://raw.githubusercontent.com/zzjin/syncViewScroll/master/ReadMe.md", 
+                "last_modified": "2015-12-26 15:22:27", 
+                "name": "Sync View Scroll", 
+                "previous_names": [], 
                 "authors": [
-                    "zzjin"
+                    "zzjin", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3810,15 +4016,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-10-23 20:56:29", 
-                "issues": "https://github.com/Jayflux/sublime_toml_highlighting/issues", 
-                "previous_names": [], 
-                "name": "TOML", 
-                "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md", 
                 "description": "Sublime Text 2/3 syntax highlighting for .toml/.tml format", 
+                "labels": [], 
+                "issues": "https://github.com/Jayflux/sublime_toml_highlighting/issues", 
+                "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md", 
+                "last_modified": "2016-10-23 20:56:29", 
+                "name": "TOML", 
+                "previous_names": [], 
                 "authors": [
-                    "Jayflux"
+                    "Jayflux", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3836,15 +4043,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-08-25 21:52:25", 
-                "issues": "https://github.com/randy3k/UnitTesting/issues", 
-                "previous_names": [], 
-                "name": "UnitTesting", 
-                "readme": "https://raw.githubusercontent.com/randy3k/UnitTesting/master/README.md", 
                 "description": "Testing Sublime Text Packages", 
+                "labels": [], 
+                "issues": "https://github.com/randy3k/UnitTesting/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/UnitTesting/master/README.md", 
+                "last_modified": "2017-08-25 21:52:25", 
+                "name": "UnitTesting", 
+                "previous_names": [], 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3862,15 +4070,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-03-29 21:04:19", 
-                "issues": "https://github.com/randy3k/Whitespace/issues", 
-                "previous_names": [], 
-                "name": "Whitespace", 
-                "readme": "https://raw.githubusercontent.com/randy3k/Whitespace/master/README.md", 
                 "description": "Remove Trailing Whitespace for Sublime Text", 
+                "labels": [], 
+                "issues": "https://github.com/randy3k/Whitespace/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/Whitespace/master/README.md", 
+                "last_modified": "2017-03-29 21:04:19", 
+                "name": "Whitespace", 
+                "previous_names": [], 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3888,15 +4097,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-04-20 14:40:06", 
-                "issues": "https://github.com/SublimeText/WordHighlight/issues", 
-                "previous_names": [], 
-                "name": "WordHighlight", 
-                "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown", 
                 "description": "Highlight all copies of the currently selected word.", 
+                "labels": [], 
+                "issues": "https://github.com/SublimeText/WordHighlight/issues", 
+                "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown", 
+                "last_modified": "2017-04-20 14:40:06", 
+                "name": "WordHighlight", 
+                "previous_names": [], 
                 "authors": [
-                    "SublimeText"
+                    "SublimeText", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3914,17 +4124,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Launch terminals from the current file or the root project folder", 
                 "labels": [
                     "terminal"
                 ], 
-                "last_modified": "2017-08-09 03:48:08", 
                 "issues": "https://github.com/wbond/sublime_terminal/issues", 
-                "previous_names": [], 
-                "name": "Terminal", 
                 "readme": "https://raw.githubusercontent.com/wbond/sublime_terminal/master/readme.md", 
-                "description": "Launch terminals from the current file or the root project folder", 
+                "last_modified": "2017-08-09 03:48:08", 
+                "name": "Terminal", 
+                "previous_names": [], 
                 "authors": [
-                    "Will Bond (wbond)"
+                    "Will Bond (wbond)", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3942,15 +4153,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-12-02 05:42:47", 
-                "issues": "https://github.com/jaipandya/SublimeTutor/issues", 
-                "previous_names": [], 
-                "name": "Sublime Tutor", 
-                "readme": "https://raw.githubusercontent.com/jaipandya/SublimeTutor/master/README.md", 
                 "description": "An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3", 
+                "labels": [], 
+                "issues": "https://github.com/jaipandya/SublimeTutor/issues", 
+                "readme": "https://raw.githubusercontent.com/jaipandya/SublimeTutor/master/README.md", 
+                "last_modified": "2016-12-02 05:42:47", 
+                "name": "Sublime Tutor", 
+                "previous_names": [], 
                 "authors": [
-                    "jaipandya"
+                    "jaipandya", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -3968,21 +4180,22 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "awesome Python autocompletion with SublimeText", 
                 "labels": [
                     "auto-complete", 
                     "code navigation"
                 ], 
-                "last_modified": "2017-09-14 09:19:12", 
                 "issues": "https://github.com/srusskih/SublimeJEDI/issues", 
+                "readme": "https://raw.githubusercontent.com/srusskih/SublimeJEDI/master/README.md", 
+                "last_modified": "2017-09-14 09:19:12", 
+                "name": "Jedi - Python autocompletion", 
                 "previous_names": [
                     "SublimeJEDI", 
                     "Jedi - Python autocompetion"
                 ], 
-                "name": "Jedi - Python autocompletion", 
-                "readme": "https://raw.githubusercontent.com/srusskih/SublimeJEDI/master/README.md", 
-                "description": "awesome Python autocompletion with SublimeText", 
                 "authors": [
-                    "srusskih"
+                    "srusskih", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4000,6 +4213,7 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "SQLTools for Sublime Text 3", 
                 "labels": [
                     "sql", 
                     "formatting", 
@@ -4007,14 +4221,14 @@
                     "tools", 
                     "completions"
                 ], 
-                "last_modified": "2017-07-28 11:31:27", 
                 "issues": "https://github.com/mtxr/SQLTools/issues", 
-                "previous_names": [], 
-                "name": "SQLTools", 
                 "readme": "https://raw.githubusercontent.com/mtxr/SQLTools/master/README.md", 
-                "description": "SQLTools for Sublime Text 3", 
+                "last_modified": "2017-07-28 11:31:27", 
+                "name": "SQLTools", 
+                "previous_names": [], 
                 "authors": [
-                    "mtxr"
+                    "mtxr", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4032,17 +4246,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Perfect syntax highlighting for both SCSS and Sass.", 
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2014-08-12 11:09:22", 
                 "issues": "https://github.com/P233/Syntax-highlighting-for-Sass/issues", 
-                "previous_names": [], 
-                "name": "Syntax Highlighting for Sass", 
                 "readme": "https://raw.githubusercontent.com/P233/Syntax-highlighting-for-Sass/master/README.md", 
-                "description": "Perfect syntax highlighting for both SCSS and Sass.", 
+                "last_modified": "2014-08-12 11:09:22", 
+                "name": "Syntax Highlighting for Sass", 
+                "previous_names": [], 
                 "authors": [
-                    "P233"
+                    "P233", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4060,15 +4275,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-07-10 16:19:14", 
-                "issues": "https://github.com/seanliang/ConvertToUTF8/issues", 
-                "previous_names": [], 
-                "name": "ConvertToUTF8", 
-                "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md", 
                 "description": "A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS, etc.", 
+                "labels": [], 
+                "issues": "https://github.com/seanliang/ConvertToUTF8/issues", 
+                "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md", 
+                "last_modified": "2016-07-10 16:19:14", 
+                "name": "ConvertToUTF8", 
+                "previous_names": [], 
                 "authors": [
-                    "seanliang"
+                    "seanliang", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4086,15 +4302,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2016-08-20 12:39:13", 
-                "issues": "https://github.com/kimpettersen/random-sublime-text-plugin/issues", 
-                "previous_names": [], 
-                "name": "Random Everything", 
-                "readme": "https://raw.githubusercontent.com/kimpettersen/random-sublime-text-plugin/master/README.md", 
                 "description": "Plugin for sublime text to generate random, ints, floats, strings and words", 
+                "labels": [], 
+                "issues": "https://github.com/kimpettersen/random-sublime-text-plugin/issues", 
+                "readme": "https://raw.githubusercontent.com/kimpettersen/random-sublime-text-plugin/master/README.md", 
+                "last_modified": "2016-08-20 12:39:13", 
+                "name": "Random Everything", 
+                "previous_names": [], 
                 "authors": [
-                    "kimpettersen"
+                    "kimpettersen", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4112,23 +4329,24 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Text plugin for inserting sequences. Supporting alphanumerics and hex, with bitwise operations!", 
                 "labels": [
                     "automation", 
                     "utils", 
                     "text manipulation"
                 ], 
-                "last_modified": "2014-05-02 00:10:31", 
                 "issues": "https://github.com/jbrooksuk/InsertNums/issues", 
+                "readme": "https://raw.githubusercontent.com/jbrooksuk/InsertNums/master/README.md", 
+                "last_modified": "2014-05-02 00:10:31", 
+                "name": "Insert Nums", 
                 "previous_names": [
                     "Insert Sequences", 
                     "InsertNums"
                 ], 
-                "name": "Insert Nums", 
-                "readme": "https://raw.githubusercontent.com/jbrooksuk/InsertNums/master/README.md", 
-                "description": "Sublime Text plugin for inserting sequences. Supporting alphanumerics and hex, with bitwise operations!", 
                 "authors": [
                     "jbrooksuk", 
-                    "FichteFoll"
+                    "FichteFoll", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4146,15 +4364,16 @@
                     }
                 ], 
                 "buy": null, 
-                "labels": [], 
-                "last_modified": "2017-04-17 03:21:28", 
-                "issues": "https://github.com/randy3k/AutoWrap/issues", 
-                "previous_names": [], 
-                "name": "AutoWrap", 
-                "readme": "https://raw.githubusercontent.com/randy3k/AutoWrap/master/README.md", 
                 "description": "Auto (Hard) Wrap for Sublime Text 2/3", 
+                "labels": [], 
+                "issues": "https://github.com/randy3k/AutoWrap/issues", 
+                "readme": "https://raw.githubusercontent.com/randy3k/AutoWrap/master/README.md", 
+                "last_modified": "2017-04-17 03:21:28", 
+                "name": "AutoWrap", 
+                "previous_names": [], 
                 "authors": [
-                    "randy3k"
+                    "randy3k", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }, 
@@ -4172,17 +4391,18 @@
                     }
                 ], 
                 "buy": null, 
+                "description": "Sublime Text 3 Plugin - Toggle words on hotkey", 
                 "labels": [], 
-                "last_modified": "2017-09-22 22:08:55", 
                 "issues": "https://github.com/gordio/ToggleWords/issues", 
+                "readme": "https://raw.githubusercontent.com/gordio/ToggleWords/master/README.md", 
+                "last_modified": "2017-09-22 22:08:55", 
+                "name": "Toggle Words", 
                 "previous_names": [
                     "Toggle words"
                 ], 
-                "name": "Toggle Words", 
-                "readme": "https://raw.githubusercontent.com/gordio/ToggleWords/master/README.md", 
-                "description": "Sublime Text 3 Plugin - Toggle words on hotkey", 
                 "authors": [
-                    "gordio"
+                    "gordio", 
+                    "Forked by evandrocoan"
                 ], 
                 "donate": null
             }
