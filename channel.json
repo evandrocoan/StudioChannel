@@ -1,10 +1,10 @@
 {
     "repositories": [
-        "https://raw.githubusercontent.com/evandrocoan/SublimeTextStudioChannel/master/repository.json"
+        "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json"
     ], 
     "schema_version": "3.0.0", 
     "packages_cache": {
-        "https://raw.githubusercontent.com/evandrocoan/SublimeTextStudioChannel/master/repository.json": [
+        "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json": [
             {
                 "authors": [
                     "ihodev", 
@@ -760,6 +760,27 @@
                         "sublime_text": ">=3000", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeChangeQuotes/zip/master", 
                         "version": "2017.07.06"
+                    }
+                ]
+            }, 
+            {
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available.", 
+                "details": "https://github.com/evandrocoan/SublimeChannelManager", 
+                "homepage": "https://github.com/evandrocoan/SublimeChannelManager", 
+                "name": "ChannelManager", 
+                "releases": [
+                    {
+                        "date": "2017-10-02 08:13:33", 
+                        "dependencies": [
+                            "PythonDebugTools"
+                        ], 
+                        "platforms": "*", 
+                        "sublime_text": ">=3126", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
+                        "version": "2017.10.02"
                     }
                 ]
             }, 
@@ -1824,7 +1845,7 @@
                 "homepage": "https://github.com/evandrocoan/GitGutter", 
                 "issues": "https://github.com/jisaacks/GitGutter/issues", 
                 "labels": [], 
-                "last_modified": "2017-09-18 14:49:28", 
+                "last_modified": "2017-10-02 12:05:19", 
                 "name": "GitGutter", 
                 "previous_names": [
                     "Git Gutter", 
@@ -3608,27 +3629,6 @@
             }, 
             {
                 "authors": [
-                    "evandrocoan"
-                ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeTextStudioChannel", 
-                "homepage": "https://github.com/evandrocoan/SublimeTextStudioChannel", 
-                "name": "StudioChannel", 
-                "releases": [
-                    {
-                        "date": "2017-10-01 22:29:31", 
-                        "dependencies": [
-                            "PythonDebugTools"
-                        ], 
-                        "platforms": "*", 
-                        "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeTextStudioChannel/zip/master", 
-                        "version": "2017.10.01"
-                    }
-                ]
-            }, 
-            {
-                "authors": [
                     "jaipandya", 
                     "Forked by evandrocoan"
                 ], 
@@ -4404,7 +4404,7 @@
         ]
     }, 
     "dependencies_cache": {
-        "https://raw.githubusercontent.com/evandrocoan/SublimeTextStudioChannel/master/repository.json": [
+        "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json": [
             {
                 "authors": [
                     "evandrocoan"
