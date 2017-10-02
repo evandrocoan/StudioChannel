@@ -769,7 +769,7 @@
             "name": "ChannelManager", 
             "releases": [
                 {
-                    "date": "2017-10-02 16:03:19", 
+                    "date": "2017-10-02 16:59:57", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
@@ -4232,11 +4232,11 @@
             "name": "User", 
             "releases": [
                 {
-                    "date": "2017-09-30 17:23:44", 
+                    "date": "2017-10-02 16:18:56", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/User/zip/master", 
-                    "version": "2017.09.30"
+                    "version": "2017.10.02"
                 }
             ]
         }, 
