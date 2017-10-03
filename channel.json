@@ -245,7 +245,7 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
                 "releases": [
                     {
-                        "date": "2017-09-29 14:47:11", 
+                        "date": "2017-10-02 20:43:40", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
@@ -254,7 +254,7 @@
                         ], 
                         "sublime_text": ">=3114", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/master", 
-                        "version": "2017.09.29"
+                        "version": "2017.10.02"
                     }
                 ]
             }, 
@@ -496,11 +496,11 @@
                 "name": "BBCode", 
                 "releases": [
                     {
-                        "date": "2017-05-17 21:48:26", 
+                        "date": "2017-10-03 10:51:45", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/BBCode/zip/master", 
-                        "version": "2017.05.17"
+                        "version": "2017.10.03"
                     }
                 ]
             }, 
@@ -773,14 +773,14 @@
                 "name": "ChannelManager", 
                 "releases": [
                     {
-                        "date": "2017-10-02 16:59:57", 
+                        "date": "2017-10-03 11:16:11", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                        "version": "2017.10.02"
+                        "version": "2017.10.03"
                     }
                 ]
             }, 
@@ -1097,11 +1097,11 @@
                 "name": "Default", 
                 "releases": [
                     {
-                        "date": "2017-09-30 15:47:11", 
+                        "date": "2017-10-02 18:56:17", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/master", 
-                        "version": "2017.09.30"
+                        "version": "2017.10.02"
                     }
                 ]
             }, 
@@ -1115,11 +1115,11 @@
                 "name": "Default Syntax", 
                 "releases": [
                     {
-                        "date": "2017-09-29 14:27:27", 
+                        "date": "2017-10-02 20:18:03", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeDefaultSyntax/zip/master", 
-                        "version": "2017.09.29"
+                        "version": "2017.10.02"
                     }
                 ]
             }, 
@@ -3726,7 +3726,7 @@
                     "linting", 
                     "SublimeLinter"
                 ], 
-                "last_modified": "2017-04-11 14:57:03", 
+                "last_modified": "2017-10-03 00:31:58", 
                 "name": "SublimeLinter", 
                 "previous_names": [
                     "SublimeLinter Beta"
