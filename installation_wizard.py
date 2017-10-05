@@ -59,7 +59,7 @@ from PackagesManager.packagesmanager.commands.remove_package_command import Remo
 from debug_tools import Debugger
 
 # Debugger settings: 0 - disabled, 127 - enabled
-log = Debugger( 127, os.path.basename( __file__ ) )
+log = Debugger( 1, os.path.basename( __file__ ) )
 
 log( 2, "..." )
 log( 2, "..." )

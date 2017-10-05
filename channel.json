@@ -773,14 +773,14 @@
                 "name": "ChannelManager", 
                 "releases": [
                     {
-                        "date": "2017-10-04 16:01:56", 
+                        "date": "2017-10-05 15:05:40", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                        "version": "2017.10.04"
+                        "version": "2017.10.05"
                     }
                 ]
             }, 
@@ -1832,13 +1832,13 @@
                 "readme": "https://raw.githubusercontent.com/kemayo/sublime-text-git/master/README.markdown", 
                 "releases": [
                     {
-                        "date": "2017-09-14 13:48:40", 
+                        "date": "2017-10-05 11:15:09", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": "*", 
                         "url": "https://codeload.github.com/evandrocoan/sublime-text-git/zip/master", 
-                        "version": "2017.09.14"
+                        "version": "2017.10.05"
                     }
                 ]
             }, 
@@ -2746,13 +2746,13 @@
                 "readme": "https://raw.githubusercontent.com/philippotto/Sublime-MultiEditUtils/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-09-11 14:15:13", 
+                        "date": "2017-10-01 18:52:41", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": "*", 
                         "url": "https://codeload.github.com/evandrocoan/Sublime-MultiEditUtils/zip/master", 
-                        "version": "2017.09.11"
+                        "version": "2017.10.01"
                     }
                 ]
             }, 
@@ -3043,7 +3043,7 @@
                 "name": "PackagesManager", 
                 "releases": [
                     {
-                        "date": "2017-10-04 19:48:59", 
+                        "date": "2017-10-04 23:51:19", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
@@ -3624,6 +3624,24 @@
                         "sublime_text": ">=3092", 
                         "url": "https://codeload.github.com/evandrocoan/StickySearch/zip/master", 
                         "version": "2017.09.29"
+                    }
+                ]
+            }, 
+            {
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available.", 
+                "details": "https://github.com/evandrocoan/SublimeStudioChannel", 
+                "homepage": "https://github.com/evandrocoan/SublimeStudioChannel", 
+                "name": "StudioChannel", 
+                "releases": [
+                    {
+                        "date": "2017-10-05 15:07:25", 
+                        "platforms": "*", 
+                        "sublime_text": ">=3126", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/master", 
+                        "version": "2017.10.05"
                     }
                 ]
             }, 
@@ -4236,7 +4254,7 @@
                 "name": "User", 
                 "releases": [
                     {
-                        "date": "2017-10-04 20:33:51", 
+                        "date": "2017-10-04 23:56:11", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/User/zip/master", 
@@ -4418,12 +4436,12 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/PythonDebugTools", 
-                        "date": "2017-10-01 22:01:22", 
+                        "date": "2017-10-04 23:33:01", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
                         "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/master", 
-                        "version": "2017.10.01"
+                        "version": "2017.10.04"
                     }
                 ]
             }

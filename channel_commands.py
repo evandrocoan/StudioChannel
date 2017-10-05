@@ -41,7 +41,7 @@ from ChannelManager.copy_default_package import main as default_main
 from debug_tools import Debugger
 
 # Debugger settings: 0 - disabled, 127 - enabled
-log = Debugger( 127, os.path.basename( __file__ ) )
+log = Debugger( 1, os.path.basename( __file__ ) )
 
 log( 2, "..." )
 log( 2, "..." )

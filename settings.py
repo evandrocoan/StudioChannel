@@ -124,6 +124,6 @@ variables = \
     for variable_name in g_channel_settings.keys()
 ]
 
-print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
+# print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
 
 
