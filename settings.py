@@ -24,32 +24,40 @@
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-import sublime
-
 import os
 import sys
 import datetime
 
+import sublime
+from .installation_wizard import get_main_directory
 
-# The temporary folder to download the main repository when installing the development version
-TEMPORARY_FOLDER_TO_USE = "__channel_studio_temp"
+
+# Hold all the information for this channel, which will be used by the `ChannelManager` to install
+# this channel
+channel_settings = {}
 
 # Infer the correct package name and current directory absolute path
 CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) )
 CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
 
+# Where to save the settings for channel after it is installed on the user's machine
+channel_settings['channel_settings'] = os.path.join( get_main_directory(), "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
+
+# The temporary folder to download the main repository when installing the development version
+channel_settings['temporary_folder_to_use'] = "__channel_studio_temp"
+
 # The URL to the main repository where there is the `.gitmodules` files listing all the channel
 # packages
-STUDIO_MAIN_URL = "https://github.com/evandrocoan/SublimeTextStudio"
+channel_settings['studio_main_url'] = "https://github.com/evandrocoan/SublimeTextStudio"
 
 # The directory where the Sublime Text `Packages` (loose packages) folder is on
-STUDIO_MAIN_DIRECTORY = os.path.dirname( sublime.packages_path() )
+channel_settings['studio_main_directory'] = os.path.dirname( sublime.packages_path() )
 
 # A direct URL to the Channel File `settings.json` to use when installing the stable version
-CHANNEL_MAIN_FILE_URL  = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/settings.json"
+channel_settings['channel_main_file_url']  = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/settings.json"
 
 # The file path to the Channel File `settings.json` to use when installing the development version
-CHANNEL_MAIN_FILE_PATH = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "StudioChannel", "settings.json" )
+channel_settings['channel_main_file_path'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "StudioChannel", "settings.json" )
 
 
 # The package "BetterFindBuffer" is being installed by after "Default" because it is creating the
@@ -63,16 +71,16 @@ CHANNEL_MAIN_FILE_PATH = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "Studi
 # {
 #     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 # }
-PACKAGES_TO_INSTALL_LAST = ["Default", "BetterFindBuffer", "SublimeLinter", "SublimeLinter-javac", "A File Icon"]
+channel_settings['packages_to_install_last'] = ["Default", "BetterFindBuffer", "SublimeLinter", "SublimeLinter-javac", "A File Icon"]
 
 # Do not try to install this own package and the Package Control, as they are currently running
-PACKAGES_TO_NOT_INSTALL = [ "Package Control", CURRENT_PACKAGE_NAME ]
+channel_settings['packages_to_not_install'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
 
 # The default user preferences file
-USER_SETTINGS_FILE = "Preferences.sublime-settings"
+channel_settings['user_settings_file'] = "Preferences.sublime-settings"
 
 # The files of the default packages you are installed
-DEFAULT_PACKAGES_FILES = \
+channel_settings['default_packages_files'] = \
 [
     ".gitignore",
     "Context.sublime-menu",
@@ -95,9 +103,12 @@ DEFAULT_PACKAGES_FILES = \
 
 
 # Print all their values for debugging
-variables = [ "%-30s: %s" % ( variable_name, globals()[variable_name] )
-        for variable_name in globals().keys() if variable_name in globals() and isinstance( globals()[variable_name], str ) ]
+variables = \
+[
+    "%-30s: %s" % ( variable_name, channel_settings[variable_name] )
+    for variable_name in channel_settings.keys()
+]
 
-# print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join(sorted(variables)) ))
+# print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
 
 
