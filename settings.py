@@ -29,35 +29,45 @@ import sys
 import datetime
 
 import sublime
-from .installation_wizard import get_main_directory
 
 
 # Hold all the information for this channel, which will be used by the `ChannelManager` to install
 # this channel
-channel_settings = {}
+g_channel_settings = {}
 
 # Infer the correct package name and current directory absolute path
-CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) )
-CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
+CURRENT_DIRECTORY     = os.path.dirname( os.path.realpath( __file__ ) )
+CURRENT_PACKAGE_NAME  = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
+STUDIO_MAIN_DIRECTORY = get_main_directory()
 
 # Where to save the settings for channel after it is installed on the user's machine
-channel_settings['channel_settings'] = os.path.join( get_main_directory(), "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
+g_channel_settings['channel_settings'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
 # The temporary folder to download the main repository when installing the development version
-channel_settings['temporary_folder_to_use'] = "__channel_studio_temp"
+g_channel_settings['temporary_folder_to_use'] = "__channel_studio_temp"
 
 # The URL to the main repository where there is the `.gitmodules` files listing all the channel
 # packages
-channel_settings['studio_main_url'] = "https://github.com/evandrocoan/SublimeTextStudio"
+g_channel_settings['studio_main_url'] = "https://github.com/evandrocoan/SublimeTextStudio"
 
 # The directory where the Sublime Text `Packages` (loose packages) folder is on
-channel_settings['studio_main_directory'] = os.path.dirname( sublime.packages_path() )
+g_channel_settings['studio_main_directory'] = os.path.dirname( sublime.packages_path() )
 
 # A direct URL to the Channel File `settings.json` to use when installing the stable version
-channel_settings['channel_main_file_url']  = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/settings.json"
+g_channel_settings['channel_main_file_url']  = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/settings.json"
 
 # The file path to the Channel File `settings.json` to use when installing the development version
-channel_settings['channel_main_file_path'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "StudioChannel", "settings.json" )
+g_channel_settings['channel_main_file_path'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "StudioChannel", "settings.json" )
+
+# The local path to the files, to use when installing the development version of the channel
+# See also: https://packagecontrol.io/docs/channels_and_repositories
+g_channel_settings['studio_channel_file']    = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "channel.json" )
+g_channel_settings['studio_repository_file'] = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "repository.json" )
+g_channel_settings['studio_setttings_file']  = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "settings.json" )
+
+# Valid URLs to the files, to use when installing the stable version of the channel
+g_channel_settings['default_channel_url'] = "https://packagecontrol.io/channel_v3.json"
+g_channel_settings['channel_file_url']    = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json"
 
 
 # The package "BetterFindBuffer" is being installed by after "Default" because it is creating the
@@ -71,16 +81,16 @@ channel_settings['channel_main_file_path'] = os.path.join( STUDIO_MAIN_DIRECTORY
 # {
 #     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 # }
-channel_settings['packages_to_install_last'] = ["Default", "BetterFindBuffer", "SublimeLinter", "SublimeLinter-javac", "A File Icon"]
+g_channel_settings['packages_to_install_last'] = ["Default", "BetterFindBuffer", "SublimeLinter", "SublimeLinter-javac", "A File Icon"]
 
 # Do not try to install this own package and the Package Control, as they are currently running
-channel_settings['packages_to_not_install'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
+g_channel_settings['packages_to_not_install'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
 
 # The default user preferences file
-channel_settings['user_settings_file'] = "Preferences.sublime-settings"
+g_channel_settings['user_settings_file'] = "Preferences.sublime-settings"
 
 # The files of the default packages you are installed
-channel_settings['default_packages_files'] = \
+g_channel_settings['default_packages_files'] = \
 [
     ".gitignore",
     "Context.sublime-menu",
@@ -102,11 +112,27 @@ channel_settings['default_packages_files'] = \
 ]
 
 
+# The folder where the studio channel will be installed
+def get_main_directory():
+    possible_main_directory = os.path.normpath( os.path.dirname( os.path.dirname( CURRENT_DIRECTORY ) ) )
+
+    if sublime:
+        sublime_text_packages = os.path.normpath( os.path.dirname( sublime.packages_path() ) )
+
+        if possible_main_directory == sublime_text_packages:
+            return possible_main_directory
+
+        else:
+            return sublime_text_packages
+
+    return possible_main_directory
+
+
 # Print all their values for debugging
 variables = \
 [
-    "%-30s: %s" % ( variable_name, channel_settings[variable_name] )
-    for variable_name in channel_settings.keys()
+    "%-30s: %s" % ( variable_name, g_channel_settings[variable_name] )
+    for variable_name in g_channel_settings.keys()
 ]
 
 # print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))

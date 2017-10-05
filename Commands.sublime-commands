@@ -1,0 +1,5 @@
+[
+    { "caption": "StudioChannel: Generate Channel File", "command": "studio_channel_generate_channel_file" },
+    { "caption": "StudioChannel: Run Backstroke Requests", "command": "studio_channel_run", "args": {"run": "-b"} },
+    { "caption": "StudioChannel: Pull & Rebase all Packages", "command": "studio_channel_run", "args": {"run": "-p"} },
+]

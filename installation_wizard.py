@@ -212,21 +212,6 @@ def is_the_first_load_time():
     return True
 
 
-def get_main_directory():
-    possible_main_directory = os.path.normpath( os.path.dirname( os.path.dirname( CURRENT_DIRECTORY ) ) )
-
-    if sublime:
-        sublime_text_packages = os.path.normpath( os.path.dirname( sublime.packages_path() ) )
-
-        if possible_main_directory == sublime_text_packages:
-            return possible_main_directory
-
-        else:
-            return sublime_text_packages
-
-    return possible_main_directory
-
-
 if __name__ == "__main__":
     main()
 
