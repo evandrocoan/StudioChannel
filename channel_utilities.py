@@ -43,3 +43,25 @@ def get_main_directory(current_directory):
     return possible_main_directory
 
 
+def _clean_urljoin(url):
+
+    if url.startswith( '/' ) or url.startswith( ' ' ):
+        url = url[1:]
+        url = _clean_urljoin( url )
+
+    if url.endswith( '/' ) or url.endswith( ' ' ):
+        url = url[0:-1]
+        url = _clean_urljoin( url )
+
+    return url
+
+
+def clean_urljoin(*urls):
+    fixed_urls = []
+
+    for url in urls:
+
+        fixed_urls.append( _clean_urljoin(url) )
+
+    return "/".join( fixed_urls )
+
