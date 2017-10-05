@@ -241,7 +241,7 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
             "releases": [
                 {
-                    "date": "2017-10-02 20:43:40", 
+                    "date": "2017-10-04 10:05:28", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
@@ -250,7 +250,7 @@
                     ], 
                     "sublime_text": ">=3114", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/master", 
-                    "version": "2017.10.02"
+                    "version": "2017.10.04"
                 }
             ]
         }, 
@@ -601,14 +601,14 @@
             "name": "BufferScroll", 
             "releases": [
                 {
-                    "date": "2017-10-01 22:14:53", 
+                    "date": "2017-10-04 09:29:43", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/master", 
-                    "version": "2017.10.01"
+                    "version": "2017.10.04"
                 }
             ]
         }, 
@@ -769,14 +769,14 @@
             "name": "ChannelManager", 
             "releases": [
                 {
-                    "date": "2017-10-03 11:16:11", 
+                    "date": "2017-10-04 16:01:56", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                    "version": "2017.10.03"
+                    "version": "2017.10.04"
                 }
             ]
         }, 
@@ -872,6 +872,33 @@
         }, 
         {
             "authors": [
+                "Monnoroch", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like \"#FFFFFF\", \"rgb(255,255,255)\", \"white\", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/ColorHighlighter", 
+            "issues": "https://github.com/Monnoroch/ColorHighlighter/issues", 
+            "labels": [], 
+            "last_modified": "2017-10-03 14:31:56", 
+            "name": "Color Highlighter", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-10-03 19:18:04", 
+                    "platforms": [
+                        "*"
+                    ], 
+                    "sublime_text": "*", 
+                    "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/master", 
+                    "version": "2017.10.03"
+                }
+            ]
+        }, 
+        {
+            "authors": [
                 "facelessuser", 
                 "Forked by evandrocoan"
             ], 
@@ -894,25 +921,6 @@
                     "sublime_text": ">=3092", 
                     "url": "https://codeload.github.com/evandrocoan/ColorHelper/zip/master", 
                     "version": "2017.09.16"
-                }
-            ]
-        }, 
-        {
-            "authors": [
-                "Monnoroch", 
-                "Forked by evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/ColorHighlighter", 
-            "homepage": "https://github.com/evandrocoan/ColorHighlighter", 
-            "name": "ColorHighlighter", 
-            "releases": [
-                {
-                    "date": "2017-09-29 22:09:41", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/master", 
-                    "version": "2017.09.29"
                 }
             ]
         }, 
@@ -1093,11 +1101,11 @@
             "name": "Default", 
             "releases": [
                 {
-                    "date": "2017-10-02 18:56:17", 
+                    "date": "2017-10-03 12:56:31", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/master", 
-                    "version": "2017.10.02"
+                    "version": "2017.10.03"
                 }
             ]
         }, 
@@ -2965,33 +2973,6 @@
         }, 
         {
             "authors": [
-                "Will Bond (wbond)", 
-                "Forked by evandrocoan"
-            ], 
-            "buy": null, 
-            "description": "A full-featured package manager", 
-            "donate": "https://packagecontrol.io/say_thanks", 
-            "homepage": "https://github.com/evandrocoan/package_control", 
-            "issues": null, 
-            "labels": [], 
-            "last_modified": "2017-09-11 10:50:00", 
-            "name": "Package Control", 
-            "previous_names": [], 
-            "readme": null, 
-            "releases": [
-                {
-                    "date": "2017-09-29 20:22:22", 
-                    "platforms": [
-                        "*"
-                    ], 
-                    "sublime_text": "*", 
-                    "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
-                    "version": "2017.09.29"
-                }
-            ]
-        }, 
-        {
-            "authors": [
                 "guillermooo", 
                 "FichteFoll", 
                 "Forked by evandrocoan"
@@ -3044,6 +3025,25 @@
                     "sublime_text": ">=3092", 
                     "url": "https://codeload.github.com/evandrocoan/PackageResourceViewer/zip/master", 
                     "version": "2016.07.11"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "wbond", 
+                "Forked by evandrocoan"
+            ], 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/package_control", 
+            "homepage": "https://github.com/evandrocoan/package_control", 
+            "name": "PackagesManager", 
+            "releases": [
+                {
+                    "date": "2017-10-04 19:48:59", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
+                    "version": "2017.10.04"
                 }
             ]
         }, 
@@ -3241,14 +3241,14 @@
             "name": "QuickSettings", 
             "releases": [
                 {
-                    "date": "2017-10-01 21:52:51", 
+                    "date": "2017-10-04 09:29:47", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimePreferencesEditor/zip/master", 
-                    "version": "2017.10.01"
+                    "version": "2017.10.04"
                 }
             ]
         }, 
@@ -4232,11 +4232,11 @@
             "name": "User", 
             "releases": [
                 {
-                    "date": "2017-10-02 16:18:56", 
+                    "date": "2017-10-04 20:33:51", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/User/zip/master", 
-                    "version": "2017.10.02"
+                    "version": "2017.10.04"
                 }
             ]
         }, 
