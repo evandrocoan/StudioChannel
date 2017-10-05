@@ -12,6 +12,16 @@ version of these files based on the Sublime Text Studio `.gitmodules` file. Any 
 required to be used here need to be parsed from the `.gitmodules` by the `Sublime Channel Manager`;
 
 
+## Channel Manager
+
+This package responsible to install the Sublime Text Studio, by installing the `PackagesManager` and
+uninstalling `Package Control`, then installing the `Channel Manager` and calling it to install the
+Studio Channel packages.
+
+Also, will be responsible by the removal of `Sublime Text Studio`, by calling the Channel Manager
+uninstaller, then installing back Package Control and removing `PackagesManager`.
+
+
 Related threads:
 
 1. https://packagecontrol.io/docs#Package_Developers DOCS - End Users
