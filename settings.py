@@ -29,6 +29,7 @@ import sys
 import datetime
 
 import sublime
+from .channel_utilities import get_main_directory
 
 
 # Hold all the information for this channel, which will be used by the `ChannelManager` to install
@@ -36,9 +37,11 @@ import sublime
 g_channel_settings = {}
 
 # Infer the correct package name and current directory absolute path
-CURRENT_DIRECTORY     = os.path.dirname( os.path.realpath( __file__ ) )
-CURRENT_PACKAGE_NAME  = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
-STUDIO_MAIN_DIRECTORY = get_main_directory()
+CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) )
+CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
+
+# The folder where the studio channel will be installed
+STUDIO_MAIN_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
 
 # Where to save the settings for channel after it is installed on the user's machine
 g_channel_settings['channel_settings'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
@@ -112,22 +115,6 @@ g_channel_settings['default_packages_files'] = \
     "Tab Context.sublime-menu",
     "transpose.py"
 ]
-
-
-# The folder where the studio channel will be installed
-def get_main_directory():
-    possible_main_directory = os.path.normpath( os.path.dirname( os.path.dirname( CURRENT_DIRECTORY ) ) )
-
-    if sublime:
-        sublime_text_packages = os.path.normpath( os.path.dirname( sublime.packages_path() ) )
-
-        if possible_main_directory == sublime_text_packages:
-            return possible_main_directory
-
-        else:
-            return sublime_text_packages
-
-    return possible_main_directory
 
 
 # Print all their values for debugging
