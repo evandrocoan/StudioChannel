@@ -27,10 +27,14 @@
 import sublime
 import sublime_plugin
 
+import os
+
+from .settings import CURRENT_DIRECTORY
 from .settings import g_channel_settings
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
+from ChannelManager.copy_default_package import main as default_main
 
 
 # Import the debugger
@@ -58,4 +62,7 @@ if sublime_plugin:
         def run(self, edit, run):
             submodules_main( run )
 
+
+def plugin_loaded():
+	default_main( g_channel_settings )
 
