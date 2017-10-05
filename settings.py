@@ -43,11 +43,11 @@ STUDIO_MAIN_DIRECTORY = get_main_directory()
 # Where to save the settings for channel after it is installed on the user's machine
 g_channel_settings['channel_settings'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
+
 # The temporary folder to download the main repository when installing the development version
 g_channel_settings['temporary_folder_to_use'] = "__channel_studio_temp"
 
-# The URL to the main repository where there is the `.gitmodules` files listing all the channel
-# packages
+# The URL to the main repository where there is the `.gitmodules` files listing all the channel packages
 g_channel_settings['studio_main_url'] = "https://github.com/evandrocoan/SublimeTextStudio"
 
 # The directory where the Sublime Text `Packages` (loose packages) folder is on
@@ -59,11 +59,12 @@ g_channel_settings['channel_main_file_url']  = "https://raw.githubusercontent.co
 # The file path to the Channel File `settings.json` to use when installing the development version
 g_channel_settings['channel_main_file_path'] = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "StudioChannel", "settings.json" )
 
+
 # The local path to the files, to use when installing the development version of the channel
 # See also: https://packagecontrol.io/docs/channels_and_repositories
-g_channel_settings['studio_channel_file']    = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "channel.json" )
-g_channel_settings['studio_repository_file'] = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "repository.json" )
-g_channel_settings['studio_setttings_file']  = os.path.join( STUDIO_MAIN_DIRECTORY, "StudioChannel", "settings.json" )
+g_channel_settings['studio_channel_file']    = os.path.join( CURRENT_DIRECTORY, "channel.json" )
+g_channel_settings['studio_repository_file'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
+g_channel_settings['studio_setttings_file']  = os.path.join( CURRENT_DIRECTORY, "settings.json" )
 
 # Valid URLs to the files, to use when installing the stable version of the channel
 g_channel_settings['default_channel_url'] = "https://packagecontrol.io/channel_v3.json"
@@ -88,6 +89,7 @@ g_channel_settings['packages_to_not_install'] = [ "Package Control", CURRENT_PAC
 
 # The default user preferences file
 g_channel_settings['user_settings_file'] = "Preferences.sublime-settings"
+
 
 # The files of the default packages you are installed
 g_channel_settings['default_packages_files'] = \

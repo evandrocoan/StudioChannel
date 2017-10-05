@@ -41,7 +41,7 @@ import threading
 import contextlib
 
 
-from .settings import *
+from .settings import g_channel_settings
 g_is_already_running = False
 
 from PackagesManager.packagesmanager import cmd
@@ -191,7 +191,7 @@ def start_the_installation():
         "",
         "On the following address you can find the list of all",
         "distributed software which this conditions applies to:",
-        "<%s#License>" % channel_settings['studio_main_url'],
+        "<%s#License>" % g_channel_settings['studio_main_url'],
         "",
         "---",
         "",

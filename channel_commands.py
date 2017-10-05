@@ -27,7 +27,7 @@
 import sublime
 import sublime_plugin
 
-from .settings import *
+from .settings import g_channel_settings
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
@@ -48,7 +48,7 @@ log( 2, "CURRENT_DIRECTORY: " + CURRENT_DIRECTORY )
 class StudioChannelGenerateChannelFile( sublime_plugin.TextCommand ):
 
     def run(self, edit):
-        manager_main(channel_settings)
+        manager_main(g_channel_settings)
 
 
 if sublime_plugin:
