@@ -41,8 +41,10 @@ import threading
 import contextlib
 
 
-from .settings import g_channel_settings
 g_is_already_running = False
+
+from .settings import CURRENT_DIRECTORY
+from .settings import g_channel_settings
 
 from PackagesManager.packagesmanager import cmd
 from PackagesManager.packagesmanager.download_manager import downloader
