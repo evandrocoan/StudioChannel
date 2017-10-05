@@ -54,7 +54,7 @@ g_channel_settings['temporary_folder_to_use'] = "__channel_studio_temp"
 g_channel_settings['studio_main_url'] = "https://github.com/evandrocoan/SublimeTextStudio"
 
 # The directory where the Sublime Text `Packages` (loose packages) folder is on
-g_channel_settings['studio_main_directory'] = os.path.dirname( sublime.packages_path() )
+g_channel_settings['studio_main_directory'] = STUDIO_MAIN_DIRECTORY
 
 # A direct URL to the Channel File `settings.json` to use when installing the stable version
 g_channel_settings['channel_main_file_url']  = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/settings.json"
@@ -124,6 +124,6 @@ variables = \
     for variable_name in g_channel_settings.keys()
 ]
 
-# print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
+print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
 
 
