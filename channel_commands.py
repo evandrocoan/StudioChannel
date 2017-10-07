@@ -64,5 +64,7 @@ if sublime_plugin:
 
 
 def plugin_loaded():
-	default_main( g_channel_settings )
+    is_forced = False
+    # is_forced = True
+    default_main( g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
 
