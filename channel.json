@@ -419,13 +419,13 @@
                 "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-09-29 14:27:25", 
+                        "date": "2017-10-07 12:17:13", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": ">=3092", 
                         "url": "https://codeload.github.com/evandrocoan/AutoFileName/zip/master", 
-                        "version": "2017.09.29"
+                        "version": "2017.10.07"
                     }
                 ]
             }, 
@@ -773,14 +773,14 @@
                 "name": "ChannelManager", 
                 "releases": [
                     {
-                        "date": "2017-10-05 15:05:40", 
+                        "date": "2017-10-08 15:00:15", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                        "version": "2017.10.05"
+                        "version": "2017.10.08"
                     }
                 ]
             }, 
@@ -885,19 +885,19 @@
                 "homepage": "https://github.com/evandrocoan/ColorHighlighter", 
                 "issues": "https://github.com/Monnoroch/ColorHighlighter/issues", 
                 "labels": [], 
-                "last_modified": "2017-10-03 14:31:56", 
+                "last_modified": "2017-10-06 17:21:01", 
                 "name": "Color Highlighter", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-10-03 19:18:04", 
+                        "date": "2017-10-06 15:21:27", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": "*", 
                         "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/master", 
-                        "version": "2017.10.03"
+                        "version": "2017.10.06"
                     }
                 ]
             }, 
@@ -1105,11 +1105,11 @@
                 "name": "Default", 
                 "releases": [
                     {
-                        "date": "2017-10-03 12:56:31", 
+                        "date": "2017-10-07 15:29:51", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/master", 
-                        "version": "2017.10.03"
+                        "version": "2017.10.07"
                     }
                 ]
             }, 
@@ -1349,13 +1349,13 @@
                 "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-09-28 20:14:17", 
+                        "date": "2017-10-07 18:20:30", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": "*", 
                         "url": "https://codeload.github.com/evandrocoan/emmet-sublime/zip/master", 
-                        "version": "2017.09.28"
+                        "version": "2017.10.07"
                     }
                 ]
             }, 
@@ -2806,13 +2806,20 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-08-10 23:50:25", 
+                        "date": "2017-10-07 16:01:15", 
                         "platforms": [
                             "*"
                         ], 
-                        "sublime_text": ">=3114", 
+                        "sublime_text": ">3144", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeNotepadPlusPlusTheme/zip/master", 
-                        "version": "2017.08.10"
+                        "version": "2017.10.07"
+                    }, 
+                    {
+                        "date": "2017-08-10 23:50:25", 
+                        "platforms": "*", 
+                        "sublime_text": "<=3144", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeNotepadPlusPlusTheme/zip/3144", 
+                        "version": "3144.201708.10"
                     }
                 ]
             }, 
@@ -3043,11 +3050,11 @@
                 "name": "PackagesManager", 
                 "releases": [
                     {
-                        "date": "2017-10-04 23:51:19", 
+                        "date": "2017-10-05 18:50:27", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
-                        "version": "2017.10.04"
+                        "version": "2017.10.05"
                     }
                 ]
             }, 
@@ -3294,7 +3301,7 @@
                 "homepage": "https://github.com/evandrocoan/REG", 
                 "issues": "https://github.com/robertcollier4/REG/issues", 
                 "labels": [], 
-                "last_modified": "2015-05-19 09:48:56", 
+                "last_modified": "2017-10-06 13:45:38", 
                 "name": "REG", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/robertcollier4/REG/master/README.md", 
@@ -3512,13 +3519,13 @@
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md", 
                 "releases": [
                     {
-                        "date": "2017-09-29 16:28:22", 
+                        "date": "2017-10-07 12:18:32", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": ">=3092", 
                         "url": "https://codeload.github.com/evandrocoan/SideBarEnhancements/zip/master", 
-                        "version": "2017.09.29"
+                        "version": "2017.10.07"
                     }
                 ]
             }, 
@@ -3637,11 +3644,11 @@
                 "name": "StudioChannel", 
                 "releases": [
                     {
-                        "date": "2017-10-05 15:07:25", 
+                        "date": "2017-10-08 15:02:29", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/master", 
-                        "version": "2017.10.05"
+                        "version": "2017.10.08"
                     }
                 ]
             }, 
@@ -4131,7 +4138,7 @@
                     "text manipulation", 
                     "formatting"
                 ], 
-                "last_modified": "2017-10-01 09:38:51", 
+                "last_modified": "2017-10-07 13:42:24", 
                 "name": "Trimmer", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md", 
@@ -4166,7 +4173,7 @@
                     "typescript", 
                     "javascript"
                 ], 
-                "last_modified": "2017-04-13 19:25:53", 
+                "last_modified": "2017-10-06 21:28:46", 
                 "name": "TypeScript", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md", 
@@ -4378,13 +4385,13 @@
                 "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-09-29 14:27:38", 
+                        "date": "2017-10-07 15:18:09", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": "*", 
                         "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/master", 
-                        "version": "2017.09.29"
+                        "version": "2017.10.07"
                     }
                 ]
             }, 
