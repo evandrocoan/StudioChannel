@@ -29,8 +29,12 @@ import sublime_plugin
 
 import os
 
-from .settings import CURRENT_DIRECTORY
-from .settings import g_channel_settings
+# How to import python class file from same directory?
+# https://stackoverflow.com/questions/21139364/how-to-import-python-class-file-from-same-directory
+#
+# Global variable is not updating in python
+# https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
+from . import settings
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
@@ -46,13 +50,13 @@ log = Debugger( 1, os.path.basename( __file__ ) )
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY: " + CURRENT_DIRECTORY )
+log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
 class StudioChannelGenerateChannelFile( sublime_plugin.TextCommand ):
 
     def run(self, edit):
-        manager_main(g_channel_settings)
+        manager_main( settings.g_channel_settings )
 
 
 if sublime_plugin:
@@ -63,8 +67,25 @@ if sublime_plugin:
             submodules_main( run )
 
 
+is_delayed = False
+
 def plugin_loaded():
-    is_forced = False
-    # is_forced = True
-    default_main( g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+
+    # the settings are not yet loaded, wait a little
+    if "DEFAULT_PACKAGES_FILES" not in settings.g_channel_settings:
+        global is_delayed
+
+        # Stop delaying indefinitely
+        if is_delayed:
+            log( 1, "Error: Could not load the settings files! g_channel_settings:" + str( settings.g_channel_settings ) )
+            return
+
+        is_delayed = True
+        sublime.set_timeout( plugin_loaded, 2000 )
+
+    else:
+        is_forced = False
+        # is_forced = True
+
+        default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
 

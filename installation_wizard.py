@@ -44,7 +44,7 @@ import textwrap
 
 g_is_already_running = False
 
-from .settings import g_channel_settings
+from . import settings
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
@@ -92,6 +92,17 @@ def main():
     wizard_thread.start()
 
 
+def unpack_settings():
+    """
+        How to import python class file from same directory?
+        https://stackoverflow.com/questions/21139364/how-to-import-python-class-file-from-same-directory
+
+        Global variable is not updating in python
+        https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
+    """
+    global g_channel_settings
+    g_channel_settings = settings.g_channel_settings
+
 class StartInstallationWizardThread(threading.Thread):
 
     def __init__(self):
@@ -104,6 +115,7 @@ class StartInstallationWizardThread(threading.Thread):
         """
 
         if is_allowed_to_run():
+            unpack_settings()
             wizard_thread = InstallationWizardThread()
 
             wizard_thread.start()
@@ -389,7 +401,8 @@ def show_license_agreement():
     [
         wrap_text( """\
         Welcome to the %s Installation Wizard. The installed packages by this wizard, in addition to
-        each one own license, are distributed under the following conditions:
+        each one own license, are distributed under the following conditions for its usage and
+        installation:
 
         ALL THE SOFTWARES, PACKAGES, PLUGINS, SETTINGS, DOCUMENTATION, EVERYTHING ELSE, ARE PROVIDED
         \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
@@ -557,6 +570,6 @@ if __name__ == "__main__":
 def plugin_loaded():
 
     if is_the_first_load_time():
-        main()
-        pass
+        # Wait for settings to load
+        sublime.set_timeout( main, 2000 )
 
