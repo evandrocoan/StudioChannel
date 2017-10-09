@@ -566,3 +566,11 @@ def plugin_loaded():
         sublime.set_timeout( main, 2000 )
 
 
+def install():
+    unpack_settings()
+    g_channel_settings['INSTALLATION_TYPE'] = "development"
+
+    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+    studio_installer.main( g_channel_settings )
+
+
