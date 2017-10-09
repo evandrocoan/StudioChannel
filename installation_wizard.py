@@ -332,12 +332,12 @@ def select_stable_or_developent_version():
         should look for the package `PackagesManager` to install and uninstalling packages. The
         Stable Version installs all packages by PackagesManager as they normally are installed by
         the Sublime Text's Package Control. Therefore they require smaller amount of space in your
-        file system. It should be about 40MB of data, on the last time checked.
+        file system. It should be about 60MB of data, on the last time checked.
 
         Now the Development Version installs all your packages by `git`, therefore you need to have
         git installed in your system in order to install the development Version. Also due this, the
         Development Version requires much more file system space. The last time checked it required
-        about 500MB of free space. Notice also, the Development Version requires the Latest
+        about 600MB of free space. Notice also, the Development Version requires the Latest
         Development Build of Sublime Text available, as builds 3141 and 3147.
 
         It is recommended to use both Stable and Development Versions of the %s. For example, while
