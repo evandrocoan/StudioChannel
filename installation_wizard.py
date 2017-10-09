@@ -52,6 +52,7 @@ from .settings import CURRENT_PACKAGE_NAME
 
 from package_control import cmd
 from package_control.thread_progress import ThreadProgress
+from package_control.package_manager import clear_cache
 
 
 # Import the debugger
@@ -263,10 +264,7 @@ def start_the_installation_process():
         """ ),
     ]
 
-    g_channel_settings['INSTALLATION_TYPE'] = g_version_to_install
-    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-
-    studio_installer.main( g_channel_settings )
+    install_studio_channel()
     sublime.message_dialog( "\n".join( lines ) )
 
 
@@ -566,9 +564,41 @@ def plugin_loaded():
         sublime.set_timeout( main, 2000 )
 
 
+def install_studio_channel():
+    g_channel_settings['INSTALLATION_TYPE'] = g_version_to_install
+    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+
+    add_studio_channel()
+    clear_cache()
+
+    studio_installer.main( g_channel_settings )
+
+
+def add_studio_channel():
+    package_control    = "Package Control.sublime-settings"
+    studio_channel_url = g_channel_settings['STUDIO_CHANNEL_URL']
+
+    package_control_settings = sublime.load_settings( package_control )
+    channels                 = package_control_settings.get( "channels", [] )
+
+    if studio_channel_url in channels:
+        channels.remove( studio_channel_url )
+
+    channels.insert( 0, studio_channel_url )
+    package_control_settings.set( "channels", channels )
+
+    log( 1, "Adding %s channel to %s: %s" % ( CURRENT_PACKAGE_NAME, package_control, str( channels ) ) )
+    sublime.save_settings( package_control )
+
+
 def install():
+    """
+        Used for testing purposes while developing this package.
+    """
     unpack_settings()
-    g_channel_settings['INSTALLATION_TYPE'] = "development"
+    add_studio_channel()
+
+    g_channel_settings['INSTALLATION_TYPE'] = "stable"
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
     studio_installer.main( g_channel_settings )
