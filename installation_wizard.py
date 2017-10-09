@@ -47,6 +47,8 @@ g_is_already_running = False
 from . import settings
 from ChannelManager import studio_installer, studio_uninstaller
 
+from ChannelManager.studio_utilities import write_data_file
+
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
@@ -554,6 +556,14 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
+    studio_installation_settings = g_channel_settings['STUDIO_INSTALLATION_SETTINGS']
+
+    if os.path.exists( studio_installation_settings ):
+        return False
+
+    else:
+        write_data_file( studio_installation_settings, {} )
+
     return True
 
 
