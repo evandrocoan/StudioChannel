@@ -49,15 +49,18 @@ def plugin_loaded():
     """
     global g_channel_settings
 
-    # The folder where the directory where the Sublime Text `Packages` (loose packages) folder is on.
+    # The folder where the directory where the Sublime Text `Packages` (loose packages) folder is on
     STUDIO_MAIN_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
+
+    # The folder where the User settings are on
+    USER_FOLDER_PATH = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User" )
 
     # The temporary folder to download the main repository when installing the development version
     g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_studio_temp"
 
     # Where to save the settings for channel after it is installed on the user's machine
-    g_channel_settings['STUDIO_INSTALLATION_SETTINGS'] = \
-            os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User", CURRENT_PACKAGE_NAME + ".sublime-settings" )
+    g_channel_settings['USER_FOLDER_PATH']             = USER_FOLDER_PATH
+    g_channel_settings['STUDIO_INSTALLATION_SETTINGS'] = os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
 
     # The local path to the files, used to save the generated channels. Valid URLs to the files, to use
