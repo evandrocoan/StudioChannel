@@ -45,18 +45,13 @@ import textwrap
 g_is_already_running = False
 
 from . import settings
+from ChannelManager import studio_installer
+
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from ChannelManager import studio_installer
-
-from PackagesManager.packagesmanager import cmd
-from PackagesManager.packagesmanager.download_manager import downloader
-
-from PackagesManager.packagesmanager.package_manager import PackageManager
-from PackagesManager.packagesmanager.thread_progress import ThreadProgress
-from PackagesManager.packagesmanager.package_disabler import PackageDisabler
-from PackagesManager.packagesmanager.commands.remove_package_command import RemovePackageThread
+from package_control import cmd
+from package_control.thread_progress import ThreadProgress
 
 
 # Import the debugger
@@ -102,6 +97,7 @@ def unpack_settings():
     """
     global g_channel_settings
     g_channel_settings = settings.g_channel_settings
+
 
 class StartInstallationWizardThread(threading.Thread):
 
@@ -563,13 +559,10 @@ def is_the_first_load_time():
     return True
 
 
-if __name__ == "__main__":
-    main()
-
-
 def plugin_loaded():
 
     if is_the_first_load_time():
         # Wait for settings to load
         sublime.set_timeout( main, 2000 )
+
 
