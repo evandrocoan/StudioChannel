@@ -45,8 +45,8 @@ import textwrap
 g_is_already_running = False
 
 from . import settings
-from ChannelManager import studio_installer, studio_uninstaller
 
+from ChannelManager import studio_installer
 from ChannelManager.studio_utilities import write_data_file
 
 from .settings import CURRENT_DIRECTORY
@@ -568,10 +568,15 @@ def is_the_first_load_time():
 
 
 def plugin_loaded():
+    # Wait for settings to load
+    sublime.set_timeout( check_for_the_first_time, 2000 )
+
+
+def check_for_the_first_time():
+    unpack_settings()
 
     if is_the_first_load_time():
-        # Wait for settings to load
-        sublime.set_timeout( main, 2000 )
+        main()
 
 
 def install_studio_channel():
@@ -612,18 +617,5 @@ def install():
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
     studio_installer.main( g_channel_settings )
-
-
-def uninstall():
-    """
-        Used for testing purposes while developing this package.
-    """
-    unpack_settings()
-    add_studio_channel()
-
-    g_channel_settings['INSTALLATION_TYPE'] = "stable"
-
-    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-    studio_uninstaller.main( g_channel_settings )
 
 
