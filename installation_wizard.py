@@ -45,7 +45,7 @@ import textwrap
 g_is_already_running = False
 
 from . import settings
-from ChannelManager import studio_installer
+from ChannelManager import studio_installer, studio_uninstaller
 
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
@@ -602,5 +602,18 @@ def install():
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
     studio_installer.main( g_channel_settings )
+
+
+def uninstall():
+    """
+        Used for testing purposes while developing this package.
+    """
+    unpack_settings()
+    add_studio_channel()
+
+    g_channel_settings['INSTALLATION_TYPE'] = "stable"
+
+    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+    studio_uninstaller.main( g_channel_settings )
 
 
