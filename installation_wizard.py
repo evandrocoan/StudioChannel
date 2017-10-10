@@ -52,9 +52,15 @@ from ChannelManager.studio_utilities import write_data_file
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from package_control import cmd
-from package_control.thread_progress import ThreadProgress
-from package_control.package_manager import clear_cache
+# When there is an ImportError, means that Package Control is installed instead of PackagesManager,
+# or vice-versa. Which means we cannot do nothing as this is only compatible with PackagesManager.
+try:
+    from package_control import cmd
+    from package_control.thread_progress import ThreadProgress
+    from package_control.package_manager import clear_cache
+
+except ImportError:
+    pass
 
 
 # Import the debugger
