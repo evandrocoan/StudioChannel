@@ -47,7 +47,9 @@ g_is_already_running = False
 from . import settings
 
 from ChannelManager import studio_installer
+from ChannelManager.studio_utilities import load_data_file
 from ChannelManager.studio_utilities import write_data_file
+from ChannelManager.studio_utilities import get_dictionary_key
 
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
@@ -522,6 +524,7 @@ def show_program_description():
 
 def show_goodbye_message():
     ok_button_text = "Return to the wizard"
+    ask_later_text = "Ask me later"
 
     lines = \
     [
@@ -534,16 +537,32 @@ def show_goodbye_message():
         Otherwise click on the `Cancel` button and then uninstall the %s.
 
         If you wish to install the %s later, you can go to the menu `Preferences -> Packages -> %s`
-        and select the option `%s`, to run this Installer Wizard again.
+        and select the option `%s`, to run this Installer Wizard again. Or select the button `%s` to
+        show this Wizard on the next time you start Sublime Text.
 
         If you wish to install the %s later, after uninstalling it, you can just install this
         package again.
         """ % ( CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME,
                 ok_button_text, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME,
-                CURRENT_PACKAGE_NAME, g_installation_command ) ),
+                CURRENT_PACKAGE_NAME, ask_later_text, g_installation_command ) ),
     ]
 
-    return sublime.ok_cancel_dialog( "\n".join( lines ), ok_button_text )
+    studio_installation_settings = g_channel_settings['STUDIO_INSTALLATION_SETTINGS']
+
+    settings       = load_data_file( studio_installation_settings )
+    sublime_dialog = sublime.yes_no_cancel_dialog( "\n".join( lines ), ok_button_text, ask_later_text )
+
+    if sublime_dialog == sublime.DIALOG_YES:
+        return True
+
+    elif sublime_dialog == sublime.DIALOG_NO:
+        settings['automatically_show_installation_wizard'] = True
+
+    else:
+        settings['automatically_show_installation_wizard'] = False
+
+    write_data_file( studio_installation_settings, settings )
+    return False
 
 
 def upcase_first_letter(s):
@@ -565,10 +584,11 @@ def is_the_first_load_time():
     studio_installation_settings = g_channel_settings['STUDIO_INSTALLATION_SETTINGS']
 
     if os.path.exists( studio_installation_settings ):
-        return False
+        settings = load_data_file( studio_installation_settings )
+        return get_dictionary_key( settings, "automatically_show_installation_wizard", False )
 
     else:
-        write_data_file( studio_installation_settings, {} )
+        write_data_file( studio_installation_settings, {"automatically_show_installation_wizard": False} )
 
     return True
 
