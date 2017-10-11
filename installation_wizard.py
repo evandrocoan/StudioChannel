@@ -632,14 +632,14 @@ def add_studio_channel():
     sublime.save_settings( package_control )
 
 
-def install():
+def install(version="stable"):
     """
         Used for testing purposes while developing this package.
     """
     unpack_settings()
     add_studio_channel()
 
-    g_channel_settings['INSTALLATION_TYPE'] = "stable"
+    g_channel_settings['INSTALLATION_TYPE'] = version
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
     studio_installer.main( g_channel_settings )
