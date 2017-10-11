@@ -307,12 +307,14 @@ def show_installation_confirmation():
         installing by the `PackagesManager` (Package Control fork replacement), which will also ask
         you to restart Sublime Text, when it finish install all missing dependencies.
 
-        If you wish to cancel the installation process while it is going on, there is no problem
-        about it, just restart Sublime Text. However not all packages will installed, but later on
-        you can finish the installation running this Installer Wizard again, by going on the menu
-        `Preferences -> Packages Settings -> %s` and select the option `%s`.
+        If you wish to cancel the installation process while it is going on, just restart Sublime
+        Text. However not all packages will installed and some can be corrupted or half installed.
+        Later on you can try to finish the installation running this Installer Wizard again, by going
+        on the menu `Preferences -> Packages Settings -> %s` and select the option `%s`. If not work,
+        run the uninstaller on the same menu and reinstall %s.
         """ % ( version_to_install, version_to_install, CURRENT_PACKAGE_NAME,
-                CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_installation_command ) ),
+                CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_installation_command,
+                CURRENT_PACKAGE_NAME ) ),
         ]
 
     return calculate_next_step( sublime.yes_no_cancel_dialog( "\n".join( lines ),  "Install Now", "Go Back" ) )
