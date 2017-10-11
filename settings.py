@@ -57,6 +57,7 @@ def plugin_loaded():
 
     # The temporary folder to download the main repository when installing the development version
     g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_studio_temp"
+    g_channel_settings['STUDIO_PACKAGE_NAME']     = CURRENT_PACKAGE_NAME
 
     # Where to save the settings for channel after it is installed on the user's machine
     g_channel_settings['USER_FOLDER_PATH']             = USER_FOLDER_PATH
@@ -130,7 +131,6 @@ def plugin_loaded():
     # Do not try to install this own package and the Package Control, as they are currently running
     g_channel_settings['PACKAGES_TO_NOT_INSTALL'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
 
-
     # The files of the default packages you are installed
     g_channel_settings['DEFAULT_PACKAGES_FILES'] = \
     [
@@ -152,7 +152,6 @@ def plugin_loaded():
         "Tab Context.sublime-menu",
         "transpose.py"
     ]
-
 
     # Print all their values for debugging
     variables = \
