@@ -27,32 +27,21 @@
 import sublime
 
 import os
-import sys
-import time
-import shutil
-import zipfile
-import tempfile
-
-import io
-import re
-import json
-import shlex
-import stat
-import threading
-import contextlib
 import textwrap
+import threading
 
 g_is_already_running = False
 
 from . import settings
+from .settings import CURRENT_DIRECTORY
+from .settings import CURRENT_PACKAGE_NAME
 
 from ChannelManager import studio_installer
+from ChannelManager.studio_utilities import wrap_text
 from ChannelManager.studio_utilities import load_data_file
 from ChannelManager.studio_utilities import write_data_file
 from ChannelManager.studio_utilities import get_dictionary_key
-
-from .settings import CURRENT_DIRECTORY
-from .settings import CURRENT_PACKAGE_NAME
+from ChannelManager.studio_utilities import upcase_first_letter
 
 # When there is an ImportError, means that Package Control is installed instead of PackagesManager,
 # or vice-versa. Which means we cannot do nothing as this is only compatible with PackagesManager.
@@ -78,7 +67,7 @@ log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
 
 g_version_to_install     = ""
 g_installation_command   = "Run Installation Wizard"
-g_uninstallation_command = "Completely Uninstall %s" % CURRENT_PACKAGE_NAME
+g_uninstallation_command = "Run Uninstallation Wizard"
 
 g_link_wrapper  = textwrap.TextWrapper( initial_indent="    ", width=80, subsequent_indent="    " )
 g_is_to_go_back = False
@@ -565,14 +554,6 @@ def show_goodbye_message():
 
     write_data_file( studio_installation_settings, settings )
     return False
-
-
-def upcase_first_letter(s):
-    return s[0].upper() + s[1:]
-
-
-def wrap_text(text):
-    return re.sub( r"(?<!\n)\n(?!\n)", " ", textwrap.dedent( text ).strip( " " ) )
 
 
 def is_the_first_load_time():

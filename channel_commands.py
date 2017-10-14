@@ -36,6 +36,7 @@ import os
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
 from .installation_wizard import main as wizard_main
+from .uninstallation_wizard import main as unwizard_main
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
@@ -64,6 +65,12 @@ class StudioChannelRunInstalltionWizard( sublime_plugin.TextCommand ):
 
     def run(self, edit):
         wizard_main()
+
+
+class StudioChannelRunUninstalltionWizard( sublime_plugin.TextCommand ):
+
+    def run(self, edit):
+        unwizard_main()
 
 
 class StudioChannelRun( sublime_plugin.TextCommand ):

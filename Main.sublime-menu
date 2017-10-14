@@ -16,6 +16,7 @@
                         "children":
                         [
                             { "caption": "Run Installation Wizard", "command": "studio_channel_run_installtion_wizard" },
+                            { "caption": "Run Uninstallation Wizard", "command": "studio_channel_run_uninstalltion_wizard" },
                         ]
                     }
                 ]
