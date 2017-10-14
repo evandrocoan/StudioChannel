@@ -235,13 +235,13 @@
                 "pawn", 
                 "build system"
             ], 
-            "last_modified": "2017-09-08 18:06:46", 
+            "last_modified": "2017-10-09 01:19:44", 
             "name": "amxmodx", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
             "releases": [
                 {
-                    "date": "2017-10-04 10:05:28", 
+                    "date": "2017-10-08 22:19:44", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
@@ -250,7 +250,7 @@
                     ], 
                     "sublime_text": ">=3114", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/master", 
-                    "version": "2017.10.04"
+                    "version": "2017.10.08"
                 }
             ]
         }, 
@@ -334,13 +334,13 @@
             "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-28 14:54:22", 
+                    "date": "2017-10-13 11:22:02", 
                     "platforms": [
                         "*"
                     ], 
                     "sublime_text": ">=3092", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeANSI/zip/master", 
-                    "version": "2017.09.28"
+                    "version": "2017.10.13"
                 }
             ]
         }, 
@@ -574,7 +574,7 @@
             "homepage": "https://github.com/evandrocoan/BracketHighlighter", 
             "issues": "https://github.com/facelessuser/BracketHighlighter/issues", 
             "labels": [], 
-            "last_modified": "2017-08-12 19:53:48", 
+            "last_modified": "2017-10-09 02:12:51", 
             "name": "BracketHighlighter", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md", 
@@ -761,27 +761,6 @@
         }, 
         {
             "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimeChannelManager", 
-            "homepage": "https://github.com/evandrocoan/SublimeChannelManager", 
-            "name": "ChannelManager", 
-            "releases": [
-                {
-                    "date": "2017-10-08 15:00:15", 
-                    "dependencies": [
-                        "PythonDebugTools"
-                    ], 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                    "version": "2017.10.08"
-                }
-            ]
-        }, 
-        {
-            "authors": [
                 "Will Bond (wbond)", 
                 "Forked by evandrocoan"
             ], 
@@ -908,7 +887,7 @@
             "homepage": "https://github.com/evandrocoan/ColorHelper", 
             "issues": "https://github.com/facelessuser/ColorHelper/issues", 
             "labels": [], 
-            "last_modified": "2017-05-27 19:09:50", 
+            "last_modified": "2017-10-09 04:34:20", 
             "name": "ColorHelper", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md", 
@@ -1345,13 +1324,13 @@
             "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-10-07 18:20:30", 
+                    "date": "2017-10-09 10:24:46", 
                     "platforms": [
                         "*"
                     ], 
                     "sublime_text": "*", 
                     "url": "https://codeload.github.com/evandrocoan/emmet-sublime/zip/master", 
-                    "version": "2017.10.07"
+                    "version": "2017.10.09"
                 }
             ]
         }, 
@@ -2925,11 +2904,11 @@
             "name": "Override Unpacked Packages", 
             "releases": [
                 {
-                    "date": "2017-07-11 19:41:48", 
+                    "date": "2017-10-08 19:34:00", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/master", 
-                    "version": "2017.07.11"
+                    "version": "2017.10.08"
                 }
             ]
         }, 
@@ -3046,11 +3025,11 @@
             "name": "PackagesManager", 
             "releases": [
                 {
-                    "date": "2017-10-05 18:50:27", 
+                    "date": "2017-10-13 18:51:07", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
-                    "version": "2017.10.05"
+                    "version": "2017.10.13"
                 }
             ]
         }, 
@@ -3640,11 +3619,15 @@
             "name": "StudioChannel", 
             "releases": [
                 {
-                    "date": "2017-10-08 15:02:29", 
+                    "date": "2017-10-13 23:10:54", 
+                    "dependencies": [
+                        "PythonDebugTools", 
+                        "ChannelManager"
+                    ], 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/master", 
-                    "version": "2017.10.08"
+                    "version": "2017.10.13"
                 }
             ]
         }, 
@@ -3686,7 +3669,7 @@
             "homepage": "https://github.com/evandrocoan/sublime-text-2-buildview", 
             "issues": "https://github.com/rctay/sublime-text-2-buildview/issues", 
             "labels": [], 
-            "last_modified": "2015-03-09 12:05:10", 
+            "last_modified": "2017-10-09 14:09:43", 
             "name": "sublime-text-2-buildview", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/rctay/sublime-text-2-buildview/master/README.md", 
@@ -3747,7 +3730,7 @@
                 "linting", 
                 "SublimeLinter"
             ], 
-            "last_modified": "2017-10-03 00:31:58", 
+            "last_modified": "2017-10-10 22:30:10", 
             "name": "SublimeLinter", 
             "previous_names": [
                 "SublimeLinter Beta"
@@ -4231,19 +4214,19 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting", 
             "issues": "https://github.com/randy3k/UnitTesting/issues", 
             "labels": [], 
-            "last_modified": "2017-08-25 21:52:25", 
+            "last_modified": "2017-10-13 11:45:01", 
             "name": "UnitTesting", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/randy3k/UnitTesting/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-08-25 17:52:25", 
+                    "date": "2017-10-13 08:48:36", 
                     "platforms": [
                         "*"
                     ], 
                     "sublime_text": ">=3092", 
                     "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/master", 
-                    "version": "2017.08.25"
+                    "version": "2017.10.13"
                 }
             ]
         }, 
@@ -4257,11 +4240,11 @@
             "name": "User", 
             "releases": [
                 {
-                    "date": "2017-10-04 23:56:11", 
+                    "date": "2017-10-13 10:44:21", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/User/zip/master", 
-                    "version": "2017.10.04"
+                    "version": "2017.10.13"
                 }
             ]
         }, 
@@ -4412,18 +4395,43 @@
             "readme": "https://raw.githubusercontent.com/13xforever/x86-assembly-textmate-bundle/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-18 22:34:58", 
+                    "date": "2017-10-10 12:44:07", 
                     "platforms": [
                         "*"
                     ], 
                     "sublime_text": "*", 
                     "url": "https://codeload.github.com/evandrocoan/x86-assembly-textmate-bundle/zip/master", 
-                    "version": "2017.09.18"
+                    "version": "2017.10.10"
                 }
             ]
         }
     ], 
     "dependencies": [
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeChannelManager", 
+            "homepage": "https://github.com/evandrocoan/SublimeChannelManager", 
+            "issues": "https://github.com/evandrocoan/SublimeChannelManager/issues", 
+            "load_order": 50, 
+            "name": "ChannelManager", 
+            "releases": [
+                {
+                    "base": "https://github.com/evandrocoan/SublimeChannelManager", 
+                    "date": "2017-10-13 22:56:29", 
+                    "dependencies": [
+                        "PythonDebugTools"
+                    ], 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "tags": true, 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
+                    "version": "2017.10.13"
+                }
+            ]
+        }, 
         {
             "authors": [
                 "evandrocoan"
