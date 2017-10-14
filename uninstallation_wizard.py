@@ -55,10 +55,10 @@ from debug_tools import Debugger
 # Debugger settings: 0 - disabled, 127 - enabled
 log = Debugger( 127, os.path.basename( __file__ ) )
 
-log( 2, "..." )
-log( 2, "..." )
-log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
+# log( 2, "..." )
+# log( 2, "..." )
+# log( 2, "Debugging" )
+# log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
 
 
 def main():
