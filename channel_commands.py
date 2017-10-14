@@ -57,26 +57,26 @@ log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 class StudioChannelRunInstalltionWizard( sublime_plugin.ApplicationCommand ):
 
-    def run(self, edit):
+    def run(self):
         wizard_main()
 
 
 class StudioChannelRunUninstalltionWizard( sublime_plugin.ApplicationCommand ):
 
-    def run(self, edit):
+    def run(self):
         unwizard_main()
 
 
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
-    def run(self, edit):
+    def run(self):
         manager_main( settings.g_channel_settings )
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
 
-    def run(self, edit, run):
+    def run(self, run):
         submodules_main( run )
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
 
