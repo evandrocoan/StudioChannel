@@ -1,0 +1,25 @@
+[
+    {
+        "caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+            {
+                "caption": "Package Settings",
+                "mnemonic": "P",
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "StudioChannel",
+                        "children":
+                        [
+                            { "caption": "Run Installation Wizard", "command": "studio_channel_run_installtion_wizard" },
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

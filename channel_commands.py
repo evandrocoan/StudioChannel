@@ -35,6 +35,7 @@ import os
 # Global variable is not updating in python
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
+from .installation_wizard import main as wizard_main
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
@@ -59,12 +60,16 @@ class StudioChannelGenerateChannelFile( sublime_plugin.TextCommand ):
         manager_main( settings.g_channel_settings )
 
 
-if sublime_plugin:
+class StudioChannelRunInstalltionWizard( sublime_plugin.TextCommand ):
 
-    class StudioChannelRun( sublime_plugin.TextCommand ):
+    def run(self, edit):
+        wizard_main()
 
-        def run(self, edit, run):
-            submodules_main( run )
+
+class StudioChannelRun( sublime_plugin.TextCommand ):
+
+    def run(self, edit, run):
+        submodules_main( run )
 
 
 is_delayed = False
@@ -88,4 +93,5 @@ def plugin_loaded():
         # is_forced = True
 
         default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+
 
