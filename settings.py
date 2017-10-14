@@ -98,12 +98,6 @@ def plugin_loaded():
     # stopped. The user should only stop the installation because he wants to, not because
     # `PackagesManager` asked to restart.
     #
-    # This could be solved by halting `PackagesManager` messages when the installation is being
-    # performed, however why bother writing more code if we can just install `PackagesManager` by
-    # last? Also, this also saves us the trouble of writing code asking the user to restart Sublime
-    # Text when the installation is completed, as `PackagesManager` is already asking the user to
-    # restart Sublime Text.
-    #
     # The package "BetterFindBuffer" is being installed by after "Default" because it is creating the
     # file "Find Results.hidden-tmLanguage" on the folder "Default" causing the installation of the
     # package "Default" to stop.

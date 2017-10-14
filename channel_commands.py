@@ -55,26 +55,26 @@ log( 2, "Debugging" )
 log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
-class StudioChannelRunInstalltionWizard( sublime_plugin.TextCommand ):
+class StudioChannelRunInstalltionWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self, edit):
         wizard_main()
 
 
-class StudioChannelRunUninstalltionWizard( sublime_plugin.TextCommand ):
+class StudioChannelRunUninstalltionWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self, edit):
         unwizard_main()
 
 
-class StudioChannelGenerateChannelFile( sublime_plugin.TextCommand ):
+class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
     def run(self, edit):
         manager_main( settings.g_channel_settings )
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
 
 
-class StudioChannelRun( sublime_plugin.TextCommand ):
+class StudioChannelRun( sublime_plugin.ApplicationCommand ):
 
     def run(self, edit, run):
         submodules_main( run )
