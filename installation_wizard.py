@@ -50,10 +50,13 @@ try:
     from package_control import cmd
     from package_control.thread_progress import ThreadProgress
     from package_control.package_manager import clear_cache
+
     g_is_package_control_installed = True
 
 except ImportError:
-    pass
+    from PackagesManager.packagesmanager import cmd
+    from PackagesManager.packagesmanager.thread_progress import ThreadProgress
+    from PackagesManager.packagesmanager.package_manager import clear_cache
 
 
 # Import the debugger
@@ -230,6 +233,7 @@ def calculate_next_step( sublime_dialog ):
 
 
 def start_the_installation_process():
+    g_link_wrapper.width = 70
 
     lines = \
     [
@@ -255,7 +259,7 @@ def start_the_installation_process():
         """ % ( CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_uninstallation_command,
                 CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME ) ),
         "",
-        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_MAIN_URL'] ),
+        g_link_wrapper.fill( "<%s/issues>" % g_channel_settings['STUDIO_MAIN_URL'] ),
         "",
         wrap_text( """\
         Just do not forget to save your Sublime Text Console output, as it recorded everything which
@@ -296,13 +300,13 @@ def show_installation_confirmation():
         installing by the `PackagesManager` (Package Control fork replacement), which will also ask
         you to restart Sublime Text, when it finish install all missing dependencies.
 
-        If you wish to cancel the installation process while it is going on, just restart Sublime
-        Text. However not all packages will installed and some can be corrupted or half installed.
-        Later on you can try to finish the installation running this Installer Wizard again, by going
-        on the menu `Preferences -> Packages Settings -> %s` and select the option `%s`. If not work,
-        run the uninstaller on the same menu and reinstall %s.
+        If you wish to cancel the installation process while it is going on, you need to restart
+        Sublime Text. However not all packages will installed and some can be corrupted or half
+        installed. Later on, to finish the installation you will need to run the uninstaller by
+        going on the menu `Preferences -> Packages Settings -> %s` and select the option `%s`. Then
+        later install again the %s.
         """ % ( version_to_install, version_to_install, CURRENT_PACKAGE_NAME,
-                CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_installation_command,
+                CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_uninstallation_command,
                 CURRENT_PACKAGE_NAME ) ),
         ]
 
@@ -318,7 +322,7 @@ def select_stable_or_developent_version():
         There are two versions of the channel. Each one of them has its proper usage depending on
         your plans. The Stable Version is the most tested and trusted set of packages to be
         installed. It contains all the packages which can be actively enabled and used on daily
-        basis usage and it requires the Latest Stable Build of Sublime Text available, as builds
+        basis usage and it requires the latest Stable Build of Sublime Text available, as builds
         3126 and 3143.
 
         The Development Version has the same packages as the Stable Version, however it also
@@ -326,7 +330,7 @@ def select_stable_or_developent_version():
         tested. Some of them are expected to have serious bugs as crash your Sublime Text,
         significantly slow down the Sublime Text performance, i.e., create great problems. Due this,
         these extra packages are by default added to your `ignored_packages` settings. You should
-        only enable them when you are attempting to fix their problems.
+        only enable them when you are attempting to fix their problems or test them.
 
         For both Stable and Development versions, your Sublime Text's Package Control will be
         uninstalled and replaced by the its forked version called `PackagesManager`. Now on, you
@@ -338,7 +342,7 @@ def select_stable_or_developent_version():
         Now the Development Version installs all your packages by `git`, therefore you need to have
         git installed in your system in order to install the development Version. Also due this, the
         Development Version requires much more file system space. The last time checked it required
-        about 600MB of free space. Notice also, the Development Version requires the Latest
+        about 600MB of free space. Notice also, the Development Version requires the latest
         Development Build of Sublime Text available, as builds 3141 and 3147.
 
         It is recommended to use both Stable and Development Versions of the %s. For example, while
@@ -383,7 +387,7 @@ def select_stable_or_developent_version():
 
 
 def show_license_agreement():
-    g_link_wrapper.width = 80
+    g_link_wrapper.width = 71
 
     is_to_go_back = False
     user_response = [None]
@@ -406,12 +410,13 @@ def show_license_agreement():
         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
         CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-        On the following address you can find the list and links for all distributed contents by
+        On the following addresses you can find the list and links for all distributed contents by
         this installer, which these conditions above applies to, and their respective software
         license:
         """ % CURRENT_PACKAGE_NAME ),
         "",
         g_link_wrapper.fill( "<%s#License>" % g_channel_settings['STUDIO_MAIN_URL'] ),
+        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_CHANNEL_URL'] ),
         "",
         wrap_text( """\
         Did you read and agree with these conditions for using these softwares, packages, plugins,
@@ -485,28 +490,29 @@ def show_license_agreement():
 
 
 def show_program_description():
-    g_link_wrapper.width = 80
+    g_link_wrapper.width = 71
 
     lines = \
     [
         wrap_text( """\
         Thank you for choosing %s.
 
-        This is a small channel of packages for Sublime Text's Package Control, which replace some
-        of the packages by my forked version. i.e., custom modification of them. You can find this
-        channel on the following address:
+        This is a small channel of packages for Sublime Text's Package Control, which replace and
+        install some of the packages by a forked version. i.e., custom modification of them. You can
+        find this list of packages to be installed on channel on the following addresses:
         """ % CURRENT_PACKAGE_NAME ),
         "",
         g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_MAIN_URL'] ),
+        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_CHANNEL_URL'] ),
         "",
         wrap_text( """\
-        Then it will install all Sublime Text Packages I have installed on my computer, however if
-        already there are some of these packages installed, your current version will be upgraded to
-        the version I use on my fork of that same package.
+        Therefore, this installer will install all Sublime Text Packages listed on the above address,
+        however if already there are some of these packages installed, your current version will be
+        upgraded to the version used on the fork of the same package.
 
-        For this, it will be required to remove you current installation of Package Control and
-        install my version of it, which has the name PackagesManager. Its name was changed due the
-        space it has on its name which causes trouble for development of Package Control.
+        This installer will also remove you current installation of Package Control and install
+        another forked version of it, which has the name PackagesManager. Now on, when you want to,
+        install/manage packages, you should look for `PackagesManager` instead of `Package Control`.
         """ ),
     ]
 
@@ -525,7 +531,7 @@ def show_goodbye_message():
         useful for you.
 
         If you want to consider installing it, click on the button `%s` to go back and try again.
-        Otherwise click on the `Cancel` button and then uninstall the %s.
+        Otherwise click on the `Cancel` button and then uninstall the %s package.
 
         If you wish to install the %s later, you can go to the menu `Preferences -> Packages -> %s`
         and select the option `%s`, to run this Installer Wizard again. Or select the button `%s` to
