@@ -29,12 +29,15 @@ import sublime_plugin
 
 import os
 
+
 # How to import python class file from same directory?
 # https://stackoverflow.com/questions/21139364/how-to-import-python-class-file-from-same-directory
 #
 # Global variable is not updating in python
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
+from . import installation_wizard
+
 from .installation_wizard import main as wizard_main
 from .uninstallation_wizard import main as unwizard_main
 
@@ -59,6 +62,9 @@ class StudioChannelRunInstalltionWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         wizard_main()
+
+    def is_enabled(self):
+        return installation_wizard.g_is_package_control_installed
 
 
 class StudioChannelRunUninstalltionWizard( sublime_plugin.ApplicationCommand ):
