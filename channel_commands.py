@@ -76,15 +76,22 @@ class StudioChannelRunUninstalltionWizard( sublime_plugin.ApplicationCommand ):
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
     def run(self):
-        manager_main( settings.g_channel_settings )
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+        manager_main( settings.g_channel_settings )
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
 
     def run(self, run):
-        submodules_main( run )
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+        submodules_main( run )
+
+
+class StudioChannelUpdateDefaultPackages( sublime_plugin.ApplicationCommand ):
+
+    def run(self):
+        sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+        default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
 
 
 is_delayed = False

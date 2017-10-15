@@ -138,6 +138,7 @@ def plugin_loaded():
         "Default (Windows).sublime-mousemap",
         "Distraction Free.sublime-settings",
         "Find Results.hidden-tmLanguage",
+        "install_package_control.py",
         "Preferences (Linux).sublime-settings",
         "Preferences (OSX).sublime-settings",
         "Preferences (Windows).sublime-settings",
