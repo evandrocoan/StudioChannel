@@ -144,8 +144,9 @@ def plugin_loaded():
         "Preferences (Windows).sublime-settings",
         "Preferences.sublime-settings",
         "README.md",
+        "Sublime Text Settings.sublime-settings",
         "Tab Context.sublime-menu",
-        "transpose.py"
+        "transpose.py",
     ]
 
     # Print all their values for debugging
