@@ -129,6 +129,7 @@ def plugin_loaded():
     g_channel_settings['DEFAULT_PACKAGES_FILES'] = \
     [
         ".gitignore",
+        ".no-sublime-package",
         "Context.sublime-menu",
         "Default (Linux).sublime-keymap",
         "Default (Linux).sublime-mousemap",
