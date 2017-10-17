@@ -58,7 +58,7 @@ log( 2, "Debugging" )
 log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
-class StudioChannelRunInstalltionWizard( sublime_plugin.ApplicationCommand ):
+class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         wizard_main()
@@ -67,7 +67,7 @@ class StudioChannelRunInstalltionWizard( sublime_plugin.ApplicationCommand ):
         return installation_wizard.g_is_package_control_installed
 
 
-class StudioChannelRunUninstalltionWizard( sublime_plugin.ApplicationCommand ):
+class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         unwizard_main()
