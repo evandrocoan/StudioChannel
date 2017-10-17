@@ -36,7 +36,7 @@ from . import settings
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from ChannelManager import studio_uninstaller
+from ChannelManager import channel_uninstaller
 from ChannelManager.channel_utilities import wrap_text
 
 
@@ -181,6 +181,6 @@ def uninstall():
     unpack_settings()
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-    studio_uninstaller.main( g_channel_settings )
+    channel_uninstaller.main( g_channel_settings )
 
 

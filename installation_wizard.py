@@ -37,7 +37,7 @@ from . import settings
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from ChannelManager import studio_installer
+from ChannelManager import channel_installer
 from ChannelManager.channel_utilities import wrap_text
 from ChannelManager.channel_utilities import load_data_file
 from ChannelManager.channel_utilities import write_data_file
@@ -601,7 +601,7 @@ def install_studio_channel():
     add_studio_channel()
     clear_cache()
 
-    studio_installer.main( g_channel_settings )
+    channel_installer.main( g_channel_settings )
 
 
 def add_studio_channel():
@@ -631,6 +631,6 @@ def install(version="stable"):
     g_channel_settings['INSTALLATION_TYPE'] = version
 
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-    studio_installer.main( g_channel_settings )
+    channel_installer.main( g_channel_settings )
 
 
