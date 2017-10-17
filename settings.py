@@ -29,8 +29,8 @@ import sys
 import datetime
 
 import sublime
-from .channel_utilities import clean_urljoin
-from .channel_utilities import get_main_directory
+from ChannelManager.studio_utilities import clean_urljoin
+from ChannelManager.studio_utilities import get_main_directory
 
 
 # Infer the correct package name and current directory absolute path
