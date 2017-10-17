@@ -61,11 +61,12 @@ def plugin_loaded():
 
     # Where to save the settings for channel after it is installed on the user's machine
     g_channel_settings['USER_FOLDER_PATH']             = USER_FOLDER_PATH
-    g_channel_settings['STUDIO_INSTALLATION_SETTINGS'] = os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
+    g_channel_settings['STUDIO_INSTALLATION_SETTINGS'] = \
+            os.path.join( USER_FOLDER_PATH,CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
 
-    # The local path to the files, used to save the generated channels. Valid URLs to the files, to use
-    # when installing the stable version of the channel See also:
+    # The local path to the files, used to save the generated channels and valid URLs to the files,
+    # to use when installing the stable version of the channel. See also:
     # https://packagecontrol.io/docs/channels_and_repositories
 
     # The default Package Control channel
@@ -83,7 +84,8 @@ def plugin_loaded():
     g_channel_settings['STUDIO_CHANNEL_URL']  = clean_urljoin( STUDIO_RAW_URL, "channel.json" )
     g_channel_settings['STUDIO_CHANNEL_FILE'] = os.path.join( CURRENT_DIRECTORY, "channel.json" )
 
-    # A direct URL/Path to the Repository File `repository.json` to use when installing the stable/development version
+    # A direct URL/Path to the Repository File `repository.json` to use when installing the
+    # stable/development version
     g_channel_settings['STUDIO_REPOSITORY_URL']  = clean_urljoin( STUDIO_RAW_URL, "repository.json" )
     g_channel_settings['STUDIO_REPOSITORY_FILE'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
 
@@ -125,7 +127,7 @@ def plugin_loaded():
     # Do not try to install this own package and the Package Control, as they are currently running
     g_channel_settings['PACKAGES_TO_NOT_INSTALL'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
 
-    # The files of the default packages you are installed
+    # The files of the `Default.sublime-package` you are installed
     g_channel_settings['DEFAULT_PACKAGES_FILES'] = \
     [
         ".gitignore",
