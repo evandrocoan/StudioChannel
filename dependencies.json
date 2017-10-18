@@ -3,8 +3,7 @@
     {
         "*":
         [
-            "ChannelManager",
-            "PythonDebugTools"
+            "ChannelManager"
         ]
     }
 }
