@@ -43,7 +43,7 @@ from .uninstallation_wizard import main as unwizard_main
 
 from ChannelManager.channel_manager import main as manager_main
 from ChannelManager.submodules_manager import main as submodules_main
-from ChannelManager.copy_default_package import main as default_main
+from ChannelManager.copy_default_package import main as copy_default_main
 
 
 # Import the debugger
@@ -91,7 +91,7 @@ class StudioChannelUpdateDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
+        copy_default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
 
 
 is_delayed = False
@@ -114,6 +114,6 @@ def plugin_loaded():
         is_forced = False
         # is_forced = True
 
-        default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+        copy_default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
 
 
