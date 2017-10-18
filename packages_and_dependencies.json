@@ -1,0 +1,252 @@
+{
+    "schema_version": "3.0.0",
+    "packages":
+    [
+        {
+            "name": "ActiveViewJumpBack",
+            "details": "https://github.com/evandrocoan/SublimeActiveViewJumpBack",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "amxmodx",
+            "details": "https://github.com/evandrocoan/SublimeAMXX_Editor",
+            "labels": ["autocompletion", "auto-complete", "amxmodx", "amx mod x", "amxx", "pawn", "build system"],
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Amxx Pawn",
+            "details": "https://github.com/evandrocoan/SublimeAmxxPawn",
+            "labels": ["language syntax", "amxmodx", "amx mod x"],
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ClearCursorsCarets",
+            "details": "https://github.com/evandrocoan/ClearCursorsCarets",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ClipboardScopeCopy",
+            "details": "https://github.com/evandrocoan/SublimeClipboardScopeCopy",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "DefaultSyntax",
+            "details": "https://github.com/evandrocoan/SublimeDefaultSyntax",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "FixProjectSwitchRestartBug",
+            "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "FixSelectionAfterIndent",
+            "details": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "FixedSelectionsClear",
+            "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ForceRewriteSublimeSettings",
+            "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Language - English and Portuguese",
+            "details": "https://github.com/evandrocoan/SublimeMultilingualDictionary",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Notepad++ Color Scheme",
+            "details": "https://github.com/evandrocoan/SublimeNotepadPlusPlusTheme",
+            "labels": ["color scheme", "notepad++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Octave",
+            "details": "https://github.com/evandrocoan/SublimeOctave",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "OpenAutoCompletion",
+            "details": "https://github.com/evandrocoan/SublimeOpenAutoCompletion",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "OverrideUnpackedPackages",
+            "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "OverwriteCommitCompletion",
+            "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "QuickSettings",
+            "details": "https://github.com/evandrocoan/SublimeQuickSettings",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "RichPlainText",
+            "details": "https://github.com/evandrocoan/SublimeRichPlainText",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SelectAllSpellingErrors",
+            "details": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SqlKeywordUppercase",
+            "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "StudioChannel",
+            "details": "https://github.com/evandrocoan/SublimeStudioChannel",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ViewSettingsFreely",
+            "details": "https://github.com/evandrocoan/SublimeViewSettingsFreely",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        }
+    ],
+    "dependencies":
+    [
+        {
+            "name": "ChannelManager",
+            "details": "https://github.com/evandrocoan/SublimeChannelManager",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PythonDebugTools",
+            "details": "https://github.com/evandrocoan/PythonDebugTools",
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
