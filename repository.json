@@ -42,7 +42,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeActiveViewJumpBack", 
             "homepage": "https://github.com/evandrocoan/SublimeActiveViewJumpBack", 
-            "name": "Active View Jump Back", 
+            "name": "ActiveViewJumpBack", 
             "previous_names": [], 
             "releases": [
                 {
@@ -242,7 +242,7 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
             "releases": [
                 {
-                    "date": "2017-10-08 22:19:44", 
+                    "date": "2017-10-14 21:52:24", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
@@ -251,7 +251,7 @@
                     ], 
                     "sublime_text": ">=3114", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/master", 
-                    "version": "2017.10.08"
+                    "version": "2017.10.14"
                 }
             ]
         }, 
@@ -259,27 +259,16 @@
             "authors": [
                 "evandrocoan"
             ], 
-            "buy": null, 
-            "description": "Amx Mod X self-contained syntax definition for Sublime Text", 
-            "donate": null, 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeAmxxPawn", 
             "homepage": "https://github.com/evandrocoan/SublimeAmxxPawn", 
-            "issues": "https://github.com/evandrocoan/SublimeAmxxPawn/issues", 
-            "labels": [
-                "language syntax", 
-                "amxmodx", 
-                "amx mod x"
-            ], 
-            "last_modified": "2017-07-13 04:28:24", 
-            "name": "Amxx Pawn", 
+            "name": "AmxxPawn", 
             "previous_names": [], 
-            "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAmxxPawn/master/README.md", 
             "releases": [
                 {
                     "date": "2017-09-29 14:47:12", 
-                    "platforms": [
-                        "*"
-                    ], 
-                    "sublime_text": ">=3114", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeAmxxPawn/zip/master", 
                     "version": "2017.09.29"
                 }
@@ -796,7 +785,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/ClearCursorsCarets", 
             "homepage": "https://github.com/evandrocoan/ClearCursorsCarets", 
-            "name": "Clear Cursors Carets", 
+            "name": "ClearCursorsCarets", 
             "previous_names": [], 
             "releases": [
                 {
@@ -842,7 +831,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeClipboardScopeCopy", 
             "homepage": "https://github.com/evandrocoan/SublimeClipboardScopeCopy", 
-            "name": "Clipboard Scope Copy", 
+            "name": "ClipboardScopeCopy", 
             "previous_names": [], 
             "releases": [
                 {
@@ -1086,11 +1075,11 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-07 15:29:51", 
+                    "date": "2017-10-18 05:22:16", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/master", 
-                    "version": "2017.10.07"
+                    "version": "2017.10.18"
                 }
             ]
         }, 
@@ -1101,7 +1090,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeDefaultSyntax", 
             "homepage": "https://github.com/evandrocoan/SublimeDefaultSyntax", 
-            "name": "Default Syntax", 
+            "name": "DefaultSyntax", 
             "previous_names": [], 
             "releases": [
                 {
@@ -1535,7 +1524,7 @@
                 "file creation", 
                 "file navigation"
             ], 
-            "last_modified": "2017-06-24 07:32:59", 
+            "last_modified": "2017-10-15 07:53:20", 
             "name": "FileManager", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md", 
@@ -1613,9 +1602,28 @@
                 "evandrocoan"
             ], 
             "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
+            "homepage": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
+            "name": "FixedSelectionsClear", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-07-08 01:46:50", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeFixedSelectionsClear/zip/master", 
+                    "version": "2017.07.08"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug", 
             "homepage": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug", 
-            "name": "Fix Project Switch Restart Bug", 
+            "name": "FixProjectSwitchRestartBug", 
             "previous_names": [], 
             "releases": [
                 {
@@ -1634,7 +1642,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent", 
             "homepage": "https://github.com/evandrocoan/SublimeFixSelectionAfterIndent", 
-            "name": "Fix Selection After Indent", 
+            "name": "FixSelectionAfterIndent", 
             "previous_names": [], 
             "releases": [
                 {
@@ -1651,28 +1659,9 @@
                 "evandrocoan"
             ], 
             "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
-            "homepage": "https://github.com/evandrocoan/SublimeFixedSelectionsClear", 
-            "name": "Fixed Selections Clear", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-07-08 01:46:50", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeFixedSelectionsClear/zip/master", 
-                    "version": "2017.07.08"
-                }
-            ]
-        }, 
-        {
-            "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings", 
             "homepage": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings", 
-            "name": "Force Rewrite Sublime Settings", 
+            "name": "ForceRewriteSublimeSettings", 
             "previous_names": [], 
             "releases": [
                 {
@@ -1839,7 +1828,7 @@
             "homepage": "https://github.com/evandrocoan/GitGutter", 
             "issues": "https://github.com/jisaacks/GitGutter/issues", 
             "labels": [], 
-            "last_modified": "2017-10-02 12:05:19", 
+            "last_modified": "2017-10-17 19:16:02", 
             "name": "GitGutter", 
             "previous_names": [
                 "Git Gutter", 
@@ -2870,7 +2859,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeOpenAutoCompletion", 
             "homepage": "https://github.com/evandrocoan/SublimeOpenAutoCompletion", 
-            "name": "Open Auto Completion", 
+            "name": "OpenAutoCompletion", 
             "previous_names": [], 
             "releases": [
                 {
@@ -2911,25 +2900,6 @@
         }, 
         {
             "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
-            "homepage": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
-            "name": "Override Unpacked Packages", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-10-08 19:34:00", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/master", 
-                    "version": "2017.10.08"
-                }
-            ]
-        }, 
-        {
-            "authors": [
                 "OdatNurd", 
                 "Forked by evandrocoan"
             ], 
@@ -2960,9 +2930,28 @@
                 "evandrocoan"
             ], 
             "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
+            "homepage": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
+            "name": "OverrideUnpackedPackages", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-10-08 19:34:00", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/master", 
+                    "version": "2017.10.08"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
             "homepage": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
-            "name": "Overwrite Commit Completion", 
+            "name": "OverwriteCommitCompletion", 
             "previous_names": [], 
             "releases": [
                 {
@@ -3043,11 +3032,11 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-13 18:51:07", 
+                    "date": "2017-10-16 15:51:39", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/package_control/zip/master", 
-                    "version": "2017.10.13"
+                    "version": "2017.10.16"
                 }
             ]
         }, 
@@ -3240,8 +3229,8 @@
                 "Forked by evandrocoan"
             ], 
             "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimePreferencesEditor", 
-            "homepage": "https://github.com/evandrocoan/SublimePreferencesEditor", 
+            "details": "https://github.com/evandrocoan/SublimeQuickSettings", 
+            "homepage": "https://github.com/evandrocoan/SublimeQuickSettings", 
             "name": "QuickSettings", 
             "previous_names": [], 
             "releases": [
@@ -3252,7 +3241,7 @@
                     ], 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimePreferencesEditor/zip/master", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeQuickSettings/zip/master", 
                     "version": "2017.10.04"
                 }
             ]
@@ -3345,7 +3334,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeRichPlainText", 
             "homepage": "https://github.com/evandrocoan/SublimeRichPlainText", 
-            "name": "Rich Plain Text", 
+            "name": "RichPlainText", 
             "previous_names": [], 
             "releases": [
                 {
@@ -3418,7 +3407,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors", 
             "homepage": "https://github.com/evandrocoan/SublimeSelectAllSpellingErrors", 
-            "name": "Select All Spelling Errors", 
+            "name": "SelectAllSpellingErrors", 
             "previous_names": [], 
             "releases": [
                 {
@@ -3527,25 +3516,6 @@
         }, 
         {
             "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
-            "homepage": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
-            "name": "SQL Keyword Uppercase", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-07-11 19:41:57", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeSQLKeywordUppercase/zip/master", 
-                    "version": "2017.07.11"
-                }
-            ]
-        }, 
-        {
-            "authors": [
                 "jum4", 
                 "Forked by evandrocoan"
             ], 
@@ -3568,6 +3538,25 @@
                     "sublime_text": ">=3092", 
                     "url": "https://codeload.github.com/evandrocoan/sublime-sqlexec/zip/master", 
                     "version": "2017.09.29"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
+            "homepage": "https://github.com/evandrocoan/SublimeSQLKeywordUppercase", 
+            "name": "SqlKeywordUppercase", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-07-11 19:41:57", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeSQLKeywordUppercase/zip/master", 
+                    "version": "2017.07.11"
                 }
             ]
         }, 
@@ -3642,7 +3631,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-14 17:59:34", 
+                    "date": "2017-10-18 09:58:49", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
@@ -3650,7 +3639,7 @@
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/master", 
-                    "version": "2017.10.14"
+                    "version": "2017.10.18"
                 }
             ]
         }, 
@@ -4238,7 +4227,7 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting", 
             "issues": "https://github.com/randy3k/UnitTesting/issues", 
             "labels": [], 
-            "last_modified": "2017-10-13 11:45:01", 
+            "last_modified": "2017-10-16 21:59:22", 
             "name": "UnitTesting", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/randy3k/UnitTesting/master/README.md", 
@@ -4265,11 +4254,11 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-13 10:44:21", 
+                    "date": "2017-10-16 05:56:28", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/User/zip/master", 
-                    "version": "2017.10.13"
+                    "version": "2017.10.16"
                 }
             ]
         }, 
@@ -4307,7 +4296,7 @@
             "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeViewSettingsFreely", 
             "homepage": "https://github.com/evandrocoan/SublimeViewSettingsFreely", 
-            "name": "View Settings Freely", 
+            "name": "ViewSettingsFreely", 
             "previous_names": [], 
             "releases": [
                 {
@@ -4447,7 +4436,7 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-10-14 17:03:07", 
+                    "date": "2017-10-18 10:28:19", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
@@ -4455,7 +4444,7 @@
                     "sublime_text": ">=3126", 
                     "tags": true, 
                     "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                    "version": "2017.10.14"
+                    "version": "2017.10.18"
                 }
             ]
         }, 
