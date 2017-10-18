@@ -50,19 +50,19 @@ def plugin_loaded():
     global g_channel_settings
 
     # The folder where the directory where the Sublime Text `Packages` (loose packages) folder is on
-    STUDIO_MAIN_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
+    CHANNEL_ROOT_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
 
     # The folder where the User settings are on
-    USER_FOLDER_PATH = os.path.join( STUDIO_MAIN_DIRECTORY, "Packages", "User" )
+    USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
 
     # The temporary folder to download the main repository when installing the development version
-    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_studio_temp"
-    g_channel_settings['STUDIO_PACKAGE_NAME']     = CURRENT_PACKAGE_NAME
+    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
+    g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
 
     # Where to save the settings for channel after it is installed on the user's machine
-    g_channel_settings['USER_FOLDER_PATH']             = USER_FOLDER_PATH
-    g_channel_settings['STUDIO_INSTALLATION_SETTINGS'] = \
-            os.path.join( USER_FOLDER_PATH,CURRENT_PACKAGE_NAME + ".sublime-settings" )
+    g_channel_settings['USER_FOLDER_PATH']              = USER_FOLDER_PATH
+    g_channel_settings['CHANNEL_INSTALLATION_SETTINGS'] = \
+            os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
 
     # The local path to the files, used to save the generated channels and valid URLs to the files,
@@ -72,26 +72,26 @@ def plugin_loaded():
     # The default Package Control channel
     g_channel_settings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
 
-    # The URL of the folder where the channel files are hosted
-    STUDIO_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
+    # The URL of the directory where the files `channel.json` and `repository.json` are hosted
+    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
 
     # The URL to the main A direct URL/Path to the repository where there is the `.gitmodules` file
     # listing all the channel packages to use when generating Studio Channel files.
-    g_channel_settings['STUDIO_MAIN_URL']       = "https://github.com/evandrocoan/SublimeTextStudio"
-    g_channel_settings['STUDIO_MAIN_DIRECTORY'] = STUDIO_MAIN_DIRECTORY
+    g_channel_settings['CHANNEL_ROOT_URL']       = "https://github.com/evandrocoan/SublimeTextStudio"
+    g_channel_settings['CHANNEL_ROOT_DIRECTORY'] = CHANNEL_ROOT_DIRECTORY
 
     # The file path to the Channel File `channel.json` to use when installing the development version
-    g_channel_settings['STUDIO_CHANNEL_URL']  = clean_urljoin( STUDIO_RAW_URL, "channel.json" )
-    g_channel_settings['STUDIO_CHANNEL_FILE'] = os.path.join( CURRENT_DIRECTORY, "channel.json" )
+    g_channel_settings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
+    g_channel_settings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_DIRECTORY, "channel.json" )
 
     # A direct URL/Path to the Repository File `repository.json` to use when installing the
     # stable/development version
-    g_channel_settings['STUDIO_REPOSITORY_URL']  = clean_urljoin( STUDIO_RAW_URL, "repository.json" )
-    g_channel_settings['STUDIO_REPOSITORY_FILE'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
+    g_channel_settings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
+    g_channel_settings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
 
     # A direct URL/Path to the `settings.json` to use when installing the stable/development version
-    g_channel_settings['STUDIO_SETTINGS_URL']  = clean_urljoin( STUDIO_RAW_URL, "settings.json" )
-    g_channel_settings['STUDIO_SETTINGS_PATH'] = os.path.join( CURRENT_DIRECTORY, "settings.json" )
+    g_channel_settings['CHANNEL_SETTINGS_URL']  = clean_urljoin( CHANNEL_RAW_URL, "settings.json" )
+    g_channel_settings['CHANNEL_SETTINGS_PATH'] = os.path.join( CURRENT_DIRECTORY, "settings.json" )
 
 
     # The package `PackagesManager` need to installed last, otherwise soon as it is installed it

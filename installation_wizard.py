@@ -79,13 +79,6 @@ g_is_to_go_back = False
 
 
 def main():
-    """
-        Before calling this installer, the `Package Control` user settings file, must have the
-        Studio Channel file set before the default channel key `channels`.
-
-        Also the current `Package Control` cache must be cleaned, ensuring it is downloading and
-        using the Studio Channel repositories/channel list.
-    """
     log( 2, "Entering on %s main(0)" % CURRENT_PACKAGE_NAME )
 
     wizard_thread = StartInstallationWizardThread()
@@ -120,8 +113,8 @@ class StartInstallationWizardThread(threading.Thread):
             wizard_thread = InstallationWizardThread()
 
             wizard_thread.start()
-            ThreadProgress( wizard_thread, 'Running the Studio Installation Wizard',
-                    'The Installation Wizard finished' )
+            ThreadProgress( wizard_thread, 'Running the %s Installation Wizard...' % CURRENT_PACKAGE_NAME,
+                    'The %s Installation Wizard finished.' % CURRENT_PACKAGE_NAME )
 
             wizard_thread.join()
             # check_uninstalled_packages()
@@ -259,7 +252,7 @@ def start_the_installation_process():
         """ % ( CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, g_uninstallation_command,
                 CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_NAME ) ),
         "",
-        g_link_wrapper.fill( "<%s/issues>" % g_channel_settings['STUDIO_MAIN_URL'] ),
+        g_link_wrapper.fill( "<%s/issues>" % g_channel_settings['CHANNEL_ROOT_URL'] ),
         "",
         wrap_text( """\
         Just do not forget to save your Sublime Text Console output, as it recorded everything which
@@ -267,7 +260,7 @@ def start_the_installation_process():
         """ ),
     ]
 
-    install_studio_channel()
+    install_channel()
     sublime.message_dialog( "\n".join( lines ) )
 
 
@@ -381,7 +374,7 @@ def select_stable_or_developent_version():
                     not forget to save your Sublime Text Console output, as it recorded everything
                     which happened, and should be very helpful in finding the solution for the
                     problem.
-                    """ % ( CURRENT_PACKAGE_NAME, g_channel_settings['STUDIO_MAIN_URL'] ) ) )
+                    """ % ( CURRENT_PACKAGE_NAME, g_channel_settings['CHANNEL_ROOT_URL'] ) ) )
 
     return user_response != sublime.DIALOG_CANCEL, False
 
@@ -415,8 +408,8 @@ def show_license_agreement():
         license:
         """ % CURRENT_PACKAGE_NAME ),
         "",
-        g_link_wrapper.fill( "<%s#License>" % g_channel_settings['STUDIO_MAIN_URL'] ),
-        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_CHANNEL_URL'] ),
+        g_link_wrapper.fill( "<%s#License>" % g_channel_settings['CHANNEL_ROOT_URL'] ),
+        g_link_wrapper.fill( "<%s>" % g_channel_settings['CHANNEL_FILE_URL'] ),
         "",
         wrap_text( """\
         Did you read and agree with these conditions for using these softwares, packages, plugins,
@@ -502,8 +495,8 @@ def show_program_description():
         find this list of packages to be installed on channel on the following addresses:
         """ % CURRENT_PACKAGE_NAME ),
         "",
-        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_MAIN_URL'] ),
-        g_link_wrapper.fill( "<%s>" % g_channel_settings['STUDIO_CHANNEL_URL'] ),
+        g_link_wrapper.fill( "<%s>" % g_channel_settings['CHANNEL_ROOT_URL'] ),
+        g_link_wrapper.fill( "<%s>" % g_channel_settings['CHANNEL_FILE_URL'] ),
         "",
         wrap_text( """\
         Therefore, this installer will install all Sublime Text Packages listed on the above address,
@@ -544,9 +537,9 @@ def show_goodbye_message():
                 CURRENT_PACKAGE_NAME, ask_later_text, g_installation_command ) ),
     ]
 
-    studio_installation_settings = g_channel_settings['STUDIO_INSTALLATION_SETTINGS']
+    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
 
-    settings       = load_data_file( studio_installation_settings )
+    settings       = load_data_file( channelSettingsPath )
     sublime_dialog = sublime.yes_no_cancel_dialog( "\n".join( lines ), ok_button_text, ask_later_text )
 
     if sublime_dialog == sublime.DIALOG_YES:
@@ -558,7 +551,7 @@ def show_goodbye_message():
     else:
         settings['automatically_show_installation_wizard'] = False
 
-    write_data_file( studio_installation_settings, settings )
+    write_data_file( channelSettingsPath, settings )
     return False
 
 
@@ -570,14 +563,14 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
-    studio_installation_settings = g_channel_settings['STUDIO_INSTALLATION_SETTINGS']
+    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
 
-    if os.path.exists( studio_installation_settings ):
-        settings = load_data_file( studio_installation_settings )
+    if os.path.exists( channelSettingsPath ):
+        settings = load_data_file( channelSettingsPath )
         return get_dictionary_key( settings, "automatically_show_installation_wizard", False )
 
     else:
-        write_data_file( studio_installation_settings, {"automatically_show_installation_wizard": False} )
+        write_data_file( channelSettingsPath, {"automatically_show_installation_wizard": False} )
 
     return True
 
@@ -594,27 +587,27 @@ def check_for_the_first_time():
         main()
 
 
-def install_studio_channel():
+def install_channel():
     g_channel_settings['INSTALLATION_TYPE'] = g_version_to_install
     sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
 
-    add_studio_channel()
+    add_channel()
     clear_cache()
 
     channel_installer.main( g_channel_settings )
 
 
-def add_studio_channel():
+def add_channel():
     package_control    = "Package Control.sublime-settings"
-    studio_channel_url = g_channel_settings['STUDIO_CHANNEL_URL']
+    channel_url = g_channel_settings['CHANNEL_FILE_URL']
 
     package_control_settings = sublime.load_settings( package_control )
     channels                 = package_control_settings.get( "channels", [] )
 
-    if studio_channel_url in channels:
-        channels.remove( studio_channel_url )
+    while channel_url in channels:
+        channels.remove( channel_url )
 
-    channels.insert( 0, studio_channel_url )
+    channels.insert( 0, channel_url )
     package_control_settings.set( "channels", channels )
 
     log( 1, "Adding %s channel to %s: %s" % ( CURRENT_PACKAGE_NAME, package_control, str( channels ) ) )
@@ -626,7 +619,7 @@ def install(version="stable"):
         Used for testing purposes while developing this package.
     """
     unpack_settings()
-    add_studio_channel()
+    add_channel()
 
     g_channel_settings['INSTALLATION_TYPE'] = version
 

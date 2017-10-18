@@ -103,8 +103,8 @@ class StartInstallationWizardThread(threading.Thread):
             wizard_thread = InstallationWizardThread()
 
             wizard_thread.start()
-            ThreadProgress( wizard_thread, 'Running the Studio Installation Wizard',
-                    'The Installation Wizard finished' )
+            ThreadProgress( wizard_thread, 'Running the %s Installation Wizard' % CURRENT_PACKAGE_NAME,
+                    'The %s Installation Wizard finished' % CURRENT_PACKAGE_NAME )
 
             wizard_thread.join()
 
