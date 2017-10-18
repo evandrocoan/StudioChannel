@@ -93,7 +93,9 @@ def plugin_loaded():
     g_channel_settings['CHANNEL_SETTINGS_URL']  = clean_urljoin( CHANNEL_RAW_URL, "settings.json" )
     g_channel_settings['CHANNEL_SETTINGS_PATH'] = os.path.join( CURRENT_DIRECTORY, "settings.json" )
 
-
+    # You can specify for some packages to be popped out from the list and being installed by
+    # first/last in the following order presented.
+    #
     # The package `PackagesManager` need to installed last, otherwise soon as it is installed it
     # will ask the user restart Sublime Text due the installation of missing dependencies. However
     # if the user restarts Sublime Text on the middle of the installation, the installation is
@@ -111,6 +113,11 @@ def plugin_loaded():
     # {
     #     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
     # }
+    g_channel_settings['PACKAGES_TO_INSTALL_FIRST'] = \
+    [
+        "Notepad++ Color Scheme",
+    ]
+
     g_channel_settings['PACKAGES_TO_INSTALL_LAST'] = \
     [
         "Default",
@@ -127,7 +134,7 @@ def plugin_loaded():
     # Do not try to install this own package and the Package Control, as they are currently running
     g_channel_settings['PACKAGES_TO_NOT_INSTALL'] = [ "Package Control", CURRENT_PACKAGE_NAME ]
 
-    # The files of the `Default.sublime-package` you are installed
+    # The files of the `Default.sublime-package` you are installing
     g_channel_settings['DEFAULT_PACKAGES_FILES'] = \
     [
         ".gitignore",
