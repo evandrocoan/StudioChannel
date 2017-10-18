@@ -24,9 +24,21 @@
             ]
         },
         {
-            "name": "Amxx Pawn",
+            "name": "AmxxChannel",
+            "details": "https://github.com/evandrocoan/AmxxChannel",
+            "labels": ["channel"],
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "AmxxPawn",
             "details": "https://github.com/evandrocoan/SublimeAmxxPawn",
             "labels": ["language syntax", "amxmodx", "amx mod x"],
+            "previous_names": ["Amxx Pawn"],
             "releases": [
                 {
                     "sublime_text": ">=3114",
@@ -208,6 +220,7 @@
         {
             "name": "StudioChannel",
             "details": "https://github.com/evandrocoan/SublimeStudioChannel",
+            "labels": ["channel"],
             "releases": [
                 {
                     "sublime_text": ">=3126",
