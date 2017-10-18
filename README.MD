@@ -11,13 +11,6 @@ to these files will be overridden when the `Channel Manager` generates a new ver
 based on the Sublime Text Studio `.gitmodules` file. Any new information required to be used here
 need to be parsed from the `.gitmodules` by the `Sublime Channel Manager`.
 
-It also has the custom plugin `synced_side_bar_watcher.py` creates the command
-`synced_side_bar_reveal_in_side_bar`, to replace the default context menu command
-`SyncedSideBarRevealInSideBar`.
-
-[forum#22753](https://forum.sublimetext.com/t/solved-how-to-add-remove-a-default-menu-entry-when-a-x-package-is-isnt-enabled-installed/22753)
-How to add/remove a default menu entry when a X package is/isn’t enabled/installed?
-
 
 ## Channel Manager
 
