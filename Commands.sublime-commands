@@ -1,6 +1,15 @@
 [
-    { "caption": "Studio Channel: Generate Channel File", "command": "studio_channel_generate_channel_file" },
-    { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run", "args": {"run": "-b"} },
-    { "caption": "Studio Channel: Pull & Rebase all Packages", "command": "studio_channel_run", "args": {"run": "-p"} },
+    { "caption": "Studio Channel: Generate Channel File", "command": "studio_channel_generate_channel_file",
+            "args": {"create_tags": false} },
+
+    { "caption": "Studio Channel: Generate Channel File and Tags", "command": "studio_channel_generate_channel_file",
+            "args": {"create_tags": true} },
+
+    { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
+            "args": {"run": "-b"} },
+
+    { "caption": "Studio Channel: Pull & Rebase all Packages", "command": "studio_channel_run",
+            "args": {"run": "-p"} },
+
     { "caption": "Studio Channel: Update Default Packages", "command": "studio_channel_update_default_packages" },
 ]
