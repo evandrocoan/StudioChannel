@@ -424,12 +424,12 @@
                 "releases": [
                     {
                         "date": "2017-10-07 12:17:13", 
-                        "git_tag": "1.0.0", 
+                        "git_tag": "1.0.1", 
                         "platforms": [
                             "*"
                         ], 
                         "sublime_text": ">=3092", 
-                        "url": "https://codeload.github.com/evandrocoan/AutoFileName/zip/1.0.0", 
+                        "url": "https://codeload.github.com/evandrocoan/AutoFileName/zip/1.0.1", 
                         "version": "2017.10.07"
                     }
                 ]
@@ -1118,7 +1118,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-20 17:23:34", 
+                        "date": "2017-10-20 23:07:49", 
                         "git_tag": "1.0.0", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
@@ -1394,7 +1394,7 @@
                 "homepage": "https://github.com/evandrocoan/ExportHtml", 
                 "issues": "https://github.com/facelessuser/ExportHtml/issues", 
                 "labels": [], 
-                "last_modified": "2017-08-12 19:51:26", 
+                "last_modified": "2017-10-21 02:19:23", 
                 "name": "ExportHtml", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
@@ -3146,12 +3146,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-20 17:21:55", 
-                        "git_tag": "3.3.0", 
+                        "date": "2017-10-21 01:00:18", 
+                        "git_tag": "3.3.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/package_control/zip/3.3.0", 
-                        "version": "2017.10.20"
+                        "url": "https://codeload.github.com/evandrocoan/package_control/zip/3.3.1", 
+                        "version": "2017.10.21"
                     }
                 ]
             }, 
@@ -3767,16 +3767,16 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-20 22:45:44", 
+                        "date": "2017-10-21 01:10:48", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "ChannelManager"
                         ], 
-                        "git_tag": "1.0.0", 
+                        "git_tag": "1.0.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.0", 
-                        "version": "2017.10.20"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.1", 
+                        "version": "2017.10.21"
                     }
                 ]
             }, 
@@ -4603,16 +4603,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-10-20 22:45:43", 
+                        "date": "2017-10-21 12:14:36", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.0", 
+                        "git_tag": "1.0.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.0", 
-                        "version": "2017.10.20"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.1", 
+                        "version": "2017.10.21"
                     }
                 ]
             }, 
