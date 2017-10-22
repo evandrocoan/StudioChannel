@@ -250,17 +250,17 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
             "releases": [
                 {
-                    "date": "2017-10-21 17:39:51", 
+                    "date": "2017-10-22 19:06:26", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
-                    "git_tag": "1.1.6", 
+                    "git_tag": "1.1.7", 
                     "platforms": [
                         "*"
                     ], 
                     "sublime_text": ">=3114", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/1.1.6", 
-                    "version": "2017.10.21"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/1.1.7", 
+                    "version": "2017.10.22"
                 }
             ]
         }, 
@@ -1390,7 +1390,7 @@
             "homepage": "https://github.com/evandrocoan/ExportHtml", 
             "issues": "https://github.com/facelessuser/ExportHtml/issues", 
             "labels": [], 
-            "last_modified": "2017-10-21 02:19:23", 
+            "last_modified": "2017-10-22 00:59:38", 
             "name": "ExportHtml", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
@@ -3507,7 +3507,7 @@
             "homepage": "https://github.com/evandrocoan/ScopeHunter", 
             "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
             "labels": [], 
-            "last_modified": "2017-10-20 04:30:56", 
+            "last_modified": "2017-10-22 01:00:29", 
             "name": "ScopeHunter", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
@@ -3763,7 +3763,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-22 00:00:33", 
+                    "date": "2017-10-22 18:18:19", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
@@ -4408,12 +4408,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-19 20:04:12", 
-                    "git_tag": "1.0.0", 
+                    "date": "2017-10-22 19:06:54", 
+                    "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.0", 
-                    "version": "2017.10.19"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.1", 
+                    "version": "2017.10.22"
                 }
             ]
         }, 
@@ -4597,15 +4597,15 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-10-22 00:01:45", 
+                    "date": "2017-10-22 19:30:59", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
-                    "git_tag": "1.0.2", 
+                    "git_tag": "1.0.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.2", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.4", 
                     "version": "2017.10.22"
                 }
             ]
