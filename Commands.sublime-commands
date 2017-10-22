@@ -5,6 +5,9 @@
     { "caption": "Studio Channel: Generate Channel File and Tags", "command": "studio_channel_generate_channel_file",
             "args": {"create_tags": true} },
 
+    { "caption": "Studio Channel: Push Local Git Tags",
+            "command": "studio_channel_run", "args": {"run": "-t"} },
+
     { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
             "args": {"run": "-b"} },
 
