@@ -5,6 +5,9 @@
     { "caption": "Studio Channel: Generate Channel File and Tags", "command": "studio_channel_generate_channel_file",
             "args": {"create_tags": true} },
 
+    { "caption": "Studio Channel: Select Package to Update Git Tag", "command": "studio_channel_generate_channel_file",
+            "args": { "create_tags": true, "command": "git_tag" } },
+
     { "caption": "Studio Channel: Push Local Git Tags",
             "command": "studio_channel_run", "args": {"run": "-t"} },
 

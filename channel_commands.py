@@ -75,9 +75,9 @@ class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
 
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
-    def run(self, create_tags):
+    def run(self, create_tags, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        manager_main( settings.g_channel_settings, create_tags )
+        manager_main( settings.g_channel_settings, create_tags, command )
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
