@@ -58,6 +58,12 @@ log( 2, "Debugging" )
 log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
+class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
+
+    def run(self):
+        unwizard_main()
+
+
 class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
@@ -67,17 +73,14 @@ class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
         return installation_wizard.g_is_package_control_installed
 
 
-class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
-
-    def run(self):
-        unwizard_main()
-
-
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
     def run(self, create_tags, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         manager_main( settings.g_channel_settings, create_tags, command )
+
+    def is_enabled(self):
+        return not installation_wizard.g_is_package_control_installed
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
@@ -86,12 +89,18 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         submodules_main( run )
 
+    def is_enabled(self):
+        return not installation_wizard.g_is_package_control_installed
+
 
 class StudioChannelUpdateDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         copy_default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
+
+    def is_enabled(self):
+        return not installation_wizard.g_is_package_control_installed
 
 
 is_delayed = False
