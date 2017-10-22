@@ -128,6 +128,15 @@ def plugin_loaded():
         "PackagesManager"
     ]
 
+    # Packages which are not allowed to be selected by the user while choosing the packages to not
+    # be installed. Useful for packages which are required for the channel maintainability.
+    g_channel_settings['FORBIDDEN_PACKAGES'] = \
+    [
+        "PackagesManager",
+        "ChannelManager",
+        "Notepad++ Color Scheme",
+    ]
+
     # The default user preferences file
     g_channel_settings['USER_SETTINGS_FILE'] = "Preferences.sublime-settings"
 
