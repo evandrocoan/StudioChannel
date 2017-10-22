@@ -141,10 +141,16 @@ def plugin_loaded():
         CURRENT_PACKAGE_NAME,
     ]
 
-    # Packages which you do want to install when reading the `.gitmodules` packages list
-    g_channel_settings['PACKAGES_TO_NOT_INSTALL'] = \
+    # Packages which you do want to install on the Stable or Development version, when reading
+    # the `.gitmodules` packages list.
+    g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
+        "PythonDebugTools",
         "AmxxChannel",
+    ]
+
+    g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
+    [
     ]
 
     # The files of the `Default.sublime-package` you are installing
