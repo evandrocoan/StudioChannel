@@ -17,7 +17,7 @@ the uninstaller, if you want to uninstall everything, after or before installing
 packages.
 
 You can find they on the menu `Preferences -> Packages Settings -> Studio Channel -> Run Stable
-Installation or Run Uninstallation`.
+Installation` or the `Run Uninstallation` if want to uninstall it.
 
 
 ## Channel Manager
