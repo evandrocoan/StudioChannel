@@ -8,7 +8,7 @@
     { "caption": "Studio Channel: Select Package to Update Git Tag", "command": "studio_channel_generate_channel_file",
             "args": { "create_tags": true, "command": "git_tag" } },
 
-    { "caption": "Studio Channel: Force Update All Git Tags", "command": "studio_channel_generate_channel_file",
+    { "caption": "Studio Channel: Force Update All Packages Git Tags", "command": "studio_channel_generate_channel_file",
             "args": { "create_tags": true, "command": "git_tag_all" } },
 
     { "caption": "Studio Channel: Push Local Git Tags",

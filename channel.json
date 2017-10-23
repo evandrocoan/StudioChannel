@@ -280,10 +280,7 @@
                 "releases": [
                     {
                         "date": "2017-10-23 09:57:52", 
-                        "git_tag": [
-                            false, 
-                            "fatal: No names found, cannot describe anything."
-                        ], 
+                        "git_tag": "1.0.0", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/master", 
@@ -3070,7 +3067,7 @@
                 "releases": [
                     {
                         "date": "2017-10-23 08:04:39", 
-                        "git_tag": "1.0.1", 
+                        "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/master", 
@@ -3169,7 +3166,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-23 08:54:10", 
+                        "date": "2017-10-23 10:49:08", 
                         "git_tag": "3.3.3", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
@@ -3790,7 +3787,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-23 09:53:25", 
+                        "date": "2017-10-23 10:14:38", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "ChannelManager"
@@ -4605,11 +4602,11 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-10-23 09:45:27", 
+                        "date": "2017-10-23 10:01:52", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.7", 
+                        "git_tag": "1.0.8", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
