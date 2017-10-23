@@ -1,0 +1,2395 @@
+DPI scale: 1
+startup, version: 3152 windows x32 channel: dev
+executable: /D/SublimeText/Old Builds/3152/sublime_text.exe
+working dir: /D/SublimeText/Old Builds/3152
+packages path: /C/User/AppData/Roaming/Sublime Text 3/Packages
+state path: /C/User/AppData/Roaming/Sublime Text 3/Local
+zip path: /D/SublimeText/Old Builds/3152/Packages
+zip path: /C/User/AppData/Roaming/Sublime Text 3/Installed Packages
+ignored_packages: ["Vintage"]
+pre session restore time: 0.408594
+startup time: 0.575594
+first paint time: 0.583594
+reloading plugin Default.auto_indent_tag
+reloading plugin Default.block
+reloading plugin Default.comment
+reloading plugin Default.convert_syntax
+reloading plugin Default.copy_path
+reloading plugin Default.delete_word
+reloading plugin Default.detect_indentation
+reloading plugin Default.duplicate_line
+reloading plugin Default.echo
+reloading plugin Default.exec
+reloading plugin Default.fold
+reloading plugin Default.font
+reloading plugin Default.goto_line
+reloading plugin Default.history_list
+reloading plugin Default.indentation
+reloading plugin Default.install_package_control
+reloading plugin Default.kill_ring
+reloading plugin Default.mark
+reloading plugin Default.new_templates
+reloading plugin Default.open_context_url
+reloading plugin Default.open_in_browser
+reloading plugin Default.pane
+reloading plugin Default.paragraph
+reloading plugin Default.paste_from_history
+reloading plugin Default.profile
+reloading plugin Default.quick_panel
+reloading plugin Default.run_syntax_tests
+reloading plugin Default.save_on_focus_lost
+reloading plugin Default.scroll
+reloading plugin Default.set_unsaved_view_name
+reloading plugin Default.settings
+reloading plugin Default.show_scope_name
+reloading plugin Default.side_bar
+reloading plugin Default.sort
+reloading plugin Default.swap_line
+reloading plugin Default.switch_file
+reloading plugin Default.symbol
+reloading plugin Default.transform
+reloading plugin Default.transpose
+reloading plugin Default.trim_trailing_white_space
+reloading plugin Default.ui
+reloading plugin CSS.css_completions
+reloading plugin Diff.diff
+reloading plugin HTML.encode_html_entities
+reloading plugin HTML.html_completions
+reloading plugin ShellScript.ShellScript
+reloading plugin 0_package_control_loader.00-package_control
+reloading plugin 0_package_control_loader.50-ChannelManager
+reloading plugin Package Control.1_reloader
+reloading plugin Package Control.2_bootstrap
+reloading plugin Package Control.Package Control
+plugins loaded
+Package Control: Skipping automatic upgrade, last run at 2017-10-23 08:33:32, next run at 2017-10-23 09:33:32 or after
+ignored packages updated to: ["StudioChannel", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: The dependency 'PythonDebugTools' is not currently installed; installing...
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin PythonDebugTools.debug_tools
+Package Control: The dependency 'PythonDebugTools' has successfully been installed or updated
+Package Control: The dependency 'ChannelManager' is not currently installed; installing...
+reloading plugin ChannelManager.channel_installer
+reloading plugin ChannelManager.channel_manager
+reloading plugin ChannelManager.channel_manager_tests
+reloading plugin ChannelManager.channel_uninstaller
+reloading plugin ChannelManager.channel_utilities
+reloading plugin ChannelManager.copy_default_package
+reloading plugin ChannelManager.settings
+reloading plugin ChannelManager.submodules_manager
+ignored packages updated to: ["0_package_control_loader", "StudioChannel", "Vintage"]
+unloading plugin 0_package_control_loader.00-package_control
+unloading plugin 0_package_control_loader.50-ChannelManager
+reloading settings Packages/User/Package Control.sublime-settings
+C:\User\AppData\Roaming\Sublime Text 3\Installed Packages\Package Control.sublime-package\package_control/loader.py:294: UserWarning: Duplicate name: '50-ChannelManager.py'
+Package Control: The dependency 'ChannelManager' has successfully been installed or updated
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["StudioChannel", "Vintage"]
+reloading plugin 0_package_control_loader.00-package_control
+reloading plugin 0_package_control_loader.50-PythonDebugTools
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+reloading plugin StudioChannel.channel_commands
+reloading plugin StudioChannel.installation_wizard
+reloading plugin StudioChannel.settings
+reloading plugin StudioChannel.uninstallation_wizard
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[copy_default_package.py] 08:40:59  565224  379192 Entering on main(0)
+[channel_utilities.py] 08:40:59  593251  407219 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[installation_wizard.py] 08:40:59  595253  409221 Entering on StudioChannel main(0)
+[installation_wizard.py] 08:40:59  596755    1502 Entering on InstallationWizardThread run(1)
+[installation_wizard.py] 08:41:15  475688 -121067 Adding StudioChannel channel to Package Control.sublime-settings: ['https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/channel.json', 'https://packagecontrol.io/channel_v3.json']
+[channel_installer.py] 08:41:15  476189  290157 Entering on ChannelManager main(0)
+[channel_installer.py] 08:41:15  479692    3503 Entering on run(1)
+Package Control: Looking for None at: "..."
+[channel_installer.py] 08:41:15  494206   14514 run, git_executable_path: C:\Program Files (x86)\Git\bin\git.exe
+[channel_installer.py] 08:41:15  494206       0 install_modules_, git_executable_path: C:\Program Files (x86)\Git\bin\git.exe
+[channel_installer.py] 08:41:15  800994  306788 load_ignored_packages, g_packages_to_ignore:       ['All Autocomplete', 'Anaconda', 'ApplySyntax', 'BracketHighlighter', 'C++ Completions', 'C++ Snippets', 'C++ Starting Kit', 'ColorHelper', 'DictionaryAutoComplete', 'FileManager', 'Find++', 'FuzzyFilePath', 'Gist', 'Git', 'GitGutter', 'GotoLastEditEnhanced', 'Javatar', 'Jedi - Python autocompletion', 'Local History', 'Matlab Completions', 'MatlabFilenameAutoComplete', 'MySQL Snippets', 'Project Specific Syntax Settings', 'Qt Completions for C++', 'ScopeAlways', 'sublime-text-2-buildview', 'SublimeCodeIntel', 'SyncedSideBar', 'TypeScript', 'Vintage', 'WordHighlight']
+[channel_installer.py] 08:41:15  801495     501 load_ignored_packages, g_default_ignored_packages: ['Vintage']
+[channel_installer.py] 08:41:15  801495       0 unignore_installed_packages: []
+[channel_installer.py] 08:41:16   18700 -782795 get_stable_packages, installed_packages: ['Package Control', 'StudioChannel']
+[channel_installer.py] 08:41:16   75312   56612 get_stable_packages, packages_tonot_install: ['PythonDebugTools', 'AmxxChannel', 'Package Control', 'StudioChannel', 'All Autocomplete', 'Anaconda', 'ApplySyntax', 'BracketHighlighter', 'C++ Completions', 'C++ Snippets', 'C++ Starting Kit', 'ColorHelper', 'DictionaryAutoComplete', 'FileManager', 'Find++', 'FuzzyFilePath', 'Gist', 'Git', 'GitGutter', 'GotoLastEditEnhanced', 'Javatar', 'Jedi - Python autocompletion', 'Local History', 'Matlab Completions', 'MatlabFilenameAutoComplete', 'MySQL Snippets', 'Project Specific Syntax Settings', 'Qt Completions for C++', 'ScopeAlways', 'sublime-text-2-buildview', 'SublimeCodeIntel', 'SyncedSideBar', 'TypeScript', 'Vintage', 'WordHighlight', 'ChannelManager']
+[channel_installer.py] 08:41:16   75753     441 get_stable_packages, path: Packages/User
+[channel_installer.py] 08:41:16   75753       0 get_stable_packages, path: .versioning
+[channel_installer.py] 08:41:16   76319     566 get_stable_packages, path: Packages/PythonDebugTools
+[channel_installer.py] 08:41:16   76319       0 get_stable_packages, path: Packages/ActiveViewJumpBack
+[channel_installer.py] 08:41:16   76783     464 get_stable_packages, path: Packages/amxmodx
+[channel_installer.py] 08:41:16   76783       0 get_stable_packages, path: Packages/AmxxPawn
+[channel_installer.py] 08:41:16   77255     472 get_stable_packages, path: Packages/ClearCursorsCarets
+[channel_installer.py] 08:41:16   77755     500 get_stable_packages, path: Packages/ClipboardScopeCopy
+[channel_installer.py] 08:41:16   77755       0 get_stable_packages, path: Packages/DefaultSyntax
+[channel_installer.py] 08:41:16   77755       0 get_stable_packages, path: Packages/FixProjectSwitchRestartBug
+[channel_installer.py] 08:41:16   78255     500 get_stable_packages, path: Packages/FixSelectionAfterIndent
+[channel_installer.py] 08:41:16   78255       0 get_stable_packages, path: Packages/FixedSelectionsClear
+[channel_installer.py] 08:41:16   78255       0 get_stable_packages, path: Packages/ForceRewriteSublimeSettings
+[channel_installer.py] 08:41:16   78756     501 get_stable_packages, path: Packages/Notepad++ Color Scheme
+[channel_installer.py] 08:41:16   78756       0 get_stable_packages, path: Packages/Octave
+[channel_installer.py] 08:41:16   78756       0 get_stable_packages, path: Packages/OpenAutoCompletion
+[channel_installer.py] 08:41:16   79256     500 get_stable_packages, path: Packages/OverrideUnpackedPackages
+[channel_installer.py] 08:41:16   79256       0 get_stable_packages, path: Packages/OverwriteCommitCompletion
+[channel_installer.py] 08:41:16   79256       0 get_stable_packages, path: Packages/RichPlainText
+[channel_installer.py] 08:41:16   79757     501 get_stable_packages, path: Packages/SqlKeywordUppercase
+[channel_installer.py] 08:41:16   79757       0 get_stable_packages, path: Packages/SelectAllSpellingErrors
+[channel_installer.py] 08:41:16   80257     500 get_stable_packages, path: Packages/ChannelManager
+[channel_installer.py] 08:41:16   80257       0 get_stable_packages, path: Packages/StudioChannel
+[channel_installer.py] 08:41:16   80257       0 get_stable_packages, path: Packages/Uncrustify
+[channel_installer.py] 08:41:16   80758     501 get_stable_packages, path: Packages/ViewSettingsFreely
+[channel_installer.py] 08:41:16   80758       0 get_stable_packages, path: Packages/Language - English and Portuguese
+[channel_installer.py] 08:41:16   81264     506 get_stable_packages, path: Default.sublime-package
+[channel_installer.py] 08:41:16   81264       0 get_stable_packages, path: Packages/QuickSettings
+[channel_installer.py] 08:41:16   81759     495 get_stable_packages, path: Packages/ANSIescape
+[channel_installer.py] 08:41:16   81759       0 get_stable_packages, path: Packages/Add Folder To Project
+[channel_installer.py] 08:41:16   82259     500 get_stable_packages, path: Packages/Advanced CSV
+[channel_installer.py] 08:41:16   82259       0 get_stable_packages, path: Packages/AdvancedNewFile
+[channel_installer.py] 08:41:16   82760     501 get_stable_packages, path: Packages/AlignTab
+[channel_installer.py] 08:41:16   82760       0 get_stable_packages, path: Packages/All Autocomplete
+[channel_installer.py] 08:41:16   82760       0 get_stable_packages, path: Packages/AutoFileName
+[channel_installer.py] 08:41:16   83260     500 get_stable_packages, path: Packages/BBCode
+[channel_installer.py] 08:41:16   83260       0 get_stable_packages, path: Packages/Better CoffeeScript
+[channel_installer.py] 08:41:16   83761     501 get_stable_packages, path: Packages/BufferScroll
+[channel_installer.py] 08:41:16   83761       0 get_stable_packages, path: Packages/ChannelRepositoryTools
+[channel_installer.py] 08:41:16   84337     576 get_stable_packages, path: Packages/Color Highlighter
+[channel_installer.py] 08:41:16   84337       0 get_stable_packages, path: Packages/ColorHelper
+[channel_installer.py] 08:41:16   84827     490 get_stable_packages, path: Packages/Compare Side-By-Side
+[channel_installer.py] 08:41:16   85262     435 get_stable_packages, path: Packages/Copy Filepath With Line Numbers
+[channel_installer.py] 08:41:16   85262       0 get_stable_packages, path: Packages/CopyWithLineNumbersReloaded
+[channel_installer.py] 08:41:16   85262       0 get_stable_packages, path: Packages/DocBlockr
+[channel_installer.py] 08:41:16   85763     501 get_stable_packages, path: Packages/ExportHtml
+[channel_installer.py] 08:41:16   85763       0 get_stable_packages, path: Packages/ExtendedTabSwitcher
+[channel_installer.py] 08:41:16   86263     500 get_stable_packages, path: Packages/FileDiffs
+[channel_installer.py] 08:41:16   86263       0 get_stable_packages, path: Packages/FileManager
+[channel_installer.py] 08:41:16   86263       0 get_stable_packages, path: Packages/FuzzyFileNav
+[channel_installer.py] 08:41:16   86764     501 get_stable_packages, path: Packages/FuzzyFilePath
+[channel_installer.py] 08:41:16   86764       0 get_stable_packages, path: Packages/Gist
+[channel_installer.py] 08:41:16   86764       0 get_stable_packages, path: Packages/Google Spell Check
+[channel_installer.py] 08:41:16   87264     500 get_stable_packages, path: Packages/GotoLastEditEnhanced
+[channel_installer.py] 08:41:16   87264       0 get_stable_packages, path: Packages/Highlight Build Errors
+[channel_installer.py] 08:41:16   87264       0 get_stable_packages, path: Packages/Hungry Backspace
+[channel_installer.py] 08:41:16   87764     500 get_stable_packages, path: Packages/Indent and braces
+[channel_installer.py] 08:41:16   87764       0 get_stable_packages, path: Packages/Invert Selection
+[channel_installer.py] 08:41:16   87764       0 get_stable_packages, path: Packages/LaTeXTools
+[channel_installer.py] 08:41:16   88265     501 get_stable_packages, path: Packages/Local History
+[channel_installer.py] 08:41:16   88265       0 get_stable_packages, path: Packages/Markdown to BB Code Converter
+[channel_installer.py] 08:41:16   88265       0 get_stable_packages, path: Packages/Origami
+[channel_installer.py] 08:41:16   88766     501 get_stable_packages, path: Packages/PackagesManager
+[channel_installer.py] 08:41:16   88766       0 get_stable_packages, path: Packages/PackageDev
+[channel_installer.py] 08:41:16   88766       0 get_stable_packages, path: Packages/PowerCursors
+[channel_installer.py] 08:41:16   89266     500 get_stable_packages, path: Packages/Project Specific Syntax Settings
+[channel_installer.py] 08:41:16   89266       0 get_stable_packages, path: Packages/Side-by-Side Settings
+[channel_installer.py] 08:41:16   89767     501 get_stable_packages, path: Packages/SideBarEnhancements
+[channel_installer.py] 08:41:16   89767       0 get_stable_packages, path: Packages/SublimeCodeIntel
+[channel_installer.py] 08:41:16   89767       0 get_stable_packages, path: Packages/SublimeREPL
+[channel_installer.py] 08:41:16   90267     500 get_stable_packages, path: Packages/SyncedSideBar
+[channel_installer.py] 08:41:16   90267       0 get_stable_packages, path: Packages/SyntaxManager
+[channel_installer.py] 08:41:16   90772     505 get_stable_packages, path: Packages/Text Pastry
+[channel_installer.py] 08:41:16   90772       0 get_stable_packages, path: Packages/Toolbar
+[channel_installer.py] 08:41:16   90772       0 get_stable_packages, path: Packages/Trimmer
+[channel_installer.py] 08:41:16   91273     501 get_stable_packages, path: Packages/Wrap Plus
+[channel_installer.py] 08:41:16   91273       0 get_stable_packages, path: Packages/TypeScript
+[channel_installer.py] 08:41:16   91773     500 get_stable_packages, path: Packages/Pretty JSON
+[channel_installer.py] 08:41:16   91773       0 get_stable_packages, path: Packages/VBScript
+[channel_installer.py] 08:41:16   91773       0 get_stable_packages, path: Packages/REG
+[channel_installer.py] 08:41:16   92273     500 get_stable_packages, path: Packages/Generic Config
+[channel_installer.py] 08:41:16   92273       0 get_stable_packages, path: Packages/Dotfiles Syntax Highlighting
+[channel_installer.py] 08:41:16   92273       0 get_stable_packages, path: Packages/Maven
+[channel_installer.py] 08:41:16   92769     496 get_stable_packages, path: Packages/SublimeLinter
+[channel_installer.py] 08:41:16   92769       0 get_stable_packages, path: Packages/SublimeLinter-javac
+[channel_installer.py] 08:41:16   92769       0 get_stable_packages, path: Packages/Anaconda
+[channel_installer.py] 08:41:16   93275     506 get_stable_packages, path: Packages/SelectUntil
+[channel_installer.py] 08:41:16   93275       0 get_stable_packages, path: Packages/Case Conversion
+[channel_installer.py] 08:41:16   93275       0 get_stable_packages, path: Packages/ApplySyntax
+[channel_installer.py] 08:41:16   93775     500 get_stable_packages, path: Packages/x86 and x86_64 Assembly
+[channel_installer.py] 08:41:16   93775       0 get_stable_packages, path: Packages/Incrementor
+[channel_installer.py] 08:41:16   94275     500 get_stable_packages, path: Packages/TabsExtra
+[channel_installer.py] 08:41:16   94275       0 get_stable_packages, path: Packages/Default
+[channel_installer.py] 08:41:16   94275       0 get_stable_packages, path: Packages/Increment Selection
+[channel_installer.py] 08:41:16   94777     502 get_stable_packages, path: Packages/AutomaticPackageReloader
+[channel_installer.py] 08:41:16   94777       0 get_stable_packages, path: Packages/LaTeXSmartQuotes
+[channel_installer.py] 08:41:16   94777       0 get_stable_packages, path: Packages/A File Icon
+[channel_installer.py] 08:41:16   95277     500 get_stable_packages, path: Packages/Alignment
+[channel_installer.py] 08:41:16   95277       0 get_stable_packages, path: Packages/Auto Refresh
+[channel_installer.py] 08:41:16   95277       0 get_stable_packages, path: Packages/BracketHighlighter
+[channel_installer.py] 08:41:16   95776     499 get_stable_packages, path: Packages/C++ Completions
+[channel_installer.py] 08:41:16   96273     497 get_stable_packages, path: Packages/C++ Snippets
+[channel_installer.py] 08:41:16   96273       0 get_stable_packages, path: Packages/Chain of Command
+[channel_installer.py] 08:41:16   96273       0 get_stable_packages, path: Packages/ChangeQuotes
+[channel_installer.py] 08:41:16   96773     500 get_stable_packages, path: Packages/Clickable URLs
+[channel_installer.py] 08:41:16   96773       0 get_stable_packages, path: Packages/ColorSchemeEditor
+[channel_installer.py] 08:41:16   96773       0 get_stable_packages, path: Packages/Column Select
+[channel_installer.py] 08:41:16   97273     500 get_stable_packages, path: Packages/Delete Current File
+[channel_installer.py] 08:41:16   97273       0 get_stable_packages, path: Packages/DictionaryAutoComplete
+[channel_installer.py] 08:41:16   97273       0 get_stable_packages, path: Packages/DistractionFreeWindow
+[channel_installer.py] 08:41:16   97778     505 get_stable_packages, path: Packages/DuplicateSelections
+[channel_installer.py] 08:41:16   97778       0 get_stable_packages, path: Packages/Edit Preferences
+[channel_installer.py] 08:41:16   98275     497 get_stable_packages, path: Packages/Emmet
+[channel_installer.py] 08:41:16   98275       0 get_stable_packages, path: Packages/Extract Text to File
+[channel_installer.py] 08:41:16   98775     500 get_stable_packages, path: Packages/File History
+[channel_installer.py] 08:41:16   98775       0 get_stable_packages, path: Packages/File Rename
+[channel_installer.py] 08:41:16   99276     501 get_stable_packages, path: Packages/Find++
+[channel_installer.py] 08:41:16   99276       0 get_stable_packages, path: Packages/FindKeyConflicts
+[channel_installer.py] 08:41:16   99776     500 get_stable_packages, path: Packages/Git
+[channel_installer.py] 08:41:16   99776       0 get_stable_packages, path: Packages/GitGutter
+[channel_installer.py] 08:41:16  100277     501 get_stable_packages, path: Packages/GitHub Markdown Snippets
+[channel_installer.py] 08:41:16  100777     500 get_stable_packages, path: Packages/Glue
+[channel_installer.py] 08:41:16  101278     501 get_stable_packages, path: Packages/HighlightWords
+[channel_installer.py] 08:41:16  101778     500 get_stable_packages, path: Packages/Horizontal Scroll
+[channel_installer.py] 08:41:16  101778       0 get_stable_packages, path: Packages/BetterFindBuffer
+[channel_installer.py] 08:41:16  102278     500 get_stable_packages, path: Packages/Indent Size
+[channel_installer.py] 08:41:16  102278       0 get_stable_packages, path: Packages/Javatar
+[channel_installer.py] 08:41:16  102778     500 get_stable_packages, path: Packages/LaTeX Word Count
+[channel_installer.py] 08:41:16  102778       0 get_stable_packages, path: Packages/LESS
+[channel_installer.py] 08:41:16  102778       0 get_stable_packages, path: Packages/Line Endings Unify
+[channel_installer.py] 08:41:16  103279     501 get_stable_packages, path: Packages/Markdown Preview
+[channel_installer.py] 08:41:16  103279       0 get_stable_packages, path: Packages/Matlab Completions
+[channel_installer.py] 08:41:16  103279       0 get_stable_packages, path: Packages/MatlabFilenameAutoComplete
+[channel_installer.py] 08:41:16  103779     500 get_stable_packages, path: Packages/MaxPane
+[channel_installer.py] 08:41:16  103779       0 get_stable_packages, path: Packages/MoveText
+[channel_installer.py] 08:41:16  103779       0 get_stable_packages, path: Packages/MultiEditUtils
+[channel_installer.py] 08:41:16  104280     501 get_stable_packages, path: Packages/MySQL Snippets
+[channel_installer.py] 08:41:16  104280       0 get_stable_packages, path: Packages/Number King
+[channel_installer.py] 08:41:16  104780     500 get_stable_packages, path: Packages/OverrideAudit
+[channel_installer.py] 08:41:16  104780       0 get_stable_packages, path: Packages/PackageResourceViewer
+[channel_installer.py] 08:41:16  104780       0 get_stable_packages, path: Packages/Path Translator
+[channel_installer.py] 08:41:16  105280     500 get_stable_packages, path: Packages/PostScript
+[channel_installer.py] 08:41:16  105280       0 get_stable_packages, path: Packages/Qt Completions for C++
+[channel_installer.py] 08:41:16  105280       0 get_stable_packages, path: Packages/ReIndent
+[channel_installer.py] 08:41:16  105781     501 get_stable_packages, path: Packages/ScopeHunter
+[channel_installer.py] 08:41:16  105781       0 get_stable_packages, path: Packages/SQLExec
+[channel_installer.py] 08:41:16  105781       0 get_stable_packages, path: Packages/StickySearch
+[channel_installer.py] 08:41:16  106283     502 get_stable_packages, path: Packages/ScopeAlways
+[channel_installer.py] 08:41:16  106283       0 get_stable_packages, path: Packages/sublime-text-2-buildview
+[channel_installer.py] 08:41:16  106783     500 get_stable_packages, path: Packages/Swift
+[channel_installer.py] 08:41:16  106783       0 get_stable_packages, path: Packages/Sync View Scroll
+[channel_installer.py] 08:41:16  106783       0 get_stable_packages, path: Packages/TOML
+[channel_installer.py] 08:41:16  107283     500 get_stable_packages, path: Packages/UnitTesting
+[channel_installer.py] 08:41:16  107283       0 get_stable_packages, path: Packages/Whitespace
+[channel_installer.py] 08:41:16  107283       0 get_stable_packages, path: Packages/WordHighlight
+[channel_installer.py] 08:41:16  107784     501 get_stable_packages, path: Packages/Terminal
+[channel_installer.py] 08:41:16  107784       0 get_stable_packages, path: Packages/Sublime Tutor
+[channel_installer.py] 08:41:16  107784       0 get_stable_packages, path: Packages/Jedi - Python autocompletion
+[channel_installer.py] 08:41:16  108284     500 get_stable_packages, path: Packages/SQLTools
+[channel_installer.py] 08:41:16  108284       0 get_stable_packages, path: Packages/Syntax Highlighting for Sass
+[channel_installer.py] 08:41:16  108785     501 get_stable_packages, path: Packages/ConvertToUTF8
+[channel_installer.py] 08:41:16  108785       0 get_stable_packages, path: Packages/Random Everything
+[channel_installer.py] 08:41:16  108785       0 get_stable_packages, path: Packages/Insert Nums
+[channel_installer.py] 08:41:16  109285     500 get_stable_packages, path: Packages/AutoWrap
+[channel_installer.py] 08:41:16  109285       0 get_stable_packages, path: Packages/Toggle Words
+[channel_installer.py] 08:41:16  110286    1001 install_modules, packages_to_install: [('User', False), ('ActiveViewJumpBack', False), ('amxmodx', False), ('AmxxPawn', False), ('ClearCursorsCarets', False), ('ClipboardScopeCopy', False), ('DefaultSyntax', False), ('FixProjectSwitchRestartBug', False), ('FixSelectionAfterIndent', False), ('FixedSelectionsClear', False), ('ForceRewriteSublimeSettings', False), ('Notepad++ Color Scheme', False), ('Octave', False), ('OpenAutoCompletion', False), ('OverrideUnpackedPackages', False), ('OverwriteCommitCompletion', False), ('RichPlainText', False), ('SqlKeywordUppercase', False), ('SelectAllSpellingErrors', False), ('Uncrustify', False), ('ViewSettingsFreely', False), ('Language - English and Portuguese', False), ('QuickSettings', False), ('ANSIescape', False), ('Add Folder To Project', False), ('Advanced CSV', False), ('AdvancedNewFile', False), ('AlignTab', False), ('AutoFileName', False), ('BBCode', False), ('Better CoffeeScript', False), ('BufferScroll', False), ('ChannelRepositoryTools', False), ('Color Highlighter', False), ('Compare Side-By-Side', False), ('Copy Filepath With Line Numbers', False), ('CopyWithLineNumbersReloaded', False), ('DocBlockr', False), ('ExportHtml', False), ('ExtendedTabSwitcher', False), ('FileDiffs', False), ('FuzzyFileNav', False), ('Google Spell Check', False), ('Highlight Build Errors', False), ('Hungry Backspace', False), ('Indent and braces', False), ('Invert Selection', False), ('LaTeXTools', False), ('Markdown to BB Code Converter', False), ('Origami', False), ('PackagesManager', False), ('PackageDev', False), ('PowerCursors', False), ('Side-by-Side Settings', False), ('SideBarEnhancements', False), ('SublimeREPL', False), ('SyntaxManager', False), ('Text Pastry', False), ('Toolbar', False), ('Trimmer', False), ('Wrap Plus', False), ('Pretty JSON', False), ('VBScript', False), ('REG', False), ('Generic Config', False), ('Dotfiles Syntax Highlighting', False), ('Maven', False), ('SublimeLinter', False), ('SublimeLinter-javac', False), ('SelectUntil', False), ('Case Conversion', False), ('x86 and x86_64 Assembly', False), ('Incrementor', False), ('TabsExtra', False), ('Default', False), ('Increment Selection', False), ('AutomaticPackageReloader', False), ('LaTeXSmartQuotes', False), ('A File Icon', False), ('Alignment', False), ('Auto Refresh', False), ('Chain of Command', False), ('ChangeQuotes', False), ('Clickable URLs', False), ('ColorSchemeEditor', False), ('Column Select', False), ('Delete Current File', False), ('DistractionFreeWindow', False), ('DuplicateSelections', False), ('Edit Preferences', False), ('Emmet', False), ('Extract Text to File', False), ('File History', False), ('File Rename', False), ('FindKeyConflicts', False), ('GitHub Markdown Snippets', False), ('Glue', False), ('HighlightWords', False), ('Horizontal Scroll', False), ('BetterFindBuffer', False), ('Indent Size', False), ('LaTeX Word Count', False), ('LESS', False), ('Line Endings Unify', False), ('Markdown Preview', False), ('MaxPane', False), ('MoveText', False), ('MultiEditUtils', False), ('Number King', False), ('OverrideAudit', False), ('PackageResourceViewer', False), ('Path Translator', False), ('PostScript', False), ('ReIndent', False), ('ScopeHunter', False), ('SQLExec', False), ('StickySearch', False), ('Swift', False), ('Sync View Scroll', False), ('TOML', False), ('UnitTesting', False), ('Whitespace', False), ('Terminal', False), ('Sublime Tutor', False), ('SQLTools', False), ('Syntax Highlighting for Sass', False), ('ConvertToUTF8', False), ('Random Everything', False), ('Insert Nums', False), ('AutoWrap', False), ('Toggle Words', False)]
+[channel_installer.py] 08:41:16  110286       0 install_stable_packages, PACKAGES_TO_NOT_INSTALL_STABLE: ['PythonDebugTools', 'AmxxChannel']
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+
+[channel_installer.py] 08:41:19  898361  788075 Continuing the installation after the packages pick up...
+[channel_installer.py] 08:41:20  285731 -612630 Calling sync_package_control_and_manager...
+[channel_installer.py] 08:41:20  287229    1498 sync_package_control_and_manager, package_control: {'installed_packages': ['Package Control', 'StudioChannel'], 'bootstrapped': True, 'in_process_packages': [], 'channels': ['https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/channel.json', 'https://packagecontrol.io/channel_v3.json']}
+[channel_utilities.py] 08:41:20  287730 -305521 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_installer.py] 08:41:20  349287   62058
+
+Installing 1 of 131: Notepad++ Color Scheme (False)
+[channel_installer.py] 08:41:20  349287       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:41:20  349788     501 g_next_packages_to_ignore: ['Notepad++ Color Scheme', 'User', 'ActiveViewJumpBack', 'amxmodx', 'AmxxPawn', 'ClearCursorsCarets', 'ClipboardScopeCopy', 'DefaultSyntax', 'FixProjectSwitchRestartBug']
+ignored packages updated to: ["ActiveViewJumpBack", "amxmodx", "AmxxPawn", "ClearCursorsCarets", "ClipboardScopeCopy", "DefaultSyntax", "FixProjectSwitchRestartBug", "Notepad++ Color Scheme", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:41:20  822233  472445 add_packages_to_ignored_list, Adding packages to unignore list: ['Notepad++ Color Scheme', 'User', 'ActiveViewJumpBack', 'amxmodx', 'AmxxPawn', 'ClearCursorsCarets', 'ClipboardScopeCopy', 'DefaultSyntax', 'FixProjectSwitchRestartBug']
+[channel_utilities.py] 08:41:20  823259  535529 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:41:28    7186 -816073 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:28    9130    1944 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:28   11127    1997 Adding package to unignore list: Notepad++ Color Scheme
+[channel_installer.py] 08:41:28   11127       0
+
+Installing 2 of 131: User (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:28  817384  808254 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:28  821388    4004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:28  829896    8508 Adding package to unignore list: User
+[channel_installer.py] 08:41:28  829896       0
+
+Installing 3 of 131: ActiveViewJumpBack (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/XML.sublime-settings
+[channel_utilities.py] 08:41:29  570125 -251263 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:29  572600    2475 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:29  575099    2499 Adding package to unignore list: ActiveViewJumpBack
+[channel_installer.py] 08:41:29  575600     501
+
+Installing 4 of 131: amxmodx (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:30  817772  245172 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:30  820774    3002 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:30  823778    3004 Adding package to unignore list: amxmodx
+[channel_installer.py] 08:41:30  823778       0
+
+Installing 5 of 131: AmxxPawn (False)
+[channel_utilities.py] 08:41:32  126506 -694268 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:32  129009    2503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:32  132513    3504 Adding package to unignore list: AmxxPawn
+[channel_installer.py] 08:41:32  132513       0
+
+Installing 6 of 131: ClearCursorsCarets (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:32  875214  746205 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:32  878217    3003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:32  881219    3002 Adding package to unignore list: ClearCursorsCarets
+[channel_installer.py] 08:41:32  881720     501
+
+Installing 7 of 131: ClipboardScopeCopy (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:33  669028 -209189 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:33  672034    3006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:33  673968    2436 Adding package to unignore list: ClipboardScopeCopy
+[channel_installer.py] 08:41:33  673968       0
+
+Installing 8 of 131: DefaultSyntax (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:34  415172 -256862 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:34  417737    2565 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:34  420171    2434 Adding package to unignore list: DefaultSyntax
+[channel_installer.py] 08:41:34  420171       0
+
+Installing 9 of 131: FixProjectSwitchRestartBug (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:35  248454 -169283 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:35  251959    3505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:35  254959    3502 Adding package to unignore list: FixProjectSwitchRestartBug
+[channel_installer.py] 08:41:35  254959       0 Unignoring the package: Notepad++ Color Scheme
+[channel_installer.py] 08:41:35  254959       0 Unignoring the package: User
+[channel_installer.py] 08:41:35  254959       0 Unignoring the package: ActiveViewJumpBack
+[channel_installer.py] 08:41:35  255460     501 Unignoring the package: amxmodx
+[channel_installer.py] 08:41:35  255460       0 Unignoring the package: AmxxPawn
+[channel_installer.py] 08:41:35  255460       0 Unignoring the package: ClearCursorsCarets
+[channel_installer.py] 08:41:35  255460       0 Unignoring the package: ClipboardScopeCopy
+[channel_installer.py] 08:41:35  255460       0 Unignoring the package: DefaultSyntax
+[channel_installer.py] 08:41:35  255460       0 Unignoring the package: FixProjectSwitchRestartBug
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin ActiveViewJumpBack.active_view_jump_back
+generating syntax summary
+generating meta info summary
+reloading plugin ClearCursorsCarets.clear_cursors_carets
+reloading plugin ClipboardScopeCopy.clipboard_scope_copy
+reloading plugin DefaultSyntax.default_syntax
+reloading plugin amxmodx.AMXXEditor
+generating syntax summary
+generating meta info summary
+[channel_installer.py] 08:41:35  749927  494467
+
+Installing 10 of 131: FixSelectionAfterIndent (False)
+[channel_installer.py] 08:41:35  749927       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:41:35  750428     501 g_next_packages_to_ignore: ['FixSelectionAfterIndent', 'FixedSelectionsClear', 'ForceRewriteSublimeSettings', 'Octave', 'OpenAutoCompletion', 'OverrideUnpackedPackages', 'OverwriteCommitCompletion', 'RichPlainText', 'SqlKeywordUppercase']
+reloading settings Packages/User/AMXX-Console.sublime-settings
+reloading settings Packages/User/amxx.sublime-settings
+reloading plugin FixProjectSwitchRestartBug.fix_project_switch_restart_bug
+ignored packages updated to: ["FixedSelectionsClear", "FixSelectionAfterIndent", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+[channel_installer.py] 08:41:37  937346  186918 add_packages_to_ignored_list, Adding packages to unignore list: ['FixSelectionAfterIndent', 'FixedSelectionsClear', 'ForceRewriteSublimeSettings', 'Octave', 'OpenAutoCompletion', 'OverrideUnpackedPackages', 'OverwriteCommitCompletion', 'RichPlainText', 'SqlKeywordUppercase']
+[channel_utilities.py] 08:41:37  938353  686394 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage", "FixSelectionAfterIndent", "FixedSelectionsClear", "ForceRewriteSublimeSettings", "Octave", "OpenAutoCompletion", "OverrideUnpackedPackages", "OverwriteCommitCompletion", "RichPlainText", "SqlKeywordUppercase"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:41:47   41978 -896375 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:47   44481    2503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:47   46482    2001 Adding package to unignore list: FixSelectionAfterIndent
+[channel_installer.py] 08:41:47   46482       0
+
+Installing 11 of 131: FixedSelectionsClear (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:47  828301  783820 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:47  834306    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:47  836808    2502 Adding package to unignore list: FixedSelectionsClear
+[channel_installer.py] 08:41:47  836808       0
+
+Installing 12 of 131: ForceRewriteSublimeSettings (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:48  707631 -126675 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:48  712634    5003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:48  716643    4009 Adding package to unignore list: ForceRewriteSublimeSettings
+[channel_installer.py] 08:41:48  716643       0
+
+Installing 13 of 131: Octave (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:49  891247  178613 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:49  898254    7007 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:49  903258    5004 Adding package to unignore list: Octave
+[channel_installer.py] 08:41:49  903759     501
+
+Installing 14 of 131: OpenAutoCompletion (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:50  881182  -17072 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:50  886187    5005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:50  888689    2502 Adding package to unignore list: OpenAutoCompletion
+[channel_installer.py] 08:41:50  888689       0
+
+Installing 15 of 131: OverrideUnpackedPackages (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:52   40445 -845742 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:52   48453    8008 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:52   52457    4004 Adding package to unignore list: OverrideUnpackedPackages
+[channel_installer.py] 08:41:52   52457       0
+
+Installing 16 of 131: OverwriteCommitCompletion (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:52  843203  794750 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:52  845705    2502 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:52  849215    3510 Adding package to unignore list: OverwriteCommitCompletion
+[channel_installer.py] 08:41:52  849215       0
+
+Installing 17 of 131: RichPlainText (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:53  633449 -212256 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:53  638485    5036 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:53  641957    3472 Adding package to unignore list: RichPlainText
+[channel_installer.py] 08:41:53  641957       0
+
+Installing 18 of 131: SqlKeywordUppercase (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:41:54  583373  -55112 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:54  585851    2478 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:54  588353    2502 Adding package to unignore list: SqlKeywordUppercase
+[channel_installer.py] 08:41:54  588850     497 Unignoring the package: FixSelectionAfterIndent
+[channel_installer.py] 08:41:54  588850       0 Unignoring the package: FixedSelectionsClear
+[channel_installer.py] 08:41:54  588850       0 Unignoring the package: ForceRewriteSublimeSettings
+[channel_installer.py] 08:41:54  588850       0 Unignoring the package: Octave
+[channel_installer.py] 08:41:54  592855    4005 Unignoring the package: OpenAutoCompletion
+[channel_installer.py] 08:41:54  592855       0 Unignoring the package: OverrideUnpackedPackages
+[channel_installer.py] 08:41:54  593355     500 Unignoring the package: OverwriteCommitCompletion
+[channel_installer.py] 08:41:54  593355       0 Unignoring the package: RichPlainText
+[channel_installer.py] 08:41:54  593355       0 Unignoring the package: SqlKeywordUppercase
+ignored packages updated to: ["Vintage"]
+reloading plugin FixSelectionAfterIndent.fix_selection_after_indent
+reloading plugin FixedSelectionsClear.fixed_clear_selections
+reloading plugin ForceRewriteSublimeSettings.force_rewrite_sublime_settings
+generating syntax summary
+generating meta info summary
+reloading plugin OverrideUnpackedPackages.override_unpacked_packages
+reloading plugin OpenAutoCompletion.open_auto_completion
+generating syntax summary
+generating meta info summary
+reloading plugin OverwriteCommitCompletion.overwrite_commit_completion
+[channel_installer.py] 08:41:55   63310 -530045
+
+Installing 19 of 131: SelectAllSpellingErrors (False)
+[channel_installer.py] 08:41:55   63863     553 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:41:55   63863       0 g_next_packages_to_ignore: ['SelectAllSpellingErrors', 'Uncrustify', 'ViewSettingsFreely', 'Language - English and Portuguese', 'QuickSettings', 'ANSIescape', 'Add Folder To Project', 'Advanced CSV', 'AdvancedNewFile']
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin SqlKeywordUppercase.sql_keyword_uppercase
+ignored packages updated to: ["Add Folder To Project", "Advanced CSV", "AdvancedNewFile", "ANSIescape", "Language - English and Portuguese", "QuickSettings", "SelectAllSpellingErrors", "Uncrustify", "ViewSettingsFreely", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:41:56  659818  595955 add_packages_to_ignored_list, Adding packages to unignore list: ['SelectAllSpellingErrors', 'Uncrustify', 'ViewSettingsFreely', 'Language - English and Portuguese', 'QuickSettings', 'ANSIescape', 'Add Folder To Project', 'Advanced CSV', 'AdvancedNewFile']
+[channel_utilities.py] 08:41:56  660818   74967 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:41:59  921940  261122 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:41:59  924437    2497 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:41:59  927942    4004 Adding package to unignore list: SelectAllSpellingErrors
+[channel_installer.py] 08:41:59  927942       0
+
+Installing 20 of 131: Uncrustify (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:00  784815 -139622 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:00  787305    2490 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:00  789270    1965 Adding package to unignore list: Uncrustify
+[channel_installer.py] 08:42:00  789270       0
+
+Installing 21 of 131: ViewSettingsFreely (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:01  638093 -149212 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:01  642589    4496 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:01  645562    3473 Adding package to unignore list: ViewSettingsFreely
+[channel_installer.py] 08:42:01  645562       0
+
+Installing 22 of 131: Language - English and Portuguese (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:06  404377 -238212 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:06  408880    4503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:06  411887    3007 Adding package to unignore list: Language - English and Portuguese
+[channel_installer.py] 08:42:06  411887       0
+
+Installing 23 of 131: QuickSettings (False)
+[channel_utilities.py] 08:42:07  217644 -191236 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:07  220647    3003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:07  223650    3003 Adding package to unignore list: QuickSettings
+[channel_installer.py] 08:42:07  223650       0
+
+Installing 24 of 131: ANSIescape (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:08  178051  -42596 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:08  183055    5004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:08  186058    3003 Adding package to unignore list: ANSIescape
+[channel_installer.py] 08:42:08  186058       0
+
+Installing 25 of 131: Add Folder To Project (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: Error parsing messages.json for Add Folder To Project
+[channel_utilities.py] 08:42:09   85926  -97129 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:09   89430    3504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:09   91432    2002 Adding package to unignore list: Add Folder To Project
+[channel_installer.py] 08:42:09   91432       0
+
+Installing 26 of 131: Advanced CSV (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:10  111896   22466 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:10  117400    5504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:10  119903    2503 Adding package to unignore list: Advanced CSV
+[channel_installer.py] 08:42:10  119903       0
+
+Installing 27 of 131: AdvancedNewFile (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:11  256475  139075 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:11  259977    3502 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:11  262981    3004 Adding package to unignore list: AdvancedNewFile
+[channel_installer.py] 08:42:11  262981       0 Unignoring the package: SelectAllSpellingErrors
+[channel_installer.py] 08:42:11  263482     501 Unignoring the package: Uncrustify
+[channel_installer.py] 08:42:11  263482       0 Unignoring the package: ViewSettingsFreely
+[channel_installer.py] 08:42:11  263482       0 Unignoring the package: Language - English and Portuguese
+[channel_installer.py] 08:42:11  263482       0 Unignoring the package: QuickSettings
+[channel_installer.py] 08:42:11  263482       0 Unignoring the package: ANSIescape
+[channel_installer.py] 08:42:11  263482       0 Unignoring the package: Add Folder To Project
+[channel_installer.py] 08:42:11  263982     500 Unignoring the package: Advanced CSV
+[channel_installer.py] 08:42:11  263982       0 Unignoring the package: AdvancedNewFile
+ignored packages updated to: ["Vintage"]
+reloading plugin Add Folder To Project.AddFolderToProject
+reloading plugin ANSIescape.ansi
+Regenerating ANSI color scheme...
+reloading settings Packages/ANSIescape/ansi.sublime-settings
+generating syntax summary
+reloading plugin Advanced CSV.csvplugin
+generating syntax summary
+reloading plugin QuickSettings.QuickSettigns
+reloading plugin SelectAllSpellingErrors.select_all_spelling_errors
+reloading plugin ViewSettingsFreely.view_settings_freely
+[channel_installer.py] 08:42:11  795984  532002
+
+Installing 28 of 131: AlignTab (False)
+[channel_installer.py] 08:42:11  795984       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:42:11  795984       0 g_next_packages_to_ignore: ['AlignTab', 'AutoFileName', 'BBCode', 'Better CoffeeScript', 'BufferScroll', 'ChannelRepositoryTools', 'Color Highlighter', 'Compare Side-By-Side', 'Copy Filepath With Line Numbers']
+reloading settings Packages/User/Preferences.sublime-settings
+Regenerating ANSI color scheme...
+reloading plugin AdvancedNewFile.AdvancedNewFile
+ignored packages updated to: ["AlignTab", "AutoFileName", "BBCode", "Better CoffeeScript", "BufferScroll", "ChannelRepositoryTools", "Color Highlighter", "Compare Side-By-Side", "Copy Filepath With Line Numbers", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:42:14   38104 -757880 add_packages_to_ignored_list, Adding packages to unignore list: ['AlignTab', 'AutoFileName', 'BBCode', 'Better CoffeeScript', 'BufferScroll', 'ChannelRepositoryTools', 'Color Highlighter', 'Compare Side-By-Side', 'Copy Filepath With Line Numbers']
+[channel_utilities.py] 08:42:14   39105 -220872 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["AlignTab", "AutoFileName", "BBCode", "Better CoffeeScript", "BufferScroll", "ChannelRepositoryTools", "Color Highlighter", "Compare Side-By-Side", "Copy Filepath With Line Numbers", "Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:42:18  403225  364120 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:18  407756    4531 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:18  410231    2475 Adding package to unignore list: AlignTab
+[channel_installer.py] 08:42:18  410231       0
+
+Installing 29 of 131: AutoFileName (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:19  310581  -97175 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:19  313580    2999 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:19  316085    2505 Adding package to unignore list: AutoFileName
+[channel_installer.py] 08:42:19  316085       0
+
+Installing 30 of 131: BBCode (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:20  378586   65006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:20  381587    3001 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:20  384089    2502 Adding package to unignore list: BBCode
+[channel_installer.py] 08:42:20  384089       0
+
+Installing 31 of 131: Better CoffeeScript (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:21  625761  244174 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:21  630266    4505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:21  642278   12012 Adding package to unignore list: Better CoffeeScript
+[channel_installer.py] 08:42:21  642278       0
+
+Installing 32 of 131: BufferScroll (False)
+[channel_utilities.py] 08:42:22  508095 -122171 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:22  511163    3068 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:22  513100    1937 Adding package to unignore list: BufferScroll
+[channel_installer.py] 08:42:22  513100       0
+
+Installing 33 of 131: ChannelRepositoryTools (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:23  490523  -20640 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:23  494031    3508 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:23  496528    2497 Adding package to unignore list: ChannelRepositoryTools
+[channel_installer.py] 08:42:23  496528       0
+
+Installing 34 of 131: Color Highlighter (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:25  461948  -32083 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:25  465386    3438 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:25  467392    2006 Adding package to unignore list: Color Highlighter
+[channel_installer.py] 08:42:25  467392       0
+
+Installing 35 of 131: Compare Side-By-Side (False)
+[channel_utilities.py] 08:42:26  451823  -13563 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:26  454824    3001 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:26  457823    2999 Adding package to unignore list: Compare Side-By-Side
+[channel_installer.py] 08:42:26  457823       0
+
+Installing 36 of 131: Copy Filepath With Line Numbers (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:27  370184  -84640 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:27  375694    5510 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:27  379693    3999 Adding package to unignore list: Copy Filepath With Line Numbers
+[channel_installer.py] 08:42:27  380194     501 Unignoring the package: AlignTab
+[channel_installer.py] 08:42:27  380194       0 Unignoring the package: AutoFileName
+[channel_installer.py] 08:42:27  380695     501 Unignoring the package: BBCode
+[channel_installer.py] 08:42:27  380695       0 Unignoring the package: Better CoffeeScript
+[channel_installer.py] 08:42:27  380695       0 Unignoring the package: BufferScroll
+[channel_installer.py] 08:42:27  380695       0 Unignoring the package: ChannelRepositoryTools
+[channel_installer.py] 08:42:27  381194     499 Unignoring the package: Color Highlighter
+[channel_installer.py] 08:42:27  381194       0 Unignoring the package: Compare Side-By-Side
+[channel_installer.py] 08:42:27  381696     502 Unignoring the package: Copy Filepath With Line Numbers
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin AutoFileName.autofilename
+reloading plugin AutoFileName.getimageinfo
+reloading plugin AlignTab.aligner
+reloading plugin AlignTab.aligntab
+reloading plugin AlignTab.hist
+reloading plugin AlignTab.parser
+reloading plugin AlignTab.table
+reloading plugin AlignTab.wclen
+generating syntax summary
+generating meta info summary
+reloading plugin BufferScroll.BufferScroll
+reloading settings Packages/BufferScroll/BufferScroll.sublime-settings
+reloading plugin ChannelRepositoryTools.ordereddict
+reloading plugin ChannelRepositoryTools.tests
+reloading plugin ChannelRepositoryTools.upgrade
+reloading plugin Better CoffeeScript.CoffeeScript
+generating syntax summary
+generating meta info summary
+reloading plugin Compare Side-By-Side.sbs_compare
+reloading plugin Color Highlighter.color_converter
+reloading plugin Color Highlighter.color_highlighter
+reloading plugin Color Highlighter.color_hover_listener
+reloading plugin Color Highlighter.color_scheme
+reloading plugin Color Highlighter.color_scheme_color_highlighter
+reloading plugin Color Highlighter.color_searcher
+reloading plugin Color Highlighter.color_selection_listener
+reloading plugin Color Highlighter.colors
+reloading plugin Color Highlighter.content_listener
+reloading plugin Color Highlighter.convert_color_command
+reloading plugin Color Highlighter.css_colors
+reloading plugin Color Highlighter.dummy_event_listener
+reloading plugin Color Highlighter.gutter_icons_color_highlighter
+reloading plugin Color Highlighter.load_resource
+reloading plugin Color Highlighter.main
+reloading plugin Color Highlighter.path
+reloading plugin Color Highlighter.phantoms_color_highlighter
+reloading plugin Color Highlighter.pick_color_command
+reloading plugin Color Highlighter.regex_compiler
+reloading plugin Color Highlighter.regions
+reloading plugin Color Highlighter.set_setting_command
+reloading plugin Color Highlighter.settings
+reloading plugin Color Highlighter.st_helper
+reloading plugin Color Highlighter.topsort
+[channel_installer.py] 08:42:28   52342 -329354
+
+Installing 37 of 131: CopyWithLineNumbersReloaded (False)
+[channel_installer.py] 08:42:28   52828     486 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:42:28   52828       0 g_next_packages_to_ignore: ['CopyWithLineNumbersReloaded', 'DocBlockr', 'ExportHtml', 'ExtendedTabSwitcher', 'FileDiffs', 'FuzzyFileNav', 'Google Spell Check', 'Highlight Build Errors', 'Hungry Backspace']
+reloading settings Packages/User/BufferScroll.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin Copy Filepath With Line Numbers.CopyFilepathWithLineNumbers
+ignored packages updated to: ["CopyWithLineNumbersReloaded", "DocBlockr", "ExportHtml", "ExtendedTabSwitcher", "FileDiffs", "FuzzyFileNav", "Google Spell Check", "Highlight Build Errors", "Hungry Backspace", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:42:31  216854  164026 add_packages_to_ignored_list, Adding packages to unignore list: ['CopyWithLineNumbersReloaded', 'DocBlockr', 'ExportHtml', 'ExtendedTabSwitcher', 'FileDiffs', 'FuzzyFileNav', 'Google Spell Check', 'Highlight Build Errors', 'Hungry Backspace']
+[channel_utilities.py] 08:42:31  217358 -158336 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Vintage", "CopyWithLineNumbersReloaded", "DocBlockr", "ExportHtml", "ExtendedTabSwitcher", "FileDiffs", "FuzzyFileNav", "Google Spell Check", "Highlight Build Errors", "Hungry Backspace"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["CopyWithLineNumbersReloaded", "DocBlockr", "ExportHtml", "ExtendedTabSwitcher", "FileDiffs", "FuzzyFileNav", "Google Spell Check", "Highlight Build Errors", "Hungry Backspace", "Vintage"]
+ignored packages updated to: ["Vintage", "CopyWithLineNumbersReloaded", "DocBlockr", "ExportHtml", "ExtendedTabSwitcher", "FileDiffs", "FuzzyFileNav", "Google Spell Check", "Highlight Build Errors", "Hungry Backspace"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:42:37  857251  639893 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:37  863256    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:37  868260    5004 Adding package to unignore list: CopyWithLineNumbersReloaded
+[channel_installer.py] 08:42:37  868260       0
+
+Installing 38 of 131: DocBlockr (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:38  867270    4014 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:38  870708    3438 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:38  873281    2573 Adding package to unignore list: DocBlockr
+[channel_installer.py] 08:42:38  873710     429
+
+Installing 39 of 131: ExportHtml (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: The dependency 'pygments' is not currently installed; installing...
+Package Control: The dependency 'pygments' has successfully been installed or updated
+Package Control: The dependency 'python-markdown' is not currently installed; installing...
+Package Control: The dependency 'python-markdown' has successfully been installed or updated
+Package Control: The dependency 'mdpopups' is not currently installed; installing...
+Package Control: The dependency 'mdpopups' has successfully been installed or updated
+Package Control: The dependency 'python-jinja2' is not currently installed; installing...
+Package Control: The dependency 'python-jinja2' has successfully been installed or updated
+Package Control: The dependency 'markupsafe' is not currently installed; installing...
+Package Control: The dependency 'markupsafe' has successfully been installed or updated
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:48  114855 -755853 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:48  118791    3936 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:48  121793    3002 Adding package to unignore list: ExportHtml
+[channel_installer.py] 08:42:48  121793       0
+
+Installing 40 of 131: ExtendedTabSwitcher (False)
+[channel_utilities.py] 08:42:49  370476  251685 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:49  373475    2999 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:49  376477    3002 Adding package to unignore list: ExtendedTabSwitcher
+[channel_installer.py] 08:42:49  376477       0
+
+Installing 41 of 131: FileDiffs (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:51  397386   23911 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:51  402390    5004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:51  406895    4505 Adding package to unignore list: FileDiffs
+[channel_installer.py] 08:42:51  406895       0
+
+Installing 42 of 131: FuzzyFileNav (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:52  979879  577489 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:52  983382    3503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:52  986886    3504 Adding package to unignore list: FuzzyFileNav
+[channel_installer.py] 08:42:52  986886       0
+
+Installing 43 of 131: Google Spell Check (False)
+[channel_utilities.py] 08:42:54  140475 -842907 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:54  147480    7005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:54  154488    7008 Adding package to unignore list: Google Spell Check
+[channel_installer.py] 08:42:54  154488       0
+
+Installing 44 of 131: Highlight Build Errors (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:55  518275  370795 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:55  530287   12012 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:55  535793    6006 Adding package to unignore list: Highlight Build Errors
+[channel_installer.py] 08:42:55  535793       0
+
+Installing 45 of 131: Hungry Backspace (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:42:56  935043  404756 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:42:56  939047    4004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:42:56  944051    5004 Adding package to unignore list: Hungry Backspace
+[channel_installer.py] 08:42:56  944051       0 Unignoring the package: CopyWithLineNumbersReloaded
+[channel_installer.py] 08:42:56  944051       0 Unignoring the package: DocBlockr
+[channel_installer.py] 08:42:56  944051       0 Unignoring the package: ExportHtml
+[channel_installer.py] 08:42:56  944552     501 Unignoring the package: ExtendedTabSwitcher
+[channel_installer.py] 08:42:56  944552       0 Unignoring the package: FileDiffs
+[channel_installer.py] 08:42:56  944552       0 Unignoring the package: FuzzyFileNav
+[channel_installer.py] 08:42:56  944552       0 Unignoring the package: Google Spell Check
+[channel_installer.py] 08:42:56  945052     500 Unignoring the package: Highlight Build Errors
+[channel_installer.py] 08:42:56  945052       0 Unignoring the package: Hungry Backspace
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin CopyWithLineNumbersReloaded.copy_with_line_numbers
+reloading plugin DocBlockr.jsdocs
+reloading plugin ExtendedTabSwitcher.ExtendedSwitcher
+reloading plugin FileDiffs.file_diffs
+reloading plugin FuzzyFileNav.fuzzy_file_nav
+reloading settings Packages/FuzzyFileNav/fuzzy_file_nav.sublime-settings
+reloading plugin FuzzyFileNav.multiconf
+reloading plugin FuzzyFileNav.notify
+reloading plugin ExportHtml.ExportBbcode
+reloading plugin ExportHtml.ExportHtml
+reloading plugin ExportHtml.HtmlAnnotations
+reloading plugin ExportHtml.support
+reloading plugin Google Spell Check.google-spell-check
+reloading plugin Highlight Build Errors.HighlightBuildErrors
+reloading settings Packages/Highlight Build Errors/HighlightBuildErrors.sublime-settings
+[channel_installer.py] 08:42:57  937990   -7062
+
+Installing 46 of 131: Indent and braces (False)
+[channel_installer.py] 08:42:57  937990       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:42:57  938490     500 g_next_packages_to_ignore: ['Indent and braces', 'Invert Selection', 'LaTeXTools', 'Markdown to BB Code Converter', 'Origami', 'PackageDev', 'PowerCursors', 'Side-by-Side Settings', 'SideBarEnhancements']
+reloading plugin Hungry Backspace.hungry_backspace
+ignored packages updated to: ["Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:43:02  880655  -57835 add_packages_to_ignored_list, Adding packages to unignore list: ['Indent and braces', 'Invert Selection', 'LaTeXTools', 'Markdown to BB Code Converter', 'Origami', 'PackageDev', 'PowerCursors', 'Side-by-Side Settings', 'SideBarEnhancements']
+[channel_utilities.py] 08:43:02  883156  -55891 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage", "Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements"]
+ignored packages updated to: ["Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements", "Vintage"]
+ignored packages updated to: ["Vintage", "Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements", "Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Vintage", "Indent and braces", "Invert Selection", "LaTeXTools", "Markdown to BB Code Converter", "Origami", "PackageDev", "PowerCursors", "Side-by-Side Settings", "SideBarEnhancements"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:43:12  787541  -95615 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:12  793547    6006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:12  797050    3503 Adding package to unignore list: Indent and braces
+[channel_installer.py] 08:43:12  797050       0
+
+Installing 47 of 131: Invert Selection (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:14  722866  -70681 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:14  726370    3504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:14  729874    3504 Adding package to unignore list: Invert Selection
+[channel_installer.py] 08:43:14  729874       0
+
+Installing 48 of 131: LaTeXTools (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: The dependency 'regex' is not currently installed; installing...
+Package Control: The dependency 'regex' has successfully been installed or updated
+[channel_utilities.py] 08:43:20  575892 -150478 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:20  579895    4003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:20  583900    4005 Adding package to unignore list: LaTeXTools
+[channel_installer.py] 08:43:20  584400     500
+
+Installing 49 of 131: Markdown to BB Code Converter (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:21  162946 -416949 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:21  168452    5506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:21  172456    4004 Adding package to unignore list: Markdown to BB Code Converter
+[channel_installer.py] 08:43:21  172456       0
+
+Installing 50 of 131: Origami (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:22  448158  279706 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:22  450660    2502 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:22  454665    4005 Adding package to unignore list: Origami
+[channel_installer.py] 08:43:22  454665       0
+
+Installing 51 of 131: PackageDev (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: The dependency 'pyyaml' is not currently installed; installing...
+Package Control: The dependency 'pyyaml' has successfully been installed or updated
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:26  584062  133402 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:26  587566    3504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:26  590068    2502 Adding package to unignore list: PackageDev
+[channel_installer.py] 08:43:26  590569     501
+
+Installing 52 of 131: PowerCursors (False)
+[channel_utilities.py] 08:43:27  759173  171607 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:27  763176    4003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:27  766179    3003 Adding package to unignore list: PowerCursors
+[channel_installer.py] 08:43:27  766678     499
+
+Installing 53 of 131: Side-by-Side Settings (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:29  292623 -470553 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:29  296687    4064 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:29  299694    3007 Adding package to unignore list: Side-by-Side Settings
+[channel_installer.py] 08:43:29  299694       0
+
+Installing 54 of 131: SideBarEnhancements (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:30  647899  351212 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:30  652402    4503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:30  655906    3504 Adding package to unignore list: SideBarEnhancements
+[channel_installer.py] 08:43:30  655906       0 Unignoring the package: Indent and braces
+[channel_installer.py] 08:43:30  655906       0 Unignoring the package: Invert Selection
+[channel_installer.py] 08:43:30  656406     500 Unignoring the package: LaTeXTools
+[channel_installer.py] 08:43:30  656406       0 Unignoring the package: Markdown to BB Code Converter
+[channel_installer.py] 08:43:30  656907     501 Unignoring the package: Origami
+[channel_installer.py] 08:43:30  656907       0 Unignoring the package: PackageDev
+[channel_installer.py] 08:43:30  656907       0 Unignoring the package: PowerCursors
+[channel_installer.py] 08:43:30  656907       0 Unignoring the package: Side-by-Side Settings
+[channel_installer.py] 08:43:30  656907       0 Unignoring the package: SideBarEnhancements
+ignored packages updated to: ["Vintage"]
+reloading plugin Indent and braces.indent-and-braces
+reloading plugin Invert Selection.invertselection
+reloading plugin Markdown to BB Code Converter.MarkdownToBBCode
+reloading plugin Origami.origami
+reloading plugin PackageDev._logging
+reloading plugin PackageDev.main
+reloading settings Packages/PackageDev/Package/PackageDev.sublime-settings
+generating syntax summary
+generating meta info summary
+reloading plugin PowerCursors.power_cursors
+reloading plugin Side-by-Side Settings.sxs_settings
+[channel_installer.py] 08:43:31  511280 -145627
+
+Installing 55 of 131: SublimeREPL (False)
+[channel_installer.py] 08:43:31  511781     501 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:43:31  511781       0 g_next_packages_to_ignore: ['SublimeREPL', 'SyntaxManager', 'Text Pastry', 'Toolbar', 'Trimmer', 'Wrap Plus', 'Pretty JSON', 'VBScript', 'REG']
+reloading plugin LaTeXTools.01_reload_submodules
+reloading plugin LaTeXTools.02_temp_file_cleanup
+reloading plugin LaTeXTools.03_reset_phantoms
+reloading plugin LaTeXTools.auto_label
+reloading plugin LaTeXTools.biblatex_crossref_completions
+reloading plugin LaTeXTools.biblatex_field_name_completions
+reloading plugin LaTeXTools.biblatex_name_completions
+reloading plugin LaTeXTools.biblatex_snippet_completions
+reloading plugin LaTeXTools.biblatex_syntax_listener
+reloading plugin LaTeXTools.change_environment
+reloading plugin LaTeXTools.context_provider
+reloading plugin LaTeXTools.create_mousemap
+reloading plugin LaTeXTools.delete_temp_files
+reloading plugin LaTeXTools.detect_spellcheck
+reloading plugin LaTeXTools.getTeXRoot
+reloading plugin LaTeXTools.jumpto_anywhere
+reloading plugin LaTeXTools.jumpto_tex_file
+reloading plugin LaTeXTools.jumpToPDF
+reloading plugin LaTeXTools.kpsewhich
+reloading plugin LaTeXTools.latex_cite_completions
+reloading plugin LaTeXTools.latex_cwl_completions
+reloading plugin LaTeXTools.latex_directive_completions
+reloading plugin LaTeXTools.latex_env_completions
+reloading plugin LaTeXTools.latex_fill_all
+reloading plugin LaTeXTools.latex_glossary_completions
+reloading plugin LaTeXTools.latex_input_completions
+reloading plugin LaTeXTools.latex_installed_packages
+reloading plugin LaTeXTools.latex_own_command_completions
+reloading plugin LaTeXTools.latex_ref_completions
+reloading plugin LaTeXTools.latexCommand
+reloading plugin LaTeXTools.latexDocumentationViewer
+reloading plugin LaTeXTools.latexEnvCloser
+reloading plugin LaTeXTools.latexEnvironment
+reloading plugin LaTeXTools.latextools_cache_listener
+reloading plugin LaTeXTools.latextools_default_settings
+reloading plugin LaTeXTools.latextools_plugin
+reloading plugin LaTeXTools.makePDF
+Loaded LaTeXTools plugins ['pdf_builder'] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\builders\pdfBuilder.py
+Loaded LaTeXTools plugins ['traditional_builder', 'simple_builder', 'script_builder', 'basic_builder'] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\builders
+reloading plugin LaTeXTools.migrate
+reloading plugin LaTeXTools.open_detexify
+reloading plugin LaTeXTools.parseTeXlog
+reloading plugin LaTeXTools.reveal_folders
+reloading plugin LaTeXTools.search_commands
+reloading plugin LaTeXTools.smart_paste
+reloading plugin LaTeXTools.system_check
+reloading plugin LaTeXTools.texcount
+reloading plugin LaTeXTools.texMacro
+reloading plugin LaTeXTools.texSections
+reloading plugin LaTeXTools.texSyntaxListener
+reloading plugin LaTeXTools.toc_quickpanel
+reloading plugin LaTeXTools.toggle_settings
+generating syntax summary
+Loading LaTeXTools plugins...
+Loaded LaTeXTools plugins ['base_viewer'] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\viewers\base_viewer.py
+Loaded LaTeXTools plugins ['skim_viewer', 'preview_viewer', 'zathura_viewer', 'okular_viewer', 'command_viewer', 'sumatra_viewer', 'evince_viewer'] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\viewers
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin SideBarEnhancements.SideBar
+reloading plugin SideBarEnhancements.SideBarAPI
+reloading plugin SideBarEnhancements.SideBarDefaultDisable
+Loaded LaTeXTools plugins ['new_bibliography', 'traditional_bibliography'] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\bibliography_plugins
+Loaded LaTeXTools plugins [] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\builders\pdfBuilder.py
+ignored packages updated to: ["Pretty JSON", "REG", "SublimeREPL", "SyntaxManager", "Text Pastry", "Toolbar", "Trimmer", "VBScript", "Vintage", "Wrap Plus"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:43:41  514268    2487 add_packages_to_ignored_list, Adding packages to unignore list: ['SublimeREPL', 'SyntaxManager', 'Text Pastry', 'Toolbar', 'Trimmer', 'Wrap Plus', 'Pretty JSON', 'VBScript', 'REG']
+[channel_utilities.py] 08:43:41  515769 -136633 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+Loaded LaTeXTools plugins [] from path C:\User\AppData\Roaming\Sublime Text 3\Packages\LaTeXTools\builders
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:43:46  536637   20868 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:46  541643    5006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:46  545646    4003 Adding package to unignore list: SublimeREPL
+[channel_installer.py] 08:43:46  545646       0
+
+Installing 56 of 131: SyntaxManager (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:47   31107 -510536 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:47   34106    2999 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:47   37610    3504 Adding package to unignore list: SyntaxManager
+[channel_installer.py] 08:43:47   37610       0
+
+Installing 57 of 131: Text Pastry (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:48  799285  765179 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:48  804791    5506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:48  808295    3504 Adding package to unignore list: Text Pastry
+[channel_installer.py] 08:43:48  808295       0
+
+Installing 58 of 131: Toolbar (False)
+[channel_utilities.py] 08:43:50  891261   86470 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:50  896767    5506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:50  903272    7006 Adding package to unignore list: Toolbar
+[channel_installer.py] 08:43:50  903773     501
+
+Installing 59 of 131: Trimmer (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:52  684454 -212313 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:52  704473   20019 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:52  708977    4504 Adding package to unignore list: Trimmer
+[channel_installer.py] 08:43:52  708977       0
+
+Installing 60 of 131: Wrap Plus (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:54  713875    9402 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:54  717874    3999 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:54  720880    3006 Adding package to unignore list: Wrap Plus
+[channel_installer.py] 08:43:54  721376     496
+
+Installing 61 of 131: Pretty JSON (False)
+[channel_utilities.py] 08:43:56  212338 -505536 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:56  216291    3953 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:56  218297    2006 Adding package to unignore list: Pretty JSON
+[channel_installer.py] 08:43:56  218297       0
+
+Installing 62 of 131: VBScript (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:43:57  111632 -104659 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:57  116636    5004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:57  120141    3505 Adding package to unignore list: VBScript
+[channel_installer.py] 08:43:57  120141       0
+
+Installing 63 of 131: REG (False)
+[channel_utilities.py] 08:43:59  122531    5895 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:43:59  126534    4003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:43:59  130539    4005 Adding package to unignore list: REG
+[channel_installer.py] 08:43:59  130539       0 Unignoring the package: SublimeREPL
+[channel_installer.py] 08:43:59  130539       0 Unignoring the package: SyntaxManager
+[channel_installer.py] 08:43:59  131038     499 Unignoring the package: Text Pastry
+[channel_installer.py] 08:43:59  131038       0 Unignoring the package: Toolbar
+[channel_installer.py] 08:43:59  131038       0 Unignoring the package: Trimmer
+[channel_installer.py] 08:43:59  131038       0 Unignoring the package: Wrap Plus
+[channel_installer.py] 08:43:59  131539     501 Unignoring the package: Pretty JSON
+[channel_installer.py] 08:43:59  131539       0 Unignoring the package: VBScript
+[channel_installer.py] 08:43:59  131539       0 Unignoring the package: REG
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin SyntaxManager.syntaxmgr
+reloading plugin Text Pastry.text_pastry
+reloading plugin Text Pastry.text_pastry_addons
+reloading plugin Text Pastry.text_pastry_clipboard
+reloading plugin Text Pastry.text_pastry_selection
+reloading settings Packages/Text Pastry/TextPastry.sublime-settings
+reloading plugin Trimmer.Trimmer
+reloading plugin Wrap Plus.wrap_lines_enhancement
+reloading plugin Wrap Plus.wrap_plus
+generating syntax summary
+generating meta info summary
+[channel_installer.py] 08:44:00  616441  484902
+
+Installing 64 of 131: Generic Config (False)
+[channel_installer.py] 08:44:00  616942     501 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:44:00  616942       0 g_next_packages_to_ignore: ['Generic Config', 'Dotfiles Syntax Highlighting', 'Maven', 'SublimeLinter-javac', 'SelectUntil', 'Case Conversion', 'x86 and x86_64 Assembly', 'Incrementor', 'TabsExtra']
+reloading plugin Pretty JSON.PrettyJson
+reloading plugin Pretty JSON.PrettyJsonListeners
+reloading plugin REG.jumptoregkey
+generating syntax summary
+generating meta info summary
+reloading plugin SublimeREPL.__init__
+reloading plugin SublimeREPL.completions
+reloading plugin SublimeREPL.lang_integration
+reloading plugin SublimeREPL.run_existing_command
+reloading plugin SublimeREPL.sublimerepl
+reloading plugin SublimeREPL.sublimerepl_build_system_hack
+reloading plugin SublimeREPL.text_transfer
+generating syntax summary
+generating syntax summary
+generating syntax summary
+reloading settings Packages/User/Preferences.sublime-settings
+warning: mnemonic r not found in menu caption SublimeREPL
+ignored packages updated to: ["Case Conversion", "Dotfiles Syntax Highlighting", "Generic Config", "Incrementor", "Maven", "SelectUntil", "SublimeLinter-javac", "TabsExtra", "Vintage", "x86 and x86_64 Assembly"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:44:11  449166 -167776 add_packages_to_ignored_list, Adding packages to unignore list: ['Generic Config', 'Dotfiles Syntax Highlighting', 'Maven', 'SublimeLinter-javac', 'SelectUntil', 'Case Conversion', 'x86 and x86_64 Assembly', 'Incrementor', 'TabsExtra']
+[channel_utilities.py] 08:44:11  450667  324133 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:44:16  551982  101315 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:16  556485    4503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:16  559488    3003 Adding package to unignore list: Generic Config
+[channel_installer.py] 08:44:16  559988     500
+
+Installing 65 of 131: Dotfiles Syntax Highlighting (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:18  435259 -121226 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:18  440262    5003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:18  445268    5006 Adding package to unignore list: Dotfiles Syntax Highlighting
+[channel_installer.py] 08:44:18  445770     502
+
+Installing 66 of 131: Maven (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:20  514721   74459 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:20  519226    4505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:20  523730    5005 Adding package to unignore list: Maven
+[channel_installer.py] 08:44:20  523730       0
+
+Installing 67 of 131: SublimeLinter-javac (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:21  264931 -254295 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:21  272437    7506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:21  277441    5004 Adding package to unignore list: SublimeLinter-javac
+[channel_installer.py] 08:44:21  277441       0
+
+Installing 68 of 131: SelectUntil (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:23  924439  652002 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:23  937952   13513 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:23  943959    6007 Adding package to unignore list: SelectUntil
+[channel_installer.py] 08:44:23  943959       0
+
+Installing 69 of 131: Case Conversion (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:26  222108 -715844 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:26  228614    6506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:26  233119    4505 Adding package to unignore list: Case Conversion
+[channel_installer.py] 08:44:26  233619     500
+
+Installing 70 of 131: x86 and x86_64 Assembly (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:29  583280  354666 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:29  597294   14014 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:29  602799    5505 Adding package to unignore list: x86 and x86_64 Assembly
+[channel_installer.py] 08:44:29  602799       0
+
+Installing 71 of 131: Incrementor (False)
+[channel_utilities.py] 08:44:32  494529 -102765 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:32  500033    5504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:32  503537    3504 Adding package to unignore list: Incrementor
+[channel_installer.py] 08:44:32  504038     501
+
+Installing 72 of 131: TabsExtra (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:35  382253 -117780 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:35  386258    4005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:35  389761    3503 Adding package to unignore list: TabsExtra
+[channel_installer.py] 08:44:35  389761       0 Unignoring the package: Generic Config
+[channel_installer.py] 08:44:35  389761       0 Unignoring the package: Dotfiles Syntax Highlighting
+[channel_installer.py] 08:44:35  389761       0 Unignoring the package: Maven
+[channel_installer.py] 08:44:35  390261     500 Unignoring the package: SublimeLinter-javac
+[channel_installer.py] 08:44:35  390261       0 Unignoring the package: SelectUntil
+[channel_installer.py] 08:44:35  390261       0 Unignoring the package: Case Conversion
+[channel_installer.py] 08:44:35  390261       0 Unignoring the package: x86 and x86_64 Assembly
+[channel_installer.py] 08:44:35  390261       0 Unignoring the package: Incrementor
+[channel_installer.py] 08:44:35  390761     500 Unignoring the package: TabsExtra
+ignored packages updated to: ["Vintage"]
+reloading plugin Case Conversion.case_conversion
+reloading plugin Case Conversion.case_parse
+reloading plugin Case Conversion.ToggleTitleCase
+generating syntax summary
+generating meta info summary
+reloading plugin Incrementor.incrementor
+reloading plugin SublimeLinter-javac.linter
+Traceback (most recent call last):
+  File "D:\3152\sublime_plugin.py", line 109, in reload_plugin
+    m = importlib.import_module(modulename)
+  File "./python3.3/importlib/__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1584, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1565, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1532, in _find_and_load_unlocked
+  File "D:\3152\sublime_plugin.py", line 915, in load_module
+    exec(compile(source, source_path, 'exec'), mod.__dict__)
+  File "linter in C:\User\AppData\Roaming\Sublime Text 3\Installed Packages\SublimeLinter-javac.sublime-package", line 14, in <module>
+ImportError: No module named 'SublimeLinter'
+reloading plugin SelectUntil.edit
+reloading plugin SelectUntil.select-until
+generating syntax summary
+generating meta info summary
+reloading plugin Maven.config_generator
+reloading plugin Maven.import
+reloading plugin Maven.maven
+[channel_installer.py] 08:44:37  281546 -109215
+
+Installing 73 of 131: Increment Selection (False)
+[channel_installer.py] 08:44:37  281546       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:44:37  282047     501 g_next_packages_to_ignore: ['Increment Selection', 'AutomaticPackageReloader', 'LaTeXSmartQuotes', 'Alignment', 'Auto Refresh', 'Chain of Command', 'ChangeQuotes', 'Clickable URLs', 'ColorSchemeEditor']
+reloading plugin TabsExtra.support
+reloading plugin TabsExtra.tab_menu
+reloading plugin TabsExtra.tab_sort_helper
+reloading plugin TabsExtra.tabs_extra
+reloading settings Packages/TabsExtra/tabs_extra.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["Alignment", "Auto Refresh", "AutomaticPackageReloader", "Chain of Command", "ChangeQuotes", "Clickable URLs", "ColorSchemeEditor", "Increment Selection", "LaTeXSmartQuotes", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:44:44  247622  -34425 add_packages_to_ignored_list, Adding packages to unignore list: ['Increment Selection', 'AutomaticPackageReloader', 'LaTeXSmartQuotes', 'Alignment', 'Auto Refresh', 'Chain of Command', 'ChangeQuotes', 'Clickable URLs', 'ColorSchemeEditor']
+[channel_utilities.py] 08:44:44  249122 -137136 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:44:48  574706  325584 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:48  579711    5005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:48  583214    3503 Adding package to unignore list: Increment Selection
+[channel_installer.py] 08:44:48  583714     500
+
+Installing 74 of 131: AutomaticPackageReloader (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:50  782289  202578 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:50  786293    4004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:50  790297    4004 Adding package to unignore list: AutomaticPackageReloader
+[channel_installer.py] 08:44:50  790297       0
+
+Installing 75 of 131: LaTeXSmartQuotes (False)
+[channel_utilities.py] 08:44:53  265633 -520660 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:53  274642    9009 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:53  278145    3503 Adding package to unignore list: LaTeXSmartQuotes
+[channel_installer.py] 08:44:53  278646     501
+
+Installing 76 of 131: Alignment (False)
+[channel_utilities.py] 08:44:55  427174  152532 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:55  433179    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:55  437684    4505 Adding package to unignore list: Alignment
+[channel_installer.py] 08:44:55  438184     500
+
+Installing 77 of 131: Auto Refresh (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:57  856466  423287 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:57  862472    6006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:57  866475    4003 Adding package to unignore list: Auto Refresh
+[channel_installer.py] 08:44:57  866475       0
+
+Installing 78 of 131: Chain of Command (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:44:59  690197 -172275 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:44:59  694702    4505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:44:59  698204    3502 Adding package to unignore list: Chain of Command
+[channel_installer.py] 08:44:59  698204       0
+
+Installing 79 of 131: ChangeQuotes (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:01  949830  255128 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:01  958338    8508 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:01  962842    5005 Adding package to unignore list: ChangeQuotes
+[channel_installer.py] 08:45:01  963842    1000
+
+Installing 80 of 131: Clickable URLs (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:03  823599 -134739 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:03  828102    4503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:03  831605    3503 Adding package to unignore list: Clickable URLs
+[channel_installer.py] 08:45:03  831605       0
+
+Installing 81 of 131: ColorSchemeEditor (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:05  869545   41443 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:05  874551    5006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:05  878554    4003 Adding package to unignore list: ColorSchemeEditor
+[channel_installer.py] 08:45:05  878554       0 Unignoring the package: Increment Selection
+[channel_installer.py] 08:45:05  879055     501 Unignoring the package: AutomaticPackageReloader
+[channel_installer.py] 08:45:05  879055       0 Unignoring the package: LaTeXSmartQuotes
+[channel_installer.py] 08:45:05  879555     500 Unignoring the package: Alignment
+[channel_installer.py] 08:45:05  880055     500 Unignoring the package: Auto Refresh
+[channel_installer.py] 08:45:05  880055       0 Unignoring the package: Chain of Command
+[channel_installer.py] 08:45:05  880055       0 Unignoring the package: ChangeQuotes
+[channel_installer.py] 08:45:05  880556     501 Unignoring the package: Clickable URLs
+[channel_installer.py] 08:45:05  881057     501 Unignoring the package: ColorSchemeEditor
+ignored packages updated to: ["Vintage"]
+reloading plugin Auto Refresh.AutoRefresh
+reloading plugin Alignment.Alignment
+reloading plugin Chain of Command.chain
+reloading plugin AutomaticPackageReloader.package_reloader
+reloading plugin ChangeQuotes.change_quotes
+reloading settings Packages/ChangeQuotes/ChangeQuotes.sublime-settings
+reloading plugin Clickable URLs.clickable_urls
+reloading plugin Increment Selection.IncrementSelection
+reloading plugin LaTeXSmartQuotes.getTeXRoot
+reloading plugin LaTeXSmartQuotes.smartquotes
+[channel_installer.py] 08:45:07  762332 -118725
+
+Installing 82 of 131: Column Select (False)
+[channel_installer.py] 08:45:07  763834    1502 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:45:07  764334     500 g_next_packages_to_ignore: ['Column Select', 'Delete Current File', 'DistractionFreeWindow', 'DuplicateSelections', 'Edit Preferences', 'Emmet', 'Extract Text to File', 'File History', 'File Rename']
+ignored packages updated to: ["Column Select", "Delete Current File", "DistractionFreeWindow", "DuplicateSelections", "Edit Preferences", "Emmet", "Extract Text to File", "File History", "File Rename", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:45:11  334203 -430131 add_packages_to_ignored_list, Adding packages to unignore list: ['Column Select', 'Delete Current File', 'DistractionFreeWindow', 'DuplicateSelections', 'Edit Preferences', 'Emmet', 'Extract Text to File', 'File History', 'File Rename']
+[channel_utilities.py] 08:45:11  335705 -538846 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Column Select", "Delete Current File", "DistractionFreeWindow", "DuplicateSelections", "Edit Preferences", "Emmet", "Extract Text to File", "File History", "File Rename", "Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin ColorSchemeEditor.ColorSchemeEditor-ST2
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:45:20  599448  263743 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:20  605955    6507 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:20  609958    5504 Adding package to unignore list: Column Select
+[channel_installer.py] 08:45:20  609958       0
+
+Installing 83 of 131: Delete Current File (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:22  594832  -11123 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:22  600837    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:22  603845    3008 Adding package to unignore list: Delete Current File
+[channel_installer.py] 08:45:22  603845       0
+
+Installing 84 of 131: DistractionFreeWindow (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:24  684804   83967 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:24  688809    4005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:24  692312    3503 Adding package to unignore list: DistractionFreeWindow
+[channel_installer.py] 08:45:24  692312       0
+
+Installing 85 of 131: DuplicateSelections (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:26  588101 -100708 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:26  593606    5505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:26  598110    4504 Adding package to unignore list: DuplicateSelections
+[channel_installer.py] 08:45:26  598110       0
+
+Installing 86 of 131: Edit Preferences (False)
+[channel_utilities.py] 08:45:28  296731 -296875 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:28  301235    4504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:28  304800    4065 Adding package to unignore list: Edit Preferences
+[channel_installer.py] 08:45:28  305239     439
+
+Installing 87 of 131: Emmet (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:30  243069  -58166 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:30  249074    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:30  252077    3003 Adding package to unignore list: Emmet
+[channel_installer.py] 08:45:30  252077       0
+
+Installing 88 of 131: Extract Text to File (False)
+[channel_utilities.py] 08:45:31  920150  671076 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:31  927658    7508 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:31  934164    7007 Adding package to unignore list: Extract Text to File
+[channel_installer.py] 08:45:31  934164       0
+
+Installing 89 of 131: File History (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:33  658792 -268866 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:33  663796    5004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:33  666799    3003 Adding package to unignore list: File History
+[channel_installer.py] 08:45:33  666799       0
+
+Installing 90 of 131: File Rename (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:35  265862 -397934 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:35  270313    4451 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:35  274318    4005 Adding package to unignore list: File Rename
+[channel_installer.py] 08:45:35  274318       0 Unignoring the package: Column Select
+[channel_installer.py] 08:45:35  274318       0 Unignoring the package: Delete Current File
+[channel_installer.py] 08:45:35  274318       0 Unignoring the package: DistractionFreeWindow
+[channel_installer.py] 08:45:35  274817     499 Unignoring the package: DuplicateSelections
+[channel_installer.py] 08:45:35  274817       0 Unignoring the package: Edit Preferences
+[channel_installer.py] 08:45:35  274817       0 Unignoring the package: Emmet
+[channel_installer.py] 08:45:35  274817       0 Unignoring the package: Extract Text to File
+[channel_installer.py] 08:45:35  275317     500 Unignoring the package: File History
+[channel_installer.py] 08:45:35  275317       0 Unignoring the package: File Rename
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin Column Select.column_select
+reloading plugin Delete Current File.DeleteCurrentFile
+reloading settings Packages/Delete Current File/DeleteCurrentFile.sublime-settings
+reloading plugin DistractionFreeWindow.distraction_free_window
+reloading plugin DuplicateSelections.duplicate_selections
+reloading plugin Edit Preferences.__init__
+reloading plugin Edit Preferences.commands_base
+reloading plugin Edit Preferences.edit_package_files
+reloading plugin Edit Preferences.extract_snippets
+reloading plugin Edit Preferences.helper_commands
+reloading plugin Edit Preferences.helpers
+reloading plugin Edit Preferences.insert_binding_repr
+reloading plugin Edit Preferences.jsonix
+reloading plugin Edit Preferences.list_commands
+reloading plugin Edit Preferences.list_menu_bindings
+reloading plugin Edit Preferences.list_settings
+reloading plugin Edit Preferences.list_shortcut_keys
+reloading plugin Edit Preferences.list_theme_selectors
+reloading plugin Edit Preferences.package_resources
+reloading plugin Edit Preferences.quick_panel_cols
+reloading plugin Edit Preferences.scheduler
+reloading plugin Emmet.emmet-plugin
+generating syntax summary
+reloading plugin Extract Text to File.extract_to_file
+reloading plugin File History.file_history
+reloading settings Packages/File History/FileHistory.sublime-settings
+[channel_installer.py] 08:45:36  658123  382806
+
+Installing 91 of 131: FindKeyConflicts (False)
+[channel_installer.py] 08:45:36  658623     500 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:45:36  658623       0 g_next_packages_to_ignore: ['FindKeyConflicts', 'GitHub Markdown Snippets', 'Glue', 'HighlightWords', 'Horizontal Scroll', 'Indent Size', 'LaTeX Word Count', 'LESS', 'Line Endings Unify']
+reloading settings Packages/User/Preferences.sublime-settings
+PyV8: Creating new thread
+Emmet: Creating thread
+reloading plugin File Rename.file_rename
+[FileHistory] Reloading the settings file "FileHistory.sublime-settings".
+Emmet: Loading https://api.github.com/repos/emmetio/pyv8-binaries/contents
+ignored packages updated to: ["FindKeyConflicts", "GitHub Markdown Snippets", "Glue", "HighlightWords", "Horizontal Scroll", "Indent Size", "LaTeX Word Count", "LESS", "Line Endings Unify", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+Emmet: Loading PyV8 binary from https://raw.github.com/emmetio/pyv8-binaries/master/pyv8-win32-p3.zip
+[channel_installer.py] 08:45:42  444585 -214038 add_packages_to_ignored_list, Adding packages to unignore list: ['FindKeyConflicts', 'GitHub Markdown Snippets', 'Glue', 'HighlightWords', 'Horizontal Scroll', 'Indent Size', 'LaTeX Word Count', 'LESS', 'Line Endings Unify']
+[channel_utilities.py] 08:45:42  446087  175774 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:45:47   12896 -433191 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:47   17901    5005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:47   22405    4504 Adding package to unignore list: FindKeyConflicts
+[channel_installer.py] 08:45:47   22405       0
+
+Installing 92 of 131: GitHub Markdown Snippets (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:48  677521  659620 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:48  682473    4952 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:48  686476    4003 Adding package to unignore list: GitHub Markdown Snippets
+[channel_installer.py] 08:45:48  686476       0
+
+Installing 93 of 131: Glue (False)
+[channel_utilities.py] 08:45:50  626810  -55663 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:50  632813    6003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:50  642322    9509 Adding package to unignore list: Glue
+[channel_installer.py] 08:45:50  642322       0
+
+Installing 94 of 131: HighlightWords (False)
+[channel_utilities.py] 08:45:52  399506 -233307 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:52  403505    3999 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:52  407008    3503 Adding package to unignore list: HighlightWords
+[channel_installer.py] 08:45:52  407509     501
+
+Installing 95 of 131: Horizontal Scroll (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:54   71079 -332426 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:54   79587    8508 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:54   85092    5505 Adding package to unignore list: Horizontal Scroll
+[channel_installer.py] 08:45:54   85092       0
+
+Installing 96 of 131: Indent Size (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:55  754667  675080 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:55  767180   12513 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:55  772686    5506 Adding package to unignore list: Indent Size
+[channel_installer.py] 08:45:55  772686       0
+
+Installing 97 of 131: LaTeX Word Count (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:57  524839 -242341 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:57  530343    5504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:57  533848    3505 Adding package to unignore list: LaTeX Word Count
+[channel_installer.py] 08:45:57  534349     501
+
+Installing 98 of 131: LESS (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:45:59  318032 -212311 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:45:59  323037    5005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:45:59  326547    3510 Adding package to unignore list: LESS
+[channel_installer.py] 08:45:59  327043     496
+
+Installing 99 of 131: Line Endings Unify (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:00  779429  456392 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:00  784438    5009 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:00  786954    2516 Adding package to unignore list: Line Endings Unify
+[channel_installer.py] 08:46:00  787459     505 Unignoring the package: FindKeyConflicts
+[channel_installer.py] 08:46:00  787459       0 Unignoring the package: GitHub Markdown Snippets
+[channel_installer.py] 08:46:00  787459       0 Unignoring the package: Glue
+[channel_installer.py] 08:46:00  787459       0 Unignoring the package: HighlightWords
+[channel_installer.py] 08:46:00  787459       0 Unignoring the package: Horizontal Scroll
+[channel_installer.py] 08:46:00  787942     483 Unignoring the package: Indent Size
+[channel_installer.py] 08:46:00  787942       0 Unignoring the package: LaTeX Word Count
+[channel_installer.py] 08:46:00  787942       0 Unignoring the package: LESS
+[channel_installer.py] 08:46:00  787942       0 Unignoring the package: Line Endings Unify
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin FindKeyConflicts.find_key_conflicts
+reloading plugin HighlightWords.HighlightWords
+reloading settings Packages/HighlightWords/HighlightWords.sublime-settings
+reloading plugin Glue.__init__
+reloading plugin Glue.Glue
+reloading plugin Glue.GlueBrowser
+reloading plugin Glue.GlueCmds
+reloading plugin Glue.GlueIO
+reloading plugin Glue.GlueSidebarOpener
+reloading plugin Indent Size.IndentSizeCommand
+reloading plugin Horizontal Scroll.scroll_width
+reloading plugin LaTeX Word Count.WordCount
+reloading plugin LESS.less_completions
+generating syntax summary
+generating meta info summary
+[channel_installer.py] 08:46:01  880969   93027
+
+Installing 100 of 131: Markdown Preview (False)
+[channel_installer.py] 08:46:01  880969       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:46:01  881469     500 g_next_packages_to_ignore: ['Markdown Preview', 'MaxPane', 'MoveText', 'MultiEditUtils', 'Number King', 'OverrideAudit', 'PackageResourceViewer', 'Path Translator', 'PostScript']
+reloading plugin Line Endings Unify.LineEndingsUnify
+ignored packages updated to: ["Markdown Preview", "MaxPane", "MoveText", "MultiEditUtils", "Number King", "OverrideAudit", "PackageResourceViewer", "Path Translator", "PostScript", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:46:05  569640 -311829 add_packages_to_ignored_list, Adding packages to unignore list: ['Markdown Preview', 'MaxPane', 'MoveText', 'MultiEditUtils', 'Number King', 'OverrideAudit', 'PackageResourceViewer', 'Path Translator', 'PostScript']
+[channel_utilities.py] 08:46:05  570640 -213798 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["Markdown Preview", "MaxPane", "MoveText", "MultiEditUtils", "Number King", "OverrideAudit", "PackageResourceViewer", "Path Translator", "PostScript", "Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:13  991227  420587 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:13  994280    3053 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:13  996727    2447 Adding package to unignore list: Markdown Preview
+[channel_installer.py] 08:46:13  996727       0
+
+Installing 101 of 131: MaxPane (False)
+[channel_utilities.py] 08:46:15  379033 -615247 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:15  384542    5509 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:15  387541    2999 Adding package to unignore list: MaxPane
+[channel_installer.py] 08:46:15  388041     500
+
+Installing 102 of 131: MoveText (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:16  819392  434850 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:16  824397    5005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:16  828400    4003 Adding package to unignore list: MoveText
+[channel_installer.py] 08:46:16  828901     501
+
+Installing 103 of 131: MultiEditUtils (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:18  439926 -384471 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:18  445425    5499 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:18  448430    3005 Adding package to unignore list: MultiEditUtils
+[channel_installer.py] 08:46:18  448930     500
+
+Installing 104 of 131: Number King (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:20   38931 -406494 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:20   43438    4507 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:20   46938    3500 Adding package to unignore list: Number King
+[channel_installer.py] 08:46:20   47439     501
+
+Installing 105 of 131: OverrideAudit (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:22  210479  167041 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:22  216985    6506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:22  220991    4006 Adding package to unignore list: OverrideAudit
+[channel_installer.py] 08:46:22  220991       0
+
+Installing 106 of 131: PackageResourceViewer (False)
+[channel_utilities.py] 08:46:23  932104  715119 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:23  935111    3007 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:23  939112    4001 Adding package to unignore list: PackageResourceViewer
+[channel_installer.py] 08:46:23  939112       0
+
+Installing 107 of 131: Path Translator (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: Error parsing messages.json for Path Translator
+[channel_utilities.py] 08:46:25  721795 -213316 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:25  726799    5004 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:25  730802    4003 Adding package to unignore list: Path Translator
+[channel_installer.py] 08:46:25  731304     502
+
+Installing 108 of 131: PostScript (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:30  575941 -150858 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:30  578882    2941 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:30  582381    3499 Adding package to unignore list: PostScript
+[channel_installer.py] 08:46:30  582381       0 Unignoring the package: Markdown Preview
+[channel_installer.py] 08:46:30  582381       0 Unignoring the package: MaxPane
+[channel_installer.py] 08:46:30  582881     500 Unignoring the package: MoveText
+[channel_installer.py] 08:46:30  582881       0 Unignoring the package: MultiEditUtils
+[channel_installer.py] 08:46:30  582881       0 Unignoring the package: Number King
+[channel_installer.py] 08:46:30  582881       0 Unignoring the package: OverrideAudit
+[channel_installer.py] 08:46:30  582881       0 Unignoring the package: PackageResourceViewer
+[channel_installer.py] 08:46:30  582881       0 Unignoring the package: Path Translator
+[channel_installer.py] 08:46:30  583381     500 Unignoring the package: PostScript
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin MaxPane.layouts_doc
+reloading plugin MaxPane.max_pane
+reloading plugin MoveText.move_text
+reloading plugin MultiEditUtils.MultiEditUtils
+reloading plugin MultiEditUtils.selection_fields
+reloading plugin Markdown Preview.helper
+reloading plugin Markdown Preview.markdown_settings
+reloading plugin Markdown Preview.markdown_wrapper
+reloading plugin Markdown Preview.MarkdownPreview
+reloading plugin Number King.king
+reloading plugin OverrideAudit.override_audit
+OverrideAudit: Initial plugin installation; generating automatic report
+reloading settings Packages/OverrideAudit/OverrideAudit.sublime-settings
+reloading plugin OverrideAudit.settings_proxy
+generating syntax summary
+generating meta info summary
+reloading plugin PackageResourceViewer.package_resource_viewer
+reloading plugin PackageResourceViewer.package_resources
+reloading plugin Path Translator.PathTranslator
+[channel_installer.py] 08:46:31  639899   56518
+
+Installing 109 of 131: ReIndent (False)
+[channel_installer.py] 08:46:31  640400     501 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:46:31  640400       0 g_next_packages_to_ignore: ['ReIndent', 'ScopeHunter', 'SQLExec', 'StickySearch', 'Swift', 'Sync View Scroll', 'TOML', 'UnitTesting', 'Whitespace']
+generating syntax summary
+generating meta info summary
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["ReIndent", "ScopeHunter", "SQLExec", "StickySearch", "Swift", "Sync View Scroll", "TOML", "UnitTesting", "Vintage", "Whitespace"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:46:38  423821 -216579 add_packages_to_ignored_list, Adding packages to unignore list: ['ReIndent', 'ScopeHunter', 'SQLExec', 'StickySearch', 'Swift', 'Sync View Scroll', 'TOML', 'UnitTesting', 'Whitespace']
+[channel_utilities.py] 08:46:38  428826 -150056 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+OverrideAudit: No packages with expired overrides found
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:46:42  957117  528291 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:42  966626    9509 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:42  973132    6506 Adding package to unignore list: ReIndent
+[channel_installer.py] 08:46:42  974132    1000
+
+Installing 110 of 131: ScopeHunter (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:45  228761 -737865 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:45  233264    4503 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:45  237768    4504 Adding package to unignore list: ScopeHunter
+[channel_installer.py] 08:46:45  238269     501
+
+Installing 111 of 131: SQLExec (False)
+[channel_utilities.py] 08:46:46  793738  560474 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:46  800243    6505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:46  811755   11512 Adding package to unignore list: SQLExec
+[channel_installer.py] 08:46:46  811755       0
+
+Installing 112 of 131: StickySearch (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:48  321179 -479064 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:48  326688    5509 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:48  329692    3004 Adding package to unignore list: StickySearch
+[channel_installer.py] 08:46:48  330191     499
+
+Installing 113 of 131: Swift (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:49  773559  446871 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:49  779565    6006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:49  784568    5003 Adding package to unignore list: Swift
+[channel_installer.py] 08:46:49  785069     501
+
+Installing 114 of 131: Sync View Scroll (False)
+[channel_utilities.py] 08:46:51  153929 -625636 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:51  157368    3439 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:51  162369    5001 Adding package to unignore list: Sync View Scroll
+[channel_installer.py] 08:46:51  162869     500
+
+Installing 115 of 131: TOML (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:52  645270  487902 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:52  652276    7006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:52  656781    4505 Adding package to unignore list: TOML
+[channel_installer.py] 08:46:52  657280     499
+
+Installing 116 of 131: UnitTesting (False)
+reloading settings Packages/User/Package Control.sublime-settings
+Package Control: The dependency 'coverage' is not currently installed; installing...
+Package Control: The dependency 'coverage' has successfully been installed or updated
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:46:59  910261  257985 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:46:59  916272    6011 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:46:59  921271    4999 Adding package to unignore list: UnitTesting
+[channel_installer.py] 08:46:59  921772     501
+
+Installing 117 of 131: Whitespace (False)
+[channel_utilities.py] 08:47:01  638893 -277379 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:01  644398    5505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:01  648402    4004 Adding package to unignore list: Whitespace
+[channel_installer.py] 08:47:01  648902     500 Unignoring the package: ReIndent
+[channel_installer.py] 08:47:01  648902       0 Unignoring the package: ScopeHunter
+[channel_installer.py] 08:47:01  648902       0 Unignoring the package: SQLExec
+[channel_installer.py] 08:47:01  648902       0 Unignoring the package: StickySearch
+[channel_installer.py] 08:47:01  648902       0 Unignoring the package: Swift
+[channel_installer.py] 08:47:01  649403     501 Unignoring the package: Sync View Scroll
+[channel_installer.py] 08:47:01  649403       0 Unignoring the package: TOML
+[channel_installer.py] 08:47:01  649403       0 Unignoring the package: UnitTesting
+[channel_installer.py] 08:47:01  649403       0 Unignoring the package: Whitespace
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin ReIndent.ReIndent
+reloading plugin SQLExec.SQLExec
+reloading plugin StickySearch.StickySearch
+reloading plugin ScopeHunter.scope_hunter
+reloading settings Packages/ScopeHunter/scope_hunter.sublime-settings
+reloading plugin ScopeHunter.scope_hunter_notify
+reloading plugin ScopeHunter.support
+reloading plugin Sync View Scroll.syncscroll
+syncScroll starting
+generating syntax summary
+generating meta info summary
+generating syntax summary
+generating meta info summary
+reloading plugin UnitTesting.ut
+ColorSchemeUnit runner could not be imported
+[channel_installer.py] 08:47:03  282944 -366459
+
+Installing 118 of 131: Terminal (False)
+[channel_installer.py] 08:47:03  282944       0 Adding 9 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:47:03  282944       0 g_next_packages_to_ignore: ['Terminal', 'Sublime Tutor', 'SQLTools', 'Syntax Highlighting for Sass', 'ConvertToUTF8', 'Random Everything', 'Insert Nums', 'AutoWrap', 'Toggle Words']
+reloading plugin Whitespace.Whitespace
+ignored packages updated to: ["AutoWrap", "ConvertToUTF8", "Insert Nums", "Random Everything", "SQLTools", "Sublime Tutor", "Syntax Highlighting for Sass", "Terminal", "Toggle Words", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:47:09  669472  386528 add_packages_to_ignored_list, Adding packages to unignore list: ['Terminal', 'Sublime Tutor', 'SQLTools', 'Syntax Highlighting for Sass', 'ConvertToUTF8', 'Random Everything', 'Insert Nums', 'AutoWrap', 'Toggle Words']
+[channel_utilities.py] 08:47:09  670972   26574 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage"]
+ignored packages updated to: ["AutoWrap", "ConvertToUTF8", "Insert Nums", "Random Everything", "SQLTools", "Sublime Tutor", "Syntax Highlighting for Sass", "Terminal", "Toggle Words", "Vintage"]
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_utilities.py] 08:47:17  560977 -109995 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:17  565925    4948 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:17  570929    5004 Adding package to unignore list: Terminal
+[channel_installer.py] 08:47:17  570929       0
+
+Installing 119 of 131: Sublime Tutor (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:18  459271 -106654 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:18  464274    5003 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:18  467783    3509 Adding package to unignore list: Sublime Tutor
+[channel_installer.py] 08:47:18  467783       0
+
+Installing 120 of 131: SQLTools (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:19  250014 -214260 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:19  255020    5006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:19  259024    4004 Adding package to unignore list: SQLTools
+[channel_installer.py] 08:47:19  259024       0
+
+Installing 121 of 131: Syntax Highlighting for Sass (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:19  848079  593059 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:19  853584    5505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:19  858088    5005 Adding package to unignore list: Syntax Highlighting for Sass
+[channel_installer.py] 08:47:19  858589     501
+
+Installing 122 of 131: ConvertToUTF8 (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:20  873051   19467 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:20  876555    3504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:20  881554    4999 Adding package to unignore list: ConvertToUTF8
+[channel_installer.py] 08:47:20  882056     502
+
+Installing 123 of 131: Random Everything (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:22  654227 -222328 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:22  659733    5506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:22  664237    4504 Adding package to unignore list: Random Everything
+[channel_installer.py] 08:47:22  664237       0
+
+Installing 124 of 131: Insert Nums (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:23  203765 -455968 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:23  211753    7988 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:23  216759    5006 Adding package to unignore list: Insert Nums
+[channel_installer.py] 08:47:23  216759       0
+
+Installing 125 of 131: AutoWrap (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:26  102499 -109254 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:26  116013   13514 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:26  122018    6005 Adding package to unignore list: AutoWrap
+[channel_installer.py] 08:47:26  122517     499
+
+Installing 126 of 131: Toggle Words (False)
+[channel_utilities.py] 08:47:28  207987   91974 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:28  214493    6506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:28  218997    4504 Adding package to unignore list: Toggle Words
+[channel_installer.py] 08:47:28  218997       0 Unignoring the package: Terminal
+[channel_installer.py] 08:47:28  218997       0 Unignoring the package: Sublime Tutor
+[channel_installer.py] 08:47:28  219497     500 Unignoring the package: SQLTools
+[channel_installer.py] 08:47:28  219497       0 Unignoring the package: Syntax Highlighting for Sass
+[channel_installer.py] 08:47:28  219497       0 Unignoring the package: ConvertToUTF8
+[channel_installer.py] 08:47:28  219497       0 Unignoring the package: Random Everything
+[channel_installer.py] 08:47:28  219497       0 Unignoring the package: Insert Nums
+[channel_installer.py] 08:47:28  219998     501 Unignoring the package: AutoWrap
+[channel_installer.py] 08:47:28  219998       0 Unignoring the package: Toggle Words
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+reloading plugin AutoWrap.autowrap
+reloading plugin Insert Nums.InsertNums
+[channel_installer.py] 08:47:29  876560  656562
+
+Installing 127 of 131: Default (False)
+[channel_installer.py] 08:47:29  877062     502 Adding 5 packages to be uninstalled to the `ignored_packages` setting list.
+[channel_installer.py] 08:47:29  877062       0 g_next_packages_to_ignore: ['Default', 'BetterFindBuffer', 'SublimeLinter', 'A File Icon', 'PackagesManager']
+reloading plugin ConvertToUTF8.ConvertToUTF8
+reloading plugin Random Everything.__init__
+reloading plugin Random Everything.random
+reloading plugin SQLTools.SQLTools
+SQLTools (v0.9.4): Logging is active
+SQLTools (v0.9.4): Connection timeout set to 15 seconds
+SQLTools (v0.9.4): Connection history defined with max size 100
+SQLTools (v0.9.4): SQLTools Loaded!
+reloading plugin Sublime Tutor.sublime_tutor
+reloading plugin Terminal.Terminal
+generating meta info summary
+generating syntax summary
+reloading plugin Toggle Words.ToggleWords
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/SQLTools.sublime-settings
+ignored packages updated to: ["A File Icon", "BetterFindBuffer", "PackagesManager", "SublimeLinter", "Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:47:43  448404 -428658 add_packages_to_ignored_list, Adding packages to unignore list: ['BetterFindBuffer', 'SublimeLinter', 'A File Icon', 'PackagesManager']
+[channel_utilities.py] 08:47:43  449906  235413 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading plugin Default.install_package_control
+reloading settings Packages/Default/Preferences (Windows).sublime-settings
+reloading settings Packages/Default/Preferences.sublime-settings
+reloading plugin Default.synced_side_bar_watcher
+reloading plugin Default.transpose
+loading dictionary Packages/Language - English/en_US.dic
+[channel_utilities.py] 08:47:51   85629 -364277 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:51   91134    5505 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:51   95138    4504 Adding package to unignore list: Default
+[channel_installer.py] 08:47:51   95639     501
+
+Installing 128 of 131: BetterFindBuffer (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:51  801806  710672 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:51  809812    8006 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:51  814817    5005 Adding package to unignore list: BetterFindBuffer
+[channel_installer.py] 08:47:51  815319     502
+
+Installing 129 of 131: SublimeLinter (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:47:53  503412 -306400 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:47:53  510918    7506 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:47:53  514921    4503 Adding package to unignore list: SublimeLinter
+[channel_installer.py] 08:47:53  515423     502
+
+Installing 130 of 131: A File Icon (False)
+reloading settings Packages/User/Package Control.sublime-settings
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:48:01  960398  449480 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:48:01  965902    5504 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:48:01  969902    4000 Adding package to unignore list: A File Icon
+[channel_installer.py] 08:48:01  969902       0
+
+Installing 131 of 131: PackagesManager (False)
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_utilities.py] 08:48:07  638753 -327149 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\PackagesManager.sublime-settings
+[channel_utilities.py] 08:48:07  644758    6005 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+[channel_installer.py] 08:48:07  650264    5506 Adding package to unignore list: PackagesManager
+[channel_installer.py] 08:48:07  650264       0 Unignoring the package: BetterFindBuffer
+[channel_installer.py] 08:48:07  650765     501 Unignoring the package: SublimeLinter
+[channel_installer.py] 08:48:07  650765       0 Unignoring the package: A File Icon
+[channel_installer.py] 08:48:07  650765       0 Unignoring the package: PackagesManager
+ignored packages updated to: ["Vintage"]
+reloading plugin A File Icon.A File Icon
+generating meta info summary
+[channel_installer.py] 08:48:10  566516  -84249 uninstall_package_control, g_packages_to_uninstall: ['Notepad++ Color Scheme', 'User', 'ActiveViewJumpBack', 'amxmodx', 'AmxxPawn', 'ClearCursorsCarets', 'ClipboardScopeCopy', 'DefaultSyntax', 'FixProjectSwitchRestartBug', 'FixSelectionAfterIndent', 'FixedSelectionsClear', 'ForceRewriteSublimeSettings', 'Octave', 'OpenAutoCompletion', 'OverrideUnpackedPackages', 'OverwriteCommitCompletion', 'RichPlainText', 'SqlKeywordUppercase', 'SelectAllSpellingErrors', 'Uncrustify', 'ViewSettingsFreely', 'Language - English and Portuguese', 'QuickSettings', 'ANSIescape', 'Add Folder To Project', 'Advanced CSV', 'AdvancedNewFile', 'AlignTab', 'AutoFileName', 'BBCode', 'Better CoffeeScript', 'BufferScroll', 'ChannelRepositoryTools', 'Color Highlighter', 'Compare Side-By-Side', 'Copy Filepath With Line Numbers', 'CopyWithLineNumbersReloaded', 'DocBlockr', 'ExportHtml', 'ExtendedTabSwitcher', 'FileDiffs', 'FuzzyFileNav', 'Google Spell Check', 'Highlight Build Errors', 'Hungry Backspace', 'Indent and braces', 'Invert Selection', 'LaTeXTools', 'Markdown to BB Code Converter', 'Origami', 'PackageDev', 'PowerCursors', 'Side-by-Side Settings', 'SideBarEnhancements', 'SublimeREPL', 'SyntaxManager', 'Text Pastry', 'Toolbar', 'Trimmer', 'Wrap Plus', 'Pretty JSON', 'VBScript', 'REG', 'Generic Config', 'Dotfiles Syntax Highlighting', 'Maven', 'SublimeLinter-javac', 'SelectUntil', 'Case Conversion', 'x86 and x86_64 Assembly', 'Incrementor', 'TabsExtra', 'Increment Selection', 'AutomaticPackageReloader', 'LaTeXSmartQuotes', 'Alignment', 'Auto Refresh', 'Chain of Command', 'ChangeQuotes', 'Clickable URLs', 'ColorSchemeEditor', 'Column Select', 'Delete Current File', 'DistractionFreeWindow', 'DuplicateSelections', 'Edit Preferences', 'Emmet', 'Extract Text to File', 'File History', 'File Rename', 'FindKeyConflicts', 'GitHub Markdown Snippets', 'Glue', 'HighlightWords', 'Horizontal Scroll', 'Indent Size', 'LaTeX Word Count', 'LESS', 'Line Endings Unify', 'Markdown Preview', 'MaxPane', 'MoveText', 'MultiEditUtils', 'Number King', 'OverrideAudit', 'PackageResourceViewer', 'Path Translator', 'PostScript', 'ReIndent', 'ScopeHunter', 'SQLExec', 'StickySearch', 'Swift', 'Sync View Scroll', 'TOML', 'UnitTesting', 'Whitespace', 'Terminal', 'Sublime Tutor', 'SQLTools', 'Syntax Highlighting for Sass', 'ConvertToUTF8', 'Random Everything', 'Insert Nums', 'AutoWrap', 'Toggle Words', 'Default', 'BetterFindBuffer', 'SublimeLinter', 'A File Icon', 'PackagesManager']
+reloading plugin BetterFindBuffer.find_results
+generating meta info summary
+reloading plugin SublimeLinter.commands
+reloading plugin SublimeLinter.sublimelinter
+SublimeLinter: debug mode: off
+[channel_installer.py] 08:48:10  569019    2503 set_default_settings_after, g_channelSettings: {
+    "default_packages_files": [
+        ".gitignore",
+        ".no-sublime-package",
+        "Context.sublime-menu",
+        "Default (Linux).sublime-keymap",
+        "Default (Linux).sublime-mousemap",
+        "Default (OSX).sublime-keymap",
+        "Default (OSX).sublime-mousemap",
+        "Default (Windows).sublime-keymap",
+        "Default (Windows).sublime-mousemap",
+        "Distraction Free.sublime-settings",
+        "Find Results.hidden-tmLanguage",
+        "install_package_control.py",
+        "package-metadata.json",
+        "Preferences (Linux).sublime-settings",
+        "Preferences (OSX).sublime-settings",
+        "Preferences (Windows).sublime-settings",
+        "Preferences.sublime-settings",
+        "README.md",
+        "Sublime Text Settings.sublime-settings",
+        "Tab Context.sublime-menu",
+        "transpose.py"
+    ],
+    "files_to_uninstall": [],
+    "folders_to_uninstall": [],
+    "next_packages_to_ignore": [
+        "BetterFindBuffer",
+        "SublimeLinter",
+        "A File Icon",
+        "PackagesManager"
+    ],
+    "packages_to_ignore": [
+        "All Autocomplete",
+        "Anaconda",
+        "ApplySyntax",
+        "BracketHighlighter",
+        "C++ Completions",
+        "C++ Snippets",
+        "C++ Starting Kit",
+        "ColorHelper",
+        "DictionaryAutoComplete",
+        "FileManager",
+        "Find++",
+        "FuzzyFilePath",
+        "Gist",
+        "Git",
+        "GitGutter",
+        "GotoLastEditEnhanced",
+        "Javatar",
+        "Jedi - Python autocompletion",
+        "Local History",
+        "Matlab Completions",
+        "MatlabFilenameAutoComplete",
+        "MySQL Snippets",
+        "Project Specific Syntax Settings",
+        "Qt Completions for C++",
+        "ScopeAlways",
+        "sublime-text-2-buildview",
+        "SublimeCodeIntel",
+        "SyncedSideBar",
+        "TypeScript",
+        "Vintage",
+        "WordHighlight"
+    ],
+    "packages_to_unignore": [],
+    "packages_to_uninstall": [
+        "Notepad++ Color Scheme",
+        "User",
+        "ActiveViewJumpBack",
+        "amxmodx",
+        "AmxxPawn",
+        "ClearCursorsCarets",
+        "ClipboardScopeCopy",
+        "DefaultSyntax",
+        "FixProjectSwitchRestartBug",
+        "FixSelectionAfterIndent",
+        "FixedSelectionsClear",
+        "ForceRewriteSublimeSettings",
+        "Octave",
+        "OpenAutoCompletion",
+        "OverrideUnpackedPackages",
+        "OverwriteCommitCompletion",
+        "RichPlainText",
+        "SqlKeywordUppercase",
+        "SelectAllSpellingErrors",
+        "Uncrustify",
+        "ViewSettingsFreely",
+        "Language - English and Portuguese",
+        "QuickSettings",
+        "ANSIescape",
+        "Add Folder To Project",
+        "Advanced CSV",
+        "AdvancedNewFile",
+        "AlignTab",
+        "AutoFileName",
+        "BBCode",
+        "Better CoffeeScript",
+        "BufferScroll",
+        "ChannelRepositoryTools",
+        "Color Highlighter",
+        "Compare Side-By-Side",
+        "Copy Filepath With Line Numbers",
+        "CopyWithLineNumbersReloaded",
+        "DocBlockr",
+        "ExportHtml",
+        "ExtendedTabSwitcher",
+        "FileDiffs",
+        "FuzzyFileNav",
+        "Google Spell Check",
+        "Highlight Build Errors",
+        "Hungry Backspace",
+        "Indent and braces",
+        "Invert Selection",
+        "LaTeXTools",
+        "Markdown to BB Code Converter",
+        "Origami",
+        "PackageDev",
+        "PowerCursors",
+        "Side-by-Side Settings",
+        "SideBarEnhancements",
+        "SublimeREPL",
+        "SyntaxManager",
+        "Text Pastry",
+        "Toolbar",
+        "Trimmer",
+        "Wrap Plus",
+        "Pretty JSON",
+        "VBScript",
+        "REG",
+        "Generic Config",
+        "Dotfiles Syntax Highlighting",
+        "Maven",
+        "SublimeLinter-javac",
+        "SelectUntil",
+        "Case Conversion",
+        "x86 and x86_64 Assembly",
+        "Incrementor",
+        "TabsExtra",
+        "Increment Selection",
+        "AutomaticPackageReloader",
+        "LaTeXSmartQuotes",
+        "Alignment",
+        "Auto Refresh",
+        "Chain of Command",
+        "ChangeQuotes",
+        "Clickable URLs",
+        "ColorSchemeEditor",
+        "Column Select",
+        "Delete Current File",
+        "DistractionFreeWindow",
+        "DuplicateSelections",
+        "Edit Preferences",
+        "Emmet",
+        "Extract Text to File",
+        "File History",
+        "File Rename",
+        "FindKeyConflicts",
+        "GitHub Markdown Snippets",
+        "Glue",
+        "HighlightWords",
+        "Horizontal Scroll",
+        "Indent Size",
+        "LaTeX Word Count",
+        "LESS",
+        "Line Endings Unify",
+        "Markdown Preview",
+        "MaxPane",
+        "MoveText",
+        "MultiEditUtils",
+        "Number King",
+        "OverrideAudit",
+        "PackageResourceViewer",
+        "Path Translator",
+        "PostScript",
+        "ReIndent",
+        "ScopeHunter",
+        "SQLExec",
+        "StickySearch",
+        "Swift",
+        "Sync View Scroll",
+        "TOML",
+        "UnitTesting",
+        "Whitespace",
+        "Terminal",
+        "Sublime Tutor",
+        "SQLTools",
+        "Syntax Highlighting for Sass",
+        "ConvertToUTF8",
+        "Random Everything",
+        "Insert Nums",
+        "AutoWrap",
+        "Toggle Words",
+        "Default",
+        "BetterFindBuffer",
+        "SublimeLinter",
+        "A File Icon",
+        "PackagesManager"
+    ]
+}
+[channel_utilities.py] 08:48:10  569019  -75739 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+reloading plugin PackagesManager.1_reloader
+reloading plugin PackagesManager.2_bootstrap
+reloading plugin PackagesManager.PackagesManager
+reloading settings Packages/PackagesManager/PackagesManager.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/SublimeLinter.sublime-settings
+reloading plugin 0_packagesmanager_loader.00-packagesmanager
+ignored packages updated to: ["Package Control", "Vintage"]
+unloading plugin Package Control.1_reloader
+unloading plugin Package Control.2_bootstrap
+unloading plugin Package Control.Package Control
+reloading settings Packages/Package Control/Package Control.sublime-settings
+PackagesManager: Removed orphaned package Package Control
+ignored packages updated to: ["Vintage"]
+Error loading C:\User\AppData\Roaming\Sublime Text 3\Installed Packages\Package Control.sublime-package: [Errno 2] No such file or directory: 'C:\\Users\\Professional\\AppData\\Roaming\\Sublime Text 3\\Installed Packages\\Package Control.sublime-package'
+reloading settings Packages/User/Preferences.sublime-settings
+
+***
+A File Icon: Please restart Sublime Text for the applied icons to take effect ...
+***
+
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:48:30  462295 -106724
+
+Finishing Package Control Uninstallation... maximum_attempts: 3
+PackagesManager: Silencing Error Messages Boxes for 300.0 seconds
+[channel_installer.py] 08:48:30  512842   50547 add_packages_to_ignored_list, Adding packages to unignore list: ['Package Control', '0_package_control_loader']
+[channel_utilities.py] 08:48:30  514844  -54175 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\StudioChannel.sublime-settings
+ignored packages updated to: ["Vintage", "Package Control", "0_package_control_loader"]
+unloading plugin 0_package_control_loader.00-package_control
+unloading plugin 0_package_control_loader.50-PythonDebugTools
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+[channel_installer.py] 08:48:37  893350  378506
+
+Uninstalling: Package Control...
+reloading settings Packages/User/Preferences.sublime-settings
+PackagesManager: The package specified, Package Control, is not installed
+[channel_installer.py] 08:48:38   63512 -829838
+
+Uninstalling: 0_package_control_loader...
+PackagesManager: Adding missing dependency loader for the package: ChannelManager
+PackagesManager: The package 0_package_control_loader has been removed
+[channel_installer.py] 08:48:46  722685  659173 Calling delete_package_control_settings...
+[channel_utilities.py] 08:48:46  722685  207841 Writing to the data file: C:\User\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/Package Control.sublime-settings
+[channel_installer.py] 08:48:48  403771 -318914 Finishing installation... maximum_attempts: 10
+reloading settings Packages/User/Preferences.sublime-settings
+PackagesManager: Adding missing dependency loader for the package: coverage
+PackagesManager: Adding missing dependency loader for the package: markupsafe
+PackagesManager: Adding missing dependency loader for the package: mdpopups
+PackagesManager: Adding missing dependency loader for the package: pygments
+PackagesManager: Adding missing dependency loader for the package: python-jinja2
+PackagesManager: Adding missing dependency loader for the package: python-markdown
+PackagesManager: Adding missing dependency loader for the package: PythonDebugTools
+PackagesManager: Adding missing dependency loader for the package: pyyaml
+PackagesManager: Adding missing dependency loader for the package: regex
+ignored packages updated to: ["BBCode", "Vintage"]
+reloading settings Packages/BBCode/BBCode.sublime-settings
+generating syntax summary
+generating meta info summary
+ignored packages updated to: ["BBCode", "BBCode Syntax", "Vintage"]
+reloading settings Packages/User/PackagesManager.sublime-settings
+PackagesManager: Renamed BBCode to BBCode Syntax
+PackagesManager: 10 missing dependencies were just installed. Sublime Text should be restarted, otherwise one or more of the installed packages may not function properly.
+reloading settings Packages/User/PackagesManager.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+ignored packages updated to: ["BBCode", "Vintage"]
+ignored packages updated to: ["Vintage"]
+reloading settings Packages/User/PackagesManager.sublime-settings
+generating syntax summary
+generating meta info summary
+reloading settings Packages/User/PackagesManager.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+reloading settings Packages/User/Preferences.sublime-settings
+generating syntax summary
+PackagesManager: No updated packages
