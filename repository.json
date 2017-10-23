@@ -269,6 +269,29 @@
                 "evandrocoan"
             ], 
             "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/SublimeAmxxChannel", 
+            "homepage": "https://github.com/evandrocoan/SublimeAmxxChannel", 
+            "name": "AmxxChannel", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-10-23 09:57:52", 
+                    "git_tag": [
+                        false, 
+                        "fatal: No names found, cannot describe anything."
+                    ], 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/master", 
+                    "version": "2017.10.23"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
             "details": "https://github.com/evandrocoan/SublimeAmxxPawn", 
             "homepage": "https://github.com/evandrocoan/SublimeAmxxPawn", 
             "name": "AmxxPawn", 
@@ -2110,7 +2133,7 @@
             "releases": [
                 {
                     "date": "2017-09-28 15:00:19", 
-                    "git_tag": "v1.1.2", 
+                    "git_tag": "v1.1.1", 
                     "platforms": [
                         "*"
                     ], 
@@ -2672,7 +2695,7 @@
             "releases": [
                 {
                     "date": "2016-08-22 10:30:00", 
-                    "git_tag": "1.0.1", 
+                    "git_tag": "1.0.0", 
                     "platforms": [
                         "*"
                     ], 
@@ -3043,7 +3066,7 @@
             "releases": [
                 {
                     "date": "2017-10-23 08:04:39", 
-                    "git_tag": "1.0.2", 
+                    "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/master", 
@@ -3632,7 +3655,7 @@
             "releases": [
                 {
                     "date": "2017-10-07 12:18:32", 
-                    "git_tag": "5.0.15", 
+                    "git_tag": "5.0.14", 
                     "platforms": [
                         "*"
                     ], 
@@ -3763,7 +3786,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-23 09:10:51", 
+                    "date": "2017-10-23 09:53:25", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
@@ -4247,27 +4270,6 @@
         }, 
         {
             "authors": [
-                "titoBouzout", 
-                "Forked by evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/SublimeTextToolBar", 
-            "homepage": "https://github.com/evandrocoan/SublimeTextToolBar", 
-            "name": "Toolbar", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-07-11 19:42:00", 
-                    "git_tag": "1.0.0", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeTextToolBar/zip/master", 
-                    "version": "2017.07.11"
-                }
-            ]
-        }, 
-        {
-            "authors": [
                 "jonlabelle", 
                 "Forked by evandrocoan"
             ], 
@@ -4597,7 +4599,7 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-10-23 09:03:56", 
+                    "date": "2017-10-23 09:45:27", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
