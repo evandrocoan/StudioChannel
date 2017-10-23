@@ -47,7 +47,7 @@ from ChannelManager.copy_default_package import main as copy_default_main
 
 
 # Import the debugger
-from debug_tools import Debugger
+from PythonDebugTools.debug_tools import Debugger
 
 # Debugger settings: 0 - disabled, 127 - enabled
 log = Debugger( 1, os.path.basename( __file__ ) )
