@@ -131,7 +131,7 @@ def plugin_loaded():
         "SublimeLinter",
         "SublimeLinter-javac",
         "A File Icon",
-        "PackagesManager"
+        "PackagesManager",
     ]
 
     # Packages which are not allowed to be selected by the user while choosing the packages to not
@@ -150,6 +150,7 @@ def plugin_loaded():
     [
         "PythonDebugTools",
         "AmxxChannel",
+        "PackagesManager",
     ]
 
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
