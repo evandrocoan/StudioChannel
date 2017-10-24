@@ -148,6 +148,7 @@ def plugin_loaded():
     # the `.gitmodules` packages list.
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
+        "User",
         "PythonDebugTools",
         "AmxxChannel",
         "PackagesManager",
