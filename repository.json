@@ -4596,16 +4596,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-10-23 13:15:13", 
+                    "date": "2017-10-24 15:33:50", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
-                    "git_tag": "1.0.11", 
+                    "git_tag": "1.0.12", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
                     "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/master", 
-                    "version": "2017.10.23"
+                    "version": "2017.10.24"
                 }
             ]
         }, 
