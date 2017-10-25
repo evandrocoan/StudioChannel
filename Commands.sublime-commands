@@ -20,5 +20,8 @@
     { "caption": "Studio Channel: Pull & Rebase all Packages", "command": "studio_channel_run",
             "args": {"run": "-p"} },
 
+    { "caption": "Studio Channel: Add All Upstreams Remotes", "command": "studio_channel_run",
+            "args": {"run": "-u"} },
+
     { "caption": "Studio Channel: Update Default Packages", "command": "studio_channel_update_default_packages" },
 ]
