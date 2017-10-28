@@ -11,17 +11,20 @@
     { "caption": "Studio Channel: Force Update All Packages Git Tags", "command": "studio_channel_generate_channel_file",
             "args": { "create_tags": true, "command": "git_tag_all" } },
 
-    { "caption": "Studio Channel: Push Local Git Tags",
-            "command": "studio_channel_run", "args": {"run": "-t"} },
-
     { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
             "args": {"run": "-b"} },
 
-    { "caption": "Studio Channel: Pull & Rebase all Packages (git)", "command": "studio_channel_run",
+    { "caption": "Studio Channel: Fetch All Submodules remote origin", "command": "studio_channel_run",
+            "args": {"run": "-fo"} },
+
+    { "caption": "Studio Channel: Pull & Rebase All Submodules (git)", "command": "studio_channel_run",
             "args": {"run": "-p"} },
 
-    { "caption": "Studio Channel: Pull & Rebase all Packages (python)", "command": "studio_channel_run",
+    { "caption": "Studio Channel: Pull & Rebase All Submodules (python)", "command": "studio_channel_run",
             "args": {"run": "-o"} },
+
+    { "caption": "Studio Channel: Push Local Git Tags",
+            "command": "studio_channel_run", "args": {"run": "-t"} },
 
     { "caption": "Studio Channel: Add All Upstreams Remotes", "command": "studio_channel_run",
             "args": {"run": "-u"} },
