@@ -27,6 +27,7 @@
         "ScopeAlways", 
         "sublime-text-2-buildview", 
         "SublimeCodeIntel", 
+        "SublimeLinter-javac", 
         "SyncedSideBar", 
         "TypeScript", 
         "Vintage", 
