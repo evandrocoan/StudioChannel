@@ -23,5 +23,8 @@
     { "caption": "Studio Channel: Add All Upstreams Remotes", "command": "studio_channel_run",
             "args": {"run": "-u"} },
 
+    { "caption": "Studio Channel: Delete All remote Except origin", "command": "studio_channel_run",
+            "args": {"run": "-d"} },
+
     { "caption": "Studio Channel: Update Default Packages", "command": "studio_channel_update_default_packages" },
 ]
