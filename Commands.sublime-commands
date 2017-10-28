@@ -17,8 +17,11 @@
     { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
             "args": {"run": "-b"} },
 
-    { "caption": "Studio Channel: Pull & Rebase all Packages", "command": "studio_channel_run",
+    { "caption": "Studio Channel: Pull & Rebase all Packages (git)", "command": "studio_channel_run",
             "args": {"run": "-p"} },
+
+    { "caption": "Studio Channel: Pull & Rebase all Packages (python)", "command": "studio_channel_run",
+            "args": {"run": "-o"} },
 
     { "caption": "Studio Channel: Add All Upstreams Remotes", "command": "studio_channel_run",
             "args": {"run": "-u"} },
