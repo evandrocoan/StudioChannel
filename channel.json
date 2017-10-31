@@ -2269,11 +2269,11 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-31 19:48:58", 
-                        "git_tag": "1.0.0", 
+                        "date": "2017-10-31 20:41:21", 
+                        "git_tag": "1.0.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeKeepPastedTextSelected/zip/1.0.0", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeKeepPastedTextSelected/zip/1.0.1", 
                         "version": "2017.10.31"
                     }
                 ]
@@ -2671,12 +2671,12 @@
                 "readme": "https://raw.githubusercontent.com/philippotto/Sublime-MultiEditUtils/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-10-25 20:17:49", 
+                        "date": "2017-10-31 20:19:23", 
                         "git_tag": "1.9.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/Sublime-MultiEditUtils/zip/1.9.1", 
-                        "version": "2017.10.25"
+                        "version": "2017.10.31"
                     }
                 ]
             }, 
@@ -3563,7 +3563,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-10-28 20:32:42", 
+                        "date": "2017-10-31 20:13:25", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "ChannelManager"
@@ -3572,7 +3572,7 @@
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.7", 
-                        "version": "2017.10.28"
+                        "version": "2017.10.31"
                     }
                 ]
             }, 
@@ -4328,7 +4328,7 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-10-30 11:50:51", 
+                        "date": "2017-10-31 20:16:04", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
@@ -4337,7 +4337,7 @@
                         "sublime_text": ">=3126", 
                         "tags": true, 
                         "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.15", 
-                        "version": "2017.10.30"
+                        "version": "2017.10.31"
                     }
                 ]
             }, 
