@@ -36,6 +36,35 @@
         }, 
         {
             "authors": [
+                "ice9js", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "Jump between characters in Sublime Text 3 without using a mouse at ease", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/ace-jump-sublime", 
+            "issues": "https://github.com/ice9js/ace-jump-sublime/issues", 
+            "labels": [
+                "code navigation", 
+                "text navigation"
+            ], 
+            "last_modified": "2017-02-01 21:49:47", 
+            "name": "AceJump", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/ice9js/ace-jump-sublime/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-11-02 19:23:27", 
+                    "git_tag": "1.8.3", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/ace-jump-sublime/zip/1.8.3", 
+                    "version": "2017.11.02"
+                }
+            ]
+        }, 
+        {
+            "authors": [
                 "evandrocoan"
             ], 
             "description": "No description available.", 
@@ -183,6 +212,32 @@
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeAllAutocomplete/zip/1.0.0", 
                     "version": "2017.08.30"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "germtb", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "Sublime package for better text/code navigation by jumping paragraphs", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/AltUp", 
+            "issues": "https://github.com/germtb/AltUp/issues", 
+            "labels": [], 
+            "last_modified": "2015-12-09 12:30:20", 
+            "name": "AltUp", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/germtb/AltUp/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-11-02 19:49:44", 
+                    "git_tag": "v0.1\nwarning: tag 'v0.1' is really '0.1.0' here", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/AltUp/zip/v0.1\nwarning: tag 'v0.1' is really '0.1.0' here", 
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -913,12 +968,12 @@
             "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Column-Select/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-28 14:15:19", 
+                    "date": "2017-11-02 14:59:29", 
                     "git_tag": "1.0.0", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/Sublime-Column-Select/zip/1.0.0", 
-                    "version": "2017.09.28"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -1042,12 +1097,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-28 12:08:46", 
+                    "date": "2017-11-02 19:50:09", 
                     "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.2", 
-                    "version": "2017.10.28"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -1282,12 +1337,12 @@
             "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-10-09 10:24:46", 
+                    "date": "2017-11-02 00:52:46", 
                     "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/emmet-sublime/zip/1.0.1", 
-                    "version": "2017.10.09"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -2256,6 +2311,34 @@
         }, 
         {
             "authors": [
+                "mwean", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "Sublime 3 plugin to move cursor to next/previous line at the same indentation level as the current line", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/sublime_jump_along_indent", 
+            "issues": "https://github.com/mwean/sublime_jump_along_indent/issues", 
+            "labels": [
+                "text navigation"
+            ], 
+            "last_modified": "2014-09-18 00:37:34", 
+            "name": "Jump Along Indent", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/mwean/sublime_jump_along_indent/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-11-02 15:14:28", 
+                    "git_tag": "v0.4.0", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/sublime_jump_along_indent/zip/v0.4.0", 
+                    "version": "2017.11.02"
+                }
+            ]
+        }, 
+        {
+            "authors": [
                 "evandrocoan"
             ], 
             "description": "No description available.", 
@@ -2385,7 +2468,7 @@
             "homepage": "https://github.com/evandrocoan/LESS-sublime", 
             "issues": "https://github.com/danro/LESS-sublime/issues", 
             "labels": [], 
-            "last_modified": "2014-08-31 22:28:34", 
+            "last_modified": "2017-11-01 21:12:29", 
             "name": "LESS", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md", 
@@ -2637,12 +2720,12 @@
             "readme": "https://raw.githubusercontent.com/colinta/SublimeMoveText/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-28 15:03:00", 
+                    "date": "2017-11-02 19:49:08", 
                     "git_tag": "2.0.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeMoveText/zip/2.0.4", 
-                    "version": "2017.09.28"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -2667,12 +2750,12 @@
             "readme": "https://raw.githubusercontent.com/philippotto/Sublime-MultiEditUtils/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-10-31 20:19:23", 
+                    "date": "2017-11-02 01:33:34", 
                     "git_tag": "1.9.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/Sublime-MultiEditUtils/zip/1.9.1", 
-                    "version": "2017.10.31"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -3052,12 +3135,12 @@
             "readme": "https://raw.githubusercontent.com/MaokaiLin/PowerCursors/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-28 15:07:05", 
+                    "date": "2017-11-02 01:33:09", 
                     "git_tag": "1.2.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/PowerCursors/zip/1.2.2", 
-                    "version": "2017.09.28"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -3559,7 +3642,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-31 20:13:25", 
+                    "date": "2017-11-02 19:23:04", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
@@ -3568,7 +3651,7 @@
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.7", 
-                    "version": "2017.10.31"
+                    "version": "2017.11.02"
                 }
             ]
         }, 
@@ -3639,10 +3722,10 @@
                 "code navigation", 
                 "snippets"
             ], 
-            "last_modified": "2017-10-31 18:08:16", 
+            "last_modified": "2017-11-01 16:57:37", 
             "name": "SublimeCodeIntel", 
             "previous_names": [], 
-            "readme": "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/README.rst", 
+            "readme": "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/README.md", 
             "releases": [
                 {
                     "date": "2017-10-27 15:04:16", 
@@ -4091,7 +4174,7 @@
                 "beautifier", 
                 "code style"
             ], 
-            "last_modified": "2016-12-26 08:38:03", 
+            "last_modified": "2017-11-01 06:35:25", 
             "name": "Uncrustify", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/obxyann/Sublime-Uncrustify/master/README.md", 
