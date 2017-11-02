@@ -78,9 +78,9 @@ class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
 
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
-    def run(self, create_tags, command="all"):
+    def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        manager_main( settings.g_channel_settings, create_tags, command )
+        manager_main( settings.g_channel_settings, command )
 
     def is_enabled(self):
         return not installation_wizard.g_is_package_control_installed

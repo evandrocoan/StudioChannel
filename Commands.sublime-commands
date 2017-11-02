@@ -1,15 +1,12 @@
 [
     { "caption": "Studio Channel: Generate Channel File", "command": "studio_channel_generate_channel_file",
-            "args": {"create_tags": false} },
-
-    { "caption": "Studio Channel: Generate Channel File and Tags", "command": "studio_channel_generate_channel_file",
-            "args": {"create_tags": true} },
+            "args": {} },
 
     { "caption": "Studio Channel: Select Package to Update Git Tag", "command": "studio_channel_generate_channel_file",
-            "args": { "create_tags": true, "command": "git_tag" } },
+            "args": {"command": "git_tag" } },
 
-    { "caption": "Studio Channel: Force Update All Packages Git Tags", "command": "studio_channel_generate_channel_file",
-            "args": { "create_tags": true, "command": "git_tag_all" } },
+    { "caption": "Studio Channel: Create and Push All Packages Tags", "command": "studio_channel_generate_channel_file",
+            "args": {"command": "git_tag_all" } },
 
     { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
             "args": {"run": "-b"} },
