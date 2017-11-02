@@ -173,6 +173,7 @@ def plugin_loaded():
         "Distraction Free.sublime-settings",
         "Find Results.hidden-tmLanguage",
         "install_package_control.py",
+        "Main.sublime-menu",
         "package-metadata.json",
         "Preferences (Linux).sublime-settings",
         "Preferences (OSX).sublime-settings",
