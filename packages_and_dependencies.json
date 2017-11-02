@@ -117,6 +117,16 @@
             ]
         },
         {
+            "name": "KeepPastedTextSelected",
+            "details": "https://github.com/evandrocoan/SublimeKeepPastedTextSelected",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "Language - English and Portuguese",
             "details": "https://github.com/evandrocoan/SublimeMultilingualDictionary",
             "releases": [
