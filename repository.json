@@ -54,7 +54,7 @@
             "readme": "https://raw.githubusercontent.com/ice9js/ace-jump-sublime/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-11-02 19:23:27", 
+                    "date": "2017-11-02 20:25:42", 
                     "git_tag": "1.8.3", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
@@ -233,10 +233,10 @@
             "releases": [
                 {
                     "date": "2017-11-02 19:49:44", 
-                    "git_tag": "v0.1\nwarning: tag 'v0.1' is really '0.1.0' here", 
+                    "git_tag": "1.0.0", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/AltUp/zip/v0.1\nwarning: tag 'v0.1' is really '0.1.0' here", 
+                    "url": "https://codeload.github.com/evandrocoan/AltUp/zip/1.0.0", 
                     "version": "2017.11.02"
                 }
             ]
@@ -2328,7 +2328,7 @@
             "readme": "https://raw.githubusercontent.com/mwean/sublime_jump_along_indent/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-11-02 15:14:28", 
+                    "date": "2017-11-02 20:20:29", 
                     "git_tag": "v0.4.0", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
@@ -3642,7 +3642,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-11-02 19:23:04", 
+                    "date": "2017-11-02 20:29:35", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
