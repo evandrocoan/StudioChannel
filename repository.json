@@ -232,12 +232,12 @@
             "readme": "https://raw.githubusercontent.com/germtb/AltUp/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-11-02 19:49:44", 
-                    "git_tag": "1.0.0", 
+                    "date": "2017-11-03 19:56:27", 
+                    "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/AltUp/zip/1.0.0", 
-                    "version": "2017.11.02"
+                    "url": "https://codeload.github.com/evandrocoan/AltUp/zip/1.0.1", 
+                    "version": "2017.11.03"
                 }
             ]
         }, 
@@ -1097,12 +1097,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-11-02 19:50:09", 
-                    "git_tag": "1.0.3", 
+                    "date": "2017-11-04 14:10:04", 
+                    "git_tag": "1.0.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.3", 
-                    "version": "2017.11.02"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.4", 
+                    "version": "2017.11.04"
                 }
             ]
         }, 
@@ -1192,7 +1192,7 @@
                 "fullscreen", 
                 "distraction-free"
             ], 
-            "last_modified": "2017-10-23 14:02:59", 
+            "last_modified": "2017-11-03 23:04:47", 
             "name": "DistractionFreeWindow", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/aziz/DistractionFreeWindow/master/README.md", 
@@ -1348,6 +1348,37 @@
         }, 
         {
             "authors": [
+                "aronwoost", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "Like \u201cExpand Selection to Scope\u201d. But better!", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/sublime-expand-region", 
+            "issues": "https://github.com/aronwoost/sublime-expand-region/issues", 
+            "labels": [
+                "text selection", 
+                "expand selection", 
+                "snippets", 
+                "code navigation"
+            ], 
+            "last_modified": "2016-06-04 07:41:57", 
+            "name": "ExpandRegion", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/aronwoost/sublime-expand-region/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-11-04 23:15:35", 
+                    "git_tag": "1.3.6", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/sublime-expand-region/zip/1.3.6", 
+                    "version": "2017.11.04"
+                }
+            ]
+        }, 
+        {
+            "authors": [
                 "facelessuser", 
                 "Forked by evandrocoan"
             ], 
@@ -1357,7 +1388,7 @@
             "homepage": "https://github.com/evandrocoan/ExportHtml", 
             "issues": "https://github.com/facelessuser/ExportHtml/issues", 
             "labels": [], 
-            "last_modified": "2017-10-31 01:59:24", 
+            "last_modified": "2017-11-04 22:04:02", 
             "name": "ExportHtml", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
@@ -1392,12 +1423,12 @@
             "readme": "https://raw.githubusercontent.com/rajeshvaya/Sublime-Extended-Tab-Switcher/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-09-29 15:50:22", 
-                    "git_tag": "2.3.2", 
+                    "date": "2017-11-04 22:46:22", 
+                    "git_tag": "2.3.3", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeExtendedTabSwitcher/zip/2.3.2", 
-                    "version": "2017.09.29"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeExtendedTabSwitcher/zip/2.3.3", 
+                    "version": "2017.11.04"
                 }
             ]
         }, 
@@ -1419,10 +1450,10 @@
             "releases": [
                 {
                     "date": "2015-05-17 23:02:06", 
-                    "git_tag": "1.0.0", 
+                    "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/sublime-extract-to-file/zip/1.0.0", 
+                    "url": "https://codeload.github.com/evandrocoan/sublime-extract-to-file/zip/1.0.1", 
                     "version": "2015.05.17"
                 }
             ]
@@ -2269,10 +2300,10 @@
             "releases": [
                 {
                     "date": "2016-06-27 22:47:06", 
-                    "git_tag": "2.0.1", 
+                    "git_tag": "2.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Javatar/zip/2.0.1", 
+                    "url": "https://codeload.github.com/evandrocoan/Javatar/zip/2.0.2", 
                     "version": "2016.06.27"
                 }
             ]
@@ -2847,12 +2878,12 @@
             "readme": "https://raw.githubusercontent.com/hktonylee/SublimeNumberKing/master/README.md", 
             "releases": [
                 {
-                    "date": "2016-11-28 12:23:45", 
+                    "date": "2017-11-04 21:26:13", 
                     "git_tag": "1.2.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeNumberKing/zip/1.2.1", 
-                    "version": "2016.11.28"
+                    "version": "2017.11.04"
                 }
             ]
         }, 
@@ -3035,10 +3066,10 @@
             "releases": [
                 {
                     "date": "2016-07-11 12:48:54", 
-                    "git_tag": "1.0.1", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/PackageResourceViewer/zip/1.0.1", 
+                    "url": "https://codeload.github.com/evandrocoan/PackageResourceViewer/zip/1.0.2", 
                     "version": "2016.07.11"
                 }
             ]
@@ -3082,10 +3113,10 @@
             "releases": [
                 {
                     "date": "2016-02-10 09:06:17", 
-                    "git_tag": "1.0.1", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Path-Translator/zip/1.0.1", 
+                    "url": "https://codeload.github.com/evandrocoan/Path-Translator/zip/1.0.2", 
                     "version": "2016.02.10"
                 }
             ]
@@ -3400,7 +3431,7 @@
             "homepage": "https://github.com/evandrocoan/ScopeHunter", 
             "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
             "labels": [], 
-            "last_modified": "2017-10-31 01:43:34", 
+            "last_modified": "2017-11-04 17:41:07", 
             "name": "ScopeHunter", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
@@ -3412,6 +3443,32 @@
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/ScopeHunter/zip/2.9.3", 
                     "version": "2017.10.27"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "mreq", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "Select everything matching the current scope (with an optional filter).", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/sublime-select-all-by-current-scope", 
+            "issues": "https://github.com/mreq/sublime-select-all-by-current-scope/issues", 
+            "labels": [], 
+            "last_modified": "2014-05-11 12:27:53", 
+            "name": "Select all by current scope", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/mreq/sublime-select-all-by-current-scope/master/README.md", 
+            "releases": [
+                {
+                    "date": "2014-05-11 14:27:53", 
+                    "git_tag": "0.1.1", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/sublime-select-all-by-current-scope/zip/0.1.1", 
+                    "version": "2014.05.11"
                 }
             ]
         }, 
@@ -3642,7 +3699,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-11-02 21:57:51", 
+                    "date": "2017-11-02 22:01:41", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
@@ -3844,10 +3901,10 @@
             "releases": [
                 {
                     "date": "2016-08-19 14:36:13", 
-                    "git_tag": "0.0.9", 
+                    "git_tag": "0.0.10", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Swift-Sublime-Package/zip/0.0.9", 
+                    "url": "https://codeload.github.com/evandrocoan/Swift-Sublime-Package/zip/0.0.10", 
                     "version": "2016.08.19"
                 }
             ]
@@ -3870,10 +3927,10 @@
             "releases": [
                 {
                     "date": "2015-12-26 23:22:27", 
-                    "git_tag": "0.2.5", 
+                    "git_tag": "0.3.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/syncViewScroll/zip/0.2.5", 
+                    "url": "https://codeload.github.com/evandrocoan/syncViewScroll/zip/0.3.1", 
                     "version": "2015.12.26"
                 }
             ]
@@ -4299,10 +4356,10 @@
             "releases": [
                 {
                     "date": "2017-03-29 17:04:19", 
-                    "git_tag": "0.1.4", 
+                    "git_tag": "0.1.5", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Whitespace/zip/0.1.4", 
+                    "url": "https://codeload.github.com/evandrocoan/Whitespace/zip/0.1.5", 
                     "version": "2017.03.29"
                 }
             ]
@@ -4405,16 +4462,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-11-02 21:57:50", 
+                    "date": "2017-11-04 21:50:16", 
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
-                    "git_tag": "1.0.17", 
+                    "git_tag": "1.0.18", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.17", 
-                    "version": "2017.11.02"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.18", 
+                    "version": "2017.11.04"
                 }
             ]
         }, 
