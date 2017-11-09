@@ -390,7 +390,7 @@
                 "homepage": "https://github.com/evandrocoan/ApplySyntax", 
                 "issues": "https://github.com/facelessuser/ApplySyntax/issues", 
                 "labels": [], 
-                "last_modified": "2017-06-17 01:07:33", 
+                "last_modified": "2017-11-09 03:30:39", 
                 "name": "ApplySyntax", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md", 
@@ -1392,7 +1392,7 @@
                 "homepage": "https://github.com/evandrocoan/ExportHtml", 
                 "issues": "https://github.com/facelessuser/ExportHtml/issues", 
                 "labels": [], 
-                "last_modified": "2017-11-08 01:17:55", 
+                "last_modified": "2017-11-09 03:52:02", 
                 "name": "ExportHtml", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md", 
@@ -2988,6 +2988,26 @@
                     "evandrocoan"
                 ], 
                 "description": "No description available.", 
+                "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
+                "homepage": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
+                "name": "OverrideCommitCompletion", 
+                "previous_names": [], 
+                "releases": [
+                    {
+                        "date": "2017-07-23 12:25:06", 
+                        "git_tag": "1.0.1", 
+                        "platforms": "*", 
+                        "sublime_text": ">=3126", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.1", 
+                        "version": "2017.07.23"
+                    }
+                ]
+            }, 
+            {
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available.", 
                 "details": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
                 "homepage": "https://github.com/evandrocoan/SublimeUnpackedPackagesOverride", 
                 "name": "OverrideUnpackedPackages", 
@@ -3000,26 +3020,6 @@
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeUnpackedPackagesOverride/zip/1.0.3", 
                         "version": "2017.10.25"
-                    }
-                ]
-            }, 
-            {
-                "authors": [
-                    "evandrocoan"
-                ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
-                "homepage": "https://github.com/evandrocoan/SublimeOverwriteCommitCompletion", 
-                "name": "OverwriteCommitCompletion", 
-                "previous_names": [], 
-                "releases": [
-                    {
-                        "date": "2017-07-23 12:25:06", 
-                        "git_tag": "1.0.1", 
-                        "platforms": "*", 
-                        "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.1", 
-                        "version": "2017.07.23"
                     }
                 ]
             }, 
@@ -3435,7 +3435,7 @@
                 "homepage": "https://github.com/evandrocoan/ScopeHunter", 
                 "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
                 "labels": [], 
-                "last_modified": "2017-11-08 01:15:39", 
+                "last_modified": "2017-11-09 03:51:34", 
                 "name": "ScopeHunter", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
@@ -3724,7 +3724,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-11-08 00:17:28", 
+                        "date": "2017-11-09 00:23:50", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "ChannelManager"
@@ -3733,7 +3733,7 @@
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.11", 
-                        "version": "2017.11.08"
+                        "version": "2017.11.09"
                     }
                 ]
             }, 
@@ -4432,7 +4432,7 @@
                 "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-11-09 00:16:20", 
+                        "date": "2017-11-09 14:50:04", 
                         "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
