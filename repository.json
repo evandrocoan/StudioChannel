@@ -3431,7 +3431,7 @@
             "homepage": "https://github.com/evandrocoan/ScopeHunter", 
             "issues": "https://github.com/facelessuser/ScopeHunter/issues", 
             "labels": [], 
-            "last_modified": "2017-11-04 17:41:07", 
+            "last_modified": "2017-11-08 01:15:39", 
             "name": "ScopeHunter", 
             "previous_names": [], 
             "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md", 
@@ -3720,16 +3720,16 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-11-04 23:48:43", 
+                    "date": "2017-11-08 00:17:28", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "ChannelManager"
                     ], 
-                    "git_tag": "1.0.10", 
+                    "git_tag": "1.0.11", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.10", 
-                    "version": "2017.11.04"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.11", 
+                    "version": "2017.11.08"
                 }
             ]
         }, 
@@ -4428,12 +4428,12 @@
             "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-11-07 19:38:57", 
-                    "git_tag": "1.0.1", 
+                    "date": "2017-11-09 00:16:20", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/1.0.1", 
-                    "version": "2017.11.07"
+                    "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/1.0.2", 
+                    "version": "2017.11.09"
                 }
             ]
         }, 
