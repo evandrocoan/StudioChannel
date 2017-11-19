@@ -312,12 +312,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-11-17 10:20:17", 
-                        "git_tag": "1.0.7", 
+                        "date": "2017-11-19 16:32:21", 
+                        "git_tag": "1.0.8", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxPawn/zip/1.0.7", 
-                        "version": "2017.11.17"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxPawn/zip/1.0.8", 
+                        "version": "2017.11.19"
                     }
                 ]
             }, 
@@ -2429,12 +2429,12 @@
                 "readme": "https://raw.githubusercontent.com/kevinstadler/SublimeLaTeXWordCount/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-11-15 14:45:34", 
-                        "git_tag": "1.1.2", 
+                        "date": "2017-11-19 15:17:24", 
+                        "git_tag": "1.1.3", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeLaTeXWordCount/zip/1.1.2", 
-                        "version": "2017.11.15"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeLaTeXWordCount/zip/1.1.3", 
+                        "version": "2017.11.19"
                     }
                 ]
             }, 
