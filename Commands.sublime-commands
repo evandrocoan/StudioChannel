@@ -5,7 +5,7 @@
     { "caption": "Studio Channel: Select Package to Update Git Tag", "command": "studio_channel_generate_channel_file",
             "args": {"command": "git_tag" } },
 
-    { "caption": "Studio Channel: Create and Push All Packages Tags", "command": "studio_channel_generate_channel_file",
+    { "caption": "Studio Channel: Update All Packages Git Tag", "command": "studio_channel_generate_channel_file",
             "args": {"command": "git_tag_all" } },
 
     { "caption": "Studio Channel: Run Backstroke Requests", "command": "studio_channel_run",
