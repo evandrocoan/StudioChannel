@@ -822,12 +822,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-11-25 22:06:51", 
-                        "git_tag": "1.0.2", 
+                        "date": "2017-11-26 15:12:13", 
+                        "git_tag": "1.0.3", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.2", 
-                        "version": "2017.11.25"
+                        "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.3", 
+                        "version": "2017.11.26"
                     }
                 ]
             }, 
