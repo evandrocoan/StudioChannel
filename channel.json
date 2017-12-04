@@ -2846,10 +2846,10 @@
                 "releases": [
                     {
                         "date": "2017-12-04 12:48:05", 
-                        "git_tag": "3144", 
+                        "git_tag": "1.2.5", 
                         "platforms": "*", 
                         "sublime_text": ">3144", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeNotepadPlusPlusTheme/zip/3144", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeNotepadPlusPlusTheme/zip/1.2.5", 
                         "version": "2017.12.04"
                     }, 
                     {
@@ -3346,10 +3346,10 @@
                 "releases": [
                     {
                         "date": "2017-10-25 19:54:51", 
-                        "git_tag": "1.1.3", 
+                        "git_tag": "2.0.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/REG/zip/1.1.3", 
+                        "url": "https://codeload.github.com/evandrocoan/REG/zip/2.0.1", 
                         "version": "2017.10.25"
                     }
                 ]
@@ -3726,16 +3726,16 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-01 15:38:18", 
+                        "date": "2017-12-04 17:58:59", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "ChannelManager"
                         ], 
-                        "git_tag": "1.0.15", 
+                        "git_tag": "1.0.16", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.15", 
-                        "version": "2017.12.01"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.16", 
+                        "version": "2017.12.04"
                     }
                 ]
             }, 
@@ -4202,10 +4202,10 @@
                 "releases": [
                     {
                         "date": "2017-10-25 20:43:51", 
-                        "git_tag": "1.3.2", 
+                        "git_tag": "1.4.8", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/Trimmer/zip/1.3.2", 
+                        "url": "https://codeload.github.com/evandrocoan/Trimmer/zip/1.4.8", 
                         "version": "2017.10.25"
                     }
                 ]
@@ -4496,15 +4496,15 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-04 17:38:16", 
+                        "date": "2017-12-04 19:15:28", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.20", 
+                        "git_tag": "1.0.22", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.20", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.22", 
                         "version": "2017.12.04"
                     }
                 ]
