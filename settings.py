@@ -144,16 +144,17 @@ def plugin_loaded():
         CURRENT_PACKAGE_NAME,
     ]
 
-    # Packages which you do want to install on the Stable or Development version, when reading
-    # the `.gitmodules` packages list.
+    # Packages which you do want to install when reading the `.gitmodules` packages list (stable)
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "User",
         "PythonDebugTools",
         "AmxxChannel",
         "PackagesManager",
+        "OverrideEditSettingsDefaultContents",
     ]
 
+    # Packages which you do want to install when reading the `.gitmodules` packages list (development)
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
     [
     ]
