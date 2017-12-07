@@ -29,5 +29,5 @@
     { "caption": "Studio Channel: Delete All remote Except origin", "command": "studio_channel_run",
             "args": {"run": "-d"} },
 
-    { "caption": "Studio Channel: Update Default Packages", "command": "studio_channel_update_default_packages" },
+    { "caption": "Studio Channel: Extract Default Package", "command": "studio_channel_update_default_packages" },
 ]
