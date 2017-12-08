@@ -818,12 +818,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-06 18:01:15", 
+                    "date": "2017-12-08 01:48:33", 
                     "git_tag": "1.0.7", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.7", 
-                    "version": "2017.12.06"
+                    "version": "2017.12.08"
                 }
             ]
         }, 
@@ -2992,12 +2992,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-05 22:59:28", 
+                    "date": "2017-12-08 01:00:03", 
                     "git_tag": "1.0.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.4", 
-                    "version": "2017.12.05"
+                    "version": "2017.12.08"
                 }
             ]
         }, 
@@ -3742,9 +3742,8 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-07 13:54:48", 
+                    "date": "2017-12-07 15:36:02", 
                     "dependencies": [
-                        "PythonDebugTools", 
                         "ChannelManager"
                     ], 
                     "git_tag": "1.0.18", 
@@ -4455,12 +4454,12 @@
             "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-12-05 22:59:28", 
+                    "date": "2017-12-08 01:50:12", 
                     "git_tag": "1.0.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/1.0.8", 
-                    "version": "2017.12.05"
+                    "version": "2017.12.08"
                 }
             ]
         }, 
@@ -4512,7 +4511,8 @@
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
                     "date": "2017-12-07 14:38:15", 
                     "dependencies": [
-                        "PythonDebugTools"
+                        "PythonDebugTools", 
+                        "estimated_time_left"
                     ], 
                     "git_tag": "1.0.25", 
                     "platforms": "*", 
