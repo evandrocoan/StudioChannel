@@ -819,10 +819,10 @@
             "releases": [
                 {
                     "date": "2017-12-08 01:48:33", 
-                    "git_tag": "1.0.7", 
+                    "git_tag": "1.0.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.7", 
+                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.8", 
                     "version": "2017.12.08"
                 }
             ]
@@ -2507,12 +2507,12 @@
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md", 
             "releases": [
                 {
-                    "date": "2014-08-31 15:28:34", 
-                    "git_tag": "1.0.1", 
+                    "date": "2017-12-01 14:45:29", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/LESS-sublime/zip/1.0.1", 
-                    "version": "2014.08.31"
+                    "url": "https://codeload.github.com/evandrocoan/LESS-sublime/zip/1.0.2", 
+                    "version": "2017.12.01"
                 }
             ]
         }, 
@@ -2992,11 +2992,11 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-08 01:00:03", 
-                    "git_tag": "1.0.4", 
+                    "date": "2017-12-08 21:07:58", 
+                    "git_tag": "1.0.5", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.4", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.5", 
                     "version": "2017.12.08"
                 }
             ]
@@ -3742,15 +3742,15 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-07 15:36:02", 
+                    "date": "2017-12-08 01:59:00", 
                     "dependencies": [
                         "ChannelManager"
                     ], 
-                    "git_tag": "1.0.18", 
+                    "git_tag": "1.0.19", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.18", 
-                    "version": "2017.12.07"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.19", 
+                    "version": "2017.12.08"
                 }
             ]
         }, 
@@ -4454,11 +4454,11 @@
             "readme": "https://raw.githubusercontent.com/ehuss/Sublime-Wrap-Plus/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-12-08 01:50:12", 
-                    "git_tag": "1.0.8", 
+                    "date": "2017-12-08 15:26:14", 
+                    "git_tag": "1.0.9", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/1.0.8", 
+                    "url": "https://codeload.github.com/evandrocoan/Sublime-Wrap-Plus/zip/1.0.9", 
                     "version": "2017.12.08"
                 }
             ]
@@ -4509,17 +4509,17 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-12-07 14:38:15", 
+                    "date": "2017-12-08 20:24:03", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "estimated_time_left"
                     ], 
-                    "git_tag": "1.0.25", 
+                    "git_tag": "1.0.26", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.25", 
-                    "version": "2017.12.07"
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.26", 
+                    "version": "2017.12.08"
                 }
             ]
         }, 
