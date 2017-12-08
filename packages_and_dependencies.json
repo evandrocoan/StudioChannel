@@ -271,6 +271,16 @@
             ]
         },
         {
+            "name": "estimated_time_left",
+            "details": "https://github.com/evandrocoan/estimated_time_left",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "PythonDebugTools",
             "details": "https://github.com/evandrocoan/PythonDebugTools",
             "releases": [
