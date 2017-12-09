@@ -39,8 +39,8 @@ from . import settings
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from ChannelManager import channel_uninstaller
-from ChannelManager.channel_utilities import wrap_text
+from channel_manager import channel_uninstaller
+from channel_manager.channel_utilities import wrap_text
 
 
 # When there is an ImportError, means that Package Control is installed instead of PackagesManager,
