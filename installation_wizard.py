@@ -79,6 +79,14 @@ except Exception as error:
     Debugger = None
     print( "Could not import PythonDebugTools! " + str( error ) )
 
+    def reload_all_package_files():
+        sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".settings" )
+        sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".channel_commands" )
+        sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".uninstallation_wizard" )
+        sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".installation_wizard" )
+
+    sublime.set_timeout_async( reload_all_package_files, 7000 )
+
 
 g_version_to_install     = ""
 g_installation_command   = "Run Installation Wizard"
