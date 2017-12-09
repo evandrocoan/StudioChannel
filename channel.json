@@ -3746,14 +3746,14 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 16:26:29", 
+                        "date": "2017-12-09 16:35:39", 
                         "dependencies": [
                             "ChannelManager"
                         ], 
-                        "git_tag": "1.0.28", 
+                        "git_tag": "1.0.29", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.28", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.29", 
                         "version": "2017.12.09"
                     }
                 ]
@@ -4515,16 +4515,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-09 16:10:50", 
+                        "date": "2017-12-09 16:35:38", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "estimated_time_left"
                         ], 
-                        "git_tag": "1.0.38", 
+                        "git_tag": "1.0.39", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.38", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.39", 
                         "version": "2017.12.09"
                     }
                 ]
@@ -4544,13 +4544,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/estimated_time_left", 
-                        "date": "2017-12-08 22:47:25", 
-                        "git_tag": "1.0.1", 
+                        "date": "2017-12-09 15:55:30", 
+                        "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/estimated_time_left/zip/1.0.1", 
-                        "version": "2017.12.08"
+                        "url": "https://codeload.github.com/evandrocoan/estimated_time_left/zip/1.0.2", 
+                        "version": "2017.12.09"
                     }
                 ]
             }, 
