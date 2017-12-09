@@ -3742,14 +3742,14 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-09 16:35:39", 
+                    "date": "2017-12-09 18:21:20", 
                     "dependencies": [
                         "ChannelManager"
                     ], 
-                    "git_tag": "1.0.29", 
+                    "git_tag": "1.0.30", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.29", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.30", 
                     "version": "2017.12.09"
                 }
             ]
@@ -4509,16 +4509,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-12-09 16:35:38", 
+                    "date": "2017-12-09 18:21:19", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "estimated_time_left"
                     ], 
-                    "git_tag": "1.0.39", 
+                    "git_tag": "1.0.40", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.39", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.40", 
                     "version": "2017.12.09"
                 }
             ]
@@ -4529,21 +4529,21 @@
                 "Forked by evandrocoan"
             ], 
             "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/estimated_time_left", 
-            "homepage": "https://github.com/evandrocoan/estimated_time_left", 
-            "issues": "https://github.com/evandrocoan/estimated_time_left/issues", 
+            "details": "https://github.com/evandrocoan/EstimatedTimeLeft", 
+            "homepage": "https://github.com/evandrocoan/EstimatedTimeLeft", 
+            "issues": "https://github.com/evandrocoan/EstimatedTimeLeft/issues", 
             "load_order": 1, 
-            "name": "estimated_time_left", 
+            "name": "EstimatedTimeLeft", 
             "previous_names": [], 
             "releases": [
                 {
-                    "base": "https://github.com/evandrocoan/estimated_time_left", 
+                    "base": "https://github.com/evandrocoan/EstimatedTimeLeft", 
                     "date": "2017-12-09 15:55:30", 
                     "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/estimated_time_left/zip/1.0.2", 
+                    "url": "https://codeload.github.com/evandrocoan/EstimatedTimeLeft/zip/1.0.2", 
                     "version": "2017.12.09"
                 }
             ]
