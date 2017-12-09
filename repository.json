@@ -4538,13 +4538,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/estimated_time_left", 
-                    "date": "2017-12-07 14:23:47", 
-                    "git_tag": "1.0.0", 
+                    "date": "2017-12-08 22:47:25", 
+                    "git_tag": "1.0.1", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/estimated_time_left/zip/1.0.0", 
-                    "version": "2017.12.07"
+                    "url": "https://codeload.github.com/evandrocoan/estimated_time_left/zip/1.0.1", 
+                    "version": "2017.12.08"
                 }
             ]
         }, 
