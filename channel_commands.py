@@ -49,16 +49,21 @@ from ChannelManager.submodules_manager import main as submodules_main
 from ChannelManager.copy_default_package import main as copy_default_main
 
 
-# Import the debugger
-from PythonDebugTools.debug_tools import Debugger
+# If a dependency fail running, the subsequent dependencies are not installed by Package Control
+# https://github.com/wbond/package_control/issues/1301
+try:
+    from PythonDebugTools.debug_tools import Debugger
 
-# Debugger settings: 0 - disabled, 127 - enabled
-log = Debugger( 1, os.path.basename( __file__ ) )
+    # Debugger settings: 0 - disabled, 127 - enabled
+    log = Debugger( 1, os.path.basename( __file__ ) )
 
-log( 2, "..." )
-log( 2, "..." )
-log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
+    log( 2, "..." )
+    log( 2, "..." )
+    log( 2, "Debugging" )
+    log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
+
+except Exception as error:
+    print( "Could not import PythonDebugTools! " + str( error ) )
 
 
 class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
