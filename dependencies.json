@@ -3,7 +3,9 @@
     {
         "*":
         [
-            "ChannelManager"
+            "ChannelManager",
+            "estimated_time_left",
+            "PythonDebugTools"
         ]
     }
 }
