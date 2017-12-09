@@ -3746,14 +3746,14 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 01:28:59", 
+                        "date": "2017-12-09 15:48:47", 
                         "dependencies": [
                             "ChannelManager"
                         ], 
-                        "git_tag": "1.0.26", 
+                        "git_tag": "1.0.27", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.26", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.27", 
                         "version": "2017.12.09"
                     }
                 ]
@@ -4025,7 +4025,7 @@
                 "labels": [
                     "language syntax"
                 ], 
-                "last_modified": "2017-11-29 05:27:27", 
+                "last_modified": "2017-12-09 13:49:28", 
                 "name": "Syntax Highlighting for Sass", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/P233/Syntax-highlighting-for-Sass/master/README.md", 
@@ -4515,16 +4515,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-09 11:33:50", 
+                        "date": "2017-12-09 15:48:46", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "estimated_time_left"
                         ], 
-                        "git_tag": "1.0.36", 
+                        "git_tag": "1.0.37", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.36", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.37", 
                         "version": "2017.12.09"
                     }
                 ]
