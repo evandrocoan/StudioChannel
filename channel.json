@@ -3746,14 +3746,14 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-08 23:19:48", 
+                        "date": "2017-12-08 23:31:24", 
                         "dependencies": [
                             "ChannelManager"
                         ], 
-                        "git_tag": "1.0.22", 
+                        "git_tag": "1.0.23", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.22", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.23", 
                         "version": "2017.12.08"
                     }
                 ]
