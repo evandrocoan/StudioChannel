@@ -3742,9 +3742,11 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-09 18:21:20", 
+                    "date": "2017-12-09 19:04:21", 
                     "dependencies": [
-                        "ChannelManager"
+                        "ChannelManager", 
+                        "PythonDebugTools", 
+                        "EstimatedTimeLeft"
                     ], 
                     "git_tag": "1.0.30", 
                     "platforms": "*", 
@@ -4503,16 +4505,16 @@
             "details": "https://github.com/evandrocoan/SublimeChannelManager", 
             "homepage": "https://github.com/evandrocoan/SublimeChannelManager", 
             "issues": "https://github.com/evandrocoan/SublimeChannelManager/issues", 
-            "load_order": 50, 
+            "load_order": 30, 
             "name": "ChannelManager", 
             "previous_names": [], 
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-12-09 18:21:19", 
+                    "date": "2017-12-09 20:51:08", 
                     "dependencies": [
                         "PythonDebugTools", 
-                        "estimated_time_left"
+                        "EstimatedTimeLeft"
                     ], 
                     "git_tag": "1.0.40", 
                     "platforms": "*", 
@@ -4532,13 +4534,13 @@
             "details": "https://github.com/evandrocoan/EstimatedTimeLeft", 
             "homepage": "https://github.com/evandrocoan/EstimatedTimeLeft", 
             "issues": "https://github.com/evandrocoan/EstimatedTimeLeft/issues", 
-            "load_order": 1, 
+            "load_order": 20, 
             "name": "EstimatedTimeLeft", 
             "previous_names": [], 
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/EstimatedTimeLeft", 
-                    "date": "2017-12-09 15:55:30", 
+                    "date": "2017-12-09 20:51:08", 
                     "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
@@ -4556,13 +4558,13 @@
             "details": "https://github.com/evandrocoan/PythonDebugTools", 
             "homepage": "https://github.com/evandrocoan/PythonDebugTools", 
             "issues": "https://github.com/evandrocoan/PythonDebugTools/issues", 
-            "load_order": 1, 
+            "load_order": 10, 
             "name": "PythonDebugTools", 
             "previous_names": [], 
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/PythonDebugTools", 
-                    "date": "2017-12-09 11:32:00", 
+                    "date": "2017-12-09 20:51:09", 
                     "git_tag": "1.0.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
