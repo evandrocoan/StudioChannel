@@ -88,7 +88,7 @@ except Exception as error:
     try:
         installation_wizard_module.__channel_manager_maximum_attempts
 
-    except NameError:
+    except (NameError, AttributeError) as error:
         installation_wizard_module.__channel_manager_maximum_attempts = 2
 
     if installation_wizard_module.__channel_manager_maximum_attempts > 0:
