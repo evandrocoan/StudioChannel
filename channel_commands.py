@@ -44,9 +44,9 @@ from . import installation_wizard
 from .installation_wizard import main as wizard_main
 from .uninstallation_wizard import main as unwizard_main
 
-from ChannelManager.channel_manager import main as manager_main
-from ChannelManager.submodules_manager import main as submodules_main
-from ChannelManager.copy_default_package import main as copy_default_main
+from channel_manager.channel_manager import main as manager_main
+from channel_manager.submodules_manager import main as submodules_main
+from channel_manager.copy_default_package import main as copy_default_main
 
 
 # If a dependency fail running, the subsequent dependencies are not installed by Package Control

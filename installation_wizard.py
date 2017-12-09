@@ -42,12 +42,12 @@ from . import settings
 from .settings import CURRENT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
-from ChannelManager import channel_installer
-from ChannelManager.channel_utilities import wrap_text
-from ChannelManager.channel_utilities import load_data_file
-from ChannelManager.channel_utilities import write_data_file
-from ChannelManager.channel_utilities import get_dictionary_key
-from ChannelManager.channel_utilities import upcase_first_letter
+from channel_manager import channel_installer
+from channel_manager.channel_utilities import wrap_text
+from channel_manager.channel_utilities import load_data_file
+from channel_manager.channel_utilities import write_data_file
+from channel_manager.channel_utilities import get_dictionary_key
+from channel_manager.channel_utilities import upcase_first_letter
 
 # When there is an ImportError, means that Package Control is installed instead of PackagesManager,
 # or vice-versa. Which means we cannot do nothing as this is only compatible with PackagesManager.
