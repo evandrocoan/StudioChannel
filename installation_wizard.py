@@ -76,6 +76,7 @@ try:
     # log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
 
 except Exception as error:
+    Debugger = None
     print( "Could not import PythonDebugTools! " + str( error ) )
 
 
@@ -586,7 +587,9 @@ def is_the_first_load_time():
 
 def plugin_loaded():
     # Wait for settings to load
-    sublime.set_timeout( check_for_the_first_time, 2000 )
+
+    if Debugger:
+        sublime.set_timeout( check_for_the_first_time, 2000 )
 
 
 def check_for_the_first_time():
