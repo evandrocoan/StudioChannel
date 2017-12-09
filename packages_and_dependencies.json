@@ -271,8 +271,8 @@
             ]
         },
         {
-            "name": "estimated_time_left",
-            "details": "https://github.com/evandrocoan/estimated_time_left",
+            "name": "EstimatedTimeLeft",
+            "details": "https://github.com/evandrocoan/EstimatedTimeLeft",
             "releases": [
                 {
                     "sublime_text": ">=3126",
