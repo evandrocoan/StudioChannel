@@ -3742,14 +3742,14 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-09 15:48:47", 
+                    "date": "2017-12-09 16:26:29", 
                     "dependencies": [
                         "ChannelManager"
                     ], 
-                    "git_tag": "1.0.27", 
+                    "git_tag": "1.0.28", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.27", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.28", 
                     "version": "2017.12.09"
                 }
             ]
@@ -4509,16 +4509,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-12-09 15:48:46", 
+                    "date": "2017-12-09 16:10:50", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "estimated_time_left"
                     ], 
-                    "git_tag": "1.0.37", 
+                    "git_tag": "1.0.38", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.37", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.38", 
                     "version": "2017.12.09"
                 }
             ]
