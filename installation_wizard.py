@@ -78,34 +78,8 @@ try:
     # log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
 
 except Exception as error:
-    print( "Could not import PythonDebugTools! " + str( error ) )
-
+    print( "Could not import the required dependencies! " + str( error ) )
     Debugger = None
-    installation_wizard_module = sys.modules[__name__]
-
-    # How do I check if a variable exists?
-    # https://stackoverflow.com/questions/843277/how-do-i-check-if-a-variable-exists
-    try:
-        installation_wizard_module.__channel_manager_maximum_attempts
-
-    except (NameError, AttributeError) as error:
-        installation_wizard_module.__channel_manager_maximum_attempts = 2
-
-    if installation_wizard_module.__channel_manager_maximum_attempts > 0:
-        installation_wizard_module.__channel_manager_maximum_attempts -= 1
-
-        def satisfy_dependencies():
-            sublime.active_window().run_command( "satisfy_dependencies" )
-
-            def reload_all_package_files():
-                sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".settings" )
-                sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".channel_commands" )
-                sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".uninstallation_wizard" )
-                sublime_plugin.reload_plugin( CURRENT_PACKAGE_NAME + ".installation_wizard" )
-
-            sublime.set_timeout_async( reload_all_package_files, 4000 )
-
-        sublime.set_timeout_async( satisfy_dependencies, 4000 )
 
 
 g_version_to_install     = ""

@@ -63,7 +63,7 @@ try:
     log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 except Exception as error:
-    print( "Could not import PythonDebugTools! " + str( error ) )
+    print( "Could not import the required dependencies! " + str( error ) )
 
 
 class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
