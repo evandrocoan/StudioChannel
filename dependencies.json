@@ -1,11 +1,9 @@
 {
-    "*":
-    {
-        "*":
-        [
-            "PythonDebugTools",
-            "EstimatedTimeLeft",
-            "ChannelManager"
+    "*": {
+        "*": [
+            "ChannelManager", 
+            "PythonDebugTools", 
+            "EstimatedTimeLeft"
         ]
     }
 }
