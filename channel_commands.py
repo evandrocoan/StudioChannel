@@ -68,6 +68,22 @@ except Exception as error:
     print( "Could not import the required dependencies! " + str( error ) )
 
 
+def is_channel_installed():
+    """
+        Returns True if the channel is installed, i.e., there are packages added to the
+        `packages_to_uninstall` list.
+    """
+    # Only attempt to check it, if the settings are loaded
+    if len( settings.g_channel_settings ) > 0:
+        channelSettingsPath = settings.g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
+
+        if os.path.exists( channelSettingsPath ):
+            settingsData = load_data_file( channelSettingsPath )
+            return len( get_dictionary_key( settingsData, "packages_to_uninstall", [] ) ) > 0
+
+    return False
+
+
 class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
@@ -80,7 +96,7 @@ class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
         installation_wizard.main()
 
     def is_enabled(self):
-        return installation_wizard.g_is_package_control_installed
+        return not is_channel_installed()
 
 
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
@@ -90,7 +106,7 @@ class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
         channel_manager.main( settings.g_channel_settings, command )
 
     def is_enabled(self):
-        return not installation_wizard.g_is_package_control_installed
+        return is_channel_installed()
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
@@ -100,7 +116,7 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
         submodules_manager.main( run )
 
     def is_enabled(self):
-        return not installation_wizard.g_is_package_control_installed
+        return not is_channel_installed()
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
@@ -110,7 +126,7 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
         copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
 
     def is_enabled(self):
-        return not installation_wizard.g_is_package_control_installed
+        return not is_channel_installed()
 
 
 is_delayed = False
