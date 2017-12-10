@@ -263,21 +263,21 @@
                     "pawn", 
                     "build system"
                 ], 
-                "last_modified": "2017-12-01 17:31:39", 
+                "last_modified": "2017-12-10 02:54:03", 
                 "name": "amxmodx", 
                 "previous_names": [], 
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
                 "releases": [
                     {
-                        "date": "2017-12-01 15:31:39", 
+                        "date": "2017-12-10 00:54:03", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.1.10", 
+                        "git_tag": "1.1.11", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/1.1.10", 
-                        "version": "2017.12.01"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeAMXX_Editor/zip/1.1.11", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
@@ -292,12 +292,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 21:37:56", 
-                        "git_tag": "1.0.7", 
+                        "date": "2017-12-10 16:17:25", 
+                        "git_tag": "1.0.8", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/1.0.7", 
-                        "version": "2017.12.09"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/1.0.8", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
@@ -463,7 +463,7 @@
                     "Forked by evandrocoan"
                 ], 
                 "buy": null, 
-                "description": "Automaticly reload submodules while developing a Sublime Text package.", 
+                "description": "Automatically reload submodules while developing a Sublime Text package.", 
                 "donate": null, 
                 "homepage": "https://github.com/evandrocoan/AutomaticPackageReloader", 
                 "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues", 
@@ -631,15 +631,15 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 21:21:09", 
+                        "date": "2017-12-10 00:54:04", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.3", 
+                        "git_tag": "1.0.4", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.3", 
-                        "version": "2017.12.09"
+                        "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.4", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
@@ -3310,15 +3310,15 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 21:17:35", 
+                        "date": "2017-12-10 00:54:05", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.4", 
+                        "git_tag": "1.0.5", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeQuickSettings/zip/1.0.4", 
-                        "version": "2017.12.09"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeQuickSettings/zip/1.0.5", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
@@ -3746,17 +3746,17 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-09 21:37:59", 
+                        "date": "2017-12-10 16:24:15", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.31", 
+                        "git_tag": "1.0.33", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.31", 
-                        "version": "2017.12.09"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.33", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
@@ -4517,17 +4517,17 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-09 22:51:54", 
+                        "date": "2017-12-10 16:28:30", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.42", 
+                        "git_tag": "1.0.44", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.42", 
-                        "version": "2017.12.09"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.44", 
+                        "version": "2017.12.10"
                     }
                 ]
             }, 
