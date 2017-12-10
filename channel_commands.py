@@ -48,6 +48,10 @@ from channel_manager.channel_manager import main as manager_main
 from channel_manager.submodules_manager import main as submodules_main
 from channel_manager.copy_default_package import main as copy_default_main
 
+# How to reload a Sublime Text dependency?
+# https://github.com/randy3k/AutomaticPackageReloader/issues/12
+sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+
 
 # If a dependency fail running, the subsequent dependencies are not installed by Package Control
 # https://github.com/wbond/package_control/issues/1301
