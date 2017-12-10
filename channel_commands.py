@@ -40,8 +40,6 @@ import os
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
 from . import installation_wizard
-
-from . import installation_wizard
 from . import uninstallation_wizard
 
 from channel_manager import channel_manager
@@ -73,7 +71,7 @@ except Exception as error:
 class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
-        installation_wizard.main()
+        uninstallation_wizard.main()
 
 
 class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
