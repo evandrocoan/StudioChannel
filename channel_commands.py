@@ -41,12 +41,12 @@ import os
 from . import settings
 from . import installation_wizard
 
-from .installation_wizard import main as wizard_main
-from .uninstallation_wizard import main as unwizard_main
+from . import installation_wizard
+from . import uninstallation_wizard
 
-from channel_manager.channel_manager import main as manager_main
-from channel_manager.submodules_manager import main as submodules_main
-from channel_manager.copy_default_package import main as copy_default_main
+from channel_manager import channel_manager
+from channel_manager import submodules_manager
+from channel_manager import copy_default_package
 
 # How to reload a Sublime Text dependency?
 # https://github.com/randy3k/AutomaticPackageReloader/issues/12
@@ -73,13 +73,13 @@ except Exception as error:
 class StudioChannelRunUninstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
-        unwizard_main()
+        installation_wizard.main()
 
 
 class StudioChannelRunInstallationWizard( sublime_plugin.ApplicationCommand ):
 
     def run(self):
-        wizard_main()
+        installation_wizard.main()
 
     def is_enabled(self):
         return installation_wizard.g_is_package_control_installed
@@ -89,7 +89,7 @@ class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
     def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        manager_main( settings.g_channel_settings, command )
+        channel_manager.main( settings.g_channel_settings, command )
 
     def is_enabled(self):
         return not installation_wizard.g_is_package_control_installed
@@ -99,17 +99,17 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
 
     def run(self, run):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        submodules_main( run )
+        submodules_manager.main( run )
 
     def is_enabled(self):
         return not installation_wizard.g_is_package_control_installed
 
 
-class StudioChannelUpdateDefaultPackages( sublime_plugin.ApplicationCommand ):
+class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        copy_default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
+        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
 
     def is_enabled(self):
         return not installation_wizard.g_is_package_control_installed
@@ -135,6 +135,6 @@ def plugin_loaded():
         is_forced = False
         # is_forced = True
 
-        copy_default_main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
 
 
