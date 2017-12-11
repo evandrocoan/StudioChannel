@@ -181,8 +181,6 @@ def uninstall():
         Used for testing purposes while developing this package.
     """
     unpack_settings()
-
-    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
     channel_uninstaller.main( g_channel_settings )
 
 
