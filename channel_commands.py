@@ -46,26 +46,25 @@ from channel_manager import channel_manager
 from channel_manager import submodules_manager
 from channel_manager import copy_default_package
 
+from channel_manager.channel_utilities import clean_urljoin
+from channel_manager.channel_utilities import load_data_file
+from channel_manager.channel_utilities import get_main_directory
+from channel_manager.channel_utilities import get_dictionary_key
+
 # How to reload a Sublime Text dependency?
 # https://github.com/randy3k/AutomaticPackageReloader/issues/12
 sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 
 
-# If a dependency fail running, the subsequent dependencies are not installed by Package Control
-# https://github.com/wbond/package_control/issues/1301
-try:
-    from python_debug_tools import Debugger
+from python_debug_tools import Debugger
 
-    # Debugger settings: 0 - disabled, 127 - enabled
-    log = Debugger( 1, os.path.basename( __file__ ) )
+# Debugger settings: 0 - disabled, 127 - enabled
+log = Debugger( 1, os.path.basename( __file__ ) )
 
-    log( 2, "..." )
-    log( 2, "..." )
-    log( 2, "Debugging" )
-    log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
-
-except Exception as error:
-    print( "Could not import the required dependencies! " + str( error ) )
+log( 2, "..." )
+log( 2, "..." )
+log( 2, "Debugging" )
+log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
 def is_channel_installed():
