@@ -15,8 +15,8 @@
                         "caption": "Studio Channel",
                         "children":
                         [
-                            { "caption": "Run Installation Wizard", "command": "studio_channel_run_installation_wizard" },
-                            { "caption": "Run Uninstallation Wizard", "command": "studio_channel_run_uninstallation_wizard" },
+                            { "caption": "Run Installation Wizard", "command": "studio_channel_run_installation" },
+                            { "caption": "Run Uninstallation Wizard", "command": "studio_channel_run_uninstallation" },
                         ]
                     }
                 ]
