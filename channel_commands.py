@@ -115,7 +115,7 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
         submodules_manager.main( run )
 
     def is_enabled(self):
-        return not is_channel_installed()
+        return is_channel_installed()
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
@@ -125,7 +125,7 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
         copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
 
     def is_enabled(self):
-        return not is_channel_installed()
+        return is_channel_installed()
 
 
 is_delayed = False
