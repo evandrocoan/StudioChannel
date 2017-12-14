@@ -126,6 +126,7 @@ def plugin_loaded():
 
     g_channel_settings['PACKAGES_TO_INSTALL_LAST'] = \
     [
+        "0_settings_loader",
         "Default",
         "BetterFindBuffer",
         "SublimeLinter",
@@ -142,6 +143,7 @@ def plugin_loaded():
         "ChannelManager",
         "Notepad++ Color Scheme",
         CURRENT_PACKAGE_NAME,
+        "0_settings_loader",
     ]
 
     # Packages which you do want to install when reading the `.gitmodules` packages list (stable)
@@ -165,18 +167,9 @@ def plugin_loaded():
         ".gitignore",
         ".no-sublime-package",
         "Context.sublime-menu",
-        "Default (Linux).sublime-mousemap",
-        "Default (OSX).sublime-keymap",
-        "Default (OSX).sublime-mousemap",
-        "Default (Windows).sublime-mousemap",
-        "Default.sublime-keymap",
         "Distraction Free.sublime-settings",
         "Find Results.hidden-tmLanguage",
         "Main.sublime-menu",
-        "Preferences (Linux).sublime-settings",
-        "Preferences (OSX).sublime-settings",
-        "Preferences (Windows).sublime-settings",
-        "Preferences.sublime-settings",
         "README.md",
         "Sublime Text Settings.sublime-settings",
         "Tab Context.sublime-menu",
