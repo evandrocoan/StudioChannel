@@ -596,7 +596,6 @@ def check_for_the_first_time():
 
 def install_channel():
     g_channel_settings['INSTALLATION_TYPE'] = g_version_to_install
-    sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
 
     add_channel()
     clear_cache()
