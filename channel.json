@@ -7,26 +7,6 @@
         "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json": [
             {
                 "authors": [
-                    "evandrocoan"
-                ], 
-                "description": "No description available.", 
-                "details": "https://github.com/evandrocoan/0_settings_loader", 
-                "homepage": "https://github.com/evandrocoan/0_settings_loader", 
-                "name": "0_settings_loader", 
-                "previous_names": [], 
-                "releases": [
-                    {
-                        "date": "2017-12-14 22:10:53", 
-                        "git_tag": "1.0.1", 
-                        "platforms": "*", 
-                        "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.1", 
-                        "version": "2017.12.14"
-                    }
-                ]
-            }, 
-            {
-                "authors": [
                     "ihodev", 
                     "Forked by evandrocoan"
                 ], 
@@ -1122,6 +1102,9 @@
                 "releases": [
                     {
                         "date": "2017-12-14 21:41:26", 
+                        "dependencies": [
+                            "0_settings_loader"
+                        ], 
                         "git_tag": "1.0.7", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
@@ -3766,16 +3749,16 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-14 22:12:22", 
+                        "date": "2017-12-14 22:51:48", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.38", 
+                        "git_tag": "1.0.39", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.38", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.39", 
                         "version": "2017.12.14"
                     }
                 ]
@@ -4523,6 +4506,30 @@
     }, 
     "dependencies_cache": {
         "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/repository.json": [
+            {
+                "authors": [
+                    "evandrocoan"
+                ], 
+                "description": "No description available.", 
+                "details": "https://github.com/evandrocoan/0_settings_loader", 
+                "homepage": "https://github.com/evandrocoan/0_settings_loader", 
+                "issues": "https://github.com/evandrocoan/0_settings_loader/issues", 
+                "load_order": 10, 
+                "name": "0_settings_loader", 
+                "previous_names": [], 
+                "releases": [
+                    {
+                        "base": "https://github.com/evandrocoan/0_settings_loader", 
+                        "date": "2017-12-14 22:10:53", 
+                        "git_tag": "1.0.1", 
+                        "platforms": "*", 
+                        "sublime_text": ">=3126", 
+                        "tags": true, 
+                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.1", 
+                        "version": "2017.12.14"
+                    }
+                ]
+            }, 
             {
                 "authors": [
                     "evandrocoan"
