@@ -150,7 +150,6 @@ def plugin_loaded():
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "User",
-        "PythonDebugTools",
         "AmxxChannel",
         "PackagesManager",
         "OverrideEditSettingsDefaultContents",
