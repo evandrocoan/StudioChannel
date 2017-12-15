@@ -126,7 +126,6 @@ def plugin_loaded():
 
     g_channel_settings['PACKAGES_TO_INSTALL_LAST'] = \
     [
-        "0_settings_loader",
         "Default",
         "BetterFindBuffer",
         "SublimeLinter",
