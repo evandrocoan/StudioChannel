@@ -631,15 +631,15 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-10 00:54:04", 
+                        "date": "2017-12-16 14:56:51", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.4", 
+                        "git_tag": "1.0.5", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.4", 
-                        "version": "2017.12.10"
+                        "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.5", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
@@ -822,12 +822,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-14 21:55:52", 
-                        "git_tag": "1.0.10", 
+                        "date": "2017-12-16 19:27:13", 
+                        "git_tag": "1.0.11", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.10", 
-                        "version": "2017.12.14"
+                        "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.11", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
@@ -1101,14 +1101,14 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-14 21:41:26", 
+                        "date": "2017-12-14 22:55:35", 
                         "dependencies": [
                             "0_settings_loader"
                         ], 
-                        "git_tag": "1.0.7", 
+                        "git_tag": "1.0.8", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.7", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.8", 
                         "version": "2017.12.14"
                     }
                 ]
@@ -3313,15 +3313,15 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-10 00:54:05", 
+                        "date": "2017-12-16 14:56:52", 
                         "dependencies": [
                             "PythonDebugTools"
                         ], 
-                        "git_tag": "1.0.5", 
+                        "git_tag": "1.0.6", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeQuickSettings/zip/1.0.5", 
-                        "version": "2017.12.10"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeQuickSettings/zip/1.0.6", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
@@ -3749,16 +3749,16 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-14 23:05:55", 
+                        "date": "2017-12-14 23:07:39", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.40", 
+                        "git_tag": "1.0.41", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.40", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.41", 
                         "version": "2017.12.14"
                     }
                 ]
@@ -4544,17 +4544,17 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-14 23:06:27", 
+                        "date": "2017-12-16 19:09:29", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.49", 
+                        "git_tag": "1.0.50", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.49", 
-                        "version": "2017.12.14"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.50", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
