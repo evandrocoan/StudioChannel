@@ -92,10 +92,6 @@ def plugin_loaded():
     g_channel_settings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
     g_channel_settings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
 
-    # A direct URL/Path to the `settings.json` to use when installing the stable/development version
-    g_channel_settings['CHANNEL_SETTINGS_URL']  = clean_urljoin( CHANNEL_RAW_URL, "settings.json" )
-    g_channel_settings['CHANNEL_SETTINGS_PATH'] = os.path.join( CURRENT_DIRECTORY, "settings.json" )
-
     # The default user preferences file
     g_channel_settings['USER_SETTINGS_FILE'] = "Preferences.sublime-settings"
 
@@ -157,6 +153,44 @@ def plugin_loaded():
     # Packages which you do want to install when reading the `.gitmodules` packages list (development)
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
     [
+    ]
+
+    # Packages which must not be installed on the stable version and must be disabled by default on
+    # the development version.
+    g_channel_settings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
+    [
+        "All Autocomplete",
+        "Anaconda",
+        "ApplySyntax",
+        "BracketHighlighter",
+        "C++ Completions",
+        "C++ Snippets",
+        "C++ Starting Kit",
+        "ColorHelper",
+        "DictionaryAutoComplete",
+        "FileManager",
+        "Find++",
+        "FuzzyFilePath",
+        "Gist",
+        "Git",
+        "GitGutter",
+        "GotoLastEditEnhanced",
+        "Javatar",
+        "Jedi - Python autocompletion",
+        "Local History",
+        "Matlab Completions",
+        "MatlabFilenameAutoComplete",
+        "MySQL Snippets",
+        "Project Specific Syntax Settings",
+        "Qt Completions for C++",
+        "ScopeAlways",
+        "sublime-text-2-buildview",
+        "SublimeCodeIntel",
+        "SublimeLinter-javac",
+        "SyncedSideBar",
+        "TypeScript",
+        "Vintage",
+        "WordHighlight",
     ]
 
     # The files of the `Default.sublime-package` you are installing
