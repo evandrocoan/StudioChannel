@@ -3872,12 +3872,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter3/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-09-29 16:07:59", 
-                        "git_tag": "3.10.3", 
+                        "date": "2017-12-16 20:03:20", 
+                        "git_tag": "3.10.4", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeLinter3/zip/3.10.3", 
-                        "version": "2017.09.29"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeLinter3/zip/3.10.4", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
