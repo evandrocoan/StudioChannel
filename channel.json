@@ -292,12 +292,12 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-10 17:42:17", 
-                        "git_tag": "1.0.9", 
+                        "date": "2017-12-16 21:32:07", 
+                        "git_tag": "1.0.10", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/1.0.9", 
-                        "version": "2017.12.10"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeAmxxChannel/zip/1.0.10", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
@@ -3749,17 +3749,17 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-14 23:07:39", 
+                        "date": "2017-12-16 21:32:09", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.41", 
+                        "git_tag": "1.0.42", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.41", 
-                        "version": "2017.12.14"
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.42", 
+                        "version": "2017.12.16"
                     }
                 ]
             }, 
@@ -4544,16 +4544,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-16 19:09:29", 
+                        "date": "2017-12-16 21:45:05", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.50", 
+                        "git_tag": "1.0.51", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.50", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.51", 
                         "version": "2017.12.16"
                     }
                 ]
