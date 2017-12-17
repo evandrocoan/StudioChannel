@@ -1121,11 +1121,11 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-17 01:18:06", 
-                        "git_tag": "1.0.9", 
+                        "date": "2017-12-17 13:47:41", 
+                        "git_tag": "1.0.10", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.9", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.10", 
                         "version": "2017.12.17"
                     }
                 ]
@@ -1392,11 +1392,11 @@
                 "readme": "https://raw.githubusercontent.com/aronwoost/sublime-expand-region/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-12-17 01:18:29", 
-                        "git_tag": "1.3.9", 
+                        "date": "2017-12-17 02:28:40", 
+                        "git_tag": "1.3.10", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/sublime-expand-region/zip/1.3.9", 
+                        "url": "https://codeload.github.com/evandrocoan/sublime-expand-region/zip/1.3.10", 
                         "version": "2017.12.17"
                     }
                 ]
@@ -3766,16 +3766,16 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-17 01:38:00", 
+                        "date": "2017-12-17 13:42:08", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.44", 
+                        "git_tag": "1.0.45", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.44", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.45", 
                         "version": "2017.12.17"
                     }
                 ]
@@ -4537,16 +4537,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                        "date": "2017-12-17 02:19:18", 
+                        "date": "2017-12-17 13:43:13", 
                         "dependencies": [
                             "PythonDebugTools", 
                             "EstimatedTimeLeft"
                         ], 
-                        "git_tag": "1.0.54", 
+                        "git_tag": "1.0.55", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "tags": true, 
-                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.54", 
+                        "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.55", 
                         "version": "2017.12.17"
                     }
                 ]
