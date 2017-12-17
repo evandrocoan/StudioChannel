@@ -3745,7 +3745,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-16 21:32:09", 
+                    "date": "2017-12-16 21:47:51", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
@@ -3860,7 +3860,7 @@
                 "linting", 
                 "SublimeLinter"
             ], 
-            "last_modified": "2017-12-14 21:06:54", 
+            "last_modified": "2017-12-16 14:07:30", 
             "name": "SublimeLinter", 
             "previous_names": [
                 "SublimeLinter Beta"
@@ -4514,13 +4514,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/0_settings_loader", 
-                    "date": "2017-12-14 22:10:53", 
-                    "git_tag": "1.0.1", 
+                    "date": "2017-12-16 22:25:47", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.1", 
-                    "version": "2017.12.14"
+                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.2", 
+                    "version": "2017.12.16"
                 }
             ]
         }, 
@@ -4538,16 +4538,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/SublimeChannelManager", 
-                    "date": "2017-12-16 21:45:05", 
+                    "date": "2017-12-16 22:25:47", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "EstimatedTimeLeft"
                     ], 
-                    "git_tag": "1.0.51", 
+                    "git_tag": "1.0.52", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.51", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeChannelManager/zip/1.0.52", 
                     "version": "2017.12.16"
                 }
             ]
