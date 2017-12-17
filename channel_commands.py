@@ -53,6 +53,7 @@ from channel_manager.channel_utilities import get_dictionary_key
 
 # How to reload a Sublime Text dependency?
 # https://github.com/randy3k/AutomaticPackageReloader/issues/12
+sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 
 
