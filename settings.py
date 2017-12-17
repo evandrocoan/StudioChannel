@@ -125,8 +125,6 @@ def plugin_loaded():
         "DefaultSettings",
         "Default",
         "BetterFindBuffer",
-        "SublimeLinter",
-        "SublimeLinter-javac",
         "A File Icon",
         "PackagesManager",
     ]
@@ -148,6 +146,8 @@ def plugin_loaded():
         "User",
         "AmxxChannel",
         "PackagesManager",
+        "SublimeLinter",
+        "SublimeLinter-javac",
         "OverrideEditSettingsDefaultContents",
     ]
 
