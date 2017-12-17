@@ -1098,14 +1098,34 @@
             "releases": [
                 {
                     "date": "2017-12-14 22:55:35", 
-                    "dependencies": [
-                        "0_settings_loader"
-                    ], 
                     "git_tag": "1.0.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.8", 
                     "version": "2017.12.14"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/DefaultSettings", 
+            "homepage": "https://github.com/evandrocoan/DefaultSettings", 
+            "name": "DefaultSettings", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-12-16 23:08:56", 
+                    "dependencies": [
+                        "0_settings_loader"
+                    ], 
+                    "git_tag": "1.0.0", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/DefaultSettings/zip/1.0.0", 
+                    "version": "2017.12.16"
                 }
             ]
         }, 
@@ -3111,12 +3131,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-10-23 10:49:08", 
-                    "git_tag": "3.3.4", 
+                    "date": "2017-12-16 23:11:39", 
+                    "git_tag": "3.3.5", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/package_control/zip/3.3.4", 
-                    "version": "2017.10.23"
+                    "url": "https://codeload.github.com/evandrocoan/package_control/zip/3.3.5", 
+                    "version": "2017.12.16"
                 }
             ]
         }, 
@@ -3745,16 +3765,16 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-16 21:47:51", 
+                    "date": "2017-12-16 23:16:11", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
                         "EstimatedTimeLeft"
                     ], 
-                    "git_tag": "1.0.42", 
+                    "git_tag": "1.0.43", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.42", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/1.0.43", 
                     "version": "2017.12.16"
                 }
             ]
