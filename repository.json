@@ -3,6 +3,26 @@
     "packages": [
         {
             "authors": [
+                "evandrocoan"
+            ], 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/0_settings_loader", 
+            "homepage": "https://github.com/evandrocoan/0_settings_loader", 
+            "name": "0_settings_loader", 
+            "previous_names": [], 
+            "releases": [
+                {
+                    "date": "2017-12-16 22:25:47", 
+                    "git_tag": "1.0.2", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.2", 
+                    "version": "2017.12.16"
+                }
+            ]
+        }, 
+        {
+            "authors": [
                 "ihodev", 
                 "Forked by evandrocoan"
             ], 
@@ -1097,35 +1117,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-14 22:55:35", 
+                    "date": "2017-12-17 01:18:06", 
                     "git_tag": "1.0.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeDefault/zip/1.0.8", 
-                    "version": "2017.12.14"
-                }
-            ]
-        }, 
-        {
-            "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/DefaultSettings", 
-            "homepage": "https://github.com/evandrocoan/DefaultSettings", 
-            "name": "DefaultSettings", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-12-16 23:08:56", 
-                    "dependencies": [
-                        "0_settings_loader"
-                    ], 
-                    "git_tag": "1.0.0", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/DefaultSettings/zip/1.0.0", 
-                    "version": "2017.12.16"
+                    "version": "2017.12.17"
                 }
             ]
         }, 
@@ -1391,12 +1388,12 @@
             "readme": "https://raw.githubusercontent.com/aronwoost/sublime-expand-region/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-11-10 13:48:21", 
+                    "date": "2017-12-17 01:18:29", 
                     "git_tag": "1.3.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/sublime-expand-region/zip/1.3.8", 
-                    "version": "2017.11.10"
+                    "version": "2017.12.17"
                 }
             ]
         }, 
@@ -3015,12 +3012,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-14 21:58:12", 
+                    "date": "2017-12-17 01:18:30", 
                     "git_tag": "1.0.7", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/SublimeOverwriteCommitCompletion/zip/1.0.7", 
-                    "version": "2017.12.14"
+                    "version": "2017.12.17"
                 }
             ]
         }, 
@@ -3765,7 +3762,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-16 23:16:11", 
+                    "date": "2017-12-16 23:37:52", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
@@ -4520,30 +4517,6 @@
         }
     ], 
     "dependencies": [
-        {
-            "authors": [
-                "evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/0_settings_loader", 
-            "homepage": "https://github.com/evandrocoan/0_settings_loader", 
-            "issues": "https://github.com/evandrocoan/0_settings_loader/issues", 
-            "load_order": 10, 
-            "name": "0_settings_loader", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "base": "https://github.com/evandrocoan/0_settings_loader", 
-                    "date": "2017-12-16 22:25:47", 
-                    "git_tag": "1.0.2", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.2", 
-                    "version": "2017.12.16"
-                }
-            ]
-        }, 
         {
             "authors": [
                 "evandrocoan"

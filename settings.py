@@ -122,7 +122,7 @@ def plugin_loaded():
 
     g_channel_settings['PACKAGES_TO_INSTALL_LAST'] = \
     [
-        "DefaultSettings",
+        "0_settings_loader",
         "Default",
         "BetterFindBuffer",
         "A File Icon",
@@ -133,11 +133,11 @@ def plugin_loaded():
     # be installed. Useful for packages which are required for the channel maintainability.
     g_channel_settings['FORBIDDEN_PACKAGES'] = \
     [
-        "PackagesManager",
-        "ChannelManager",
-        "Notepad++ Color Scheme",
-        CURRENT_PACKAGE_NAME,
         "0_settings_loader",
+        "ChannelManager",
+        CURRENT_PACKAGE_NAME,
+        "Notepad++ Color Scheme",
+        "PackagesManager",
     ]
 
     # Packages which you do want to install when reading the `.gitmodules` packages list (stable)
