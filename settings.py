@@ -187,6 +187,7 @@ def plugin_loaded():
         "ScopeAlways",
         "sublime-text-2-buildview",
         "SublimeCodeIntel",
+        "SublimeLinter",
         "SublimeLinter-javac",
         "SyncedSideBar",
         "TypeScript",
