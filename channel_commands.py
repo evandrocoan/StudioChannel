@@ -42,6 +42,9 @@ from . import settings
 from . import installation_wizard
 from . import uninstallation_wizard
 
+from channel_manager import channel_installer
+from channel_manager import channel_uninstaller
+
 from channel_manager import channel_manager
 from channel_manager import submodules_manager
 from channel_manager import copy_default_package
@@ -53,8 +56,12 @@ from channel_manager.channel_utilities import get_dictionary_key
 
 # How to reload a Sublime Text dependency?
 # https://github.com/randy3k/AutomaticPackageReloader/issues/12
+
 sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+
+sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
+sublime_plugin.reload_plugin( "channel_manager.channel_uninstaller" )
 
 
 from python_debug_tools import Debugger
@@ -149,6 +156,12 @@ def plugin_loaded():
         is_forced = False
         # is_forced = True
 
-        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+        channel_settings = settings.g_channel_settings
+        copy_default_package.main( channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
 
+        # channel_settings['INSTALLATION_TYPE'] = "upgrade"
+        # channel_installer.main( channel_settings )
+
+        channel_settings['INSTALLATION_TYPE'] = "downgrade"
+        channel_uninstaller.main( channel_settings )
 
