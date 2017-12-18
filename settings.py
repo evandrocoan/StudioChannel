@@ -38,7 +38,8 @@ from channel_manager.channel_utilities import get_main_directory
 
 # Infer the correct package name and current directory absolute path
 CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) )
-CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY ).rsplit('.', 1)[0]
+CURRENT_DIRECTORY    = CURRENT_DIRECTORY.replace( ".sublime-package", "" )
+CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY )
 
 # Hold all the information for this channel, which will be used by the `ChannelManager` to install
 # this channel
