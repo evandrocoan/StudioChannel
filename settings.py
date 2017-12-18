@@ -60,8 +60,8 @@ def plugin_loaded():
     USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
 
     # The temporary folder to download the main repository when installing the development version
-    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
     g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
+    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
 
     # Where to save the settings for channel after it is installed on the user's machine
     g_channel_settings['USER_FOLDER_PATH']              = USER_FOLDER_PATH
