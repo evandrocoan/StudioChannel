@@ -39,6 +39,9 @@ import os
 # Global variable is not updating in python
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
+CURRENT_DIRECTORY  = settings.CURRENT_DIRECTORY
+g_channel_settings = settings.g_channel_settings
+
 from . import installation_wizard
 from . import uninstallation_wizard
 
@@ -76,45 +79,14 @@ log = Debugger( 1, os.path.basename( __file__ ) )
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
+log( 2, "CURRENT_DIRECTORY: " + CURRENT_DIRECTORY )
 
 
-def is_channel_installed():
-    """
-        Returns True if the channel is installed, i.e., there are packages added to the
-        `packages_to_uninstall` list.
-    """
-    # Only attempt to check it, if the settings are loaded
-    if len( settings.g_channel_settings ) > 0:
-        channelSettingsPath = settings.g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
-
-        if os.path.exists( channelSettingsPath ):
-            settingsData = load_data_file( channelSettingsPath )
-            return len( get_dictionary_key( settingsData, "packages_to_uninstall", [] ) ) > 0
-
-    return False
-
-
-class StudioChannelRunUninstallation( sublime_plugin.ApplicationCommand ):
+class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
-        uninstallation_wizard.main()
-
-
-class StudioChannelRunInstallation( sublime_plugin.ApplicationCommand ):
-
-    def run(self):
-        installation_wizard.main()
-
-    def is_enabled(self):
-        return not is_channel_installed()
-
-
-class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
-
-    def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        channel_manager.main( settings.g_channel_settings, command )
+        copy_default_package.main( g_channel_settings['DEFAULT_PACKAGE_FILES'], True )
 
     def is_enabled(self):
         return is_channel_installed()
@@ -130,27 +102,52 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
         return is_channel_installed()
 
 
-class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
+class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
 
-    def run(self):
+    def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGE_FILES'], True )
+        channel_manager.main( g_channel_settings, command )
 
     def is_enabled(self):
         return is_channel_installed()
 
 
-is_delayed = False
+class StudioChannelRunUninstallation( sublime_plugin.ApplicationCommand ):
+
+    def run(self):
+        """
+            You can always run the uninstaller, either to uninstall everything, or just this
+            package or just some packages.
+        """
+        uninstallation_wizard.main()
+
+
+class StudioChannelRunInstallation( sublime_plugin.ApplicationCommand ):
+
+    def run(self):
+        installation_wizard.main()
+
+    def is_enabled(self):
+        return not is_channel_installed()
+
 
 def plugin_loaded():
+    # Call the channel upgrade/downgrade wizards to maintain old installation up to date with the
+    # main channel file when there are new packages additions or deletions.
+    run_channel_setup()
 
-    # the settings are not yet loaded, wait a little
-    if "DEFAULT_PACKAGE_FILES" not in settings.g_channel_settings:
+
+is_delayed = False
+
+def run_channel_setup():
+
+    # If the settings are not yet loaded, wait a little
+    if "DEFAULT_PACKAGE_FILES" not in g_channel_settings:
         global is_delayed
 
         # Stop delaying indefinitely
         if is_delayed:
-            log( 1, "Error: Could not load the settings files! g_channel_settings:" + str( settings.g_channel_settings ) )
+            log( 1, "Error: Could not load the settings files! g_channel_settings:" + str( g_channel_settings ) )
             return
 
         is_delayed = True
@@ -161,7 +158,7 @@ def plugin_loaded():
 
 
 def run_channel_upgrade():
-    channel_settings = settings.g_channel_settings
+    channel_settings = g_channel_settings
     copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], False )
 
     if is_channel_installed():
@@ -170,4 +167,23 @@ def run_channel_upgrade():
 
         channel_settings['INSTALLATION_TYPE'] = "downgrade"
         channel_uninstaller.main( channel_settings )
+
+        # Restore the default value
+        channel_settings['INSTALLATION_TYPE'] = ""
+
+
+def is_channel_installed():
+    """
+        Returns True if the channel is installed, i.e., there are packages added to the
+        `packages_to_uninstall` list.
+    """
+    # Only attempt to check it, if the settings are loaded
+    if len( g_channel_settings ) > 0:
+        channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
+
+        if os.path.exists( channelSettingsPath ):
+            settingsData = load_data_file( channelSettingsPath )
+            return len( get_dictionary_key( settingsData, "packages_to_uninstall", [] ) ) > 0
+
+    return False
 
