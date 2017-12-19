@@ -628,6 +628,6 @@ def install(version="stable"):
     add_channel()
 
     g_channel_settings['INSTALLATION_TYPE'] = version
-    channel_installer.main( g_channel_settings )
+    channel_installer.main( g_channel_settings, True )
 
 

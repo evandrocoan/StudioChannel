@@ -181,6 +181,5 @@ def uninstall():
         Used for testing purposes while developing this package.
     """
     unpack_settings()
-    channel_uninstaller.main( g_channel_settings )
-
+    channel_uninstaller.main( g_channel_settings, True )
 

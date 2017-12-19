@@ -157,12 +157,14 @@ def plugin_loaded():
         sublime.set_timeout( plugin_loaded, 2000 )
 
     else:
-        is_forced = False
-        # is_forced = True
+        run_channel_upgrade()
 
-        channel_settings = settings.g_channel_settings
-        copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], is_forced )
 
+def run_channel_upgrade():
+    channel_settings = settings.g_channel_settings
+    copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], False )
+
+    if is_channel_installed():
         channel_settings['INSTALLATION_TYPE'] = "upgrade"
         channel_installer.main( channel_settings )
 
