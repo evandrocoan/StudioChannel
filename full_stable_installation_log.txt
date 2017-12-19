@@ -2103,7 +2103,7 @@ reloading plugin SublimeLinter.commands
 reloading plugin SublimeLinter.sublimelinter
 SublimeLinter: debug mode: off
 [channel_installer.py] 08:48:10  569019    2503 set_default_settings_after, g_channelSettings: {
-    "default_packages_files": [
+    "default_package_files": [
         ".gitignore",
         ".no-sublime-package",
         "Context.sublime-menu",

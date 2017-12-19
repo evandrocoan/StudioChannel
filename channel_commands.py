@@ -54,11 +54,15 @@ from channel_manager.channel_utilities import load_data_file
 from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import get_dictionary_key
 
+# # Run unit tests
+# from channel_manager import channel_manager_tests
+# channel_manager_tests.main()
+
 # How to reload a Sublime Text dependency?
 # https://github.com/randy3k/AutomaticPackageReloader/issues/12
-
 sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+sublime_plugin.reload_plugin( "channel_manager.channel_manager_tests" )
 
 sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
 sublime_plugin.reload_plugin( "channel_manager.channel_uninstaller" )
@@ -130,7 +134,7 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGES_FILES'], True )
+        copy_default_package.main( settings.g_channel_settings['DEFAULT_PACKAGE_FILES'], True )
 
     def is_enabled(self):
         return is_channel_installed()
@@ -141,7 +145,7 @@ is_delayed = False
 def plugin_loaded():
 
     # the settings are not yet loaded, wait a little
-    if "DEFAULT_PACKAGES_FILES" not in settings.g_channel_settings:
+    if "DEFAULT_PACKAGE_FILES" not in settings.g_channel_settings:
         global is_delayed
 
         # Stop delaying indefinitely
@@ -157,10 +161,10 @@ def plugin_loaded():
         # is_forced = True
 
         channel_settings = settings.g_channel_settings
-        copy_default_package.main( channel_settings['DEFAULT_PACKAGES_FILES'], is_forced )
+        copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], is_forced )
 
-        # channel_settings['INSTALLATION_TYPE'] = "upgrade"
-        # channel_installer.main( channel_settings )
+        channel_settings['INSTALLATION_TYPE'] = "upgrade"
+        channel_installer.main( channel_settings )
 
         channel_settings['INSTALLATION_TYPE'] = "downgrade"
         channel_uninstaller.main( channel_settings )

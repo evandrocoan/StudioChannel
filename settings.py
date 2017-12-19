@@ -197,7 +197,7 @@ def plugin_loaded():
     ]
 
     # The files of the `Default.sublime-package` you are installing
-    g_channel_settings['DEFAULT_PACKAGES_FILES'] = \
+    g_channel_settings['DEFAULT_PACKAGE_FILES'] = \
     [
         ".gitignore",
         ".no-sublime-package",
