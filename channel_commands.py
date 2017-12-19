@@ -39,8 +39,6 @@ import os
 # Global variable is not updating in python
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings
-CURRENT_DIRECTORY  = settings.CURRENT_DIRECTORY
-g_channel_settings = settings.g_channel_settings
 
 from . import installation_wizard
 from . import uninstallation_wizard
@@ -79,7 +77,7 @@ log = Debugger( 1, os.path.basename( __file__ ) )
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY: " + CURRENT_DIRECTORY )
+log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
@@ -140,6 +138,8 @@ def plugin_loaded():
 is_delayed = False
 
 def run_channel_setup():
+    global g_channel_settings
+    g_channel_settings = settings.g_channel_settings
 
     # If the settings are not yet loaded, wait a little
     if "DEFAULT_PACKAGE_FILES" not in g_channel_settings:
@@ -147,8 +147,8 @@ def run_channel_setup():
 
         # Stop delaying indefinitely
         if is_delayed:
-            log( 1, "Error: Could not load the settings files! g_channel_settings:" + str( g_channel_settings ) )
-            return
+            log( 1, "Error: Could not load the settings files! g_channel_settings: " + str( g_channel_settings ) )
+            run_channel_upgrade()
 
         is_delayed = True
         sublime.set_timeout( plugin_loaded, 2000 )
@@ -159,6 +159,8 @@ def run_channel_setup():
 
 def run_channel_upgrade():
     channel_settings = g_channel_settings
+    channel_settings['INSTALLATION_TYPE'] = ""
+
     copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], False )
 
     if is_channel_installed():
