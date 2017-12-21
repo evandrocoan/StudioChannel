@@ -147,8 +147,8 @@ def plugin_loaded():
         "User",
         "AmxxChannel",
         "PackagesManager",
-        "SublimeLinter",
-        "SublimeLinter-javac",
+        "UnitTesting",
+        "ColorSchemeUnit",
         "OverrideEditSettingsDefaultContents",
     ]
 
