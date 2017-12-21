@@ -977,6 +977,37 @@
             }, 
             {
                 "authors": [
+                    "gerardroche", 
+                    "Forked by evandrocoan"
+                ], 
+                "buy": null, 
+                "description": "A testing framework for Sublime Text color schemes.", 
+                "donate": null, 
+                "homepage": "https://github.com/evandrocoan/sublime-color-scheme-unit", 
+                "issues": "https://github.com/gerardroche/sublime-color-scheme-unit/issues", 
+                "labels": [
+                    "color scheme", 
+                    "testing"
+                ], 
+                "last_modified": "2017-11-23 11:08:35", 
+                "name": "ColorSchemeUnit", 
+                "previous_names": [
+                    "color_scheme_unit"
+                ], 
+                "readme": "https://raw.githubusercontent.com/gerardroche/sublime-color-scheme-unit/master/README.md", 
+                "releases": [
+                    {
+                        "date": "2017-12-06 10:58:43", 
+                        "git_tag": "1.10.2", 
+                        "platforms": "*", 
+                        "sublime_text": ">=3126", 
+                        "url": "https://codeload.github.com/evandrocoan/sublime-color-scheme-unit/zip/1.10.2", 
+                        "version": "2017.12.06"
+                    }
+                ]
+            }, 
+            {
+                "authors": [
                     "ehuss", 
                     "Forked by evandrocoan"
                 ], 
@@ -2009,12 +2040,12 @@
                 "readme": "https://raw.githubusercontent.com/shagabutdinov/sublime-goto-last-edit-enhanced/master/readme.md", 
                 "releases": [
                     {
-                        "date": "2017-07-26 23:45:58", 
-                        "git_tag": "1.0.1", 
+                        "date": "2017-12-20 00:57:06", 
+                        "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/sublime-goto-last-edit-enhanced/zip/1.0.1", 
-                        "version": "2017.07.26"
+                        "url": "https://codeload.github.com/evandrocoan/sublime-goto-last-edit-enhanced/zip/1.0.2", 
+                        "version": "2017.12.20"
                     }
                 ]
             }, 
@@ -3085,12 +3116,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/PackageDev/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-11-06 08:17:47", 
-                        "git_tag": "3.0.5", 
+                        "date": "2017-12-20 00:53:54", 
+                        "git_tag": "3.0.6", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/PackageDev/zip/3.0.5", 
-                        "version": "2017.11.06"
+                        "url": "https://codeload.github.com/evandrocoan/PackageDev/zip/3.0.6", 
+                        "version": "2017.12.20"
                     }
                 ]
             }, 
@@ -3766,7 +3797,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-19 23:48:07", 
+                        "date": "2017-12-20 22:05:48", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
@@ -3777,7 +3808,7 @@
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
                         "url": "https://codeload.github.com/evandrocoan/SublimeStudioChannel/zip/master", 
-                        "version": "2017.12.19"
+                        "version": "2017.12.20"
                     }
                 ]
             }, 
@@ -4455,12 +4486,12 @@
                 "readme": null, 
                 "releases": [
                     {
-                        "date": "2017-12-19 03:40:10", 
-                        "git_tag": "1.0.0", 
+                        "date": "2017-12-20 21:48:51", 
+                        "git_tag": "1.0.1", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.0", 
-                        "version": "2017.12.19"
+                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.1", 
+                        "version": "2017.12.20"
                     }
                 ]
             }, 
