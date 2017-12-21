@@ -3797,7 +3797,7 @@
                 "previous_names": [], 
                 "releases": [
                     {
-                        "date": "2017-12-20 22:05:48", 
+                        "date": "2017-12-20 22:47:01", 
                         "dependencies": [
                             "ChannelManager", 
                             "PythonDebugTools", 
@@ -4085,12 +4085,12 @@
                 "readme": "https://raw.githubusercontent.com/P233/Syntax-highlighting-for-Sass/master/README.md", 
                 "releases": [
                     {
-                        "date": "2017-11-27 11:05:38", 
-                        "git_tag": "1.0.1", 
+                        "date": "2017-12-21 02:18:30", 
+                        "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/Syntax-highlighting-for-Sass/zip/1.0.1", 
-                        "version": "2017.11.27"
+                        "url": "https://codeload.github.com/evandrocoan/Syntax-highlighting-for-Sass/zip/1.0.2", 
+                        "version": "2017.12.21"
                     }
                 ]
             }, 
@@ -4486,12 +4486,12 @@
                 "readme": null, 
                 "releases": [
                     {
-                        "date": "2017-12-20 21:48:51", 
-                        "git_tag": "1.0.1", 
+                        "date": "2017-12-21 15:43:45", 
+                        "git_tag": "1.0.2", 
                         "platforms": "*", 
                         "sublime_text": ">=3126", 
-                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.1", 
-                        "version": "2017.12.20"
+                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.2", 
+                        "version": "2017.12.21"
                     }
                 ]
             }, 
