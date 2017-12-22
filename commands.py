@@ -145,7 +145,7 @@ def plugin_loaded():
 def load_installation_details():
     # Only attempt to check it, if the settings are loaded
     if len( g_channel_settings ) > 0:
-        installationDetailsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
+        installationDetailsPath = g_channel_settings['CHANNEL_INSTALLATION_DETAILS']
 
         if os.path.exists( installationDetailsPath ):
             global g_installation_details

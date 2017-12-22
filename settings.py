@@ -66,7 +66,7 @@ def plugin_loaded():
     g_channel_settings['USER_FOLDER_PATH'] = USER_FOLDER_PATH
 
     # You channel installation details saved after the installation of the channel
-    g_channel_settings['CHANNEL_INSTALLATION_SETTINGS'] = \
+    g_channel_settings['CHANNEL_INSTALLATION_DETAILS'] = \
             os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
 
     # The default Package Control channel

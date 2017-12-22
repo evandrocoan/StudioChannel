@@ -542,7 +542,7 @@ def show_goodbye_message():
                 CURRENT_PACKAGE_NAME, ask_later_text, g_installation_command ) ),
     ]
 
-    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
+    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_DETAILS']
 
     settings       = load_data_file( channelSettingsPath )
     sublime_dialog = sublime.yes_no_cancel_dialog( "\n".join( lines ), ok_button_text, ask_later_text )
@@ -568,7 +568,7 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
-    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
+    channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_DETAILS']
 
     if os.path.exists( channelSettingsPath ):
         settings = load_data_file( channelSettingsPath )
