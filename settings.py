@@ -28,30 +28,26 @@
 #
 
 import os
-import sys
-import datetime
+import sublime, sublime_plugin
 
-import sublime
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import get_main_directory
-
+from channel_manager.channel_utilities import run_channel_setup
+from channel_manager.channel_utilities import print_all_variables_for_debugging
+# sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 
 # Infer the correct package name and current directory absolute path
-CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) )
-CURRENT_DIRECTORY    = CURRENT_DIRECTORY.replace( ".sublime-package", "" )
+CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) ).replace( ".sublime-package", "" )
 CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY )
-
-# Hold all the information for this channel, which will be used by the `ChannelManager` to install
-# this channel
-g_channel_settings = {}
-
 
 def plugin_loaded():
     """
         We can only load the information when the Sublime Text API is available due the use of the
         get_main_directory() which requires it.
     """
-    global g_channel_settings
+
+    # Generate the files `Main.sublime-menu`, `Default.sublime-commands` and `commands.py` files
+    run_channel_setup( CURRENT_PACKAGE_NAME, CURRENT_DIRECTORY )
 
     # The folder where the directory where the Sublime Text `Packages` (loose packages) folder is on
     CHANNEL_ROOT_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
@@ -59,19 +55,19 @@ def plugin_loaded():
     # The folder where the User settings are on
     USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
 
+    # Hold all the information for this channel, which will be used to install this channel
+    global g_channel_settings
+
     # The temporary folder to download the main repository when installing the development version
     g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
     g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
 
-    # Where to save the settings for channel after it is installed on the user's machine
-    g_channel_settings['USER_FOLDER_PATH']              = USER_FOLDER_PATH
+    # The User settings folder
+    g_channel_settings['USER_FOLDER_PATH'] = USER_FOLDER_PATH
+
+    # You channel installation details saved after the installation of the channel
     g_channel_settings['CHANNEL_INSTALLATION_SETTINGS'] = \
             os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
-
-
-    # The local path to the files, used to save the generated channels and valid URLs to the files,
-    # to use when installing the stable version of the channel. See also:
-    # https://packagecontrol.io/docs/channels_and_repositories
 
     # The default Package Control channel
     g_channel_settings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
@@ -79,8 +75,7 @@ def plugin_loaded():
     # The URL of the directory where the files `channel.json` and `repository.json` are hosted
     CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
 
-    # The URL to the main A direct URL/Path to the repository where there is the `.gitmodules` file
-    # listing all the channel packages to use when generating Studio Channel files.
+    # The URL to the main A direct URL/Path to the repository where there is the `.gitmodules`
     g_channel_settings['CHANNEL_ROOT_URL']       = "https://github.com/evandrocoan/SublimeTextStudio"
     g_channel_settings['CHANNEL_ROOT_DIRECTORY'] = CHANNEL_ROOT_DIRECTORY
 
@@ -214,12 +209,5 @@ def plugin_loaded():
         "transpose.py",
     ]
 
-    # Print all their values for debugging
-    variables = \
-    [
-        "%-30s: %s" % ( variable_name, g_channel_settings[variable_name] )
-        for variable_name in g_channel_settings.keys()
-    ]
-    # print("\nImporting %s settings... \n%s" % ( str(datetime.datetime.now())[0:19], "\n".join( sorted(variables) ) ))
-
+    # print_all_variables_for_debugging( g_channel_settings )
 
