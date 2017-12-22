@@ -33,6 +33,10 @@ import sublime_plugin
 import os
 
 
+g_channel_settings         = {}
+g_installation_details     = {}
+g_is_settings_load_delayed = False
+
 # How to import python class file from same directory?
 # https://stackoverflow.com/questions/21139364/how-to-import-python-class-file-from-same-directory
 #
@@ -130,37 +134,52 @@ class StudioChannelRunInstallation( sublime_plugin.ApplicationCommand ):
 
 
 def plugin_loaded():
+    load_channel_settings()
+    load_installation_details()
+
     # Call the channel upgrade/downgrade wizards to maintain old installation up to date with the
     # main channel file when there are new packages additions or deletions.
-    run_channel_setup()
+    run_channel_update()
 
 
-is_delayed = False
+def load_installation_details():
+    # Only attempt to check it, if the settings are loaded
+    if len( g_channel_settings ) > 0:
+        installationDetailsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
 
-def run_channel_setup():
+        if os.path.exists( installationDetailsPath ):
+            global g_installation_details
+            g_installation_details = load_data_file( installationDetailsPath )
+
+
+def load_channel_settings():
     global g_channel_settings
-    g_channel_settings = settings.g_channel_settings
 
     # If the settings are not yet loaded, wait a little
-    if "DEFAULT_PACKAGE_FILES" not in g_channel_settings:
-        global is_delayed
-
-        # Stop delaying indefinitely
-        if is_delayed:
-            log( 1, "Error: Could not load the settings files! g_channel_settings: " + str( g_channel_settings ) )
-            run_channel_upgrade()
-
-        is_delayed = True
-        sublime.set_timeout( plugin_loaded, 2000 )
+    if "DEFAULT_PACKAGE_FILES" in settings.g_channel_settings:
+        g_channel_settings = settings.g_channel_settings
 
     else:
-        run_channel_upgrade()
+        global g_is_settings_load_delayed
+
+        # Stop delaying indefinitely
+        if g_is_settings_load_delayed:
+            log.insert_empty_line()
+            log( 1, "Error: Could not load the settings files! g_channel_settings: " + str( g_channel_settings ) )
+
+        else:
+            g_is_settings_load_delayed = True
+            sublime.set_timeout( plugin_loaded, 2000 )
 
 
-def run_channel_upgrade():
-    channel_settings = g_channel_settings
+def run_channel_update():
+
+    if len( g_channel_settings ) > 0:
+        run_channel_upgrade( g_channel_settings )
+
+
+def run_channel_upgrade(channel_settings):
     channel_settings['INSTALLATION_TYPE'] = ""
-
     copy_default_package.main( channel_settings['DEFAULT_PACKAGE_FILES'], False )
 
     if is_channel_installed():
@@ -180,12 +199,8 @@ def is_channel_installed():
         `packages_to_uninstall` list.
     """
     # Only attempt to check it, if the settings are loaded
-    if len( g_channel_settings ) > 0:
-        channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_SETTINGS']
-
-        if os.path.exists( channelSettingsPath ):
-            settingsData = load_data_file( channelSettingsPath )
-            return len( get_dictionary_key( settingsData, "packages_to_uninstall", [] ) ) > 0
+    if len( g_installation_details ) > 0:
+        return len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
 
     return False
 
