@@ -28,68 +28,28 @@
 #
 
 import os
-import sublime, sublime_plugin
+import sublime
 
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import run_channel_setup
-from channel_manager.channel_utilities import print_all_variables_for_debugging
-# sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 
-# Infer the correct package name and current directory absolute path
-CURRENT_DIRECTORY    = os.path.dirname( os.path.realpath( __file__ ) ).replace( ".sublime-package", "" )
-CURRENT_PACKAGE_NAME = os.path.basename( CURRENT_DIRECTORY )
+CURRENT_PACKAGE_ROOT_DIRECTORY = os.path.dirname( os.path.realpath( __file__ ) ).replace( ".sublime-package", "" )
+CURRENT_PACKAGE_NAME           = os.path.basename( CURRENT_PACKAGE_ROOT_DIRECTORY )
 
 def plugin_loaded():
-    """
-        We can only load the information when the Sublime Text API is available due the use of the
-        get_main_directory() which requires it.
-    """
-
-    # Generate the files `Main.sublime-menu`, `Default.sublime-commands` and `commands.py` files
-    run_channel_setup( CURRENT_PACKAGE_NAME, CURRENT_DIRECTORY )
-
-    # The folder where the directory where the Sublime Text `Packages` (loose packages) folder is on
-    CHANNEL_ROOT_DIRECTORY = get_main_directory( CURRENT_DIRECTORY )
-
-    # The folder where the User settings are on
-    USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
-
-    # Hold all the information for this channel, which will be used to install this channel
     global g_channel_settings
+    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/"
 
-    # The temporary folder to download the main repository when installing the development version
-    g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
-    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
-
-    # The User settings folder
-    g_channel_settings['USER_FOLDER_PATH'] = USER_FOLDER_PATH
-
-    # You channel installation details saved after the installation of the channel
-    g_channel_settings['CHANNEL_INSTALLATION_DETAILS'] = \
-            os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
-
-    # The default Package Control channel
+    g_channel_settings = {}
+    g_channel_settings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/SublimeTextStudio"
     g_channel_settings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
 
-    # The URL of the directory where the files `channel.json` and `repository.json` are hosted
-    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
-
-    # The URL to the main A direct URL/Path to the repository where there is the `.gitmodules`
-    g_channel_settings['CHANNEL_ROOT_URL']       = "https://github.com/evandrocoan/SublimeTextStudio"
-    g_channel_settings['CHANNEL_ROOT_DIRECTORY'] = CHANNEL_ROOT_DIRECTORY
-
-    # The file path to the Channel File `channel.json` to use when installing the development version
     g_channel_settings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
-    g_channel_settings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_DIRECTORY, "channel.json" )
+    g_channel_settings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "channel.json" )
 
-    # A direct URL/Path to the Repository File `repository.json` to use when installing the
-    # stable/development version
     g_channel_settings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
-    g_channel_settings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_DIRECTORY, "repository.json" )
-
-    # The default user preferences file
-    g_channel_settings['USER_SETTINGS_FILE'] = "Preferences.sublime-settings"
+    g_channel_settings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "repository.json" )
 
     # You can specify for some packages to be popped out from the list and being installed by
     # first/last in the following order presented.
@@ -125,8 +85,6 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
-    # Packages which are not allowed to be selected by the user while choosing the packages to not
-    # be installed. Useful for packages which are required for the channel maintainability.
     g_channel_settings['FORBIDDEN_PACKAGES'] = \
     [
         "0_settings_loader",
@@ -136,7 +94,6 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
-    # Packages which you do want to install when reading the `.gitmodules` packages list (stable)
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "User",
@@ -147,13 +104,10 @@ def plugin_loaded():
         "OverrideEditSettingsDefaultContents",
     ]
 
-    # Packages which you do want to install when reading the `.gitmodules` packages list (development)
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
     [
     ]
 
-    # Packages which must not be installed on the stable version and must be disabled by default on
-    # the development version.
     g_channel_settings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
     [
         "All Autocomplete",
@@ -191,7 +145,6 @@ def plugin_loaded():
         "WordHighlight",
     ]
 
-    # The files of the `Default.sublime-package` you are installing
     g_channel_settings['DEFAULT_PACKAGE_FILES'] = \
     [
         ".gitignore",
@@ -209,5 +162,21 @@ def plugin_loaded():
         "transpose.py",
     ]
 
-    # print_all_variables_for_debugging( g_channel_settings )
+    CHANNEL_ROOT_DIRECTORY = get_main_directory( CURRENT_PACKAGE_ROOT_DIRECTORY )
+    run_channel_setup( CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
+
+    USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
+    g_channel_settings['CHANNEL_INSTALLATION_DETAILS'] = os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
+
+    g_channel_settings['USER_FOLDER_PATH']    = USER_FOLDER_PATH
+    g_channel_settings['USER_SETTINGS_FILE']  = "Preferences.sublime-settings"
+
+    g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
+    g_channel_settings['CHANNEL_ROOT_DIRECTORY']  = CHANNEL_ROOT_DIRECTORY
+    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
+
+    # from channel_manager.channel_utilities import print_all_variables_for_debugging
+    # print_all_variables_for_debugging
+    # import sublime_plugin
+    # sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 
