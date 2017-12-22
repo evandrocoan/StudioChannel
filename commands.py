@@ -81,7 +81,7 @@ log = Debugger( 1, os.path.basename( __file__ ) )
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_DIRECTORY: " + settings.CURRENT_DIRECTORY )
+log( 2, "CURRENT_PACKAGE_ROOT_DIRECTORY: " + settings.CURRENT_PACKAGE_ROOT_DIRECTORY )
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):

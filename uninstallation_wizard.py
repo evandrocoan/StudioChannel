@@ -36,7 +36,7 @@ import threading
 g_is_already_running = False
 from . import settings
 
-from .settings import CURRENT_DIRECTORY
+from .settings import CURRENT_PACKAGE_ROOT_DIRECTORY
 from .settings import CURRENT_PACKAGE_NAME
 
 from channel_manager import channel_uninstaller
@@ -60,7 +60,7 @@ log = Debugger( 127, os.path.basename( __file__ ) )
 # log( 2, "..." )
 # log( 2, "..." )
 # log( 2, "Debugging" )
-# log( 2, "CURRENT_DIRECTORY_: " + CURRENT_DIRECTORY )
+# log( 2, "CURRENT_PACKAGE_ROOT_DIRECTORY_: " + CURRENT_PACKAGE_ROOT_DIRECTORY )
 
 
 def main():
