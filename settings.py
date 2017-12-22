@@ -31,7 +31,6 @@ import os
 import sublime
 
 from channel_manager.channel_utilities import clean_urljoin
-from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import run_channel_setup
 
 CURRENT_PACKAGE_ROOT_DIRECTORY = os.path.dirname( os.path.realpath( __file__ ) ).replace( ".sublime-package", "" )
@@ -162,18 +161,7 @@ def plugin_loaded():
         "transpose.py",
     ]
 
-    CHANNEL_ROOT_DIRECTORY = get_main_directory( CURRENT_PACKAGE_ROOT_DIRECTORY )
-    run_channel_setup( CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
-
-    USER_FOLDER_PATH = os.path.join( CHANNEL_ROOT_DIRECTORY, "Packages", "User" )
-    g_channel_settings['CHANNEL_INSTALLATION_DETAILS'] = os.path.join( USER_FOLDER_PATH, CURRENT_PACKAGE_NAME + ".sublime-settings" )
-
-    g_channel_settings['USER_FOLDER_PATH']    = USER_FOLDER_PATH
-    g_channel_settings['USER_SETTINGS_FILE']  = "Preferences.sublime-settings"
-
-    g_channel_settings['CHANNEL_PACKAGE_NAME']    = CURRENT_PACKAGE_NAME
-    g_channel_settings['CHANNEL_ROOT_DIRECTORY']  = CHANNEL_ROOT_DIRECTORY
-    g_channel_settings['TEMPORARY_FOLDER_TO_USE'] = "__channel_temporary_directory"
+    run_channel_setup( g_channel_settings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
 
     # from channel_manager.channel_utilities import print_all_variables_for_debugging
     # print_all_variables_for_debugging
