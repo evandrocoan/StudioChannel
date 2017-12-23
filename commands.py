@@ -91,7 +91,7 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
         copy_default_package.main( g_channel_settings['DEFAULT_PACKAGE_FILES'], True )
 
     def is_enabled(self):
-        return is_channel_installed()
+        return is_channel_installed() and is_development_version()
 
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
@@ -101,7 +101,7 @@ class StudioChannelRun( sublime_plugin.ApplicationCommand ):
         submodules_manager.main( run )
 
     def is_enabled(self):
-        return is_channel_installed()
+        return is_channel_installed() and is_development_version()
 
 
 class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
@@ -111,7 +111,7 @@ class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
         channel_manager.main( g_channel_settings, command )
 
     def is_enabled(self):
-        return is_channel_installed()
+        return is_channel_installed() and is_development_version()
 
 
 class StudioChannelRunUninstallation( sublime_plugin.ApplicationCommand ):
@@ -193,14 +193,18 @@ def run_channel_upgrade(channel_settings):
         channel_settings['INSTALLATION_TYPE'] = ""
 
 
+def is_development_version():
+    """
+        We can only run this when we are using the stable version of the channel. And when there is
+        not a `.git` folder, we are running the `Development Version` of the channel.
+    """
+    return get_dictionary_key( g_installation_details, "installation_type", "" ) == "development"
+
+
 def is_channel_installed():
     """
         Returns True if the channel is installed, i.e., there are packages added to the
         `packages_to_uninstall` list.
     """
-    # Only attempt to check it, if the settings are loaded
-    if len( g_installation_details ) > 0:
-        return len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
-
-    return False
+    return len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
 
