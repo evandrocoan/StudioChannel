@@ -64,14 +64,14 @@ from channel_manager.channel_utilities import write_data_file
 # from channel_manager import channel_manager_tests
 # channel_manager_tests.main()
 
-# How to reload a Sublime Text dependency?
-# https://github.com/randy3k/AutomaticPackageReloader/issues/12
-sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
-sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
-sublime_plugin.reload_plugin( "channel_manager.channel_manager_tests" )
+# # How to reload a Sublime Text dependency?
+# # https://github.com/randy3k/AutomaticPackageReloader/issues/12
+# sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
+# sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+# sublime_plugin.reload_plugin( "channel_manager.channel_manager_tests" )
 
-sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
-sublime_plugin.reload_plugin( "channel_manager.channel_uninstaller" )
+# sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
+# sublime_plugin.reload_plugin( "channel_manager.channel_uninstaller" )
 
 
 from python_debug_tools import Debugger
@@ -135,32 +135,32 @@ class StudioChannelRunUninstallation( sublime_plugin.ApplicationCommand ):
 
 
 def plugin_loaded():
-    load_channel_settings()
-    load_installation_details()
 
-    # Call the channel upgrade/downgrade wizards to maintain old installation up to date with the
-    # main channel file when there are new packages additions or deletions.
-    run_channel_update()
+    if load_channel_settings():
+        load_installation_details()
+        run_channel_update()
 
 
 def load_installation_details():
+
     # Only attempt to check it, if the settings are loaded
     if len( g_channel_settings ) > 0:
         installationDetailsPath = g_channel_settings['CHANNEL_INSTALLATION_DETAILS']
 
-        if os.path.exists( installationDetailsPath ):
-            global g_installation_details
-            g_installation_details = load_data_file( installationDetailsPath )
-
-        else:
+        if not os.path.exists( installationDetailsPath ):
             write_data_file( installationDetailsPath, {"automatically_show_installation_wizard": True} )
+
+        global g_installation_details
+        g_installation_details = load_data_file( installationDetailsPath )
 
 
 def load_channel_settings():
-    global g_channel_settings
 
     # If the settings are not yet loaded, wait a little
-    if "DEFAULT_PACKAGE_FILES" in settings.g_channel_settings:
+    if hasattr( settings, "g_channel_settings" ) \
+            and "DEFAULT_PACKAGE_FILES" in settings.g_channel_settings:
+
+        global g_channel_settings
         g_channel_settings = settings.g_channel_settings
 
     else:
@@ -175,26 +175,32 @@ def load_channel_settings():
             g_is_settings_load_delayed = True
             sublime.set_timeout( plugin_loaded, 2000 )
 
+        return False
+
+    return True
+
 
 def run_channel_update():
+    """
+        Call the channel upgrade/downgrade wizards to maintain old installation up to date with the
+        main channel file when there are new packages additions or deletions.
+    """
 
-    if len( g_channel_settings ) > 0:
+    if is_channel_installed():
+        g_channel_settings['INSTALLATION_TYPE'] = ""
+        copy_default_package.main( g_channel_settings['DEFAULT_PACKAGE_FILES'], False )
 
-        if is_channel_installed():
-            g_channel_settings['INSTALLATION_TYPE'] = ""
-            copy_default_package.main( g_channel_settings['DEFAULT_PACKAGE_FILES'], False )
+        g_channel_settings['INSTALLATION_TYPE'] = "upgrade"
+        channel_installer.main( g_channel_settings )
 
-            g_channel_settings['INSTALLATION_TYPE'] = "upgrade"
-            channel_installer.main( g_channel_settings )
+        g_channel_settings['INSTALLATION_TYPE'] = "downgrade"
+        channel_uninstaller.main( g_channel_settings )
 
-            g_channel_settings['INSTALLATION_TYPE'] = "downgrade"
-            channel_uninstaller.main( g_channel_settings )
+        # Restore the default value
+        g_channel_settings['INSTALLATION_TYPE'] = ""
 
-            # Restore the default value
-            g_channel_settings['INSTALLATION_TYPE'] = ""
-
-        else:
-            sublime.set_timeout_async( check_for_the_first_time, 1000 )
+    else:
+        sublime.set_timeout_async( check_for_the_first_time, 1000 )
 
 
 def check_for_the_first_time():
@@ -215,11 +221,7 @@ def is_the_first_load_time():
         command on the command palette or in the preferences menu.
     """
     channelSettingsPath = g_channel_settings['CHANNEL_INSTALLATION_DETAILS']
-
-    if len( g_installation_details ):
-        return get_dictionary_key( g_installation_details, "automatically_show_installation_wizard", False )
-
-    return True
+    return get_dictionary_key( g_installation_details, "automatically_show_installation_wizard", False )
 
 
 def is_development_version():
