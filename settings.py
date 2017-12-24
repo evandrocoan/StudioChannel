@@ -165,6 +165,34 @@ def plugin_loaded():
         "WordHighlight",
     ]
 
+    g_channel_settings['CHANNEL_VERSIONS_DESCRIPTIONS'] = """\
+        There are two versions of the channel. Each one of them has its proper usage depending on
+        your plans. The Stable Version is the most tested and trusted set of packages to be
+        installed. It contains all the packages which can be actively enabled and used on daily
+        basis usage and it requires the latest Stable Build of Sublime Text available, as builds
+        3126 and 3143.
+
+        The Development Version has the same packages as the Stable Version, however it also
+        installs candidate packages to the Stable Version, i.e., packages which are not thoroughly
+        tested. Some of them are expected to have serious bugs as crash your Sublime Text,
+        significantly slow down the Sublime Text performance, i.e., create great problems. Due this,
+        these extra packages are by default added to your `ignored_packages` settings. You should
+        only enable them when you are attempting to fix their problems or test them.
+
+        For both Stable and Development versions, your Sublime Text's Package Control will be
+        uninstalled and replaced by the its forked version called `PackagesManager`. Now on, you
+        should look for the package `PackagesManager` to install and uninstalling packages. The
+        Stable Version installs all packages by PackagesManager as they normally are installed by
+        the Sublime Text's Package Control. Therefore they require smaller amount of space in your
+        file system. It should be about 60MB of data, on the last time checked.
+
+        Now the Development Version installs all your packages by `git`, therefore you need to have
+        git installed in your system in order to install the development Version. Also due this, the
+        Development Version requires much more file system space. The last time checked it required
+        about 600MB of free space. Notice also, the Development Version requires the latest
+        Development Build of Sublime Text available, as builds 3141 and 3147.
+        """
+
     run_channel_setup( g_channel_settings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
 
     # from channel_manager.channel_utilities import print_all_variables_for_debugging
