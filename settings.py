@@ -38,10 +38,10 @@ CURRENT_PACKAGE_NAME           = os.path.basename( CURRENT_PACKAGE_ROOT_DIRECTOR
 
 def plugin_loaded():
     global g_channel_settings
-    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/"
+    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
 
     g_channel_settings = {}
-    g_channel_settings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/SublimeTextStudio"
+    g_channel_settings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/ITE"
     g_channel_settings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
 
     g_channel_settings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
