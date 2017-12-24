@@ -93,6 +93,23 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
+    g_channel_settings['DEFAULT_PACKAGE_FILES'] = \
+    [
+        ".gitignore",
+        ".no-sublime-package",
+        "Context.sublime-menu",
+        "Distraction Free.sublime-settings",
+        "Find Results.hidden-tmLanguage",
+        "Main.sublime-menu",
+        "README.md",
+        "Sublime Text Settings.sublime-settings",
+        "Tab Context.sublime-menu",
+        "install_package_control.py",
+        "platform_edit_settings.py",
+        "synced_side_bar_watcher.py",
+        "transpose.py",
+    ]
+
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "User",
@@ -104,6 +121,10 @@ def plugin_loaded():
     ]
 
     g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
+    [
+    ]
+
+    g_channel_settings['PACKAGES_TO_INSTALL_EXCLUSIVELY'] = \
     [
     ]
 
@@ -142,23 +163,6 @@ def plugin_loaded():
         "TypeScript",
         "Vintage",
         "WordHighlight",
-    ]
-
-    g_channel_settings['DEFAULT_PACKAGE_FILES'] = \
-    [
-        ".gitignore",
-        ".no-sublime-package",
-        "Context.sublime-menu",
-        "Distraction Free.sublime-settings",
-        "Find Results.hidden-tmLanguage",
-        "Main.sublime-menu",
-        "README.md",
-        "Sublime Text Settings.sublime-settings",
-        "Tab Context.sublime-menu",
-        "install_package_control.py",
-        "platform_edit_settings.py",
-        "synced_side_bar_watcher.py",
-        "transpose.py",
     ]
 
     run_channel_setup( g_channel_settings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
