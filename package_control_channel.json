@@ -77,6 +77,16 @@
             ]
         },
         {
+            "name": "FixCommandPalette",
+            "details": "https://github.com/evandrocoan/FixCommandPalette",
+            "releases": [
+                {
+                    "sublime_text": ">=3126",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "FixProjectSwitchRestartBug",
             "details": "https://github.com/evandrocoan/SublimeFixProjectSwitchRestartBug",
             "releases": [
