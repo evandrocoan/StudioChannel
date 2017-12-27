@@ -2245,12 +2245,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-17 15:46:05", 
+                    "date": "2017-12-27 08:18:02", 
                     "git_tag": "0.10.3", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/JediPythonAutoCompletion/zip/0.10.3", 
-                    "version": "2017.12.17"
+                    "version": "2017.12.27"
                 }
             ]
         }, 
@@ -2436,48 +2436,6 @@
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/LineEndingsUnify/zip/1.0.0", 
                     "version": "2016.07.24"
-                }
-            ]
-        }, 
-        {
-            "authors": [
-                "SublimeLinter", 
-                "Forked by evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/Linter", 
-            "homepage": "https://github.com/evandrocoan/Linter", 
-            "name": "Linter", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2017-12-16 20:03:20", 
-                    "git_tag": "3.10.4", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Linter/zip/3.10.4", 
-                    "version": "2017.12.16"
-                }
-            ]
-        }, 
-        {
-            "authors": [
-                "SublimeLinter", 
-                "Forked by evandrocoan"
-            ], 
-            "description": "No description available.", 
-            "details": "https://github.com/evandrocoan/LinterJava", 
-            "homepage": "https://github.com/evandrocoan/LinterJava", 
-            "name": "LinterJava", 
-            "previous_names": [], 
-            "releases": [
-                {
-                    "date": "2016-05-17 00:34:24", 
-                    "git_tag": "1.1.9", 
-                    "platforms": "*", 
-                    "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/LinterJava/zip/1.1.9", 
-                    "version": "2016.05.17"
                 }
             ]
         }, 
@@ -3598,7 +3556,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-27 00:53:30", 
+                    "date": "2017-12-27 08:07:02", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
@@ -3610,6 +3568,67 @@
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master", 
                     "version": "2017.12.27"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "SublimeLinter", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "The code linting framework for Sublime Text 3", 
+            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love", 
+            "homepage": "https://github.com/evandrocoan/Linter", 
+            "issues": "https://github.com/SublimeLinter/SublimeLinter3/issues", 
+            "labels": [
+                "linting", 
+                "SublimeLinter"
+            ], 
+            "last_modified": "2017-12-23 19:12:28", 
+            "name": "SublimeLinter", 
+            "previous_names": [
+                "SublimeLinter Beta"
+            ], 
+            "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter3/master/README.md", 
+            "releases": [
+                {
+                    "date": "2017-12-16 20:03:20", 
+                    "git_tag": "3.10.4", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/Linter/zip/3.10.4", 
+                    "version": "2017.12.16"
+                }
+            ]
+        }, 
+        {
+            "authors": [
+                "SublimeLinter", 
+                "Forked by evandrocoan"
+            ], 
+            "buy": null, 
+            "description": "SublimeLinter 3 plugin for Java, using javac -Xlint.", 
+            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love", 
+            "homepage": "https://github.com/evandrocoan/LinterJava", 
+            "issues": "https://github.com/SublimeLinter/SublimeLinter-javac/issues", 
+            "labels": [
+                "linting", 
+                "SublimeLinter", 
+                "java"
+            ], 
+            "last_modified": "2014-10-05 05:23:10", 
+            "name": "SublimeLinter-javac", 
+            "previous_names": [], 
+            "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-javac/master/README.md", 
+            "releases": [
+                {
+                    "date": "2016-05-17 00:34:24", 
+                    "git_tag": "1.1.9", 
+                    "platforms": "*", 
+                    "sublime_text": ">=3126", 
+                    "url": "https://codeload.github.com/evandrocoan/LinterJava/zip/1.1.9", 
+                    "version": "2016.05.17"
                 }
             ]
         }, 
