@@ -291,12 +291,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-26 23:43:02", 
-                    "git_tag": "1.0.11", 
+                    "date": "2017-12-27 08:35:56", 
+                    "git_tag": "1.0.12", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.11", 
-                    "version": "2017.12.26"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.12", 
+                    "version": "2017.12.27"
                 }
             ]
         }, 
@@ -838,10 +838,10 @@
             "releases": [
                 {
                     "date": "2017-12-27 01:10:25", 
-                    "git_tag": "1.0.12", 
+                    "git_tag": "1.0.0", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.12", 
+                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.0", 
                     "version": "2017.12.27"
                 }
             ]
@@ -1475,10 +1475,10 @@
             "releases": [
                 {
                     "date": "2017-12-23 15:59:42", 
-                    "git_tag": "1.0.1", 
+                    "git_tag": "1.0.2", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/ExtractText/zip/1.0.1", 
+                    "url": "https://codeload.github.com/evandrocoan/ExtractText/zip/1.0.2", 
                     "version": "2017.12.23"
                 }
             ]
@@ -1654,10 +1654,10 @@
             "releases": [
                 {
                     "date": "2017-12-27 00:51:54", 
-                    "git_tag": "1.0.12", 
+                    "git_tag": "1.0.0", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/FixCommandPalette/zip/1.0.12", 
+                    "url": "https://codeload.github.com/evandrocoan/FixCommandPalette/zip/1.0.0", 
                     "version": "2017.12.27"
                 }
             ]
@@ -2246,10 +2246,10 @@
             "releases": [
                 {
                     "date": "2017-12-27 08:18:02", 
-                    "git_tag": "0.10.3", 
+                    "git_tag": "0.10.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/JediPythonAutoCompletion/zip/0.10.3", 
+                    "url": "https://codeload.github.com/evandrocoan/JediPythonAutoCompletion/zip/0.10.4", 
                     "version": "2017.12.27"
                 }
             ]
@@ -2704,10 +2704,10 @@
             "releases": [
                 {
                     "date": "2017-12-04 12:48:05", 
-                    "git_tag": "1.2.4", 
+                    "git_tag": "2.0.0", 
                     "platforms": "*", 
                     "sublime_text": ">3144", 
-                    "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/1.2.4", 
+                    "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.0", 
                     "version": "2017.12.04"
                 }, 
                 {
@@ -3101,10 +3101,10 @@
                     "dependencies": [
                         "PythonDebugTools"
                     ], 
-                    "git_tag": "1.0.6", 
+                    "git_tag": "1.0.7", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.6", 
+                    "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.7", 
                     "version": "2017.12.23"
                 }
             ]
@@ -3556,7 +3556,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-27 08:07:02", 
+                    "date": "2017-12-27 08:21:20", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
@@ -3989,12 +3989,12 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-26 04:57:48", 
-                    "git_tag": "1.0.8", 
+                    "date": "2017-12-27 08:38:37", 
+                    "git_tag": "1.0.9", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.8", 
-                    "version": "2017.12.26"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.9", 
+                    "version": "2017.12.27"
                 }
             ]
         }, 
@@ -4088,10 +4088,10 @@
             "releases": [
                 {
                     "date": "2017-12-23 22:29:56", 
-                    "git_tag": "1.0.2", 
+                    "git_tag": "1.0.3", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.2", 
+                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.3", 
                     "version": "2017.12.23"
                 }
             ]
@@ -4135,10 +4135,10 @@
             "releases": [
                 {
                     "date": "2017-12-22 15:07:36", 
-                    "git_tag": "1.0.10", 
+                    "git_tag": "1.0.11", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.0.10", 
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.0.11", 
                     "version": "2017.12.22"
                 }
             ]
@@ -4180,16 +4180,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager", 
-                    "date": "2017-12-27 00:28:21", 
+                    "date": "2017-12-27 08:41:35", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "EstimatedTimeLeft"
                     ], 
-                    "git_tag": "1.0.63", 
+                    "git_tag": "1.0.64", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.63", 
+                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.64", 
                     "version": "2017.12.27"
                 }
             ]
@@ -4234,11 +4234,11 @@
                 {
                     "base": "https://github.com/evandrocoan/PythonDebugTools", 
                     "date": "2017-12-22 09:07:38", 
-                    "git_tag": "1.0.5", 
+                    "git_tag": "1.0.6", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "tags": true, 
-                    "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/1.0.5", 
+                    "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/1.0.6", 
                     "version": "2017.12.22"
                 }
             ]
