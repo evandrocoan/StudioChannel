@@ -37,18 +37,18 @@ CURRENT_PACKAGE_ROOT_DIRECTORY = os.path.dirname( os.path.realpath( __file__ ) )
 CURRENT_PACKAGE_NAME           = os.path.basename( CURRENT_PACKAGE_ROOT_DIRECTORY )
 
 def plugin_loaded():
-    global g_channel_settings
+    global g_channelSettings
     CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
 
-    g_channel_settings = {}
-    g_channel_settings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/ITE"
-    g_channel_settings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
+    g_channelSettings = {}
+    g_channelSettings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/ITE"
+    g_channelSettings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
 
-    g_channel_settings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
-    g_channel_settings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "channel.json" )
+    g_channelSettings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
+    g_channelSettings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "channel.json" )
 
-    g_channel_settings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
-    g_channel_settings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "repository.json" )
+    g_channelSettings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
+    g_channelSettings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "repository.json" )
 
     # You can specify for some packages to be popped out from the list and being installed by
     # first/last in the following order presented.
@@ -70,12 +70,12 @@ def plugin_loaded():
     # {
     #     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
     # }
-    g_channel_settings['PACKAGES_TO_INSTALL_FIRST'] = \
+    g_channelSettings['PACKAGES_TO_INSTALL_FIRST'] = \
     [
         "Notepad++ Color Scheme",
     ]
 
-    g_channel_settings['PACKAGES_TO_INSTALL_LAST'] = \
+    g_channelSettings['PACKAGES_TO_INSTALL_LAST'] = \
     [
         "0_settings_loader",
         "Default",
@@ -84,7 +84,7 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
-    g_channel_settings['FORBIDDEN_PACKAGES'] = \
+    g_channelSettings['FORBIDDEN_PACKAGES'] = \
     [
         "0_settings_loader",
         "ChannelManager",
@@ -93,7 +93,7 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
-    g_channel_settings['DEFAULT_PACKAGE_FILES'] = \
+    g_channelSettings['DEFAULT_PACKAGE_FILES'] = \
     [
         ".gitignore",
         ".no-sublime-package",
@@ -110,7 +110,7 @@ def plugin_loaded():
         "transpose.py",
     ]
 
-    g_channel_settings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
+    g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "User",
         "AmxxChannel",
@@ -120,15 +120,15 @@ def plugin_loaded():
         "OverrideEditSettingsDefaultContents",
     ]
 
-    g_channel_settings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
+    g_channelSettings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
     [
     ]
 
-    g_channel_settings['PACKAGES_TO_INSTALL_EXCLUSIVELY'] = \
+    g_channelSettings['PACKAGES_TO_INSTALL_EXCLUSIVELY'] = \
     [
     ]
 
-    g_channel_settings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
+    g_channelSettings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
     [
         "All Autocomplete",
         "Anaconda",
@@ -165,7 +165,7 @@ def plugin_loaded():
         "WordHighlight",
     ]
 
-    g_channel_settings['CHANNEL_VERSIONS_DESCRIPTIONS'] = """\
+    g_channelSettings['CHANNEL_VERSIONS_DESCRIPTIONS'] = """\
         There are two versions of the channel. Each one of them has its proper usage depending on
         your plans. The Stable Version is the most tested and trusted set of packages to be
         installed. It contains all the packages which can be actively enabled and used on daily
@@ -193,7 +193,7 @@ def plugin_loaded():
         Development Build of Sublime Text available, as builds 3141 and 3147.
         """
 
-    run_channel_setup( g_channel_settings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
+    run_channel_setup( g_channelSettings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
 
     # from channel_manager.channel_utilities import print_all_variables_for_debugging
     # print_all_variables_for_debugging
