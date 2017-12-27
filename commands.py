@@ -77,7 +77,7 @@ from channel_manager.channel_utilities import write_data_file
 from python_debug_tools import Debugger
 
 # Debugger settings: 0 - disabled, 127 - enabled
-log = Debugger( 1, os.path.basename( __file__ ) )
+log = Debugger( 1, settings.CURRENT_PACKAGE_NAME + ", " + os.path.basename( __file__ ) )
 
 log( 2, "..." )
 log( 2, "..." )
