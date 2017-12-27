@@ -97,16 +97,6 @@
             ]
         },
         {
-            "name": "FixedSelectionsClear",
-            "details": "https://github.com/evandrocoan/SublimeFixedSelectionsClear",
-            "releases": [
-                {
-                    "sublime_text": ">=3126",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "ForceRewriteSublimeSettings",
             "details": "https://github.com/evandrocoan/SublimeForceRewriteSublimeSettings",
             "releases": [
