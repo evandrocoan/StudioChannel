@@ -259,15 +259,15 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-10 00:54:03",
+                        "date": "2017-12-28 09:48:13",
                         "dependencies": [
                             "PythonDebugTools"
                         ],
-                        "git_tag": "1.1.11",
+                        "git_tag": "1.1.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/1.1.11",
-                        "version": "2017.12.10"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/1.1.12",
+                        "version": "2017.12.28"
                     }
                 ]
             },
@@ -2950,7 +2950,7 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-28 05:52:25",
+                        "date": "2017-12-28 09:48:49",
                         "git_tag": "3.3.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
@@ -3547,7 +3547,7 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-28 06:34:40",
+                        "date": "2017-12-28 06:39:20",
                         "dependencies": [
                             "ChannelManager",
                             "PythonDebugTools",
@@ -4173,16 +4173,16 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
-                        "date": "2017-12-28 06:37:00",
+                        "date": "2017-12-28 09:17:39",
                         "dependencies": [
                             "PythonDebugTools",
                             "EstimatedTimeLeft"
                         ],
-                        "git_tag": "1.0.66",
+                        "git_tag": "1.0.67",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.66",
+                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.67",
                         "version": "2017.12.28"
                     }
                 ]
