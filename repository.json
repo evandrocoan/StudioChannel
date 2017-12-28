@@ -248,24 +248,11 @@
             "authors": [
                 "evandrocoan"
             ], 
-            "buy": null, 
-            "description": "Auto-complete and Build System for Amx Mod X on Sublime Text", 
-            "donate": null, 
+            "description": "No description available.", 
+            "details": "https://github.com/evandrocoan/AmxxEditor", 
             "homepage": "https://github.com/evandrocoan/AmxxEditor", 
-            "issues": "https://github.com/evandrocoan/AmxxEditor/issues", 
-            "labels": [
-                "autocompletion", 
-                "auto-complete", 
-                "amxmodx", 
-                "amx mod x", 
-                "amxx", 
-                "pawn", 
-                "build system"
-            ], 
-            "last_modified": "2017-12-10 02:54:03", 
-            "name": "amxmodx", 
+            "name": "Amxmodx", 
             "previous_names": [], 
-            "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAMXX_Editor/master/README.MD", 
             "releases": [
                 {
                     "date": "2017-12-10 00:54:03", 
@@ -925,12 +912,12 @@
             "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-10-25 15:01:22", 
+                    "date": "2017-12-26 20:56:53", 
                     "git_tag": "8.0.11", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/8.0.11", 
-                    "version": "2017.10.25"
+                    "version": "2017.12.26"
                 }
             ]
         }, 
@@ -3556,7 +3543,7 @@
             "previous_names": [], 
             "releases": [
                 {
-                    "date": "2017-12-27 08:21:20", 
+                    "date": "2017-12-27 09:20:13", 
                     "dependencies": [
                         "ChannelManager", 
                         "PythonDebugTools", 
@@ -3578,8 +3565,8 @@
             ], 
             "buy": null, 
             "description": "The code linting framework for Sublime Text 3", 
-            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love", 
-            "homepage": "https://github.com/evandrocoan/Linter", 
+            "donate": "https://github.com/SublimeLinter/SublimeLinter3#sublimelinter", 
+            "homepage": "https://github.com/evandrocoan/SublimeLinter", 
             "issues": "https://github.com/SublimeLinter/SublimeLinter3/issues", 
             "labels": [
                 "linting", 
@@ -3597,7 +3584,7 @@
                     "git_tag": "3.10.4", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/Linter/zip/3.10.4", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeLinter/zip/3.10.4", 
                     "version": "2017.12.16"
                 }
             ]
@@ -3609,8 +3596,8 @@
             ], 
             "buy": null, 
             "description": "SublimeLinter 3 plugin for Java, using javac -Xlint.", 
-            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love", 
-            "homepage": "https://github.com/evandrocoan/LinterJava", 
+            "donate": null, 
+            "homepage": "https://github.com/evandrocoan/SublimeLinter-javac", 
             "issues": "https://github.com/SublimeLinter/SublimeLinter-javac/issues", 
             "labels": [
                 "linting", 
@@ -3627,7 +3614,7 @@
                     "git_tag": "1.1.9", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
-                    "url": "https://codeload.github.com/evandrocoan/LinterJava/zip/1.1.9", 
+                    "url": "https://codeload.github.com/evandrocoan/SublimeLinter-javac/zip/1.1.9", 
                     "version": "2016.05.17"
                 }
             ]
@@ -3889,12 +3876,12 @@
             "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-10-25 20:43:51", 
+                    "date": "2017-12-24 21:22:26", 
                     "git_tag": "1.4.8", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/Trimmer/zip/1.4.8", 
-                    "version": "2017.10.25"
+                    "version": "2017.12.24"
                 }
             ]
         }, 
@@ -3969,12 +3956,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md", 
             "releases": [
                 {
-                    "date": "2017-12-17 15:00:13", 
+                    "date": "2017-12-22 08:39:29", 
                     "git_tag": "1.1.7", 
                     "platforms": "*", 
                     "sublime_text": ">=3126", 
                     "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.1.7", 
-                    "version": "2017.12.17"
+                    "version": "2017.12.22"
                 }
             ]
         }, 
@@ -4180,7 +4167,7 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager", 
-                    "date": "2017-12-27 08:41:35", 
+                    "date": "2017-12-28 04:49:45", 
                     "dependencies": [
                         "PythonDebugTools", 
                         "EstimatedTimeLeft"
@@ -4190,7 +4177,7 @@
                     "sublime_text": ">=3126", 
                     "tags": true, 
                     "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.64", 
-                    "version": "2017.12.27"
+                    "version": "2017.12.28"
                 }
             ]
         }, 
