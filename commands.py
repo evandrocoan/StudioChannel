@@ -42,7 +42,7 @@ g_is_settings_load_delayed = False
 #
 # Global variable is not updating in python
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
-from . import settings
+from . import settings as g_settings
 
 from channel_manager import installation_wizard
 from channel_manager import uninstallation_wizard
@@ -77,12 +77,12 @@ from channel_manager.channel_utilities import write_data_file
 from python_debug_tools import Debugger
 
 # Debugger settings: 0 - disabled, 127 - enabled
-log = Debugger( 1, settings.CURRENT_PACKAGE_NAME + ", " + os.path.basename( __file__ ) )
+log = Debugger( 1, g_settings.CURRENT_PACKAGE_NAME + ", " + os.path.basename( __file__ ) )
 
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_PACKAGE_ROOT_DIRECTORY: " + settings.CURRENT_PACKAGE_ROOT_DIRECTORY )
+log( 2, "CURRENT_PACKAGE_ROOT_DIRECTORY: " + g_settings.CURRENT_PACKAGE_ROOT_DIRECTORY )
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
@@ -157,11 +157,11 @@ def load_installation_details():
 def load_channel_settings():
 
     # If the settings are not yet loaded, wait a little
-    if hasattr( settings, "g_channelSettings" ) \
-            and "DEFAULT_PACKAGE_FILES" in settings.g_channelSettings:
+    if hasattr( g_settings, "g_channelSettings" ) \
+            and "DEFAULT_PACKAGE_FILES" in g_settings.g_channelSettings:
 
         global g_channelSettings
-        g_channelSettings = settings.g_channelSettings
+        g_channelSettings = g_settings.g_channelSettings
 
     else:
         global g_is_settings_load_delayed
