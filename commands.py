@@ -44,11 +44,9 @@ g_is_settings_load_delayed = False
 # https://stackoverflow.com/questions/30392157/global-variable-is-not-updating-in-python
 from . import settings as g_settings
 
+from channel_manager import channel_installer
 from channel_manager import installation_wizard
 from channel_manager import uninstallation_wizard
-
-from channel_manager import channel_installer
-from channel_manager import channel_uninstaller
 
 from channel_manager import channel_manager
 from channel_manager import submodules_manager
@@ -66,12 +64,11 @@ from channel_manager.channel_utilities import write_data_file
 
 # # How to reload a Sublime Text dependency?
 # # https://github.com/randy3k/AutomaticPackageReloader/issues/12
+# sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
 # sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 # sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 # sublime_plugin.reload_plugin( "channel_manager.channel_manager_tests" )
 
-# sublime_plugin.reload_plugin( "channel_manager.channel_installer" )
-# sublime_plugin.reload_plugin( "channel_manager.channel_uninstaller" )
 
 
 from python_debug_tools import Debugger
@@ -187,17 +184,15 @@ def run_channel_update():
     """
 
     if is_channel_installed():
-        g_channelSettings['INSTALLATION_TYPE'] = ""
         copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], False )
 
+        g_channelSettings['INSTALLER_TYPE']    = "installer"
         g_channelSettings['INSTALLATION_TYPE'] = "upgrade"
         channel_installer.main( g_channelSettings )
 
+        g_channelSettings['INSTALLER_TYPE']    = "uninstaller"
         g_channelSettings['INSTALLATION_TYPE'] = "downgrade"
-        channel_uninstaller.main( g_channelSettings )
-
-        # Restore the default value
-        g_channelSettings['INSTALLATION_TYPE'] = ""
+        channel_installer.main( g_channelSettings )
 
     else:
         sublime.set_timeout_async( check_for_the_first_time, 1000 )
