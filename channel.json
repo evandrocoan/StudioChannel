@@ -259,15 +259,15 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-28 22:29:53",
+                        "date": "2017-12-29 23:04:41",
                         "dependencies": [
                             "PythonDebugTools"
                         ],
-                        "git_tag": "1.1.13",
+                        "git_tag": "1.1.14",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/1.1.13",
-                        "version": "2017.12.28"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/1.1.14",
+                        "version": "2017.12.29"
                     }
                 ]
             },
