@@ -135,7 +135,6 @@ def plugin_loaded():
 
     g_channelSettings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
     [
-        "AllAutocomplete",
         "Anaconda",
         "ApplySyntax",
         "BracketHighlighter",
@@ -143,7 +142,6 @@ def plugin_loaded():
         "C++ Completions",
         "C++ Qt Completions",
         "C++ Snippets",
-        "C++ Starting Kit",
         "CodeIntel",
         "ColorHelper",
         "DictionaryAutoComplete",
@@ -156,11 +154,11 @@ def plugin_loaded():
         "GotoLastEditEnhanced",
         "Javatar",
         "JediPythonAutoCompletion",
-        "Local History",
+        "LocalHistory",
         "MatlabCompletions",
         "MatlabFilenameAutoComplete",
         "MySQLSnippets",
-        "ProjectSpecificSyntaxSettings",
+        "ProjectSpecificSyntax",
         "ScopeAlways",
         "SublimeLinter",
         "SublimeLinter-javac",
