@@ -2950,12 +2950,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-30 10:17:07",
-                        "git_tag": "3.3.9",
+                        "date": "2018-01-01 02:29:58",
+                        "git_tag": "3.3.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/3.3.9",
-                        "version": "2017.12.30"
+                        "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/3.3.12",
+                        "version": "2018.01.01"
                     }
                 ]
             },
