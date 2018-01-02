@@ -195,7 +195,10 @@ def run_channel_update(installed_packages):
     """
 
     if is_channel_installed():
-        look_for_invalid_packages( g_channelSettings, installed_packages )
+
+        if is_development_version():
+            look_for_invalid_packages( g_channelSettings, installed_packages )
+
         copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], False )
 
         g_channelSettings['INSTALLER_TYPE']    = "installer"
