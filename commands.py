@@ -58,8 +58,9 @@ from channel_manager.channel_utilities import load_data_file
 from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import get_dictionary_key
 from channel_manager.channel_utilities import write_data_file
-from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
 from channel_manager.channel_utilities import get_installed_packages
+from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
+from channel_manager.channel_utilities import look_for_invalid_packages
 
 
 # # Run unit tests
@@ -83,7 +84,7 @@ log = Debugger( 1, g_settings.CURRENT_PACKAGE_NAME + ", " + os.path.basename( __
 log( 2, "..." )
 log( 2, "..." )
 log( 2, "Debugging" )
-log( 2, "CURRENT_PACKAGE_ROOT_DIRECTORY: " + g_settings.CURRENT_PACKAGE_ROOT_DIRECTORY )
+log( 2, "PACKAGE_ROOT_DIRECTORY: " + g_settings.PACKAGE_ROOT_DIRECTORY )
 
 
 class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
@@ -145,7 +146,7 @@ def run_setup_operations():
 
     if load_channel_settings():
         load_installation_details()
-        run_channel_update()
+        run_channel_update( installed_packages )
 
 
 def load_installation_details():
@@ -187,13 +188,14 @@ def load_channel_settings():
     return True
 
 
-def run_channel_update():
+def run_channel_update(installed_packages):
     """
         Call the channel upgrade/downgrade wizards to maintain old installation up to date with the
         main channel file when there are new packages additions or deletions.
     """
 
     if is_channel_installed():
+        look_for_invalid_packages( g_channelSettings, installed_packages )
         copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], False )
 
         g_channelSettings['INSTALLER_TYPE']    = "installer"

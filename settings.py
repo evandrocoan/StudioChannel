@@ -38,8 +38,9 @@ import sublime
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import run_channel_setup
 
-CURRENT_PACKAGE_ROOT_DIRECTORY = os.path.dirname( os.path.realpath( __file__ ) ).replace( ".sublime-package", "" )
-CURRENT_PACKAGE_NAME           = os.path.basename( CURRENT_PACKAGE_ROOT_DIRECTORY )
+CURRENT_PACKAGE_FILE   = os.path.dirname( os.path.realpath( __file__ ) )
+PACKAGE_ROOT_DIRECTORY = CURRENT_PACKAGE_FILE.replace( ".sublime-package", "" )
+CURRENT_PACKAGE_NAME   = os.path.basename( PACKAGE_ROOT_DIRECTORY )
 
 def plugin_loaded():
     global g_channelSettings
@@ -50,10 +51,10 @@ def plugin_loaded():
     g_channelSettings['DEFAULT_CHANNEL_URL'] = "https://packagecontrol.io/channel_v3.json"
 
     g_channelSettings['CHANNEL_FILE_URL']  = clean_urljoin( CHANNEL_RAW_URL, "channel.json" )
-    g_channelSettings['CHANNEL_FILE_PATH'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "channel.json" )
+    g_channelSettings['CHANNEL_FILE_PATH'] = os.path.join( PACKAGE_ROOT_DIRECTORY, "channel.json" )
 
     g_channelSettings['CHANNEL_REPOSITORY_URL']  = clean_urljoin( CHANNEL_RAW_URL, "repository.json" )
-    g_channelSettings['CHANNEL_REPOSITORY_FILE'] = os.path.join( CURRENT_PACKAGE_ROOT_DIRECTORY, "repository.json" )
+    g_channelSettings['CHANNEL_REPOSITORY_FILE'] = os.path.join( PACKAGE_ROOT_DIRECTORY, "repository.json" )
 
     # You can specify for some packages to be popped out from the list and being installed by
     # first/last in the following order presented.
@@ -93,7 +94,6 @@ def plugin_loaded():
     [
         "0_settings_loader",
         "ChannelManager",
-        CURRENT_PACKAGE_NAME,
         "Notepad++ Color Scheme",
         "PackagesManager",
     ]
@@ -196,5 +196,5 @@ def plugin_loaded():
         Development Build of Sublime Text available, as builds 3141 and 3147.
         """
 
-    run_channel_setup( g_channelSettings, CURRENT_PACKAGE_NAME, CURRENT_PACKAGE_ROOT_DIRECTORY )
+    run_channel_setup( g_channelSettings, CURRENT_PACKAGE_FILE )
 
