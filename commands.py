@@ -215,7 +215,6 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
-    channelSettingsPath = g_channelSettings['CHANNEL_INSTALLATION_DETAILS']
     return get_dictionary_key( g_installation_details, "automatically_show_installation_wizard", False )
 
 
