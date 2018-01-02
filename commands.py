@@ -31,6 +31,7 @@ import sublime
 import sublime_plugin
 
 import os
+import threading
 
 
 g_channelSettings          = {}
@@ -57,6 +58,9 @@ from channel_manager.channel_utilities import load_data_file
 from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import get_dictionary_key
 from channel_manager.channel_utilities import write_data_file
+from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
+from channel_manager.channel_utilities import get_installed_packages
+
 
 # # Run unit tests
 # from channel_manager import channel_manager_tests
@@ -132,6 +136,12 @@ class StudioChannelRunUninstallation( sublime_plugin.ApplicationCommand ):
 
 
 def plugin_loaded():
+    threading.Thread(target=run_setup_operations).start()
+
+
+def run_setup_operations():
+    installed_packages = get_installed_packages( list_default_packages=True, list_dependencies=True )
+    look_for_invalid_default_ignored_packages( installed_packages )
 
     if load_channel_settings():
         load_installation_details()
