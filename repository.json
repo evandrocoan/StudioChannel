@@ -281,11 +281,11 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-01-02 18:25:20",
-                    "git_tag": "1.0.17",
+                    "date": "2018-01-02 18:39:44",
+                    "git_tag": "1.0.18",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.17",
+                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.18",
                     "version": "2018.01.02"
                 }
             ]
@@ -3547,7 +3547,7 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-01-02 18:25:22",
+                    "date": "2018-01-02 18:39:25",
                     "dependencies": [
                         "ChannelManager",
                         "PythonDebugTools",
@@ -4171,16 +4171,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager",
-                    "date": "2018-01-02 18:25:21",
+                    "date": "2018-01-02 18:39:33",
                     "dependencies": [
                         "PythonDebugTools",
                         "EstimatedTimeLeft"
                     ],
-                    "git_tag": "1.0.73",
+                    "git_tag": "1.0.74",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.73",
+                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.74",
                     "version": "2018.01.02"
                 }
             ]
