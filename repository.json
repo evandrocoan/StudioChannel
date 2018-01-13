@@ -4221,12 +4221,12 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/PythonDebugTools",
-                    "date": "2018-01-13 11:43:11",
-                    "git_tag": "1.0.7",
+                    "date": "2018-01-13 16:30:44",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/1.0.7",
+                    "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/1.0.10",
                     "version": "2018.01.13"
                 }
             ]
