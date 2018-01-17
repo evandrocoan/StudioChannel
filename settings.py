@@ -109,10 +109,8 @@ def plugin_loaded():
         "README.md",
         "Sublime Text Settings.sublime-settings",
         "Tab Context.sublime-menu",
-        "install_package_control.py",
         "platform_edit_settings.py",
         "synced_side_bar_watcher.py",
-        "transpose.py",
     ]
 
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
