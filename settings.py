@@ -133,7 +133,6 @@ def plugin_loaded():
 
     g_channelSettings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
     [
-        "Anaconda",
         "ApplySyntax",
         "BracketHighlighter",
         "BuildView",
@@ -151,7 +150,6 @@ def plugin_loaded():
         "GitGutter",
         "GotoLastEditEnhanced",
         "Javatar",
-        "JediPythonAutoCompletion",
         "LocalHistory",
         "MatlabCompletions",
         "MatlabFilenameAutoComplete",
