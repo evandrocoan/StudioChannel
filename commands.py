@@ -176,7 +176,7 @@ def load_channel_settings():
 
         # Stop delaying indefinitely
         if g_is_settings_load_delayed:
-            log.insert_empty_line()
+            log.newline()
             log( 1, "Error: Could not load the settings files! g_channelSettings: " + str( g_channelSettings ) )
 
         else:
