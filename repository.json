@@ -211,7 +211,7 @@
                 {
                     "date": "2018-01-12 17:35:33",
                     "dependencies": [
-                        "PythonDebugTools"
+                        "debug_tools"
                     ],
                     "git_tag": "1.0.3",
                     "platforms": "*",
@@ -260,7 +260,7 @@
                 {
                     "date": "2018-01-06 14:59:28",
                     "dependencies": [
-                        "PythonDebugTools"
+                        "debug_tools"
                     ],
                     "git_tag": "1.1.15",
                     "platforms": "*",
@@ -606,7 +606,7 @@
                 {
                     "date": "2018-01-12 17:41:09",
                     "dependencies": [
-                        "PythonDebugTools"
+                        "debug_tools"
                     ],
                     "git_tag": "1.0.7",
                     "platforms": "*",
@@ -3547,7 +3547,7 @@
                     "date": "2018-01-13 12:18:10",
                     "dependencies": [
                         "ChannelManager",
-                        "PythonDebugTools",
+                        "debug_tools",
                         "EstimatedTimeLeft"
                     ],
                     "git_tag": "master",
@@ -4170,7 +4170,7 @@
                     "base": "https://github.com/evandrocoan/ChannelManager",
                     "date": "2018-01-12 17:40:32",
                     "dependencies": [
-                        "PythonDebugTools",
+                        "debug_tools",
                         "EstimatedTimeLeft"
                     ],
                     "git_tag": "1.0.76",
@@ -4212,21 +4212,21 @@
                 "evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandrocoan/PythonDebugTools",
-            "homepage": "https://github.com/evandrocoan/PythonDebugTools",
-            "issues": "https://github.com/evandrocoan/PythonDebugTools/issues",
+            "details": "https://github.com/evandrocoan/debug_tools",
+            "homepage": "https://github.com/evandrocoan/debug_tools",
+            "issues": "https://github.com/evandrocoan/debug_tools/issues",
             "load_order": 10,
-            "name": "PythonDebugTools",
+            "name": "debug_tools",
             "previous_names": [],
             "releases": [
                 {
-                    "base": "https://github.com/evandrocoan/PythonDebugTools",
+                    "base": "https://github.com/evandrocoan/debug_tools",
                     "date": "2018-01-13 16:30:44",
                     "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/PythonDebugTools/zip/1.0.10",
+                    "url": "https://codeload.github.com/evandrocoan/debug_tools/zip/1.0.10",
                     "version": "2018.01.13"
                 }
             ]
