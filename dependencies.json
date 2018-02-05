@@ -1,9 +1,16 @@
 {
+    "windows": {
+        ">3000": [
+            "python-pywin32"
+        ]
+    },
     "*": {
         "*": [
-            "ChannelManager",
+            "PortalockerFiles",
+            "ConcurrentLogHandler",
             "DebugTools",
-            "EstimatedTimeLeft"
+            "EstimatedTimeLeft",
+            "ChannelManager"
         ]
     }
 }
