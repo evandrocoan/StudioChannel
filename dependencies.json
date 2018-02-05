@@ -2,7 +2,7 @@
     "*": {
         "*": [
             "ChannelManager",
-            "debug_tools",
+            "DebugTools",
             "EstimatedTimeLeft"
         ]
     }

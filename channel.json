@@ -215,7 +215,7 @@
                     {
                         "date": "2018-01-12 17:35:33",
                         "dependencies": [
-                            "debug_tools"
+                            "DebugTools"
                         ],
                         "git_tag": "1.0.3",
                         "platforms": "*",
@@ -264,7 +264,7 @@
                     {
                         "date": "2018-01-06 14:59:28",
                         "dependencies": [
-                            "debug_tools"
+                            "DebugTools"
                         ],
                         "git_tag": "1.1.15",
                         "platforms": "*",
@@ -610,7 +610,7 @@
                     {
                         "date": "2018-01-12 17:41:09",
                         "dependencies": [
-                            "debug_tools"
+                            "DebugTools"
                         ],
                         "git_tag": "1.0.7",
                         "platforms": "*",
@@ -3551,7 +3551,7 @@
                         "date": "2018-01-13 12:18:10",
                         "dependencies": [
                             "ChannelManager",
-                            "debug_tools",
+                            "DebugTools",
                             "EstimatedTimeLeft"
                         ],
                         "git_tag": "master",
@@ -4176,7 +4176,7 @@
                         "base": "https://github.com/evandrocoan/ChannelManager",
                         "date": "2018-01-12 17:40:32",
                         "dependencies": [
-                            "debug_tools",
+                            "DebugTools",
                             "EstimatedTimeLeft"
                         ],
                         "git_tag": "1.0.76",
@@ -4218,21 +4218,21 @@
                     "evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/debug_tools",
-                "homepage": "https://github.com/evandrocoan/debug_tools",
-                "issues": "https://github.com/evandrocoan/debug_tools/issues",
+                "details": "https://github.com/evandrocoan/DebugTools",
+                "homepage": "https://github.com/evandrocoan/DebugTools",
+                "issues": "https://github.com/evandrocoan/DebugTools/issues",
                 "load_order": 10,
-                "name": "debug_tools",
+                "name": "DebugTools",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandrocoan/debug_tools",
+                        "base": "https://github.com/evandrocoan/DebugTools",
                         "date": "2018-01-13 16:30:44",
                         "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/debug_tools/zip/1.0.10",
+                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/1.0.10",
                         "version": "2018.01.13"
                     }
                 ]
