@@ -995,27 +995,6 @@
             },
             {
                 "authors": [
-                    "Preston-Landers",
-                    "Forked by evandroforks"
-                ],
-                "description": "No description available.",
-                "details": "https://github.com/evandroforks/concurrent-log-handler",
-                "homepage": "https://github.com/evandroforks/concurrent-log-handler",
-                "name": "ConcurrentLogHandler",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2017-07-29 13:08:14",
-                        "git_tag": "0.9.7",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/concurrent-log-handler/zip/0.9.7",
-                        "version": "2017.07.29"
-                    }
-                ]
-            },
-            {
-                "authors": [
                     "seanliang",
                     "Forked by evandrocoan"
                 ],
@@ -4359,17 +4338,13 @@
                 "details": "https://github.com/evandrocoan/ChannelManager",
                 "homepage": "https://github.com/evandrocoan/ChannelManager",
                 "issues": "https://github.com/evandrocoan/ChannelManager/issues",
-                "load_order": 30,
+                "load_order": "30",
                 "name": "ChannelManager",
                 "previous_names": [],
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
                         "date": "2018-01-12 17:40:32",
-                        "dependencies": [
-                            "DebugTools",
-                            "EstimatedTimeLeft"
-                        ],
                         "git_tag": "1.0.76",
                         "platforms": "*",
                         "sublime_text": ">=3126",
@@ -4381,13 +4356,38 @@
             },
             {
                 "authors": [
+                    "Preston-Landers",
+                    "Forked by evandroforks"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandroforks/concurrent-log-handler",
+                "homepage": "https://github.com/evandroforks/concurrent-log-handler",
+                "issues": "https://github.com/evandroforks/concurrent-log-handler/issues",
+                "load_order": "09",
+                "name": "ConcurrentLogHandler",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "base": "https://github.com/evandroforks/concurrent-log-handler",
+                        "date": "2017-07-29 13:08:14",
+                        "git_tag": "0.9.7",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "tags": true,
+                        "url": "https://codeload.github.com/evandroforks/concurrent-log-handler/zip/0.9.7",
+                        "version": "2017.07.29"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "evandrocoan"
                 ],
                 "description": "No description available.",
                 "details": "https://github.com/evandrocoan/DebugTools",
                 "homepage": "https://github.com/evandrocoan/DebugTools",
                 "issues": "https://github.com/evandrocoan/DebugTools/issues",
-                "load_order": 10,
+                "load_order": "10",
                 "name": "DebugTools",
                 "previous_names": [],
                 "releases": [
@@ -4412,7 +4412,7 @@
                 "details": "https://github.com/evandrocoan/EstimatedTimeLeft",
                 "homepage": "https://github.com/evandrocoan/EstimatedTimeLeft",
                 "issues": "https://github.com/evandrocoan/EstimatedTimeLeft/issues",
-                "load_order": 20,
+                "load_order": "20",
                 "name": "EstimatedTimeLeft",
                 "previous_names": [],
                 "releases": [
@@ -4437,7 +4437,7 @@
                 "details": "https://github.com/evandroforks/PlantUmlConnection",
                 "homepage": "https://github.com/evandroforks/PlantUmlConnection",
                 "issues": "https://github.com/evandroforks/PlantUmlConnection/issues",
-                "load_order": 50,
+                "load_order": "50",
                 "name": "PlantUmlConnection",
                 "previous_names": [],
                 "releases": [
