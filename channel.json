@@ -3082,12 +3082,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-01-19 02:23:38",
-                        "git_tag": "2.6.1",
+                        "date": "2018-02-13 20:04:53",
+                        "git_tag": "2.6.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/2.6.1",
-                        "version": "2018.01.19"
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/2.6.2",
+                        "version": "2018.02.13"
                     }
                 ]
             },
