@@ -33,7 +33,7 @@ import sublime
 # from channel_manager.channel_utilities import print_all_variables_for_debugging
 # print_all_variables_for_debugging( g_channelSettings )
 # import sublime_plugin
-# sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
+# sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import run_channel_setup
