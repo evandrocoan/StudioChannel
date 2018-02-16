@@ -276,10 +276,10 @@
             "releases": [
                 {
                     "date": "2018-02-16 01:42:24",
-                    "git_tag": "1.0.20",
+                    "git_tag": "1.0.21",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.20",
+                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/1.0.21",
                     "version": "2018.02.16"
                 }
             ]
