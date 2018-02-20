@@ -1624,26 +1624,6 @@
                     "evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/FixCommandPalette",
-                "homepage": "https://github.com/evandrocoan/FixCommandPalette",
-                "name": "FixCommandPalette",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2018-02-03 21:09:04",
-                        "git_tag": "1.0.1",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FixCommandPalette/zip/1.0.1",
-                        "version": "2018.0203.2109"
-                    }
-                ]
-            },
-            {
-                "authors": [
-                    "evandrocoan"
-                ],
-                "description": "No description available.",
                 "details": "https://github.com/evandrocoan/FixProjectSwitchRestartBug",
                 "homepage": "https://github.com/evandrocoan/FixProjectSwitchRestartBug",
                 "name": "FixProjectSwitchRestartBug",
@@ -3276,6 +3256,26 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ReIndent/zip/1.0.0",
                         "version": "2016.0419.0729"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "evandrocoan"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/RememberCommandPaletteInput",
+                "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
+                "name": "RememberCommandPaletteInput",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2018-02-03 21:09:04",
+                        "git_tag": "1.0.1",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.1",
+                        "version": "2018.0203.2109"
                     }
                 ]
             },
