@@ -279,13 +279,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-02-17 04:18:30",
+                        "date": "2018-02-17 04:52:24",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2018.0217.0418"
+                        "version": "2018.0217.0452"
                     }
                 ]
             },
@@ -730,14 +730,21 @@
             },
             {
                 "authors": [
-                    "colinta",
+                    "Colin T.A. Gray (colinta)",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ChangeQuotes",
+                "buy": null,
+                "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/ChangeQuotes",
+                "issues": "https://github.com/colinta/SublimeChangeQuotes/issues",
+                "labels": [
+                    "text manipulation"
+                ],
+                "last_modified": "2016-06-27 15:59:50",
                 "name": "ChangeQuotes",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/colinta/SublimeChangeQuotes/master/README.md",
                 "releases": [
                     {
                         "date": "2017-07-06 12:36:54",
@@ -1231,14 +1238,21 @@
             },
             {
                 "authors": [
-                    "colinta",
+                    "Colin T.A. Gray (colinta)",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/DuplicateSelections",
+                "buy": null,
+                "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/DuplicateSelections",
+                "issues": "https://github.com/colinta/SublimeDuplicateSelections/issues",
+                "labels": [
+                    "text manipulation"
+                ],
+                "last_modified": "2015-04-16 20:14:22",
                 "name": "DuplicateSelections",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/colinta/SublimeDuplicateSelections/master/README.md",
                 "releases": [
                     {
                         "date": "2016-07-05 10:15:22",
@@ -1469,14 +1483,21 @@
             },
             {
                 "authors": [
-                    "colinta",
+                    "Colin T.A. Gray (colinta)",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/FileDiffs",
+                "buy": null,
+                "description": "Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.  With contributions from Sebastian Pape (spape) and Jiri Urban (jiriurban)",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/FileDiffs",
+                "issues": "https://github.com/colinta/SublimeFileDiffs/issues",
+                "labels": [
+                    "diff/merge"
+                ],
+                "last_modified": "2017-03-20 14:11:22",
                 "name": "FileDiffs",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/colinta/SublimeFileDiffs/master/README.md",
                 "releases": [
                     {
                         "date": "2017-09-27 19:48:57",
@@ -2625,14 +2646,22 @@
             },
             {
                 "authors": [
-                    "colinta",
+                    "Colin T.A. Gray (colinta)",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/MoveText",
+                "buy": null,
+                "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/MoveText",
+                "issues": "https://github.com/colinta/SublimeMoveText/issues",
+                "labels": [
+                    "formatting",
+                    "text manipulation"
+                ],
+                "last_modified": "2018-01-26 16:35:33",
                 "name": "MoveText",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/colinta/SublimeMoveText/master/README.md",
                 "releases": [
                     {
                         "date": "2017-12-17 15:46:11",
@@ -2708,7 +2737,7 @@
                     "color scheme",
                     "notepad++"
                 ],
-                "last_modified": "2017-12-30 00:01:16",
+                "last_modified": "2018-02-07 23:13:28",
                 "name": "Notepad++ Color Scheme",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
@@ -3846,11 +3875,16 @@
                     "randy3k",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SyntaxManager",
+                "buy": null,
+                "description": "Applying settings to a given syntax/extension",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/SyntaxManager",
+                "issues": "https://github.com/randy3k/SyntaxManager/issues",
+                "labels": [],
+                "last_modified": "2017-07-21 15:15:35",
                 "name": "SyntaxManager",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/randy3k/SyntaxManager/master/README.md",
                 "releases": [
                     {
                         "date": "2017-09-30 15:18:57",
@@ -4097,12 +4131,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-02-17 03:17:28",
+                        "date": "2018-02-17 04:47:26",
                         "git_tag": "1.0.17",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.17",
-                        "version": "2018.0217.0317"
+                        "version": "2018.0217.0447"
                     }
                 ]
             },
@@ -4157,11 +4191,16 @@
                     "randy3k",
                     "Forked by evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/Whitespace",
+                "buy": null,
+                "description": "Remove Trailing Whitespace for Sublime Text",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/Whitespace",
+                "issues": "https://github.com/randy3k/Whitespace/issues",
+                "labels": [],
+                "last_modified": "2017-03-29 21:04:19",
                 "name": "Whitespace",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/randy3k/Whitespace/master/README.md",
                 "releases": [
                     {
                         "date": "2017-03-29 17:04:19",
@@ -4285,13 +4324,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
-                        "date": "2018-02-17 04:18:30",
+                        "date": "2018-02-17 04:51:13",
                         "git_tag": "1.0.80",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
                         "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.80",
-                        "version": "2018.0217.0418"
+                        "version": "2018.0217.0451"
                     }
                 ]
             },
