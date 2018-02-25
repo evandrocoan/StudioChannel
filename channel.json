@@ -4457,6 +4457,31 @@
                         "version": "2018.0216.2212"
                     }
                 ]
+            },
+            {
+                "authors": [
+                    "randy3k",
+                    "Forked by evandroforks"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandroforks/python-pywin32",
+                "homepage": "https://github.com/evandroforks/python-pywin32",
+                "issues": "https://github.com/evandroforks/python-pywin32/issues",
+                "load_order": "50",
+                "name": "python-pywin32",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "base": "https://github.com/evandroforks/python-pywin32",
+                        "date": "2016-07-20 10:45:09",
+                        "git_tag": "v0.0.220",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "tags": true,
+                        "url": "https://codeload.github.com/evandroforks/python-pywin32/zip/v0.0.220",
+                        "version": "2016.0720.1045"
+                    }
+                ]
             }
         ]
     }
