@@ -246,5 +246,18 @@ def is_channel_installed():
         Returns True if the channel is installed, i.e., there are packages added to the
         `packages_to_uninstall` list.
     """
-    return len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
+    has_installed_packages = len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
+    return has_installed_packages
+
+
+def get_channel_file_setting(settings_name, default_value):
+    """
+        The same as `is_channel_installed`, but allows you to query any third party setting which
+        can be set on the user personal channel settings file.
+
+        @param `settings_name` the name of the setting on the file
+        @param `default_value` the value to be returned, in case the setting does not exists on the user file
+    """
+    custom_user_setting = get_dictionary_key( g_installation_details, settings_name, default_value )
+    return custom_user_setting
 
