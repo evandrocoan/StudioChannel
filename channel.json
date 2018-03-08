@@ -3063,12 +3063,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-08 12:56:57",
-                        "git_tag": "2.6.6",
+                        "date": "2018-03-08 13:04:35",
+                        "git_tag": "2.6.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/2.6.6",
-                        "version": "2018.0308.1256"
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/2.6.7",
+                        "version": "2018.0308.1304"
                     }
                 ]
             },
@@ -4424,11 +4424,11 @@
                     {
                         "base": "https://github.com/evandroforks/PlantUmlConnection",
                         "date": "2018-02-13 23:37:42",
-                        "git_tag": "1.0.1",
+                        "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlConnection/zip/1.0.1",
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlConnection/zip/1.0.2",
                         "version": "2018.0213.2337"
                     }
                 ]
