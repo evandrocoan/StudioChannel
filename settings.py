@@ -134,6 +134,7 @@ def plugin_loaded():
     g_channelSettings['PACKAGES_TO_IGNORE_ON_DEVELOPMENT'] = \
     [
         "ApplySyntax",
+        "AutoFileName",
         "BracketHighlighter",
         "BuildView",
         "C++ Completions",
