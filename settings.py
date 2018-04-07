@@ -162,7 +162,6 @@ def plugin_loaded():
         "SyncedSideBar",
         "TypeScript",
         "Vintage",
-        "WordHighlight",
     ]
 
     g_channelSettings['CHANNEL_VERSIONS_DESCRIPTIONS'] = """\
