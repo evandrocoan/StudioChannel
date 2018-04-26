@@ -40,7 +40,7 @@
                     "file",
                     "icons"
                 ],
-                "last_modified": "2017-04-13 16:44:14",
+                "last_modified": "2018-02-22 14:34:37",
                 "name": "A File Icon",
                 "previous_names": [
                     "File Icons Extended",
@@ -49,12 +49,12 @@
                 "readme": "https://raw.githubusercontent.com/ihodev/a-file-icon/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-04-13 20:23:27",
-                        "git_tag": "3.2.2",
+                        "date": "2018-02-22 20:12:39",
+                        "git_tag": "3.2.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AFileIcon/zip/3.2.2",
-                        "version": "2017.0413.2023"
+                        "url": "https://codeload.github.com/evandrocoan/AFileIcon/zip/3.2.3",
+                        "version": "2018.0222.2012"
                     }
                 ]
             },
@@ -140,12 +140,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-01-06 14:59:27",
+                        "date": "2018-03-08 13:04:31",
                         "git_tag": "1.1.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AdvancedCSV/zip/1.1.12",
-                        "version": "2018.0106.1459"
+                        "version": "2018.0308.1304"
                     }
                 ]
             },
@@ -186,18 +186,18 @@
                 "homepage": "https://github.com/evandrocoan/AlignTab",
                 "issues": "https://github.com/randy3k/AlignTab/issues",
                 "labels": [],
-                "last_modified": "2017-09-25 14:47:15",
+                "last_modified": "2018-03-17 04:20:22",
                 "name": "AlignTab",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/AlignTab/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-01-13 22:09:21",
-                        "git_tag": "2.1.11",
+                        "date": "2018-03-23 00:59:41",
+                        "git_tag": "2.1.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AlignTab/zip/2.1.11",
-                        "version": "2018.0113.2209"
+                        "url": "https://codeload.github.com/evandrocoan/AlignTab/zip/2.1.12",
+                        "version": "2018.0323.0059"
                     }
                 ]
             },
@@ -259,12 +259,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-04-06 12:59:05",
-                        "git_tag": "2.0.3",
+                        "date": "2018-04-08 12:41:50",
+                        "git_tag": "2.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.3",
-                        "version": "2018.0406.1259"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.4",
+                        "version": "2018.0408.1241"
                     }
                 ]
             },
@@ -279,13 +279,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-04 20:36:48",
+                        "date": "2018-04-07 10:31:31",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2018.0304.2036"
+                        "version": "2018.0407.1031"
                     }
                 ]
             },
@@ -348,7 +348,7 @@
                 "homepage": "https://github.com/evandrocoan/ApplySyntax",
                 "issues": "https://github.com/facelessuser/ApplySyntax/issues",
                 "labels": [],
-                "last_modified": "2017-11-09 03:30:39",
+                "last_modified": "2018-04-21 18:52:09",
                 "name": "ApplySyntax",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -391,6 +391,32 @@
             },
             {
                 "authors": [
+                    "ahkscript",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/SublimeAutoHotkey",
+                "issues": "https://github.com/ahkscript/SublimeAutoHotkey/issues",
+                "labels": [],
+                "last_modified": "2016-12-01 04:19:11",
+                "name": "AutoHotkey",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/ahkscript/SublimeAutoHotkey/master/README.md",
+                "releases": [
+                    {
+                        "date": "2016-12-01 09:49:11",
+                        "git_tag": "1.7.2",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/SublimeAutoHotkey/zip/1.7.2",
+                        "version": "2016.0201.0949"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "randy3k",
                     "Forked by evandrocoan"
                 ],
@@ -400,7 +426,7 @@
                 "homepage": "https://github.com/evandrocoan/AutomaticPackageReloader",
                 "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
                 "labels": [],
-                "last_modified": "2017-12-04 02:39:55",
+                "last_modified": "2018-04-11 20:55:13",
                 "name": "AutomaticPackageReloader",
                 "previous_names": [
                     "PackageReloader"
@@ -449,7 +475,7 @@
                 "homepage": "https://github.com/evandrocoan/AutoWrap",
                 "issues": "https://github.com/randy3k/AutoWrap/issues",
                 "labels": [],
-                "last_modified": "2017-04-17 03:21:28",
+                "last_modified": "2018-04-12 02:11:44",
                 "name": "AutoWrap",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/AutoWrap/master/README.md",
@@ -546,7 +572,7 @@
                 "homepage": "https://github.com/evandrocoan/BracketHighlighter",
                 "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
                 "labels": [],
-                "last_modified": "2018-02-04 20:13:15",
+                "last_modified": "2018-04-21 18:29:42",
                 "name": "BracketHighlighter",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -698,12 +724,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-02-12 20:58:12",
-                        "git_tag": "1.0.1",
+                        "date": "2018-04-07 10:40:53",
+                        "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CaseConversion/zip/1.0.1",
-                        "version": "2018.0212.2058"
+                        "url": "https://codeload.github.com/evandrocoan/CaseConversion/zip/1.0.2",
+                        "version": "2018.0407.1040"
                     }
                 ]
             },
@@ -1022,27 +1048,6 @@
             },
             {
                 "authors": [
-                    "theskyliner",
-                    "Forked by evandrocoan"
-                ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/CopyFilepathWithLineNumbers",
-                "homepage": "https://github.com/evandrocoan/CopyFilepathWithLineNumbers",
-                "name": "CopyFilepathWithLineNumbers",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2017-10-21 22:40:48",
-                        "git_tag": "1.1.2",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CopyFilepathWithLineNumbers/zip/1.1.2",
-                        "version": "2017.0021.2240"
-                    }
-                ]
-            },
-            {
-                "authors": [
                     "crash5",
                     "Forked by evandrocoan"
                 ],
@@ -1079,12 +1084,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-01-03 10:37:13",
-                        "git_tag": "1.0.11",
+                        "date": "2018-04-07 10:36:26",
+                        "git_tag": "1.0.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Default/zip/1.0.11",
-                        "version": "2018.0103.1037"
+                        "url": "https://codeload.github.com/evandrocoan/Default/zip/1.0.12",
+                        "version": "2018.0407.1036"
                     }
                 ]
             },
@@ -1741,18 +1746,18 @@
                     "filepath",
                     "auto-complete"
                 ],
-                "last_modified": "2017-04-24 18:05:55",
+                "last_modified": "2018-03-11 18:52:24",
                 "name": "FuzzyFilePath",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/sagold/FuzzyFilePath/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-02-15 02:53:05",
-                        "git_tag": "0.5.5",
+                        "date": "2018-03-11 16:04:52",
+                        "git_tag": "0.5.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FuzzyFilePath/zip/0.5.5",
-                        "version": "2018.0215.0253"
+                        "url": "https://codeload.github.com/evandrocoan/FuzzyFilePath/zip/0.5.6",
+                        "version": "2018.0311.1604"
                     }
                 ]
             },
@@ -1843,7 +1848,7 @@
                 "homepage": "https://github.com/evandrocoan/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2018-01-28 15:59:16",
+                "last_modified": "2018-04-26 16:02:38",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -1974,12 +1979,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-08 12:21:47",
-                        "git_tag": "3.0.3",
+                        "date": "2018-04-07 10:44:26",
+                        "git_tag": "3.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.3",
-                        "version": "2018.0308.1221"
+                        "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.4",
+                        "version": "2018.0407.1044"
                     }
                 ]
             },
@@ -2337,7 +2342,7 @@
                 "homepage": "https://github.com/evandrocoan/LaTeXTools",
                 "issues": "https://github.com/SublimeText/LaTeXTools/issues",
                 "labels": [],
-                "last_modified": "2017-09-18 09:16:57",
+                "last_modified": "2018-04-23 14:53:44",
                 "name": "LaTeXTools",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/LaTeXTools/master/README.markdown",
@@ -2386,7 +2391,7 @@
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2018-02-12 11:18:02",
+                "last_modified": "2018-03-11 20:12:27",
                 "name": "LESS",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -2485,18 +2490,18 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2018-01-08 22:00:59",
+                "last_modified": "2018-04-02 07:58:05",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-03-07 23:25:12",
+                        "date": "2018-03-08 13:04:33",
                         "git_tag": "0.4.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.7",
-                        "version": "2018.0307.2325"
+                        "version": "2018.0308.1304"
                     }
                 ]
             },
@@ -2743,12 +2748,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-02-07 21:13:28",
-                        "git_tag": "2.0.2",
+                        "date": "2018-03-09 19:44:08",
+                        "git_tag": "2.0.3",
                         "platforms": "*",
                         "sublime_text": ">3144",
-                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.2",
-                        "version": "2018.0207.2113"
+                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.3",
+                        "version": "2018.0309.1944"
                     },
                     {
                         "date": "2017-08-10 23:50:25",
@@ -2856,11 +2861,16 @@
                 "donate": null,
                 "homepage": "https://github.com/evandrocoan/OverrideAudit",
                 "issues": "https://github.com/OdatNurd/OverrideAudit/issues",
-                "labels": [],
+                "labels": [
+                    "diff",
+                    "compare",
+                    "resource",
+                    "package development"
+                ],
                 "last_modified": "2017-05-01 17:58:39",
                 "name": "OverrideAudit",
                 "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/master/README.md",
+                "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
                 "releases": [
                     {
                         "date": "2018-02-20 01:31:40",
@@ -2944,7 +2954,7 @@
                 "homepage": "https://github.com/evandrocoan/PackageDev",
                 "issues": "https://github.com/SublimeText/PackageDev/issues",
                 "labels": [],
-                "last_modified": "2018-02-11 15:36:04",
+                "last_modified": "2018-03-18 18:26:43",
                 "name": "PackageDev",
                 "previous_names": [
                     "AAAPackageDev"
@@ -2999,13 +3009,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-02-28 14:04:35",
+                        "date": "2018-03-08 13:04:35",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.0228.1404"
+                        "version": "2018.0308.1304"
                     }
                 ]
             },
@@ -3054,21 +3064,30 @@
             {
                 "authors": [
                     "jvantuyl",
+                    "evandrocoan",
                     "Forked by evandroforks"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandroforks/PlantUmlDiagrams",
+                "buy": null,
+                "description": "A fork from https://github.com/jvantuyl/sublime_diagram_plugin package for Sublime Text 3, to render diagrams in your source code",
+                "donate": null,
                 "homepage": "https://github.com/evandroforks/PlantUmlDiagrams",
+                "issues": "https://github.com/evandrocoan/PlantUmlDiagrams/issues",
+                "labels": [
+                    "uml",
+                    "plantuml"
+                ],
+                "last_modified": "2018-03-23 18:23:40",
                 "name": "PlantUmlDiagrams",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-03-08 13:04:35",
-                        "git_tag": "2.6.7",
+                        "date": "2018-04-26 20:02:42",
+                        "git_tag": "3.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/2.6.7",
-                        "version": "2018.0308.1304"
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.2",
+                        "version": "2018.0426.2002"
                     }
                 ]
             },
@@ -3292,11 +3311,16 @@
                 "authors": [
                     "evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/RememberCommandPaletteInput",
+                "buy": null,
+                "description": "Some fixes for the Sublime Text command palette",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
+                "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
+                "labels": [],
+                "last_modified": "2018-02-03 23:09:04",
                 "name": "RememberCommandPaletteInput",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.MD",
                 "releases": [
                     {
                         "date": "2018-02-03 21:09:04",
@@ -3531,7 +3555,7 @@
                     "file",
                     "clipboard"
                 ],
-                "last_modified": "2017-09-22 19:58:42",
+                "last_modified": "2017-11-30 13:13:20",
                 "name": "SideBarEnhancements",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -3720,14 +3744,14 @@
                 ],
                 "buy": null,
                 "description": "The code linting framework for Sublime Text 3",
-                "donate": "https://github.com/SublimeLinter/SublimeLinter",
+                "donate": "https://paypal.me/pools/c/82jmBQtUbY",
                 "homepage": "https://github.com/evandrocoan/SublimeLinter",
                 "issues": "https://github.com/SublimeLinter/SublimeLinter/issues",
                 "labels": [
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2018-02-16 09:17:36",
+                "last_modified": "2018-04-25 18:49:37",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -3759,7 +3783,7 @@
                     "SublimeLinter",
                     "java"
                 ],
-                "last_modified": "2014-10-05 05:23:10",
+                "last_modified": "2018-03-28 08:49:48",
                 "name": "SublimeLinter-javac",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-javac/master/README.md",
@@ -3907,7 +3931,7 @@
                 "homepage": "https://github.com/evandrocoan/TabsExtra",
                 "issues": "https://github.com/facelessuser/TabsExtra/issues",
                 "labels": [],
-                "last_modified": "2017-11-14 06:22:32",
+                "last_modified": "2018-03-17 00:15:14",
                 "name": "TabsExtra",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md",
@@ -3987,14 +4011,14 @@
             },
             {
                 "authors": [
-                    "Jayflux",
+                    "jasonwilliams",
                     "Forked by evandrocoan"
                 ],
                 "buy": null,
                 "description": "Sublime Text 2/3 syntax highlighting for .toml/.tml format",
                 "donate": null,
                 "homepage": "https://github.com/evandrocoan/Toml",
-                "issues": "https://github.com/Jayflux/sublime_toml_highlighting/issues",
+                "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
                 "labels": [],
                 "last_modified": "2016-10-23 20:56:29",
                 "name": "TOML",
@@ -4059,7 +4083,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2018-01-31 17:45:55",
+                "last_modified": "2018-03-27 15:06:10",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -4105,7 +4129,7 @@
                 "homepage": "https://github.com/evandrocoan/UnitTesting",
                 "issues": "https://github.com/SublimeText/UnitTesting/issues",
                 "labels": [],
-                "last_modified": "2017-12-22 22:52:38",
+                "last_modified": "2018-04-11 21:00:36",
                 "name": "UnitTesting",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
@@ -4276,12 +4300,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-08 12:56:03",
-                        "git_tag": "1.7.3",
+                        "date": "2018-04-07 10:40:54",
+                        "git_tag": "1.7.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.3",
-                        "version": "2018.0308.1256"
+                        "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.4",
+                        "version": "2018.0407.1040"
                     }
                 ]
             },
@@ -4324,13 +4348,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
-                        "date": "2018-03-08 12:57:21",
-                        "git_tag": "1.0.83",
+                        "date": "2018-03-25 00:14:03",
+                        "git_tag": "1.0.84",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.83",
-                        "version": "2018.0308.1257"
+                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.84",
+                        "version": "2018.0325.0014"
                     }
                 ]
             },
@@ -4423,13 +4447,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandroforks/PlantUmlConnection",
-                        "date": "2018-02-13 23:37:42",
-                        "git_tag": "1.0.2",
+                        "date": "2018-03-09 12:58:00",
+                        "git_tag": "1.1.0",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlConnection/zip/1.0.2",
-                        "version": "2018.0213.2337"
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlConnection/zip/1.1.0",
+                        "version": "2018.0309.1258"
                     }
                 ]
             },
@@ -4448,13 +4472,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandroforks/portalocker",
-                        "date": "2018-03-06 19:55:29",
-                        "git_tag": "1.1.4",
+                        "date": "2018-04-26 20:03:16",
+                        "git_tag": "2.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/portalocker/zip/1.1.4",
-                        "version": "2018.0306.1955"
+                        "url": "https://codeload.github.com/evandroforks/portalocker/zip/2.0.1",
+                        "version": "2018.0426.2003"
                     }
                 ]
             },
