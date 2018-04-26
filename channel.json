@@ -17,10 +17,10 @@
                 "releases": [
                     {
                         "date": "2018-02-17 03:17:51",
-                        "git_tag": "1.0.7",
+                        "git_tag": "1.0.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.7",
+                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.8",
                         "version": "2018.0217.0317"
                     }
                 ]
@@ -214,10 +214,10 @@
                 "releases": [
                     {
                         "date": "2018-03-07 20:22:10",
-                        "git_tag": "1.0.6",
+                        "git_tag": "1.0.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AllAutocomplete/zip/1.0.6",
+                        "url": "https://codeload.github.com/evandrocoan/AllAutocomplete/zip/1.0.7",
                         "version": "2018.0307.2022"
                     }
                 ]
@@ -1064,10 +1064,10 @@
                 "releases": [
                     {
                         "date": "2018-02-15 02:51:49",
-                        "git_tag": "1.2.5",
+                        "git_tag": "1.2.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CopyWithLineNumbersReloaded/zip/1.2.5",
+                        "url": "https://codeload.github.com/evandrocoan/CopyWithLineNumbersReloaded/zip/1.2.6",
                         "version": "2018.0215.0251"
                     }
                 ]
@@ -1233,10 +1233,10 @@
                 "releases": [
                     {
                         "date": "2018-02-16 02:42:17",
-                        "git_tag": "1.2.21",
+                        "git_tag": "1.2.22",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Dotfiles/zip/1.2.21",
+                        "url": "https://codeload.github.com/evandrocoan/Dotfiles/zip/1.2.22",
                         "version": "2018.0216.0242"
                     }
                 ]
@@ -2269,10 +2269,10 @@
                 "releases": [
                     {
                         "date": "2017-11-30 23:30:46",
-                        "git_tag": "1.0.1",
+                        "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LanguageEnglishAndPortuguese/zip/1.0.1",
+                        "url": "https://codeload.github.com/evandrocoan/LanguageEnglishAndPortuguese/zip/1.0.2",
                         "version": "2017.0130.2330"
                     }
                 ]
@@ -2497,10 +2497,10 @@
                 "releases": [
                     {
                         "date": "2018-03-08 13:04:33",
-                        "git_tag": "0.4.7",
+                        "git_tag": "0.4.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.7",
+                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.8",
                         "version": "2018.0308.1304"
                     }
                 ]
@@ -2700,10 +2700,10 @@
                 "releases": [
                     {
                         "date": "2017-12-17 15:46:12",
-                        "git_tag": "1.9.6",
+                        "git_tag": "1.9.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MultiEditUtils/zip/1.9.6",
+                        "url": "https://codeload.github.com/evandrocoan/MultiEditUtils/zip/1.9.7",
                         "version": "2017.0217.1546"
                     }
                 ]
@@ -4156,10 +4156,10 @@
                 "releases": [
                     {
                         "date": "2018-03-07 19:20:09",
-                        "git_tag": "1.0.19",
+                        "git_tag": "1.0.20",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.19",
+                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.20",
                         "version": "2018.0307.1920"
                     }
                 ]
@@ -4280,10 +4280,10 @@
                 "releases": [
                     {
                         "date": "2018-02-26 21:37:11",
-                        "git_tag": "1.0.1",
+                        "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.1",
+                        "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.2",
                         "version": "2018.0226.2137"
                     }
                 ]
