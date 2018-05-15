@@ -3079,10 +3079,10 @@
             "releases": [
                 {
                     "date": "2018-04-26 20:02:42",
-                    "git_tag": "3.0.2",
+                    "git_tag": "3.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.2",
+                    "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.3",
                     "version": "2018.0426.2002"
                 }
             ]
