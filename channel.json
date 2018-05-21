@@ -2748,12 +2748,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-03-09 19:44:08",
-                        "git_tag": "2.0.3",
+                        "date": "2018-05-20 17:02:42",
+                        "git_tag": "2.0.5",
                         "platforms": "*",
                         "sublime_text": ">3144",
-                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.3",
-                        "version": "2018.0309.1944"
+                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.5",
+                        "version": "2018.0520.1702"
                     },
                     {
                         "date": "2017-08-10 23:50:25",
