@@ -12,12 +12,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-02-17 03:17:51",
+                    "date": "2018-04-07 10:40:53",
                     "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.8",
-                    "version": "2018.0217.0317"
+                    "version": "2018.0407.1040"
                 }
             ]
         },
@@ -68,7 +68,7 @@
                 "code navigation",
                 "text navigation"
             ],
-            "last_modified": "2017-02-01 21:49:47",
+            "last_modified": "2018-07-05 20:12:50",
             "name": "AceJump",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/ice9js/ace-jump-sublime/master/README.md",
@@ -209,12 +209,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-03-07 20:22:10",
+                    "date": "2018-03-24 14:14:34",
                     "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/AllAutocomplete/zip/1.0.7",
-                    "version": "2018.0307.2022"
+                    "version": "2018.0324.1414"
                 }
             ]
         },
@@ -249,18 +249,19 @@
                 "evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandrocoan/AmxxEditor",
-            "homepage": "https://github.com/evandrocoan/AmxxEditor",
-            "name": "Amxmodx",
+            "details": "https://github.com/evandrocoan/AmxxChannel",
+            "homepage": "https://github.com/evandrocoan/AmxxChannel",
+            "name": "AmxxChannel",
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-07-15 22:08:34",
-                    "git_tag": "2.0.6",
+                    "date": "2018-07-15 22:20:51",
+                    "git_tag": "master",
+                    "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.6",
-                    "version": "2018.0715.2208"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
+                    "version": "2018.0715.2220"
                 }
             ]
         },
@@ -269,19 +270,18 @@
                 "evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandrocoan/AmxxChannel",
-            "homepage": "https://github.com/evandrocoan/AmxxChannel",
-            "name": "AmxxChannel",
+            "details": "https://github.com/evandrocoan/AmxxEditor",
+            "homepage": "https://github.com/evandrocoan/AmxxEditor",
+            "name": "AmxxEditor",
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-04-07 10:31:31",
-                    "git_tag": "master",
-                    "is_branched_tag": true,
+                    "date": "2018-07-15 22:27:39",
+                    "git_tag": "2.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                    "version": "2018.0407.1031"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.6",
+                    "version": "2018.0715.2227"
                 }
             ]
         },
@@ -318,7 +318,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-01-11 03:29:56",
+            "last_modified": "2018-06-05 16:31:31",
             "name": "ANSIescape",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -422,7 +422,7 @@
             "homepage": "https://github.com/evandrocoan/AutomaticPackageReloader",
             "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
             "labels": [],
-            "last_modified": "2018-04-11 20:55:13",
+            "last_modified": "2018-06-13 23:08:11",
             "name": "AutomaticPackageReloader",
             "previous_names": [
                 "PackageReloader"
@@ -509,6 +509,27 @@
         },
         {
             "authors": [
+                "victorporof",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/BeautifyJavaScript",
+            "homepage": "https://github.com/evandroforks/BeautifyJavaScript",
+            "name": "BeautifyJavaScript",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2018-05-23 11:46:50",
+                    "git_tag": "2.1.4",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/BeautifyJavaScript/zip/2.1.4",
+                    "version": "2018.0523.1146"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "aponxi",
                 "Forked by evandrocoan"
             ],
@@ -568,7 +589,7 @@
             "homepage": "https://github.com/evandrocoan/BracketHighlighter",
             "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
             "labels": [],
-            "last_modified": "2018-04-21 18:29:42",
+            "last_modified": "2018-06-15 02:35:46",
             "name": "BracketHighlighter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -1059,12 +1080,12 @@
             "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/master/README.md",
             "releases": [
                 {
-                    "date": "2018-02-15 02:51:49",
+                    "date": "2018-04-26 20:05:53",
                     "git_tag": "1.2.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/CopyWithLineNumbersReloaded/zip/1.2.6",
-                    "version": "2018.0215.0251"
+                    "version": "2018.0426.2005"
                 }
             ]
         },
@@ -1170,7 +1191,7 @@
                 "fullscreen",
                 "distraction-free"
             ],
-            "last_modified": "2017-11-03 23:04:47",
+            "last_modified": "2018-06-12 19:51:13",
             "name": "DistractionFreeWindow",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/DistractionFreeWindow/master/README.md",
@@ -1228,12 +1249,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-02-16 02:42:17",
+                    "date": "2018-03-16 22:49:58",
                     "git_tag": "1.2.22",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/Dotfiles/zip/1.2.22",
-                    "version": "2018.0216.0242"
+                    "version": "2018.0316.2249"
                 }
             ]
         },
@@ -1297,7 +1318,7 @@
             "homepage": "https://github.com/evandrocoan/Emmet",
             "issues": "https://github.com/sergeche/emmet-sublime/issues",
             "labels": [],
-            "last_modified": "2017-03-23 21:16:14",
+            "last_modified": "2018-06-28 07:42:25",
             "name": "Emmet",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md",
@@ -1742,7 +1763,7 @@
                 "filepath",
                 "auto-complete"
             ],
-            "last_modified": "2018-03-11 18:52:24",
+            "last_modified": "2018-05-06 20:52:08",
             "name": "FuzzyFilePath",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sagold/FuzzyFilePath/master/README.md",
@@ -1844,7 +1865,7 @@
             "homepage": "https://github.com/evandrocoan/GitGutter",
             "issues": "https://github.com/jisaacks/GitGutter/issues",
             "labels": [],
-            "last_modified": "2018-04-26 16:02:38",
+            "last_modified": "2018-06-17 08:46:02",
             "name": "GitGutter",
             "previous_names": [
                 "Git Gutter",
@@ -2214,6 +2235,35 @@
         },
         {
             "authors": [
+                "Thom1729",
+                "Forked by evandroforks"
+            ],
+            "buy": null,
+            "description": "Customizable JavaScript syntax highlighting for Sublime Text.",
+            "donate": null,
+            "homepage": "https://github.com/evandroforks/JSCustom",
+            "issues": "https://github.com/Thom1729/Sublime-JS-Custom/issues",
+            "labels": [
+                "javascript",
+                "syntax"
+            ],
+            "last_modified": "2018-06-18 20:48:25",
+            "name": "JSCustom",
+            "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
+            "releases": [
+                {
+                    "date": "2018-05-29 10:10:32",
+                    "git_tag": "v1.1.0-alpha.6",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/JSCustom/zip/v1.1.0-alpha.6",
+                    "version": "2018.0529.1010"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "mwean",
                 "Forked by evandrocoan"
             ],
@@ -2264,12 +2314,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2017-11-30 23:30:46",
+                    "date": "2018-04-26 20:14:05",
                     "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/LanguageEnglishAndPortuguese/zip/1.0.2",
-                    "version": "2017.0130.2330"
+                    "version": "2018.0426.2014"
                 }
             ]
         },
@@ -2296,6 +2346,27 @@
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/LanguageTool/zip/0.2.8",
                     "version": "2018.0306.2048"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "lark-parser",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/lark_syntax",
+            "homepage": "https://github.com/evandroforks/lark_syntax",
+            "name": "LarkGrammarParser",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2018-05-02 01:03:37",
+                    "git_tag": "v1.1.1",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/lark_syntax/zip/v1.1.1",
+                    "version": "2018.0502.0103"
                 }
             ]
         },
@@ -2387,7 +2458,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-03-11 20:12:27",
+            "last_modified": "2018-06-21 07:20:48",
             "name": "LESS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -2486,31 +2557,42 @@
             "homepage": "https://github.com/evandrocoan/LSP",
             "issues": "https://github.com/tomv564/LSP/issues",
             "labels": [],
-            "last_modified": "2018-04-02 07:58:05",
+            "last_modified": "2018-06-01 20:36:43",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
             "releases": [
                 {
-                    "date": "2018-03-08 13:04:33",
+                    "date": "2018-03-10 00:34:03",
                     "git_tag": "0.4.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.8",
-                    "version": "2018.0308.1304"
+                    "version": "2018.0310.0034"
                 }
             ]
         },
         {
             "authors": [
-                "revolunet",
+                "facelessuser",
                 "Forked by evandrocoan"
             ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/MarkdownPreview",
+            "buy": null,
+            "description": "Markdown preview and build plugin for Sublime Text https://facelessuser.github.io/MarkdownPreview/",
+            "donate": null,
             "homepage": "https://github.com/evandrocoan/MarkdownPreview",
+            "issues": "https://github.com/facelessuser/MarkdownPreview/issues",
+            "labels": [
+                "markdown",
+                "preview",
+                "build"
+            ],
+            "last_modified": "2018-06-17 18:23:53",
             "name": "MarkdownPreview",
-            "previous_names": [],
+            "previous_names": [
+                "Markdown Preview"
+            ],
+            "readme": "https://raw.githubusercontent.com/facelessuser/MarkdownPreview/master/README.md",
             "releases": [
                 {
                     "date": "2018-01-15 13:01:17",
@@ -2695,12 +2777,12 @@
             "readme": "https://raw.githubusercontent.com/philippotto/Sublime-MultiEditUtils/master/README.md",
             "releases": [
                 {
-                    "date": "2017-12-17 15:46:12",
+                    "date": "2018-04-26 20:02:17",
                     "git_tag": "1.9.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/MultiEditUtils/zip/1.9.7",
-                    "version": "2017.0217.1546"
+                    "version": "2018.0426.2002"
                 }
             ]
         },
@@ -2738,18 +2820,18 @@
                 "color scheme",
                 "notepad++"
             ],
-            "last_modified": "2018-02-07 23:13:28",
+            "last_modified": "2018-05-21 23:00:08",
             "name": "Notepad++ Color Scheme",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
             "releases": [
                 {
-                    "date": "2018-05-20 17:02:42",
+                    "date": "2018-05-21 20:00:08",
                     "git_tag": "2.0.5",
                     "platforms": "*",
                     "sublime_text": ">3144",
                     "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.5",
-                    "version": "2018.0520.1702"
+                    "version": "2018.0521.2000"
                 },
                 {
                     "date": "2017-08-10 23:50:25",
@@ -2950,7 +3032,7 @@
             "homepage": "https://github.com/evandrocoan/PackageDev",
             "issues": "https://github.com/SublimeText/PackageDev/issues",
             "labels": [],
-            "last_modified": "2018-03-18 18:26:43",
+            "last_modified": "2018-06-08 19:39:52",
             "name": "PackageDev",
             "previous_names": [
                 "AAAPackageDev"
@@ -3072,18 +3154,18 @@
                 "uml",
                 "plantuml"
             ],
-            "last_modified": "2018-03-23 18:23:40",
+            "last_modified": "2018-05-15 18:15:10",
             "name": "PlantUmlDiagrams",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
             "releases": [
                 {
-                    "date": "2018-04-26 20:02:42",
+                    "date": "2018-05-15 15:15:10",
                     "git_tag": "3.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.3",
-                    "version": "2018.0426.2002"
+                    "version": "2018.0515.1515"
                 }
             ]
         },
@@ -3152,7 +3234,7 @@
             "homepage": "https://github.com/evandroforks/PowerShell",
             "issues": "https://github.com/SublimeText/PowerShell/issues",
             "labels": [],
-            "last_modified": "2017-12-19 00:59:54",
+            "last_modified": "2018-05-26 22:11:11",
             "name": "PowerShell",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/PowerShell/master/README.md",
@@ -3723,13 +3805,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-03-05 00:52:13",
+                    "date": "2018-04-26 20:13:47",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2018.0305.0052"
+                    "version": "2018.0426.2013"
                 }
             ]
         },
@@ -3747,7 +3829,7 @@
                 "linting",
                 "SublimeLinter"
             ],
-            "last_modified": "2018-04-25 18:49:37",
+            "last_modified": "2018-07-16 11:33:26",
             "name": "SublimeLinter",
             "previous_names": [
                 "SublimeLinter Beta"
@@ -3791,6 +3873,36 @@
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/SublimeLinter-javac/zip/1.1.9",
                     "version": "2016.0517.0034"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "SublimeLinter",
+                "Forked by evandroforks"
+            ],
+            "buy": null,
+            "description": "SublimeLinter plugin for python, using pylint.",
+            "donate": null,
+            "homepage": "https://github.com/evandroforks/SublimeLinter-pylint",
+            "issues": "https://github.com/SublimeLinter/SublimeLinter-pylint/issues",
+            "labels": [
+                "linting",
+                "SublimeLinter",
+                "python"
+            ],
+            "last_modified": "2018-05-24 11:22:57",
+            "name": "SublimeLinter-pylint",
+            "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-pylint/master/README.md",
+            "releases": [
+                {
+                    "date": "2018-05-24 13:22:57",
+                    "git_tag": "1.5.0",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/SublimeLinter-pylint/zip/1.5.0",
+                    "version": "2018.0524.1322"
                 }
             ]
         },
@@ -3965,6 +4077,27 @@
         },
         {
             "authors": [
+                "asfaltboy",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/SublimeTestPlier",
+            "homepage": "https://github.com/evandroforks/SublimeTestPlier",
+            "name": "TestPlier",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2016-11-01 11:19:47",
+                    "git_tag": "1.3.0",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.0",
+                    "version": "2016.0101.1119"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "duydao",
                 "Forked by evandrocoan"
             ],
@@ -4016,7 +4149,7 @@
             "homepage": "https://github.com/evandrocoan/Toml",
             "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
             "labels": [],
-            "last_modified": "2016-10-23 20:56:29",
+            "last_modified": "2018-06-12 17:49:05",
             "name": "TOML",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md",
@@ -4079,7 +4212,7 @@
                 "typescript",
                 "javascript"
             ],
-            "last_modified": "2018-03-27 15:06:10",
+            "last_modified": "2018-05-31 16:25:28",
             "name": "TypeScript",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -4125,7 +4258,7 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting",
             "issues": "https://github.com/SublimeText/UnitTesting/issues",
             "labels": [],
-            "last_modified": "2018-04-11 21:00:36",
+            "last_modified": "2018-07-04 20:54:24",
             "name": "UnitTesting",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
@@ -4151,12 +4284,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-03-07 19:20:09",
+                    "date": "2018-04-26 20:12:56",
                     "git_tag": "1.0.20",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.20",
-                    "version": "2018.0307.1920"
+                    "version": "2018.0426.2012"
                 }
             ]
         },
@@ -4275,12 +4408,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown",
             "releases": [
                 {
-                    "date": "2018-02-26 21:37:11",
+                    "date": "2018-04-26 20:05:09",
                     "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.2",
-                    "version": "2018.0226.2137"
+                    "version": "2018.0426.2005"
                 }
             ]
         },
