@@ -259,12 +259,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-04-08 12:41:50",
-                        "git_tag": "2.0.4",
+                        "date": "2018-07-15 22:08:34",
+                        "git_tag": "2.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.4",
-                        "version": "2018.0408.1241"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.6",
+                        "version": "2018.0715.2208"
                     }
                 ]
             },
