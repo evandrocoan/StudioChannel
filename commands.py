@@ -79,7 +79,7 @@ from channel_manager.channel_utilities import look_for_invalid_packages
 from debug_tools import getLogger
 
 # Debugger settings: 0 - disabled, 127 - enabled
-log = getLogger( 1, g_settings.CURRENT_PACKAGE_NAME + "." + os.path.basename( __file__ ) )
+log = getLogger( 1, g_settings.CURRENT_PACKAGE_NAME + "." + os.path.basename( __file__ ).split(".")[0] )
 
 log( 2, "..." )
 log( 2, "..." )
