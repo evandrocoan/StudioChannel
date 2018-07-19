@@ -69,10 +69,9 @@ def plugin_loaded():
     # file "Find Results.hidden-tmLanguage" on the folder "Default" causing the installation of the
     # package "Default" to stop.
     #
-    # Some of these packages "SublimeLinter", "SublimeLinter-javac", "A File Icon" need to be installed
-    # by last as they were messing with the color scheme settings when installing it on a vanilla
-    # install. Todo, fix whatever they are doing and causes the `Preferences.sublime-settings` file to
-    # be set to:
+    # Some of these packages as "A File Icon" need to be installed by last as they were messing with
+    # the color scheme settings when installing it on a vanilla install. Todo, fix whatever they are
+    # doing and causes the `Preferences.sublime-settings` file to be set to:
     # {
     #     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
     # }
@@ -158,7 +157,6 @@ def plugin_loaded():
         "MySQLSnippets",
         "ProjectSpecificSyntax",
         "ScopeAlways",
-        "SublimeLinter",
         "SublimeLinter-javac",
         "SyncedSideBar",
         "TypeScript",
