@@ -280,8 +280,8 @@
                     "git_tag": "2.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/2.0.6",
-                    "version": "2018.0715.2227"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/master",
+                    "version": "2018.0715.2228"
                 }
             ]
         },
