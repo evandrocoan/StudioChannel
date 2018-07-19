@@ -13,6 +13,7 @@
                 [
                     {
                         "caption": "StudioChannel",
+                        "id": "StudioChannel",
                         "children":
                         [
                             { "caption": "Generate Channel File",
