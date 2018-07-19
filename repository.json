@@ -137,10 +137,10 @@
             "releases": [
                 {
                     "date": "2018-03-08 13:04:31",
-                    "git_tag": "1.1.12",
+                    "git_tag": "1.1.13",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AdvancedCSV/zip/1.1.12",
+                    "url": "https://codeload.github.com/evandrocoan/AdvancedCSV/zip/1.1.13",
                     "version": "2018.0308.1304"
                 }
             ]
