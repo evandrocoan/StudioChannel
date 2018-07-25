@@ -32,8 +32,8 @@ import sublime
 
 # from channel_manager.channel_utilities import print_all_variables_for_debugging
 # print_all_variables_for_debugging( g_channelSettings )
-# import sublime_plugin
-# sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+# import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
+# import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.submodules_manager" )
 
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import run_channel_setup
@@ -115,12 +115,12 @@ def plugin_loaded():
 
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
-        "User",
         "AmxxChannel",
-        "PackagesManager",
-        "UnitTesting",
         "ColorSchemeUnit",
         "OverrideEditSettingsDefaultContents",
+        "PackagesManager",
+        "UnitTesting",
+        "User",
     ]
 
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_DEVELOPMENT'] = \
