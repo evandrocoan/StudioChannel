@@ -140,12 +140,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-08 13:04:31",
+                        "date": "2018-06-13 20:09:52",
                         "git_tag": "1.1.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AdvancedCSV/zip/1.1.13",
-                        "version": "2018.0308.1304"
+                        "version": "2018.0613.2009"
                     }
                 ]
             },
@@ -273,19 +273,34 @@
                 "authors": [
                     "evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AmxxEditor",
+                "buy": null,
+                "description": "Auto-complete and Build System for Amx Mod X on Sublime Text",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/AmxxEditor",
+                "issues": "https://github.com/evandrocoan/AmxxEditor/issues",
+                "labels": [
+                    "autocompletion",
+                    "auto-complete",
+                    "amxmodx",
+                    "amx mod x",
+                    "amxx",
+                    "pawn",
+                    "build system"
+                ],
+                "last_modified": "2018-07-25 06:21:28",
                 "name": "AmxxEditor",
-                "previous_names": [],
+                "previous_names": [
+                    "Amxmodx"
+                ],
+                "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.MD",
                 "releases": [
                     {
-                        "date": "2018-07-25 02:39:55",
+                        "date": "2018-07-25 03:21:28",
                         "git_tag": "3.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/master",
-                        "version": "2018.0725.0239"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.2",
+                        "version": "2018.0725.0321"
                     }
                 ]
             },
@@ -293,19 +308,30 @@
                 "authors": [
                     "evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AmxxPawn",
+                "buy": null,
+                "description": "Amx Mod X self-contained syntax definition for Sublime Text",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/AmxxPawn",
+                "issues": "https://github.com/evandrocoan/AmxxPawn/issues",
+                "labels": [
+                    "language syntax",
+                    "amxmodx",
+                    "amx mod x"
+                ],
+                "last_modified": "2018-07-19 22:47:29",
                 "name": "AmxxPawn",
-                "previous_names": [],
+                "previous_names": [
+                    "Amxx Pawn"
+                ],
+                "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAmxxPawn/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-07-16 16:06:09",
+                        "date": "2018-07-19 19:47:29",
                         "git_tag": "1.0.11",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.11",
-                        "version": "2018.0716.1606"
+                        "version": "2018.0719.1947"
                     }
                 ]
             },
@@ -2000,12 +2026,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-04-07 10:44:26",
+                        "date": "2018-05-15 15:33:02",
                         "git_tag": "3.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.5",
-                        "version": "2018.0407.1044"
+                        "version": "2018.0515.1533"
                     }
                 ]
             },
@@ -2462,7 +2488,7 @@
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2018-06-21 07:20:48",
+                "last_modified": "2018-07-20 20:20:02",
                 "name": "LESS",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -3833,7 +3859,7 @@
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2018-07-16 11:33:26",
+                "last_modified": "2018-07-22 11:30:04",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
