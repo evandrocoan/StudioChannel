@@ -56,7 +56,6 @@ from channel_manager import copy_default_package
 from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import load_data_file
 from channel_manager.channel_utilities import get_main_directory
-from channel_manager.channel_utilities import get_dictionary_key
 from channel_manager.channel_utilities import write_data_file
 from channel_manager.channel_utilities import get_installed_packages
 from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
@@ -224,7 +223,7 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
-    return get_dictionary_key( g_installation_details, "automatically_show_installation_wizard", False )
+    return g_installation_details.get( "automatically_show_installation_wizard", False )
 
 
 def is_development_version():
@@ -232,7 +231,7 @@ def is_development_version():
         We can only run this when we are using the stable version of the channel. And when there is
         not a `.git` folder, we are running the `Development Version` of the channel.
     """
-    return get_dictionary_key( g_installation_details, "installation_type", "" ) == "development"
+    return g_installation_details.get( "installation_type", "" ) == "development"
 
 
 def is_channel_installed():
@@ -240,7 +239,7 @@ def is_channel_installed():
         Returns True if the channel is installed, i.e., there are packages added to the
         `packages_to_uninstall` list.
     """
-    has_installed_packages = len( get_dictionary_key( g_installation_details, "packages_to_uninstall", [] ) ) > 0
+    has_installed_packages = len( g_installation_details.get( "packages_to_uninstall", [] ) ) > 0
     return has_installed_packages
 
 
@@ -252,6 +251,6 @@ def get_channel_file_setting(settings_name, default_value):
         @param `settings_name` the name of the setting on the file
         @param `default_value` the value to be returned, in case the setting does not exists on the user file
     """
-    custom_user_setting = get_dictionary_key( g_installation_details, settings_name, default_value )
+    custom_user_setting = g_installation_details.get( settings_name, default_value )
     return custom_user_setting
 
