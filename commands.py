@@ -195,18 +195,12 @@ def run_channel_update(installed_packages):
     """
 
     if is_channel_installed():
+        g_channelSettings['INSTALLATION_TYPE'] = "upgrade"
 
         if is_development_version():
             look_for_invalid_packages( g_channelSettings, installed_packages )
 
         copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], False )
-
-        g_channelSettings['INSTALLER_TYPE']    = "installer"
-        g_channelSettings['INSTALLATION_TYPE'] = "upgrade"
-        channel_installer.main( g_channelSettings )
-
-        g_channelSettings['INSTALLER_TYPE']    = "uninstaller"
-        g_channelSettings['INSTALLATION_TYPE'] = "downgrade"
         channel_installer.main( g_channelSettings )
 
     else:
