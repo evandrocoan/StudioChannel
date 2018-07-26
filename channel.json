@@ -78,12 +78,12 @@
                 "readme": "https://raw.githubusercontent.com/ice9js/ace-jump-sublime/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-11-02 20:25:42",
+                        "date": "2018-07-05 19:11:07",
                         "git_tag": "1.8.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AceJump/zip/1.8.5",
-                        "version": "2017.0102.2025"
+                        "version": "2018.0705.1911"
                     }
                 ]
             },
@@ -259,13 +259,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-07-15 22:20:51",
+                        "date": "2018-07-25 20:51:48",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2018.0715.2220"
+                        "version": "2018.0725.2051"
                     }
                 ]
             },
@@ -354,12 +354,12 @@
                 "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-01-11 09:01:52",
+                        "date": "2018-07-07 21:16:14",
                         "git_tag": "0.2.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ANSIescape/zip/0.2.2",
-                        "version": "2018.0111.0901"
+                        "version": "2018.0707.2116"
                     }
                 ]
             },
@@ -380,12 +380,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
                 "releases": [
                     {
-                        "date": "2017-09-29 15:04:52",
+                        "date": "2018-01-18 19:01:54",
                         "git_tag": "2.3.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ApplySyntax/zip/2.3.3",
-                        "version": "2017.0929.1504"
+                        "version": "2018.0118.1901"
                     }
                 ]
             },
@@ -406,12 +406,12 @@
                 "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-02-11 13:52:56",
+                        "date": "2018-05-17 18:38:56",
                         "git_tag": "1.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AutoFileName/zip/1.0.5",
-                        "version": "2018.0211.1352"
+                        "version": "2018.0517.1838"
                     }
                 ]
             },
@@ -625,12 +625,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
                 "releases": [
                     {
-                        "date": "2017-11-20 08:35:29",
+                        "date": "2018-02-04 18:55:10",
                         "git_tag": "2.26.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/BracketHighlighter/zip/2.26.3",
-                        "version": "2017.0120.0835"
+                        "version": "2018.0204.1855"
                     }
                 ]
             },
@@ -646,12 +646,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-02-16 22:12:03",
+                        "date": "2018-07-18 20:33:51",
                         "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.10",
-                        "version": "2018.0216.2212"
+                        "version": "2018.0718.2033"
                     }
                 ]
             },
@@ -846,12 +846,12 @@
                 "readme": "https://raw.githubusercontent.com/wbond/ChannelRepositoryTools/master/readme.md",
                 "releases": [
                     {
-                        "date": "2017-07-07 15:34:05",
+                        "date": "2018-07-17 09:24:56",
                         "git_tag": "1.1.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ChannelRepositoryTools/zip/1.1.3",
-                        "version": "2017.0707.1534"
+                        "version": "2018.0717.0924"
                     }
                 ]
             },
@@ -918,27 +918,6 @@
             },
             {
                 "authors": [
-                    "SublimeCodeIntel",
-                    "Forked by evandrocoan"
-                ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/CodeIntel",
-                "homepage": "https://github.com/evandrocoan/CodeIntel",
-                "name": "CodeIntel",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2017-11-01 21:47:43",
-                        "git_tag": "3.0.3",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CodeIntel/zip/3.0.3",
-                        "version": "2017.0101.2147"
-                    }
-                ]
-            },
-            {
-                "authors": [
                     "Monnoroch",
                     "Forked by evandrocoan"
                 ],
@@ -954,12 +933,12 @@
                 "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-26 20:56:53",
+                        "date": "2018-01-22 15:23:31",
                         "git_tag": "8.0.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/8.0.13",
-                        "version": "2017.0226.2056"
+                        "version": "2018.0122.1523"
                     }
                 ]
             },
@@ -1037,12 +1016,12 @@
                 "readme": "https://raw.githubusercontent.com/gerardroche/sublime-color-scheme-unit/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-06 10:58:43",
+                        "date": "2017-12-30 21:40:01",
                         "git_tag": "1.10.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ColorSchemeUnit/zip/1.10.3",
-                        "version": "2017.0206.1058"
+                        "version": "2017.0230.2140"
                     }
                 ]
             },
@@ -1084,12 +1063,12 @@
                 "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-09-29 22:06:38",
+                        "date": "2018-07-06 00:37:38",
                         "git_tag": "1.2.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ConvertToUTF8/zip/1.2.13",
-                        "version": "2017.0929.2206"
+                        "version": "2018.0706.0037"
                     }
                 ]
             },
@@ -1172,12 +1151,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2013-10-12 15:58:19",
+                        "date": "2018-07-11 17:57:34",
                         "git_tag": "0.2.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/DeleteCurrentFile/zip/0.2.1",
-                        "version": "2013.0012.1558"
+                        "version": "2018.0711.1757"
                     }
                 ]
             },
@@ -1354,12 +1333,12 @@
                 "readme": "https://raw.githubusercontent.com/sergeche/emmet-sublime/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-02-20 01:28:51",
+                        "date": "2018-06-28 08:12:12",
                         "git_tag": "1.0.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/Emmet/zip/1.0.7",
-                        "version": "2018.0220.0128"
+                        "version": "2018.0628.0812"
                     }
                 ]
             },
@@ -1474,12 +1453,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md",
                 "releases": [
                     {
-                        "date": "2017-11-20 08:37:37",
+                        "date": "2018-01-02 04:16:02",
                         "git_tag": "2.10.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ExportHtml/zip/2.10.3",
-                        "version": "2017.0120.0837"
+                        "version": "2018.0102.0416"
                     }
                 ]
             },
@@ -1503,12 +1482,12 @@
                 "readme": "https://raw.githubusercontent.com/rajeshvaya/Sublime-Extended-Tab-Switcher/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-02-24 14:51:39",
+                        "date": "2018-06-17 16:20:35",
                         "git_tag": "2.3.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ExtendedTabSwitcher/zip/2.3.7",
-                        "version": "2018.0224.1451"
+                        "version": "2018.0617.1620"
                     }
                 ]
             },
@@ -1607,12 +1586,12 @@
                 "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-17 15:46:00",
+                        "date": "2018-02-11 12:06:17",
                         "git_tag": "1.4.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/FileManager/zip/1.4.8",
-                        "version": "2017.0217.1546"
+                        "version": "2018.0211.1206"
                     }
                 ]
             },
@@ -1657,12 +1636,12 @@
                 "readme": "https://raw.githubusercontent.com/twolfson/FindPlusPlus/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-17 15:46:01",
+                        "date": "2018-01-22 15:12:46",
                         "git_tag": "0.4.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/FindPlusPlus/zip/0.4.5",
-                        "version": "2017.0217.1546"
+                        "version": "2018.0122.1512"
                     }
                 ]
             },
@@ -1820,12 +1799,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-11-19 16:28:15",
+                        "date": "2018-06-14 00:04:40",
                         "git_tag": "0.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/GenericConfig/zip/0.0.10",
-                        "version": "2017.0119.1628"
+                        "version": "2018.0614.0004"
                     }
                 ]
             },
@@ -1875,12 +1854,12 @@
                 "readme": "https://raw.githubusercontent.com/kemayo/sublime-text-git/master/README.markdown",
                 "releases": [
                     {
-                        "date": "2017-12-17 15:46:02",
+                        "date": "2018-01-22 15:17:59",
                         "git_tag": "1.0.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SublimeGit/zip/1.0.13",
-                        "version": "2017.0217.1546"
+                        "version": "2018.0122.1517"
                     }
                 ]
             },
@@ -2283,12 +2262,12 @@
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-05-29 10:10:32",
+                        "date": "2018-07-15 22:42:51",
                         "git_tag": "1.1.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/JSCustom/zip/1.1.1",
-                        "version": "2018.0529.1010"
+                        "version": "2018.0715.2242"
                     }
                 ]
             },
@@ -2370,12 +2349,12 @@
                 "readme": "https://raw.githubusercontent.com/gtarawneh/languagetool-sublime/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-03-06 20:48:11",
+                        "date": "2018-03-10 16:53:14",
                         "git_tag": "0.2.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/LanguageTool/zip/0.2.9",
-                        "version": "2018.0306.2048"
+                        "version": "2018.0310.1653"
                     }
                 ]
             },
@@ -2391,12 +2370,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-05-02 01:03:37",
+                        "date": "2018-07-09 15:46:22",
                         "git_tag": "1.1.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/lark_syntax/zip/1.1.2",
-                        "version": "2018.0502.0103"
+                        "version": "2018.0709.1546"
                     }
                 ]
             },
@@ -2494,12 +2473,12 @@
                 "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-01 14:45:29",
+                        "date": "2018-05-03 12:44:30",
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/LESS/zip/1.0.3",
-                        "version": "2017.0201.1445"
+                        "version": "2018.0503.1244"
                     }
                 ]
             },
@@ -2625,12 +2604,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/MarkdownPreview/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-01-15 13:01:17",
+                        "date": "2018-03-15 21:54:22",
                         "git_tag": "1.4.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/MarkdownPreview/zip/1.4.7",
-                        "version": "2018.0115.1301"
+                        "version": "2018.0315.2154"
                     }
                 ]
             },
@@ -2850,7 +2829,7 @@
                     "color scheme",
                     "notepad++"
                 ],
-                "last_modified": "2018-05-21 23:00:08",
+                "last_modified": "2018-07-25 23:26:12",
                 "name": "Notepad++ Color Scheme",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
@@ -2950,12 +2929,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
                 "releases": [
                     {
-                        "date": "2017-09-29 14:47:14",
+                        "date": "2018-01-22 15:25:07",
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/Origami/zip/1.0.2",
-                        "version": "2017.0929.1447"
+                        "version": "2018.0122.1525"
                     }
                 ]
             },
@@ -3117,13 +3096,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-03-08 13:04:35",
+                        "date": "2018-07-25 20:26:12",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.0308.1304"
+                        "version": "2018.0725.2026"
                     }
                 ]
             },
@@ -3139,12 +3118,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-01-03 23:18:37",
+                        "date": "2018-01-23 14:31:05",
                         "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/PanelManager/zip/1.0.1",
-                        "version": "2018.0103.2318"
+                        "version": "2018.0123.1431"
                     }
                 ]
             },
@@ -3493,12 +3472,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-12-21 02:18:30",
+                        "date": "2018-01-26 11:59:25",
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SassSyntax/zip/1.0.3",
-                        "version": "2017.0221.0218"
+                        "version": "2018.0126.1159"
                     }
                 ]
             },
@@ -3545,12 +3524,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md",
                 "releases": [
                     {
-                        "date": "2017-11-20 08:40:06",
+                        "date": "2018-01-02 04:16:50",
                         "git_tag": "2.10.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ScopeHunter/zip/2.10.3",
-                        "version": "2017.0120.0840"
+                        "version": "2018.0102.0416"
                     }
                 ]
             },
@@ -3789,12 +3768,12 @@
                 "readme": "https://raw.githubusercontent.com/mtxr/SQLTools/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-01-09 14:21:46",
+                        "date": "2018-01-18 13:47:17",
                         "git_tag": "0.9.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SQLTools/zip/0.9.12",
-                        "version": "2018.0109.1421"
+                        "version": "2018.0118.1347"
                     }
                 ]
             },
@@ -3815,12 +3794,12 @@
                 "readme": "https://raw.githubusercontent.com/vim-zz/StickySearch/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-17 15:54:54",
+                        "date": "2018-06-13 16:04:56",
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StickySearch/zip/1.0.4",
-                        "version": "2017.0217.1554"
+                        "version": "2018.0613.1604"
                     }
                 ]
             },
@@ -3835,13 +3814,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-04-26 20:13:47",
+                        "date": "2018-07-25 20:26:12",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2018.0426.2013"
+                        "version": "2018.0725.2026"
                     }
                 ]
             },
@@ -3867,12 +3846,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-03-08 12:24:28",
+                        "date": "2018-07-09 16:04:51",
                         "git_tag": "4.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SublimeLinter/zip/4.0.4",
-                        "version": "2018.0308.1224"
+                        "version": "2018.0709.1604"
                     }
                 ]
             },
@@ -3897,12 +3876,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-javac/master/README.md",
                 "releases": [
                     {
-                        "date": "2016-05-17 00:34:24",
+                        "date": "2018-01-26 19:20:52",
                         "git_tag": "1.1.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SublimeLinter-javac/zip/1.1.10",
-                        "version": "2016.0517.0034"
+                        "version": "2018.0126.1920"
                     }
                 ]
             },
@@ -4049,12 +4028,12 @@
                 "readme": "https://raw.githubusercontent.com/randy3k/SyntaxManager/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-09-30 15:18:57",
+                        "date": "2018-01-23 14:32:12",
                         "git_tag": "1.1.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/SyntaxManager/zip/1.1.8",
-                        "version": "2017.0930.1518"
+                        "version": "2018.0123.1432"
                     }
                 ]
             },
@@ -4075,12 +4054,12 @@
                 "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-10-25 19:51:12",
+                        "date": "2018-03-16 20:57:39",
                         "git_tag": "1.4.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/TabsExtra/zip/1.4.3",
-                        "version": "2017.0025.1951"
+                        "version": "2018.0316.2057"
                     }
                 ]
             },
@@ -4096,12 +4075,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2017-09-28 14:18:24",
+                        "date": "2018-01-26 19:18:55",
                         "git_tag": "1.18.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/TerminalShortcuts/zip/1.18.2",
-                        "version": "2017.0928.1418"
+                        "version": "2018.0126.1918"
                     }
                 ]
             },
@@ -4117,12 +4096,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2016-11-01 11:19:47",
+                        "date": "2018-07-07 21:39:10",
                         "git_tag": "1.3.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.1",
-                        "version": "2016.0101.1119"
+                        "version": "2018.0707.2139"
                     }
                 ]
             },
@@ -4214,12 +4193,12 @@
                 "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md",
                 "releases": [
                     {
-                        "date": "2017-12-24 21:22:26",
+                        "date": "2018-02-17 00:46:41",
                         "git_tag": "1.4.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/Trimmer/zip/1.4.10",
-                        "version": "2017.0224.2122"
+                        "version": "2018.0217.0046"
                     }
                 ]
             },
@@ -4314,12 +4293,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-04-26 20:12:56",
+                        "date": "2018-07-25 21:10:58",
                         "git_tag": "1.0.21",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.21",
-                        "version": "2018.0426.2012"
+                        "version": "2018.0725.2110"
                     }
                 ]
             },
@@ -4438,12 +4417,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown",
                 "releases": [
                     {
-                        "date": "2018-04-26 20:05:09",
+                        "date": "2018-06-21 18:45:40",
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.3",
-                        "version": "2018.0426.2005"
+                        "version": "2018.0621.1845"
                     }
                 ]
             },

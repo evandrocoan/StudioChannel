@@ -140,7 +140,6 @@ def plugin_loaded():
         "C++ Completions",
         "C++ Qt Completions",
         "C++ Snippets",
-        "CodeIntel",
         "ColorHelper",
         "DictionaryAutoComplete",
         "FileManager",
