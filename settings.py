@@ -44,7 +44,7 @@ CURRENT_PACKAGE_NAME   = os.path.basename( PACKAGE_ROOT_DIRECTORY )
 
 def plugin_loaded():
     global g_channelSettings
-    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/"
+    CHANNEL_RAW_URL = "https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/"
 
     g_channelSettings = {}
     g_channelSettings['CHANNEL_ROOT_URL']    = "https://github.com/evandrocoan/ITE"
