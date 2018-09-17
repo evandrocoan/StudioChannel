@@ -4536,11 +4536,11 @@
                     {
                         "base": "https://github.com/evandrocoan/DebugTools",
                         "date": "2018-07-26 03:27:17",
-                        "git_tag": "2.1.6",
+                        "git_tag": "2.2.0",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.1.6",
+                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.2.0",
                         "version": "2018.0726.0327"
                     }
                 ]
