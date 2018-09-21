@@ -283,7 +283,7 @@
                 "pawn",
                 "build system"
             ],
-            "last_modified": "2018-07-27 16:21:26",
+            "last_modified": "2018-08-23 17:08:50",
             "name": "AmxxEditor",
             "previous_names": [
                 "Amxmodx"
@@ -291,12 +291,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.MD",
             "releases": [
                 {
-                    "date": "2018-08-04 19:46:33",
-                    "git_tag": "3.0.16",
+                    "date": "2018-08-23 14:08:50",
+                    "git_tag": "3.0.17",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.16",
-                    "version": "2018.0804.1946"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.17",
+                    "version": "2018.0823.1408"
                 }
             ]
         },
@@ -344,7 +344,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-06-05 16:31:31",
+            "last_modified": "2018-08-03 10:04:24",
             "name": "ANSIescape",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -1167,7 +1167,7 @@
             "homepage": "https://github.com/evandrocoan/DictionaryAutoComplete",
             "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues",
             "labels": [],
-            "last_modified": "2015-01-01 20:28:30",
+            "last_modified": "2018-08-30 21:33:34",
             "name": "DictionaryAutoComplete",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md",
@@ -1870,7 +1870,7 @@
             "homepage": "https://github.com/evandrocoan/GitGutter",
             "issues": "https://github.com/jisaacks/GitGutter/issues",
             "labels": [],
-            "last_modified": "2018-06-17 08:46:02",
+            "last_modified": "2018-09-19 19:45:08",
             "name": "GitGutter",
             "previous_names": [
                 "Git Gutter",
@@ -2001,12 +2001,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-05-15 15:33:02",
+                    "date": "2018-08-04 17:11:38",
                     "git_tag": "3.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.6",
-                    "version": "2018.0515.1533"
+                    "version": "2018.0804.1711"
                 }
             ]
         },
@@ -2463,7 +2463,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-07-20 20:20:02",
+            "last_modified": "2018-09-18 09:37:19",
             "name": "LESS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -2562,7 +2562,7 @@
             "homepage": "https://github.com/evandrocoan/LSP",
             "issues": "https://github.com/tomv564/LSP/issues",
             "labels": [],
-            "last_modified": "2018-06-01 20:36:43",
+            "last_modified": "2018-09-05 08:16:31",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -2592,7 +2592,7 @@
                 "preview",
                 "build"
             ],
-            "last_modified": "2018-06-17 18:23:53",
+            "last_modified": "2018-08-04 20:54:45",
             "name": "MarkdownPreview",
             "previous_names": [
                 "Markdown Preview"
@@ -2919,7 +2919,7 @@
             "homepage": "https://github.com/evandrocoan/Origami",
             "issues": "https://github.com/SublimeText/Origami/issues",
             "labels": [],
-            "last_modified": "2018-01-20 18:35:37",
+            "last_modified": "2018-08-20 13:30:42",
             "name": "Origami",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
@@ -3037,7 +3037,7 @@
             "homepage": "https://github.com/evandrocoan/PackageDev",
             "issues": "https://github.com/SublimeText/PackageDev/issues",
             "labels": [],
-            "last_modified": "2018-06-08 19:39:52",
+            "last_modified": "2018-09-11 01:37:35",
             "name": "PackageDev",
             "previous_names": [
                 "AAAPackageDev"
@@ -3159,18 +3159,18 @@
                 "uml",
                 "plantuml"
             ],
-            "last_modified": "2018-07-26 20:02:59",
+            "last_modified": "2018-08-29 17:44:42",
             "name": "PlantUmlDiagrams",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
             "releases": [
                 {
-                    "date": "2018-08-29 14:30:48",
+                    "date": "2018-08-29 14:44:42",
                     "git_tag": "3.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.6",
-                    "version": "2018.0829.1430"
+                    "version": "2018.0829.1444"
                 }
             ]
         },
@@ -3245,12 +3245,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/PowerShell/master/README.md",
             "releases": [
                 {
-                    "date": "2017-12-18 16:59:54",
-                    "git_tag": "2.1.2",
+                    "date": "2018-05-25 22:46:25",
+                    "git_tag": "3.0.0",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/PowerShell/zip/2.1.2",
-                    "version": "2017.0218.1659"
+                    "url": "https://codeload.github.com/evandroforks/PowerShell/zip/3.0.0",
+                    "version": "2018.0525.2246"
                 }
             ]
         },
@@ -3412,27 +3412,6 @@
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.1",
                     "version": "2018.0203.2109"
-                }
-            ]
-        },
-        {
-            "authors": [
-                "wuub",
-                "Forked by evandrocoan"
-            ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/REPL",
-            "homepage": "https://github.com/evandrocoan/REPL",
-            "name": "REPL",
-            "previous_names": [],
-            "releases": [
-                {
-                    "date": "2017-07-29 04:38:59",
-                    "git_tag": "2.1.3",
-                    "platforms": "*",
-                    "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/REPL/zip/2.1.3",
-                    "version": "2017.0729.0438"
                 }
             ]
         },
@@ -3834,7 +3813,7 @@
                 "linting",
                 "SublimeLinter"
             ],
-            "last_modified": "2018-07-22 11:30:04",
+            "last_modified": "2018-08-23 08:30:09",
             "name": "SublimeLinter",
             "previous_names": [
                 "SublimeLinter Beta"
@@ -4082,6 +4061,40 @@
         },
         {
             "authors": [
+                "randy3k",
+                "Forked by evandroforks"
+            ],
+            "buy": null,
+            "description": "Best Terminal Emulator of Sublime Text.",
+            "donate": null,
+            "homepage": "https://github.com/evandroforks/Terminus",
+            "issues": "https://github.com/randy3k/Terminus/issues",
+            "labels": [
+                "terminal",
+                "shell",
+                "bash",
+                "zsh",
+                "wsl",
+                "cmd",
+                "powershell"
+            ],
+            "last_modified": "2018-09-05 01:15:32",
+            "name": "Terminus",
+            "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
+            "releases": [
+                {
+                    "date": "2018-09-04 21:15:32",
+                    "git_tag": "v0.2.11",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/Terminus/zip/v0.2.11",
+                    "version": "2018.0904.2115"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "asfaltboy",
                 "Forked by evandroforks"
             ],
@@ -4183,7 +4196,7 @@
                 "text manipulation",
                 "formatting"
             ],
-            "last_modified": "2017-12-24 22:16:45",
+            "last_modified": "2018-08-22 01:02:49",
             "name": "Trimmer",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md",
@@ -4217,7 +4230,7 @@
                 "typescript",
                 "javascript"
             ],
-            "last_modified": "2018-05-31 16:25:28",
+            "last_modified": "2018-07-30 16:31:07",
             "name": "TypeScript",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -4269,12 +4282,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
             "releases": [
                 {
-                    "date": "2018-02-26 14:06:56",
-                    "git_tag": "1.2.2",
+                    "date": "2018-07-04 16:54:24",
+                    "git_tag": "1.3.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.2.2",
-                    "version": "2018.0226.1406"
+                    "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.3.4",
+                    "version": "2018.0704.1654"
                 }
             ]
         },
@@ -4407,7 +4420,7 @@
             "homepage": "https://github.com/evandrocoan/WordHighlight",
             "issues": "https://github.com/SublimeText/WordHighlight/issues",
             "labels": [],
-            "last_modified": "2017-04-20 14:40:06",
+            "last_modified": "2018-08-28 18:32:49",
             "name": "WordHighlight",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown",
@@ -4529,13 +4542,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/DebugTools",
-                    "date": "2018-07-26 03:27:17",
+                    "date": "2018-09-17 19:59:44",
                     "git_tag": "2.2.0",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.2.0",
-                    "version": "2018.0726.0327"
+                    "version": "2018.0917.1959"
                 }
             ]
         },
