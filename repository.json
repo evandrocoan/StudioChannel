@@ -13,10 +13,10 @@
             "releases": [
                 {
                     "date": "2018-07-17 09:26:24",
-                    "git_tag": "1.0.9",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.9",
+                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.10",
                     "version": "2018.0717.0926"
                 }
             ]
@@ -116,10 +116,10 @@
             "releases": [
                 {
                     "date": "2018-02-12 00:32:43",
-                    "git_tag": "1.1.3",
+                    "git_tag": "1.1.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AddFolderToProject/zip/1.1.3",
+                    "url": "https://codeload.github.com/evandrocoan/AddFolderToProject/zip/1.1.4",
                     "version": "2018.0212.0032"
                 }
             ]
@@ -291,12 +291,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.MD",
             "releases": [
                 {
-                    "date": "2018-08-23 14:08:50",
-                    "git_tag": "3.0.17",
+                    "date": "2018-08-23 21:45:39",
+                    "git_tag": "3.0.18",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.17",
-                    "version": "2018.0823.1408"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.18",
+                    "version": "2018.0823.2145"
                 }
             ]
         },
@@ -323,10 +323,10 @@
             "releases": [
                 {
                     "date": "2018-07-26 15:21:45",
-                    "git_tag": "1.0.13",
+                    "git_tag": "1.0.14",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.13",
+                    "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.14",
                     "version": "2018.0726.1521"
                 }
             ]
@@ -664,10 +664,10 @@
             "releases": [
                 {
                     "date": "2017-12-17 15:46:15",
-                    "git_tag": "1.2.4",
+                    "git_tag": "1.2.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.4",
+                    "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.5",
                     "version": "2017.0217.1546"
                 }
             ]
@@ -1549,10 +1549,10 @@
             "releases": [
                 {
                     "date": "2018-02-16 15:04:48",
-                    "git_tag": "1.8.3",
+                    "git_tag": "1.8.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FileHistory/zip/1.8.3",
+                    "url": "https://codeload.github.com/evandrocoan/FileHistory/zip/1.8.4",
                     "version": "2018.0216.1504"
                 }
             ]
@@ -2001,12 +2001,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-08-04 17:11:38",
-                    "git_tag": "3.0.6",
+                    "date": "2018-10-06 18:29:44",
+                    "git_tag": "3.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.6",
-                    "version": "2018.0804.1711"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.7",
+                    "version": "2018.0006.1829"
                 }
             ]
         },
@@ -2367,10 +2367,10 @@
             "releases": [
                 {
                     "date": "2018-07-09 15:46:22",
-                    "git_tag": "1.1.2",
+                    "git_tag": "1.1.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/lark_syntax/zip/1.1.2",
+                    "url": "https://codeload.github.com/evandroforks/lark_syntax/zip/1.1.3",
                     "version": "2018.0709.1546"
                 }
             ]
@@ -2832,10 +2832,10 @@
             "releases": [
                 {
                     "date": "2018-07-25 20:26:12",
-                    "git_tag": "2.0.6",
+                    "git_tag": "2.0.7",
                     "platforms": "*",
                     "sublime_text": ">3144",
-                    "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.6",
+                    "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.7",
                     "version": "2018.0725.2026"
                 },
                 {
@@ -3016,12 +3016,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-07-26 14:08:40",
-                    "git_tag": "1.0.10",
+                    "date": "2018-07-26 15:40:11",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/OverrideUnpackedPackages/zip/1.0.10",
-                    "version": "2018.0726.1408"
+                    "url": "https://codeload.github.com/evandrocoan/OverrideUnpackedPackages/zip/1.0.11",
+                    "version": "2018.0726.1540"
                 }
             ]
         },
@@ -3245,12 +3245,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/PowerShell/master/README.md",
             "releases": [
                 {
-                    "date": "2017-12-18 16:59:54",
+                    "date": "2018-09-24 14:29:10",
                     "git_tag": "3.0.0",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/PowerShell/zip/3.0.0",
-                    "version": "2017.0218.1659"
+                    "version": "2018.0924.1429"
                 }
             ]
         },
@@ -4085,10 +4085,10 @@
             "releases": [
                 {
                     "date": "2018-09-04 21:15:32",
-                    "git_tag": "v0.2.11",
+                    "git_tag": "0.2.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/Terminus/zip/v0.2.11",
+                    "url": "https://codeload.github.com/evandroforks/Terminus/zip/0.2.12",
                     "version": "2018.0904.2115"
                 }
             ]
@@ -4106,10 +4106,10 @@
             "releases": [
                 {
                     "date": "2018-07-07 21:39:10",
-                    "git_tag": "1.3.1",
+                    "git_tag": "1.3.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.1",
+                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.2",
                     "version": "2018.0707.2139"
                 }
             ]
@@ -4283,10 +4283,10 @@
             "releases": [
                 {
                     "date": "2018-07-04 16:54:24",
-                    "git_tag": "1.3.4",
+                    "git_tag": "1.3.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.3.4",
+                    "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.3.5",
                     "version": "2018.0704.1654"
                 }
             ]
@@ -4303,10 +4303,10 @@
             "releases": [
                 {
                     "date": "2018-07-25 21:34:02",
-                    "git_tag": "1.0.22",
+                    "git_tag": "1.0.23",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.22",
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.23",
                     "version": "2018.0725.2134"
                 }
             ]
@@ -4427,10 +4427,10 @@
             "releases": [
                 {
                     "date": "2018-06-21 18:45:40",
-                    "git_tag": "1.0.3",
+                    "git_tag": "1.0.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.3",
+                    "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.4",
                     "version": "2018.0621.1845"
                 }
             ]
@@ -4494,11 +4494,11 @@
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager",
                     "date": "2018-07-26 03:27:17",
-                    "git_tag": "1.0.87",
+                    "git_tag": "1.0.88",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.87",
+                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.88",
                     "version": "2018.0726.0327"
                 }
             ]
@@ -4519,11 +4519,11 @@
                 {
                     "base": "https://github.com/evandroforks/concurrent-log-handler",
                     "date": "2018-03-04 22:40:55",
-                    "git_tag": "0.9.10",
+                    "git_tag": "0.9.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/concurrent-log-handler/zip/0.9.10",
+                    "url": "https://codeload.github.com/evandroforks/concurrent-log-handler/zip/0.9.11",
                     "version": "2018.0304.2240"
                 }
             ]
@@ -4542,13 +4542,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/DebugTools",
-                    "date": "2018-09-17 19:59:44",
-                    "git_tag": "2.3.0",
+                    "date": "2018-10-03 18:07:28",
+                    "git_tag": "2.3.1",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.0",
-                    "version": "2018.0917.1959"
+                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.1",
+                    "version": "2018.0003.1807"
                 }
             ]
         },
