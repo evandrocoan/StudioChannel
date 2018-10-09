@@ -31,7 +31,7 @@ import os
 import sublime
 
 # from channel_manager.channel_utilities import print_all_variables_for_debugging
-# print_all_variables_for_debugging( g_channelSettings )
+# if 'g_channelSettings' in globals(): print_all_variables_for_debugging( g_channelSettings )
 # import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 # import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.submodules_manager" )
 
