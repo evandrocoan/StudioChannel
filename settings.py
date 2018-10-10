@@ -117,10 +117,7 @@ def plugin_loaded():
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "AmxxChannel",
-        "ColorSchemeUnit",
         "OverrideEditSettingsDefaultContents",
-        "PackagesManager",
-        "UnitTesting",
         "User",
     ]
 
@@ -136,8 +133,6 @@ def plugin_loaded():
     [
         "ApplySyntax",
         "AutoFileName",
-        "BracketHighlighter",
-        "BuildView",
         "C++ Completions",
         "C++ Qt Completions",
         "C++ Snippets",
@@ -151,15 +146,14 @@ def plugin_loaded():
         "GitGutter",
         "GotoLastEditEnhanced",
         "Javatar",
-        "LocalHistory",
         "MatlabCompletions",
         "MatlabFilenameAutoComplete",
         "MySQLSnippets",
         "ProjectSpecificSyntax",
         "ScopeAlways",
         "SublimeLinter-javac",
+        "SublimeLinter-pylint",
         "SyncedSideBar",
-        "TypeScript",
         "Vintage",
     ]
 
