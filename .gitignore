@@ -2,3 +2,4 @@
 /last_sublime_upgrade.channel-manager
 *.pyc
 _gsdata_
+*.sublime-workspace
