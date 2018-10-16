@@ -279,13 +279,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-12 01:24:18",
+                        "date": "2018-10-16 18:12:43",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2018.0012.0124"
+                        "version": "2018.0016.1812"
                     }
                 ]
             },
@@ -747,12 +747,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-15 21:44:55",
-                        "git_tag": "1.2.7",
+                        "date": "2018-10-16 18:13:59",
+                        "git_tag": "1.2.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.7",
-                        "version": "2018.0015.2144"
+                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.8",
+                        "version": "2018.0016.1813"
                     }
                 ]
             },
