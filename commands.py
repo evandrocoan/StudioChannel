@@ -90,7 +90,7 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], True )
+        copy_default_package.main( True )
 
     def is_enabled(self):
         return is_channel_installed() and is_development_version()
@@ -165,7 +165,7 @@ def load_channel_settings():
 
     # If the settings are not yet loaded, wait a little
     if hasattr( g_settings, "g_channelSettings" ) \
-            and "DEFAULT_PACKAGE_FILES" in g_settings.g_channelSettings:
+            and "CHANNEL_INSTALLATION_DETAILS" in g_settings.g_channelSettings:
 
         global g_channelSettings
         g_channelSettings = g_settings.g_channelSettings
@@ -199,7 +199,7 @@ def run_channel_update(installed_packages):
         if is_development_version():
             look_for_invalid_packages( g_channelSettings, installed_packages )
 
-        copy_default_package.main( g_channelSettings['DEFAULT_PACKAGE_FILES'], False )
+        copy_default_package.main( False )
         channel_installer.main( g_channelSettings )
 
     else:

@@ -98,22 +98,6 @@ def plugin_loaded():
         "PackagesManager",
     ]
 
-    g_channelSettings['DEFAULT_PACKAGE_FILES'] = \
-    [
-        ".gitignore",
-        ".no-sublime-package",
-        "Context.sublime-menu",
-        "Default.sublime-commands",
-        "Distraction Free.sublime-settings",
-        "Find Results.hidden-tmLanguage",
-        "Main.sublime-menu",
-        "README.md",
-        "Sublime Text Settings.sublime-settings",
-        "Tab Context.sublime-menu",
-        "platform_edit_settings.py",
-        "synced_side_bar_watcher.py",
-    ]
-
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
     [
         "AmxxChannel",
