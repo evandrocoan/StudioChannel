@@ -279,13 +279,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-16 18:12:43",
+                        "date": "2018-10-17 01:23:25",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2018.0016.1812"
+                        "version": "2018.0017.0123"
                     }
                 ]
             },
@@ -747,12 +747,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-16 18:13:59",
-                        "git_tag": "1.2.8",
+                        "date": "2018-10-17 01:03:24",
+                        "git_tag": "1.2.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.8",
-                        "version": "2018.0016.1813"
+                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.9",
+                        "version": "2018.0017.0103"
                     }
                 ]
             },
@@ -1270,12 +1270,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-15 20:55:23",
-                        "git_tag": "1.0.14",
+                        "date": "2018-10-17 19:51:31",
+                        "git_tag": "1.0.15",
                         "platforms": "*",
                         "sublime_text": ">3176",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.14",
-                        "version": "2018.0015.2055"
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.15",
+                        "version": "2018.0017.1951"
                     },
                     {
                         "date": "2017-09-27 14:05:07",
@@ -3665,13 +3665,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-16 16:05:48",
+                        "date": "2018-10-17 14:36:43",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.0016.1605"
+                        "version": "2018.0017.1436"
                     }
                 ]
             },
@@ -3808,12 +3808,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-10-10 19:26:38",
-                        "git_tag": "3.0.7",
+                        "date": "2018-10-17 19:45:17",
+                        "git_tag": "3.0.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.7",
-                        "version": "2018.0010.1926"
+                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.8",
+                        "version": "2018.0017.1945"
                     }
                 ]
             },
@@ -4632,13 +4632,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-15 15:10:22",
+                        "date": "2018-10-17 19:57:55",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2018.0015.1510"
+                        "version": "2018.0017.1957"
                     }
                 ]
             },
@@ -5165,12 +5165,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-10-14 23:35:10",
-                        "git_tag": "1.3.6",
+                        "date": "2018-10-17 18:59:43",
+                        "git_tag": "1.3.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.3.6",
-                        "version": "2018.0014.2335"
+                        "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.3.7",
+                        "version": "2018.0017.1859"
                     }
                 ]
             },
@@ -5185,12 +5185,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-13 21:21:07",
-                        "git_tag": "1.0.25",
+                        "date": "2018-10-17 01:23:25",
+                        "git_tag": "1.0.26",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.25",
-                        "version": "2018.0013.2121"
+                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.26",
+                        "version": "2018.0017.0123"
                     }
                 ]
             },
@@ -5418,13 +5418,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
-                        "date": "2018-10-15 19:08:47",
-                        "git_tag": "1.0.91",
+                        "date": "2018-10-17 19:39:28",
+                        "git_tag": "1.0.92",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.91",
-                        "version": "2018.0015.1908"
+                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.92",
+                        "version": "2018.0017.1939"
                     }
                 ]
             },
