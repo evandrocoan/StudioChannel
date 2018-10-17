@@ -1,0 +1,97 @@
+
+env:
+    global:
+        - PACKAGE="DebugTools" # Package name
+        - SUBLIME_TEXT_VERSION="3"
+
+        # # use UNITTESTING_TAG to specific tag of UnitTesting
+        # - UNITTESTING_TAG="master"
+
+
+# mutliple os matrix
+# https://docs.travis-ci.com/user/multi-os/#Python-example-(unsupported-languages)
+matrix:
+    include:
+        - os: linux
+          python: 3.3
+          language: python
+
+        # Currently Travis OSX only supports Python 2.7 and 3.6
+        - os: osx
+          python: 2.7
+          language: generic
+
+
+before_install:
+    - pwd
+
+    # if $TOXENV is empty
+    - if [ -z "$TOXENV" ]; then
+            curl -OL https://raw.githubusercontent.com/evandroforks/UnitTesting/master/sbin/travis.sh;
+      fi
+
+    - if [ -z "$TOXENV" ] && [ "$TRAVIS_OS_NAME" == "osx" ]; then
+            brew update > /dev/null;
+            python --version;
+            python3 --version;
+            brew upgrade python;
+            python --version;
+            python3 --version;
+      fi
+
+    # enable gui, see https://docs.travis-ci.com/user/gui-and-headless-browsers
+    - if [ -z "$TOXENV" ] && [ "$TRAVIS_OS_NAME" == "linux"  ]; then
+            export DISPLAY=:99.0;
+            sh -e /etc/init.d/xvfb start;
+      fi
+
+
+install:
+    - if ! [ -z "$TOXENV" ] && [ "$TRAVIS_OS_NAME" == "linux" ]; then
+            pip install --disable-pip-version-check tox;
+            pip install --disable-pip-version-check -e .[full];
+            pip install --disable-pip-version-check diff_match_patch;
+            pip install --disable-pip-version-check diff-match-patch;
+            pip list;
+      fi
+
+    - if ! [ -z "$TOXENV" ] && [ "$TRAVIS_OS_NAME" == "osx" ]; then
+            brew update > /dev/null;
+            brew install python3;
+            sudo -H pip3 install --disable-pip-version-check virtualenv;
+            pip3 install --disable-pip-version-check tox;
+            pip3 install --disable-pip-version-check -e .[full];
+            pip3 install --disable-pip-version-check diff-match-patch;
+            pip3 install --disable-pip-version-check diff_match_patch;
+            pip3 list;
+      fi
+
+    # bootstrap the testing environment
+    # install Package Control and package dependencies
+    - if [ -z "$TOXENV" ]; then
+            sh travis.sh bootstrap;
+            sh travis.sh clone_git_package "https://github.com/evandroforks/PortalockerFiles" "PortalockerFiles";
+            sh travis.sh clone_git_package "https://github.com/evandroforks/DiffMatchPatch" "DiffMatchPatch";
+            sh travis.sh clone_git_package "https://github.com/evandroforks/ConcurrentLogHandler" "ConcurrentLogHandler";
+            sh travis.sh install_package_control;
+      fi
+
+
+script:
+    # run tests with test coverage report
+    - if [ -z "$TOXENV" ]; then
+            sh travis.sh run_tests --coverage;
+      fi
+
+    - if ! [ -z "$TOXENV" ]; then
+            tox;
+      fi
+
+
+after_success:
+    - echo AFTER SUCCESS
+
+
+notifications:
+    email: false
+

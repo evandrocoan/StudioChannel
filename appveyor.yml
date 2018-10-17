@@ -1,0 +1,73 @@
+
+environment:
+
+    matrix:
+        - PACKAGE: "DebugTools"
+          SUBLIME_TEXT_VERSION : "3"
+
+
+install:
+    - python --version
+    - pip list
+    - dir
+
+    - IF "%COVERAGE%"=="py36" (SET PYTHON=C:\\Python36)
+    - IF "%COVERAGE%"=="py36" (SETLOCAL ENABLEDELAYEDEXPANSION && SET "PATH=!PYTHON!;!PYTHON!\\Scripts;!PATH!")
+    - IF "%COVERAGE%"=="py36" (SETLOCAL ENABLEDELAYEDEXPANSION && echo !PATH!)
+    - IF "%COVERAGE%"=="py36" (python --version)
+
+    # Setup ambient variable
+    - SET INSTALL_DEPENDENCIES=false
+    - IF NOT "%TOXENV%"=="" set INSTALL_DEPENDENCIES=true
+    - IF NOT "%COVERAGE%"=="" set INSTALL_DEPENDENCIES=true
+
+    # Install/setup tox
+    - IF NOT "%TOXENV%"=="" (C:\Python27\python -m pip install --disable-pip-version-check --pre -U tox)
+    - IF %INSTALL_DEPENDENCIES%==true (pip install --disable-pip-version-check -e .[full])
+    - IF %INSTALL_DEPENDENCIES%==true (pip install --disable-pip-version-check diff-match-patch)
+    - IF %INSTALL_DEPENDENCIES%==true (pip install --disable-pip-version-check diff_match_patch)
+
+    # Install coverage tools
+    - IF "%COVERAGE%"=="py36" (pip install --disable-pip-version-check codecov )
+    - IF "%COVERAGE%"=="py36" (pip install --disable-pip-version-check coverage )
+    - IF "%COVERAGE%"=="py36" (pip install --disable-pip-version-check codacy-coverage )
+    - IF "%COVERAGE%"=="py36" (pip install --disable-pip-version-check python-coveralls)
+    - pip list
+
+    # Install Sublime Text tools
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {appveyor DownloadFile "https://raw.githubusercontent.com/evandroforks/UnitTesting/master/sbin/appveyor.ps1"}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "bootstrap" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/PortalockerFiles" "PortalockerFiles" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/DiffMatchPatch" "DiffMatchPatch" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/ConcurrentLogHandler" "ConcurrentLogHandler" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/python-pywin32" "python-pywin32" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "install_package_control" -verbose}
+
+
+build: off
+
+
+test_script:
+    - IF NOT "%TOXENV%"=="" (C:\Python27\scripts\tox)
+
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "run_tests" -coverage -verbose}
+
+    - IF "%COVERAGE%"=="py36" (coverage run .\tests\run_tests.py)
+    - IF "%COVERAGE%"=="py36" (coverage report -m)
+    - IF "%COVERAGE%"=="py36" (coverage --version)
+    - IF "%COVERAGE%"=="py36" (coverage xml -o coverage.xml)
+    - IF "%COVERAGE%"=="py36" (where codecov)
+    - IF "%COVERAGE%"=="py36" (where coverage)
+    - IF "%COVERAGE%"=="py36" (where coveralls)
+    - IF "%COVERAGE%"=="py36" (where python-codacy-coverage)
+
+
+on_finish:
+    - python --version
+    - pip list
+    - dir
+
+    - IF "%COVERAGE%"=="py36" (coveralls)
+    - IF "%COVERAGE%"=="py36" (codecov -f coverage.xml -t %CODECOV_TOKEN%)
+    - IF "%COVERAGE%"=="py36" (python-codacy-coverage -r coverage.xml)
+
