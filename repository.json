@@ -5461,13 +5461,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/DebugTools",
-                    "date": "2018-10-15 00:53:11",
-                    "git_tag": "2.3.3",
+                    "date": "2018-10-17 16:22:32",
+                    "git_tag": "2.3.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.3",
-                    "version": "2018.0015.0053"
+                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.4",
+                    "version": "2018.0017.1622"
                 }
             ]
         },
