@@ -43,7 +43,12 @@ import unittest
 import sublime_plugin
 
 from debug_tools import testing_utilities
+
+from channel_manager import channel_installer
+from channel_manager import installation_wizard
+
 from StudioChannel import commands
+from StudioChannel import settings
 
 
 # from ChannelManager import studio_installer; studio_installer.main("development")
@@ -61,7 +66,18 @@ class MainUnitTests(testing_utilities.TestingUtilities):
             self.fail("You cannot run the installation test when the channel is already installed! (%s)" % is_channel_installed)
 
     def test_installationAndUninstallationStable(self):
-        pass
+        installation_wizard.unpack_settigns(settings.g_channelSettings)
+        installation_wizard.add_channel()
+        installation_wizard.clear_cache()
+
+        installation_wizard.g_channelSettings['INSTALLER_TYPE']    = "installer"
+        installation_wizard.g_channelSettings['INSTALLATION_TYPE'] = "stable"
+        installation_wizard.g_channelSettings['SKIP_INSTALLATION_QUESTIONS'] = "Useful for Automated Unit Testing"
+
+        installer_thread = channel_installer.main( installation_wizard.g_channelSettings, True )
+        installer_thread.join()
+
+        self.fail("Not yet implemented")
 
     def test_installationAndUninstallationDevelopment(self):
         pass
