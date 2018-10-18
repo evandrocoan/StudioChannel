@@ -1273,58 +1273,51 @@
                         "date": "2018-10-17 19:51:31",
                         "git_tag": "1.0.15",
                         "platforms": "*",
-                        "sublime_text": ">3176",
+                        "sublime_text": ">3161",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.15",
                         "version": "2018.0017.1951"
                     },
                     {
-                        "date": "2017-09-27 14:05:07",
+                        "date": "2018-10-17 23:51:58",
                         "platforms": "*",
                         "sublime_text": "<=3144",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3144",
-                        "version": "2017.0927.1405"
+                        "version": "2018.0017.2351"
                     },
                     {
-                        "date": "2017-10-07 09:54:15",
+                        "date": "2018-10-17 23:52:11",
                         "platforms": "*",
                         "sublime_text": "<=3147",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3147",
-                        "version": "2017.0007.0954"
+                        "version": "2018.0017.2352"
                     },
                     {
-                        "date": "2017-10-10 18:15:49",
+                        "date": "2018-10-17 23:52:11",
                         "platforms": "*",
                         "sublime_text": "<=3148",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3148",
-                        "version": "2017.0010.1815"
+                        "version": "2018.0017.2352"
                     },
                     {
-                        "date": "2017-10-19 19:58:15",
+                        "date": "2018-10-17 23:52:11",
                         "platforms": "*",
                         "sublime_text": "<=3151",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3151",
-                        "version": "2017.0019.1958"
+                        "version": "2018.0017.2352"
                     },
                     {
-                        "date": "2017-11-11 13:52:18",
+                        "date": "2018-10-17 23:52:11",
                         "platforms": "*",
                         "sublime_text": "<=3154",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3154",
-                        "version": "2017.0111.1352"
+                        "version": "2018.0017.2352"
                     },
                     {
-                        "date": "2018-04-07 10:34:27",
+                        "date": "2018-10-17 23:52:11",
                         "platforms": "*",
                         "sublime_text": "<=3161",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3161",
-                        "version": "2018.0407.1034"
-                    },
-                    {
-                        "date": "2018-10-15 16:41:15",
-                        "platforms": "*",
-                        "sublime_text": "<=3176",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3176",
-                        "version": "2018.0015.1641"
+                        "version": "2018.0017.2352"
                     }
                 ]
             },
@@ -3802,7 +3795,7 @@
                     "uml",
                     "plantuml"
                 ],
-                "last_modified": "2018-10-10 22:26:38",
+                "last_modified": "2018-10-17 22:45:17",
                 "name": "PlantUmlDiagrams",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
