@@ -1266,12 +1266,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-17 19:51:31",
-                    "git_tag": "1.0.15",
+                    "date": "2018-10-18 01:53:51",
+                    "git_tag": "1.0.16",
                     "platforms": "*",
                     "sublime_text": ">3161",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.15",
-                    "version": "2018.0017.1951"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.16",
+                    "version": "2018.0018.0153"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -3010,12 +3010,12 @@
             "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
             "releases": [
                 {
-                    "date": "2018-10-10 19:26:34",
-                    "git_tag": "0.4.9",
+                    "date": "2018-10-18 22:07:24",
+                    "git_tag": "0.4.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.9",
-                    "version": "2018.0010.1926"
+                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.4.10",
+                    "version": "2018.0018.2207"
                 }
             ]
         },
@@ -3654,13 +3654,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-17 14:36:43",
+                    "date": "2018-10-18 21:03:18",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2018.0017.1436"
+                    "version": "2018.0018.2103"
                 }
             ]
         },
@@ -3797,12 +3797,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
             "releases": [
                 {
-                    "date": "2018-10-17 19:45:17",
-                    "git_tag": "3.0.8",
+                    "date": "2018-10-18 21:24:22",
+                    "git_tag": "3.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.8",
-                    "version": "2018.0017.1945"
+                    "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.9",
+                    "version": "2018.0018.2124"
                 }
             ]
         },
@@ -4621,13 +4621,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-17 19:57:55",
+                    "date": "2018-10-18 02:19:53",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2018.0017.1957"
+                    "version": "2018.0018.0219"
                 }
             ]
         },
@@ -5319,12 +5319,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-10 22:36:34",
-                    "git_tag": "1.7.5",
+                    "date": "2018-10-18 20:00:01",
+                    "git_tag": "1.7.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.5",
-                    "version": "2018.0010.2236"
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.6",
+                    "version": "2018.0018.2000"
                 }
             ]
         },
@@ -5405,13 +5405,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager",
-                    "date": "2018-10-17 19:39:28",
-                    "git_tag": "1.0.92",
+                    "date": "2018-10-18 02:18:32",
+                    "git_tag": "1.0.93",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.92",
-                    "version": "2018.0017.1939"
+                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.93",
+                    "version": "2018.0018.0218"
                 }
             ]
         },
