@@ -1266,12 +1266,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-18 01:53:51",
-                    "git_tag": "1.0.16",
+                    "date": "2018-10-19 19:27:46",
+                    "git_tag": "1.0.17",
                     "platforms": "*",
                     "sublime_text": ">3161",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.16",
-                    "version": "2018.0018.0153"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.17",
+                    "version": "2018.0019.1927"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -3654,13 +3654,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-18 21:03:18",
+                    "date": "2018-10-19 19:33:32",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2018.0018.2103"
+                    "version": "2018.0019.1933"
                 }
             ]
         },
@@ -4621,13 +4621,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-18 02:19:53",
+                    "date": "2018-10-19 18:15:16",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2018.0018.0219"
+                    "version": "2018.0019.1815"
                 }
             ]
         },
@@ -5174,12 +5174,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-17 01:23:25",
-                    "git_tag": "1.0.26",
+                    "date": "2018-10-19 00:18:32",
+                    "git_tag": "1.0.27",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.26",
-                    "version": "2018.0017.0123"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.27",
+                    "version": "2018.0019.0018"
                 }
             ]
         },
@@ -5319,12 +5319,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-18 20:00:01",
-                    "git_tag": "1.7.6",
+                    "date": "2018-10-19 12:32:18",
+                    "git_tag": "1.7.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.6",
-                    "version": "2018.0018.2000"
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.7.7",
+                    "version": "2018.0019.1232"
                 }
             ]
         },
@@ -5405,13 +5405,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/ChannelManager",
-                    "date": "2018-10-18 02:18:32",
-                    "git_tag": "1.0.93",
+                    "date": "2018-10-19 18:56:17",
+                    "git_tag": "1.0.94",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.93",
-                    "version": "2018.0018.0218"
+                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.94",
+                    "version": "2018.0019.1856"
                 }
             ]
         },
@@ -5454,13 +5454,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/DebugTools",
-                    "date": "2018-10-17 16:22:32",
-                    "git_tag": "2.3.4",
+                    "date": "2018-10-19 17:31:36",
+                    "git_tag": "2.3.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.4",
-                    "version": "2018.0017.1622"
+                    "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.5",
+                    "version": "2018.0019.1731"
                 }
             ]
         },
