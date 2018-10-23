@@ -16,12 +16,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-15 20:58:28",
-                        "git_tag": "1.0.12",
+                        "date": "2018-10-23 09:37:07",
+                        "git_tag": "1.0.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.12",
-                        "version": "2018.0015.2058"
+                        "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.13",
+                        "version": "2018.0023.0937"
                     }
                 ]
             },
@@ -747,12 +747,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-17 01:03:24",
-                        "git_tag": "1.2.9",
+                        "date": "2018-10-20 10:07:38",
+                        "git_tag": "1.2.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.9",
-                        "version": "2018.0017.0103"
+                        "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.10",
+                        "version": "2018.0020.1007"
                     }
                 ]
             },
@@ -1270,12 +1270,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-19 19:27:46",
-                        "git_tag": "1.0.17",
+                        "date": "2018-10-23 09:37:07",
+                        "git_tag": "1.0.18",
                         "platforms": "*",
                         "sublime_text": ">3161",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.17",
-                        "version": "2018.0019.1927"
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.18",
+                        "version": "2018.0023.0937"
                     },
                     {
                         "date": "2018-10-17 23:51:58",
@@ -3658,13 +3658,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-19 19:33:32",
+                        "date": "2018-10-23 10:52:03",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.0019.1933"
+                        "version": "2018.0023.1052"
                     }
                 ]
             },
@@ -4625,13 +4625,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-19 18:15:16",
+                        "date": "2018-10-19 19:39:35",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2018.0019.1815"
+                        "version": "2018.0019.1939"
                     }
                 ]
             },
@@ -4961,12 +4961,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-10 19:26:47",
-                        "git_tag": "1.3.3",
+                        "date": "2018-10-22 18:54:41",
+                        "git_tag": "1.3.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.3",
-                        "version": "2018.0010.1926"
+                        "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.4",
+                        "version": "2018.0022.1854"
                     }
                 ]
             },
@@ -5178,12 +5178,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-19 00:18:32",
-                        "git_tag": "1.0.27",
+                        "date": "2018-10-22 15:19:09",
+                        "git_tag": "1.0.28",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.27",
-                        "version": "2018.0019.0018"
+                        "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.28",
+                        "version": "2018.0022.1519"
                     }
                 ]
             },
@@ -5411,13 +5411,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/ChannelManager",
-                        "date": "2018-10-19 18:56:17",
-                        "git_tag": "1.0.94",
+                        "date": "2018-10-22 14:34:32",
+                        "git_tag": "1.0.95",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.94",
-                        "version": "2018.0019.1856"
+                        "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.95",
+                        "version": "2018.0022.1434"
                     }
                 ]
             },
@@ -5460,13 +5460,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/DebugTools",
-                        "date": "2018-10-19 17:31:36",
-                        "git_tag": "2.3.5",
+                        "date": "2018-10-23 10:50:19",
+                        "git_tag": "2.5.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.3.5",
-                        "version": "2018.0019.1731"
+                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.5.1",
+                        "version": "2018.0023.1050"
                     }
                 ]
             },
