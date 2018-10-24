@@ -11,6 +11,10 @@
             "command": "studio_channel_generate_channel_file",
             "args": {"command": "git_tag_all" } },
 
+    { "caption": "StudioChannel: Cancel Current Operation",
+            "command": "studio_channel_generate_channel_file",
+            "args": {"command": "cancel_operation" } },
+
     { "caption": "StudioChannel: Run Installation Wizard",
             "command": "studio_channel_run_installation" },
 
