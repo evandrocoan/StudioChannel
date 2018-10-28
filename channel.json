@@ -307,7 +307,7 @@
                     "pawn",
                     "build system"
                 ],
-                "last_modified": "2018-08-24 00:45:39",
+                "last_modified": "2018-10-24 04:30:10",
                 "name": "AmxxEditor",
                 "previous_names": [
                     "Amxmodx"
@@ -1373,7 +1373,7 @@
                 "homepage": "https://github.com/evandrocoan/DictionaryAutoComplete",
                 "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues",
                 "labels": [],
-                "last_modified": "2018-10-23 21:25:28",
+                "last_modified": "2018-10-27 05:43:32",
                 "name": "DictionaryAutoComplete",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md",
@@ -2379,6 +2379,27 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.2",
                         "version": "2018.1010.1926"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "SublimeText",
+                    "Forked by evandroforks"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandroforks/HighlightWordsOnSelection",
+                "homepage": "https://github.com/evandroforks/HighlightWordsOnSelection",
+                "name": "HighlightWordsOnSelection",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2018-10-10 20:02:17",
+                        "git_tag": "1.0.5",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/HighlightWordsOnSelection/zip/1.0.5",
+                        "version": "2018.1010.2002"
                     }
                 ]
             },
@@ -3658,13 +3679,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-27 16:49:40",
+                        "date": "2018-10-27 16:54:26",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.1027.1649"
+                        "version": "2018.1027.1654"
                     }
                 ]
             },
@@ -3795,7 +3816,7 @@
                     "uml",
                     "plantuml"
                 ],
-                "last_modified": "2018-10-19 00:24:22",
+                "last_modified": "2018-10-24 04:10:53",
                 "name": "PlantUmlDiagrams",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
@@ -5092,7 +5113,7 @@
                     "text manipulation",
                     "formatting"
                 ],
-                "last_modified": "2018-08-22 01:02:49",
+                "last_modified": "2018-10-26 20:02:12",
                 "name": "Trimmer",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md",
@@ -5282,32 +5303,6 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.5",
                         "version": "2018.1010.1926"
-                    }
-                ]
-            },
-            {
-                "authors": [
-                    "SublimeText",
-                    "Forked by evandrocoan"
-                ],
-                "buy": null,
-                "description": "Highlight all copies of the currently selected word.",
-                "donate": null,
-                "homepage": "https://github.com/evandrocoan/WordHighlight",
-                "issues": "https://github.com/SublimeText/WordHighlight/issues",
-                "labels": [],
-                "last_modified": "2018-08-28 18:32:49",
-                "name": "WordHighlight",
-                "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/SublimeText/WordHighlight/master/README.markdown",
-                "releases": [
-                    {
-                        "date": "2018-10-10 20:02:17",
-                        "git_tag": "1.0.5",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/WordHighlight/zip/1.0.5",
-                        "version": "2018.1010.2002"
                     }
                 ]
             },
@@ -5542,6 +5537,31 @@
                         "tags": true,
                         "url": "https://codeload.github.com/evandroforks/portalocker/zip/2.0.2",
                         "version": "2018.1010.1926"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "lark-parser",
+                    "Forked by evandrocoan"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/pushdown",
+                "homepage": "https://github.com/evandrocoan/pushdown",
+                "issues": "https://github.com/evandrocoan/pushdown/issues",
+                "load_order": "09",
+                "name": "PushdownParser",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "base": "https://github.com/evandrocoan/pushdown",
+                        "date": "2018-10-16 14:19:47",
+                        "git_tag": "0.6.5",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "tags": true,
+                        "url": "https://codeload.github.com/evandrocoan/pushdown/zip/0.6.5",
+                        "version": "2018.1016.1419"
                     }
                 ]
             },
