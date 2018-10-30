@@ -3659,13 +3659,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-10-27 16:54:26",
+                        "date": "2018-10-30 16:55:21",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2018.1027.1654"
+                        "version": "2018.1030.1655"
                     }
                 ]
             },
