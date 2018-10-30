@@ -83,7 +83,6 @@ def plugin_loaded():
 
     g_channelSettings['PACKAGES_TO_INSTALL_LAST'] = \
     [
-        "0_settings_loader",
         "Default",
         "BetterFindBuffer",
         "A File Icon",
@@ -92,7 +91,6 @@ def plugin_loaded():
 
     g_channelSettings['FORBIDDEN_PACKAGES'] = \
     [
-        "0_settings_loader",
         "ChannelManager",
         "Notepad++ Color Scheme",
         "PackagesManager",

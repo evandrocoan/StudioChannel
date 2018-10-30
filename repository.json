@@ -3,26 +3,6 @@
     "packages": [
         {
             "authors": [
-                "evandrocoan"
-            ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/0_settings_loader",
-            "homepage": "https://github.com/evandrocoan/0_settings_loader",
-            "name": "0_settings_loader",
-            "previous_names": [],
-            "releases": [
-                {
-                    "date": "2018-10-23 09:37:07",
-                    "git_tag": "1.0.13",
-                    "platforms": "*",
-                    "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/0_settings_loader/zip/1.0.13",
-                    "version": "2018.1023.0937"
-                }
-            ]
-        },
-        {
-            "authors": [
                 "ihodev",
                 "Forked by evandrocoan"
             ],
@@ -1763,7 +1743,7 @@
             "labels": [
                 "diff/merge"
             ],
-            "last_modified": "2017-03-20 14:11:22",
+            "last_modified": "2018-10-29 14:37:43",
             "name": "FileDiffs",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeFileDiffs/master/README.md",
@@ -2906,7 +2886,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-09-18 09:37:19",
+            "last_modified": "2018-10-29 18:42:05",
             "name": "LESS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
