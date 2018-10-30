@@ -723,12 +723,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-20 10:07:38",
-                    "git_tag": "1.2.10",
+                    "date": "2018-10-30 17:36:29",
+                    "git_tag": "1.2.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.10",
-                    "version": "2018.1020.1007"
+                    "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.11",
+                    "version": "2018.1030.1736"
                 }
             ]
         },
@@ -1246,12 +1246,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-10-29 21:14:56",
-                    "git_tag": "1.0.19",
+                    "date": "2018-10-30 18:17:58",
+                    "git_tag": "1.0.20",
                     "platforms": "*",
                     "sublime_text": ">3161",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.19",
-                    "version": "2018.1029.2114"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.20",
+                    "version": "2018.1030.1817"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
