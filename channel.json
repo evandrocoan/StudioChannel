@@ -394,7 +394,7 @@
                 "homepage": "https://github.com/evandrocoan/ApplySyntax",
                 "issues": "https://github.com/facelessuser/ApplySyntax/issues",
                 "labels": [],
-                "last_modified": "2018-04-21 18:52:09",
+                "last_modified": "2018-09-17 00:55:12",
                 "name": "ApplySyntax",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -679,7 +679,7 @@
                 "homepage": "https://github.com/evandrocoan/BracketHighlighter",
                 "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
                 "labels": [],
-                "last_modified": "2018-06-15 02:35:46",
+                "last_modified": "2018-10-26 02:19:36",
                 "name": "BracketHighlighter",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -1353,7 +1353,7 @@
                 "homepage": "https://github.com/evandrocoan/DictionaryAutoComplete",
                 "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues",
                 "labels": [],
-                "last_modified": "2018-10-27 05:43:32",
+                "last_modified": "2018-11-03 11:34:54",
                 "name": "DictionaryAutoComplete",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md",
@@ -2116,7 +2116,7 @@
                 "homepage": "https://github.com/evandrocoan/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2018-09-19 19:45:08",
+                "last_modified": "2018-11-10 15:06:31",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -2659,7 +2659,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2018-06-18 20:48:25",
+                "last_modified": "2018-11-28 00:29:19",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2758,27 +2758,6 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/LanguageTool/zip/0.2.9",
                         "version": "2018.0310.1653"
-                    }
-                ]
-            },
-            {
-                "authors": [
-                    "lark-parser",
-                    "Forked by evandroforks"
-                ],
-                "description": "No description available.",
-                "details": "https://github.com/evandroforks/lark_syntax",
-                "homepage": "https://github.com/evandroforks/lark_syntax",
-                "name": "LarkGrammarParser",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2018-10-10 20:02:28",
-                        "git_tag": "1.1.4",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/lark_syntax/zip/1.1.4",
-                        "version": "2018.1010.2002"
                     }
                 ]
             },
@@ -2884,13 +2863,13 @@
                 ],
                 "buy": null,
                 "description": "LESS syntax highlighting for Sublime Text.",
-                "donate": null,
+                "donate": "https://paypal.me/pools/c/89Rcz97pIQ",
                 "homepage": "https://github.com/evandrocoan/LESS",
                 "issues": "https://github.com/danro/LESS-sublime/issues",
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2018-10-29 18:42:05",
+                "last_modified": "2018-11-26 08:34:05",
                 "name": "LESS",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -3009,7 +2988,7 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2018-10-14 20:34:12",
+                "last_modified": "2018-11-01 12:18:18",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3486,7 +3465,7 @@
                 "homepage": "https://github.com/evandrocoan/Origami",
                 "issues": "https://github.com/SublimeText/Origami/issues",
                 "labels": [],
-                "last_modified": "2018-08-20 13:30:42",
+                "last_modified": "2018-11-21 15:35:14",
                 "name": "Origami",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
@@ -3935,6 +3914,27 @@
             },
             {
                 "authors": [
+                    "lark-parser",
+                    "Forked by evandrocoan"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/pushdown_syntax",
+                "homepage": "https://github.com/evandrocoan/pushdown_syntax",
+                "name": "PushdownParserSyntax",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2018-10-10 20:02:28",
+                        "git_tag": "1.1.4",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandrocoan/pushdown_syntax/zip/1.1.4",
+                        "version": "2018.1010.2002"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "evandroforks"
                 ],
                 "description": "No description available.",
@@ -3956,21 +3956,29 @@
             {
                 "authors": [
                     "klorenz",
-                    "Forked by evandrocoan"
+                    "evandrocoan"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/QuickSettings",
+                "buy": null,
+                "description": "Forked from the Bitbuket mercurial repository, this allows you to browse and edit sublime preferences/settings, without writing JSON files.",
+                "donate": null,
                 "homepage": "https://github.com/evandrocoan/QuickSettings",
+                "issues": "https://github.com/evandrocoan/QuickSettings/issues",
+                "labels": [
+                    "preferences",
+                    "settings"
+                ],
+                "last_modified": "2018-11-07 17:50:56",
                 "name": "QuickSettings",
                 "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.rst",
                 "releases": [
                     {
-                        "date": "2018-10-10 19:26:42",
-                        "git_tag": "1.0.12",
+                        "date": "2018-11-07 15:50:56",
+                        "git_tag": "1.0.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.12",
-                        "version": "2018.1010.1926"
+                        "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.13",
+                        "version": "2018.1107.1550"
                     }
                 ]
             },
@@ -4046,7 +4054,7 @@
                 "homepage": "https://github.com/evandrocoan/REG",
                 "issues": "https://github.com/robertcollier4/REG/issues",
                 "labels": [],
-                "last_modified": "2017-10-06 13:45:38",
+                "last_modified": "2018-11-11 00:47:23",
                 "name": "REG",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/robertcollier4/REG/master/README.md",
@@ -4935,7 +4943,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2018-09-30 23:05:20",
+                "last_modified": "2018-11-23 13:22:19",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -5064,7 +5072,7 @@
                 "homepage": "https://github.com/evandrocoan/Toml",
                 "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
                 "labels": [],
-                "last_modified": "2018-06-12 17:49:05",
+                "last_modified": "2018-11-05 11:21:53",
                 "name": "TOML",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md",
@@ -5127,7 +5135,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2018-09-28 20:39:12",
+                "last_modified": "2018-11-01 00:38:43",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -5460,13 +5468,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandroforks/DiffMatchPatch",
-                        "date": "2018-10-10 19:26:24",
-                        "git_tag": "1.0.1",
+                        "date": "2018-11-01 16:03:24",
+                        "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/DiffMatchPatch/zip/1.0.1",
-                        "version": "2018.1010.1926"
+                        "url": "https://codeload.github.com/evandroforks/DiffMatchPatch/zip/1.0.2",
+                        "version": "2018.1101.1603"
                     }
                 ]
             },
