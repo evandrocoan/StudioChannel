@@ -5538,7 +5538,7 @@
                 "homepage": "https://github.com/evandrocoan/pushdown",
                 "issues": "https://github.com/evandrocoan/pushdown/issues",
                 "load_order": "09",
-                "name": "PushdownParser",
+                "name": "pushdownparser",
                 "previous_names": [],
                 "releases": [
                     {
