@@ -10,23 +10,11 @@
                     "ihodev",
                     "Forked by evandrocoan"
                 ],
-                "buy": null,
-                "description": "Sublime Text File-Specific Icons for Improved Visual Grepping",
-                "donate": null,
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/AFileIcon",
                 "homepage": "https://github.com/evandrocoan/AFileIcon",
-                "issues": "https://github.com/ihodev/a-file-icon/issues",
-                "labels": [
-                    "theme",
-                    "file",
-                    "icons"
-                ],
-                "last_modified": "2018-02-22 14:34:37",
                 "name": "A File Icon",
-                "previous_names": [
-                    "File Icons Extended",
-                    "zz File Icons"
-                ],
-                "readme": "https://raw.githubusercontent.com/ihodev/a-file-icon/master/README.md",
+                "previous_names": [],
                 "releases": [
                     {
                         "date": "2018-10-10 16:14:54",
@@ -2317,6 +2305,32 @@
             },
             {
                 "authors": [
+                    "facelessuser",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "Hex viewer and editor for SublimeText http://facelessuser.github.io/HexViewer/",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/HexViewer",
+                "issues": "https://github.com/facelessuser/HexViewer/issues",
+                "labels": [],
+                "last_modified": "2017-11-20 01:52:58",
+                "name": "HexViewer",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/facelessuser/HexViewer/master/readme.md",
+                "releases": [
+                    {
+                        "date": "2013-03-22 13:19:54",
+                        "git_tag": "v1.8.0_ST3",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/HexViewer/zip/v1.8.0_ST3",
+                        "version": "2013.0322.1319"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "bblanchon",
                     "Forked by evandrocoan"
                 ],
@@ -2659,7 +2673,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2018-11-28 00:29:19",
+                "last_modified": "2018-12-06 01:22:48",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2869,7 +2883,7 @@
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2018-11-26 08:34:05",
+                "last_modified": "2018-12-04 09:44:19",
                 "name": "LESS",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -4427,14 +4441,14 @@
             },
             {
                 "authors": [
-                    "SideBarEnhancements-org",
+                    "titoBouzout",
                     "Forked by evandrocoan"
                 ],
                 "buy": null,
                 "description": "Enhancements to Sublime Text sidebar. Files and folders.",
                 "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW",
                 "homepage": "https://github.com/evandrocoan/SideBarEnhancements",
-                "issues": "https://github.com/SideBarEnhancements-org/SideBarEnhancements/issues",
+                "issues": "https://github.com/titoBouzout/SideBarEnhancements/issues",
                 "labels": [
                     "sidebar",
                     "folder",
@@ -4442,7 +4456,7 @@
                     "file",
                     "clipboard"
                 ],
-                "last_modified": "2018-10-03 23:17:01",
+                "last_modified": "2018-12-05 13:20:29",
                 "name": "SideBarEnhancements",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -5135,7 +5149,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2018-11-01 00:38:43",
+                "last_modified": "2018-11-29 02:28:20",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -5410,21 +5424,21 @@
                     "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/concurrent-log-handler",
-                "homepage": "https://github.com/evandroforks/concurrent-log-handler",
-                "issues": "https://github.com/evandroforks/concurrent-log-handler/issues",
+                "details": "https://github.com/evandroforks/concurrentloghandler",
+                "homepage": "https://github.com/evandroforks/concurrentloghandler",
+                "issues": "https://github.com/evandroforks/concurrentloghandler/issues",
                 "load_order": "09",
                 "name": "concurrentloghandler",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandroforks/concurrent-log-handler",
+                        "base": "https://github.com/evandroforks/concurrentloghandler",
                         "date": "2018-10-10 19:26:22",
                         "git_tag": "0.9.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/concurrent-log-handler/zip/0.9.12",
+                        "url": "https://codeload.github.com/evandroforks/concurrentloghandler/zip/0.9.12",
                         "version": "2018.1010.1926"
                     }
                 ]
@@ -5509,21 +5523,21 @@
                     "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/portalocker",
-                "homepage": "https://github.com/evandroforks/portalocker",
-                "issues": "https://github.com/evandroforks/portalocker/issues",
+                "details": "https://github.com/evandroforks/portalockerfiles",
+                "homepage": "https://github.com/evandroforks/portalockerfiles",
+                "issues": "https://github.com/evandroforks/portalockerfiles/issues",
                 "load_order": "08",
                 "name": "portalockerfiles",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandroforks/portalocker",
+                        "base": "https://github.com/evandroforks/portalockerfiles",
                         "date": "2018-10-10 19:26:39",
                         "git_tag": "2.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/portalocker/zip/2.0.2",
+                        "url": "https://codeload.github.com/evandroforks/portalockerfiles/zip/2.0.2",
                         "version": "2018.1010.1926"
                     }
                 ]
@@ -5534,21 +5548,21 @@
                     "Forked by evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/pushdown",
-                "homepage": "https://github.com/evandrocoan/pushdown",
-                "issues": "https://github.com/evandrocoan/pushdown/issues",
+                "details": "https://github.com/evandrocoan/pushdownparser",
+                "homepage": "https://github.com/evandrocoan/pushdownparser",
+                "issues": "https://github.com/evandrocoan/pushdownparser/issues",
                 "load_order": "09",
                 "name": "pushdownparser",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandrocoan/pushdown",
+                        "base": "https://github.com/evandrocoan/pushdownparser",
                         "date": "2018-10-29 23:17:15",
                         "git_tag": "0.6.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/pushdown/zip/0.6.7",
+                        "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.6.7",
                         "version": "2018.1029.2317"
                     }
                 ]
