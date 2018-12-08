@@ -5478,21 +5478,21 @@
                 "Forked by evandroforks"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/PlantUmlConnection",
-            "homepage": "https://github.com/evandroforks/PlantUmlConnection",
-            "issues": "https://github.com/evandroforks/PlantUmlConnection/issues",
+            "details": "https://github.com/evandroforks/plantumlconnection",
+            "homepage": "https://github.com/evandroforks/plantumlconnection",
+            "issues": "https://github.com/evandroforks/plantumlconnection/issues",
             "load_order": "50",
-            "name": "PlantUmlConnection",
+            "name": "plantumlconnection",
             "previous_names": [],
             "releases": [
                 {
-                    "base": "https://github.com/evandroforks/PlantUmlConnection",
+                    "base": "https://github.com/evandroforks/plantumlconnection",
                     "date": "2018-10-10 19:26:38",
                     "git_tag": "1.1.1",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/PlantUmlConnection/zip/1.1.1",
+                    "url": "https://codeload.github.com/evandroforks/plantumlconnection/zip/1.1.1",
                     "version": "2018.1010.1926"
                 }
             ]
