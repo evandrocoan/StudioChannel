@@ -5379,21 +5379,21 @@
                 "evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandrocoan/ChannelManager",
-            "homepage": "https://github.com/evandrocoan/ChannelManager",
-            "issues": "https://github.com/evandrocoan/ChannelManager/issues",
+            "details": "https://github.com/evandrocoan/channelmanager",
+            "homepage": "https://github.com/evandrocoan/channelmanager",
+            "issues": "https://github.com/evandrocoan/channelmanager/issues",
             "load_order": "30",
-            "name": "ChannelManager",
+            "name": "channelmanager",
             "previous_names": [],
             "releases": [
                 {
-                    "base": "https://github.com/evandrocoan/ChannelManager",
+                    "base": "https://github.com/evandrocoan/channelmanager",
                     "date": "2018-11-02 20:27:06",
                     "git_tag": "1.0.99",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/ChannelManager/zip/1.0.99",
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.99",
                     "version": "2018.1102.2027"
                 }
             ]

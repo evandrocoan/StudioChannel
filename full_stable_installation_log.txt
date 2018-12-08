@@ -60,7 +60,7 @@ reloading plugin HTML.html_completions
 reloading plugin 0_package_control_loader.00-package_control
 reloading plugin 0_package_control_loader.10-PythonDebugTools
 reloading plugin 0_package_control_loader.20-EstimatedTimeLeft
-reloading plugin 0_package_control_loader.30-ChannelManager
+reloading plugin 0_package_control_loader.30-channelmanager
 reloading plugin Package Control.1_reloader
 reloading plugin Package Control.2_bootstrap
 reloading plugin Package Control.Package Control

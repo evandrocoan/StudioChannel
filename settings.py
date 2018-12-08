@@ -91,7 +91,7 @@ def plugin_loaded():
 
     g_channelSettings['FORBIDDEN_PACKAGES'] = \
     [
-        "ChannelManager",
+        "channelmanager",
         "Notepad++ Color Scheme",
         "PackagesManager",
     ]

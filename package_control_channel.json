@@ -256,8 +256,8 @@
     "dependencies":
     [
         {
-            "name": "ChannelManager",
-            "details": "https://github.com/evandrocoan/ChannelManager",
+            "name": "channelmanager",
+            "details": "https://github.com/evandrocoan/channelmanager",
             "releases": [
                 {
                     "sublime_text": ">=3126",

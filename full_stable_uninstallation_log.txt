@@ -60,7 +60,7 @@ reloading plugin 0_package_control_loader.00-package_control
 reloading plugin 0_package_control_loader.01-pygments
 reloading plugin 0_package_control_loader.10-PythonDebugTools
 reloading plugin 0_package_control_loader.20-EstimatedTimeLeft
-reloading plugin 0_package_control_loader.30-ChannelManager
+reloading plugin 0_package_control_loader.30-channelmanager
 reloading plugin 0_package_control_loader.50-markupsafe
 reloading plugin 0_package_control_loader.50-pymdownx
 reloading plugin 0_package_control_loader.50-python-markdown
@@ -1504,7 +1504,7 @@ unloading plugin 0_package_control_loader.00-package_control
 unloading plugin 0_package_control_loader.01-pygments
 unloading plugin 0_package_control_loader.10-PythonDebugTools
 unloading plugin 0_package_control_loader.20-EstimatedTimeLeft
-unloading plugin 0_package_control_loader.30-ChannelManager
+unloading plugin 0_package_control_loader.30-channelmanager
 unloading plugin 0_package_control_loader.50-markupsafe
 unloading plugin 0_package_control_loader.50-pymdownx
 unloading plugin 0_package_control_loader.50-python-markdown
@@ -1528,7 +1528,7 @@ reloading plugin 0_package_control_loader.00-package_control
 reloading plugin 0_package_control_loader.01-pygments
 reloading plugin 0_package_control_loader.10-PythonDebugTools
 reloading plugin 0_package_control_loader.20-EstimatedTimeLeft
-reloading plugin 0_package_control_loader.30-ChannelManager
+reloading plugin 0_package_control_loader.30-channelmanager
 reloading plugin 0_package_control_loader.50-markupsafe
 reloading plugin 0_package_control_loader.50-pymdownx
 reloading plugin 0_package_control_loader.50-python-markdown
@@ -2167,7 +2167,7 @@ unloading plugin 0_package_control_loader.00-package_control
 unloading plugin 0_package_control_loader.01-pygments
 unloading plugin 0_package_control_loader.10-PythonDebugTools
 unloading plugin 0_package_control_loader.20-EstimatedTimeLeft
-unloading plugin 0_package_control_loader.30-ChannelManager
+unloading plugin 0_package_control_loader.30-channelmanager
 unloading plugin 0_package_control_loader.50-markupsafe
 unloading plugin 0_package_control_loader.50-pymdownx
 unloading plugin 0_package_control_loader.50-python-markdown

@@ -51,9 +51,9 @@ from StudioChannel import commands
 from StudioChannel import settings
 
 
-# from ChannelManager import studio_installer; studio_installer.main("development")
-# from ChannelManager import studio_installer; studio_installer.main("stable")
-# from ChannelManager import studio_uninstaller; studio_uninstaller.main()
+# from channelmanager import studio_installer; studio_installer.main("development")
+# from channelmanager import studio_installer; studio_installer.main("stable")
+# from channelmanager import studio_uninstaller; studio_uninstaller.main()
 # from StudioChannel import installation_wizard; installation_wizard.install()
 class MainUnitTests(testing_utilities.TestingUtilities):
 
