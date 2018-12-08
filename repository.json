@@ -5517,21 +5517,21 @@
                 "Forked by evandroforks"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/portalockerfiles",
-            "homepage": "https://github.com/evandroforks/portalockerfiles",
-            "issues": "https://github.com/evandroforks/portalockerfiles/issues",
+            "details": "https://github.com/evandroforks/portalockerfile",
+            "homepage": "https://github.com/evandroforks/portalockerfile",
+            "issues": "https://github.com/evandroforks/portalockerfile/issues",
             "load_order": "08",
-            "name": "portalockerfiles",
+            "name": "portalockerfile",
             "previous_names": [],
             "releases": [
                 {
-                    "base": "https://github.com/evandroforks/portalockerfiles",
+                    "base": "https://github.com/evandroforks/portalockerfile",
                     "date": "2018-10-10 19:26:39",
                     "git_tag": "2.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/portalockerfiles/zip/2.0.2",
+                    "url": "https://codeload.github.com/evandroforks/portalockerfile/zip/2.0.2",
                     "version": "2018.1010.1926"
                 }
             ]
