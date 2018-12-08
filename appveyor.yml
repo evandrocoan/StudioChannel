@@ -2,7 +2,7 @@
 environment:
 
     matrix:
-        - PACKAGE: "DebugTools"
+        - PACKAGE: "debugtools"
           SUBLIME_TEXT_VERSION : "3"
 
 

@@ -5434,21 +5434,21 @@
                     "evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/DebugTools",
-                "homepage": "https://github.com/evandrocoan/DebugTools",
-                "issues": "https://github.com/evandrocoan/DebugTools/issues",
+                "details": "https://github.com/evandrocoan/debugtools",
+                "homepage": "https://github.com/evandrocoan/debugtools",
+                "issues": "https://github.com/evandrocoan/debugtools/issues",
                 "load_order": "10",
-                "name": "DebugTools",
+                "name": "debugtools",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandrocoan/DebugTools",
+                        "base": "https://github.com/evandrocoan/debugtools",
                         "date": "2018-11-02 20:24:40",
                         "git_tag": "2.5.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/DebugTools/zip/2.5.10",
+                        "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.5.10",
                         "version": "2018.1102.2024"
                     }
                 ]

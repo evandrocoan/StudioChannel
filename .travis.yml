@@ -1,7 +1,7 @@
 
 env:
     global:
-        - PACKAGE="DebugTools" # Package name
+        - PACKAGE="debugtools" # Package name
         - SUBLIME_TEXT_VERSION="3"
 
         # # use UNITTESTING_TAG to specific tag of UnitTesting

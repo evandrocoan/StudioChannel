@@ -266,14 +266,14 @@
             ]
         },
         {
-            "name": "DebugTools",
+            "name": "debugtools",
             "author": "evandrocoan",
             "load_order": "10",
             "description": "Alternate simplified logging support",
-            "issues": "https://github.com/evandrocoan/DebugTools/issues",
+            "issues": "https://github.com/evandrocoan/debugtools/issues",
             "releases": [
                 {
-                    "base": "https://github.com/evandrocoan/DebugTools",
+                    "base": "https://github.com/evandrocoan/debugtools",
                     "sublime_text": ">=3114",
                     "tags": true
                 }
