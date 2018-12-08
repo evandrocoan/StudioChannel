@@ -38,7 +38,7 @@ install:
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {appveyor DownloadFile "https://raw.githubusercontent.com/evandroforks/UnitTesting/master/sbin/appveyor.ps1"}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "bootstrap" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/PortalockerFiles" "PortalockerFiles" -verbose}
-    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/DiffMatchPatch" "DiffMatchPatch" -verbose}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/diffmatchpatch" "diffmatchpatch" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/ConcurrentLogHandler" "ConcurrentLogHandler" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/python-pywin32" "python-pywin32" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "install_package_control" -verbose}

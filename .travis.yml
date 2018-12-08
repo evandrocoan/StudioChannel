@@ -71,7 +71,7 @@ install:
     - if [ -z "$TOXENV" ]; then
             sh travis.sh bootstrap;
             sh travis.sh clone_git_package "https://github.com/evandroforks/PortalockerFiles" "PortalockerFiles";
-            sh travis.sh clone_git_package "https://github.com/evandroforks/DiffMatchPatch" "DiffMatchPatch";
+            sh travis.sh clone_git_package "https://github.com/evandroforks/diffmatchpatch" "diffmatchpatch";
             sh travis.sh clone_git_package "https://github.com/evandroforks/ConcurrentLogHandler" "ConcurrentLogHandler";
             sh travis.sh install_package_control;
       fi

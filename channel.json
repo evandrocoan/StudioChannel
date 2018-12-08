@@ -5459,21 +5459,21 @@
                     "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/DiffMatchPatch",
-                "homepage": "https://github.com/evandroforks/DiffMatchPatch",
-                "issues": "https://github.com/evandroforks/DiffMatchPatch/issues",
+                "details": "https://github.com/evandroforks/diffmatchpatch",
+                "homepage": "https://github.com/evandroforks/diffmatchpatch",
+                "issues": "https://github.com/evandroforks/diffmatchpatch/issues",
                 "load_order": "09",
-                "name": "DiffMatchPatch",
+                "name": "diffmatchpatch",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandroforks/DiffMatchPatch",
+                        "base": "https://github.com/evandroforks/diffmatchpatch",
                         "date": "2018-11-08 13:03:50",
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/DiffMatchPatch/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/diffmatchpatch/zip/1.0.3",
                         "version": "2018.1108.1303"
                     }
                 ]
