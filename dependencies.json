@@ -2,7 +2,7 @@
     "windows": {
         ">3000": [
             "python-pywin32",
-            "PortalockerFiles",
+            "portalockerfiles",
             "ConcurrentLogHandler",
             "debugtools",
             "ChannelManager"
@@ -10,7 +10,7 @@
     },
     "*": {
         "*": [
-            "PortalockerFiles",
+            "portalockerfiles",
             "ConcurrentLogHandler",
             "debugtools",
             "ChannelManager"

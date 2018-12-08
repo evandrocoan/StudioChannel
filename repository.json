@@ -5507,7 +5507,7 @@
             "homepage": "https://github.com/evandroforks/portalocker",
             "issues": "https://github.com/evandroforks/portalocker/issues",
             "load_order": "08",
-            "name": "PortalockerFiles",
+            "name": "portalockerfiles",
             "previous_names": [],
             "releases": [
                 {
