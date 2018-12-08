@@ -5408,7 +5408,7 @@
             "homepage": "https://github.com/evandroforks/concurrent-log-handler",
             "issues": "https://github.com/evandroforks/concurrent-log-handler/issues",
             "load_order": "09",
-            "name": "ConcurrentLogHandler",
+            "name": "concurrentloghandler",
             "previous_names": [],
             "releases": [
                 {

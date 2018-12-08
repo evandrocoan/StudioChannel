@@ -3,7 +3,7 @@
         ">3000": [
             "python-pywin32",
             "portalockerfiles",
-            "ConcurrentLogHandler",
+            "concurrentloghandler",
             "debugtools",
             "ChannelManager"
         ]
@@ -11,7 +11,7 @@
     "*": {
         "*": [
             "portalockerfiles",
-            "ConcurrentLogHandler",
+            "concurrentloghandler",
             "debugtools",
             "ChannelManager"
         ]
