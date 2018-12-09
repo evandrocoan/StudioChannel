@@ -725,6 +725,26 @@
                 "evandroforks"
             ],
             "description": "No description available.",
+            "details": "https://github.com/evandroforks/SublimePackageCsharp.git",
+            "homepage": "https://github.com/evandroforks/SublimePackageCsharp.git",
+            "name": "C#",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2018-10-11 22:08:01",
+                    "git_tag": "1.0",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0",
+                    "version": "2018.1011.2208"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "evandroforks"
+            ],
+            "description": "No description available.",
             "details": "https://github.com/evandroforks/SublimePackageCpp.git",
             "homepage": "https://github.com/evandroforks/SublimePackageCpp.git",
             "name": "C++",
@@ -2879,7 +2899,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-12-04 09:44:19",
+            "last_modified": "2018-12-08 21:23:08",
             "name": "LESS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
