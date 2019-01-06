@@ -10,6 +10,7 @@
                 ".github/*",
                 ".versioning/*",
                 ".vscode/*",
+                "githubpullrequests/*",
                 "StudioChannel/*",
                 "Local/Backstroke.gitmodules",
                 "Packages/*",
