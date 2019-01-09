@@ -41,8 +41,8 @@
                             { "caption": "Extract Default Package",
                                     "command": "studio_channel_extract_default_packages" },
 
-                            { "caption": "Run Backstroke Requests",
-                                    "command": "studio_channel_run", "args": {"run": "-b"} },
+                            { "caption": "Merge Upstreams Locally",
+                                    "command": "studio_channel_run", "args": {"run": "-m"} },
 
                             { "caption": "Fetch All Submodules remote origin",
                                     "command": "studio_channel_run", "args": {"run": "-fo"} },
