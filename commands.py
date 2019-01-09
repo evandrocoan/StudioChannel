@@ -86,45 +86,39 @@ log( 2, "Debugging" )
 log( 2, "PACKAGE_ROOT_DIRECTORY: " + g_settings.PACKAGE_ROOT_DIRECTORY )
 
 
-class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
+class DevelopmentVersionBaseCommand(sublime_plugin.ApplicationCommand):
+
+    def is_enabled(self):
+        return is_channel_installed() and is_development_version()
+
+
+class StudioChannelExtractDefaultPackages(DevelopmentVersionBaseCommand):
 
     def run(self):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         copy_default_package.main( True )
 
-    def is_enabled(self):
-        return is_channel_installed() and is_development_version()
 
-
-class StudioChannelRun( sublime_plugin.ApplicationCommand ):
+class StudioChannelRun(DevelopmentVersionBaseCommand):
 
     def run(self, command):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         submodules_manager.main( command )
 
-    def is_enabled(self):
-        return is_channel_installed() and is_development_version()
 
-
-class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
+class StudioChannelGenerateChannelFile(DevelopmentVersionBaseCommand):
 
     def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         channel_manager.main( g_channelSettings, command )
 
-    def is_enabled(self):
-        return is_channel_installed() and is_development_version()
 
-
-class StudioChannelRunChannelAndSubmodules( sublime_plugin.ApplicationCommand ):
+class StudioChannelRunChannelAndSubmodules(DevelopmentVersionBaseCommand):
 
     def run(self, command):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
         channel_manager.main( g_channelSettings, command )
         submodules_manager.main( command )
-
-    def is_enabled(self):
-        return is_channel_installed() and is_development_version()
 
 
 class StudioChannelRunInstallation( sublime_plugin.ApplicationCommand ):
