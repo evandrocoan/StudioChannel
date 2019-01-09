@@ -98,9 +98,9 @@ class StudioChannelExtractDefaultPackages( sublime_plugin.ApplicationCommand ):
 
 class StudioChannelRun( sublime_plugin.ApplicationCommand ):
 
-    def run(self, run):
+    def run(self, command):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        submodules_manager.main( run )
+        submodules_manager.main( command )
 
     def is_enabled(self):
         return is_channel_installed() and is_development_version()

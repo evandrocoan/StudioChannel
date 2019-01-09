@@ -42,25 +42,25 @@
                                     "command": "studio_channel_extract_default_packages" },
 
                             { "caption": "Merge Upstreams Locally",
-                                    "command": "studio_channel_run", "args": {"run": "-m"} },
+                                    "command": "studio_channel_run", "args": {"command": "-m"} },
 
                             { "caption": "Fetch All Submodules remote origin",
-                                    "command": "studio_channel_run", "args": {"run": "-fo"} },
+                                    "command": "studio_channel_run", "args": {"command": "-fo"} },
 
                             { "caption": "Pull & Rebase All Submodules (git)",
-                                    "command": "studio_channel_run", "args": {"run": "-p"} },
+                                    "command": "studio_channel_run", "args": {"command": "-p"} },
 
                             { "caption": "Pull & Rebase All Submodules (python)",
-                                    "command": "studio_channel_run", "args": {"run": "-o"} },
+                                    "command": "studio_channel_run", "args": {"command": "-o"} },
 
                             { "caption": "Push Local Git Tags",
-                                    "command": "studio_channel_run", "args": {"run": "-t"} },
+                                    "command": "studio_channel_run", "args": {"command": "-t"} },
 
                             { "caption": "Add All Upstreams Remotes",
-                                    "command": "studio_channel_run", "args": {"run": "-u"} },
+                                    "command": "studio_channel_run", "args": {"command": "-u"} },
 
                             { "caption": "Delete All remote Except origin",
-                                    "command": "studio_channel_run", "args": {"run": "-d"} },
+                                    "command": "studio_channel_run", "args": {"command": "-d"} },
                         ]
                     }
                 ]
