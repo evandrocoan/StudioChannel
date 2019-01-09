@@ -116,6 +116,17 @@ class StudioChannelGenerateChannelFile( sublime_plugin.ApplicationCommand ):
         return is_channel_installed() and is_development_version()
 
 
+class StudioChannelRunChannelAndSubmodules( sublime_plugin.ApplicationCommand ):
+
+    def run(self, command):
+        sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
+        channel_manager.main( g_channelSettings, command )
+        submodules_manager.main( command )
+
+    def is_enabled(self):
+        return is_channel_installed() and is_development_version()
+
+
 class StudioChannelRunInstallation( sublime_plugin.ApplicationCommand ):
 
     def run(self):

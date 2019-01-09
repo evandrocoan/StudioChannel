@@ -12,7 +12,7 @@
             "args": {"command": "git_tag_all" } },
 
     { "caption": "StudioChannel: Cancel Current Operation",
-            "command": "studio_channel_generate_channel_file",
+            "command": "studio_channel_run_channel_and_submodules",
             "args": {"command": "cancel_operation" } },
 
     { "caption": "StudioChannel: Run Installation Wizard",
