@@ -44,6 +44,9 @@
                             { "caption": "Merge Upstreams Locally",
                                     "command": "studio_channel_run", "args": {"command": "-m"} },
 
+                            { "caption": "Create GitHub Pull Requests",
+                                    "command": "studio_channel_run", "args": {"command": "-pr"} },
+
                             { "caption": "Fetch All Submodules remote origin",
                                     "command": "studio_channel_run", "args": {"command": "-fo"} },
 

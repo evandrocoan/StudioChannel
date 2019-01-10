@@ -27,6 +27,9 @@
     { "caption": "StudioChannel: Merge Upstreams Locally",
             "command": "studio_channel_run", "args": {"command": "-m"} },
 
+    { "caption": "StudioChannel: Create GitHub Pull Requests",
+            "command": "studio_channel_run", "args": {"command": "-pr"} },
+
     { "caption": "StudioChannel: Fetch All Submodules remote origin",
             "command": "studio_channel_run", "args": {"command": "-fo"} },
 
