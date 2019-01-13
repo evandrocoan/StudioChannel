@@ -53,8 +53,6 @@ from channel_manager import channel_manager
 from channel_manager import submodules_manager
 from channel_manager import copy_default_package
 
-from channel_manager.channel_utilities import load_data_file
-from channel_manager.channel_utilities import write_data_file
 from channel_manager.channel_utilities import get_installed_packages
 from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
 from channel_manager.channel_utilities import look_for_invalid_packages
@@ -72,6 +70,8 @@ from channel_manager.channel_utilities import look_for_invalid_packages
 
 
 from debug_tools import getLogger
+from debug_tools.third_part import load_data_file
+from debug_tools.third_part import write_data_file
 
 # Debugger settings: 0 - disabled, 127 - enabled
 log = getLogger( 1, g_settings.CURRENT_PACKAGE_NAME + "." + os.path.basename( __file__ ).split(".")[0] )
