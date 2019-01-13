@@ -61,8 +61,7 @@ from channel_manager.channel_utilities import look_for_invalid_packages
 
 
 # # Run unit tests
-# from channel_manager import channel_manager_tests
-# channel_manager_tests.main()
+# from channel_manager import channel_manager_tests; channel_manager_tests.main()
 
 # # How to reload a Sublime Text dependency?
 # # https://github.com/randy3k/AutomaticPackageReloader/issues/12
@@ -70,7 +69,6 @@ from channel_manager.channel_utilities import look_for_invalid_packages
 # sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 # sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 # sublime_plugin.reload_plugin( "channel_manager.channel_manager_tests" )
-
 
 
 from debug_tools import getLogger
