@@ -53,9 +53,7 @@ from channel_manager import channel_manager
 from channel_manager import submodules_manager
 from channel_manager import copy_default_package
 
-from channel_manager.channel_utilities import clean_urljoin
 from channel_manager.channel_utilities import load_data_file
-from channel_manager.channel_utilities import get_main_directory
 from channel_manager.channel_utilities import write_data_file
 from channel_manager.channel_utilities import get_installed_packages
 from channel_manager.channel_utilities import look_for_invalid_default_ignored_packages
