@@ -4664,13 +4664,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-11-29 15:24:02",
+                    "date": "2019-01-15 21:11:25",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2018.1129.1524"
+                    "version": "2019.0115.2111"
                 }
             ]
         },
@@ -5471,13 +5471,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2018-11-02 20:24:40",
-                    "git_tag": "2.5.10",
+                    "date": "2019-02-10 22:10:17",
+                    "git_tag": "2.6.0",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.5.10",
-                    "version": "2018.1102.2024"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.0",
+                    "version": "2019.0210.2210"
                 }
             ]
         },
