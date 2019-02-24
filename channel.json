@@ -8,20 +8,33 @@
             {
                 "authors": [
                     "ihodev",
-                    "Forked by evandrocoan"
+                    "DeathAxe",
+                    "Forked by evandroforks"
                 ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AFileIcon",
-                "homepage": "https://github.com/evandrocoan/AFileIcon",
+                "buy": null,
+                "description": "Sublime Text File-Specific Icons for Improved Visual Grepping",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/AFileIcon",
+                "issues": "https://github.com/SublimeText/AFileIcon/issues",
+                "labels": [
+                    "theme",
+                    "file",
+                    "icons"
+                ],
+                "last_modified": "2019-01-09 13:07:24",
                 "name": "A File Icon",
-                "previous_names": [],
+                "previous_names": [
+                    "File Icons Extended",
+                    "zz File Icons"
+                ],
+                "readme": "https://raw.githubusercontent.com/SublimeText/AFileIcon/master/README.md",
                 "releases": [
                     {
                         "date": "2019-01-11 22:48:35",
                         "git_tag": "3.3.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AFileIcon/zip/3.3.1",
+                        "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.3.1",
                         "version": "2019.0111.2248"
                     }
                 ]
@@ -29,12 +42,12 @@
             {
                 "authors": [
                     "ice9js",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Jump between characters in Sublime Text 3 without using a mouse at ease",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/AceJump",
+                "homepage": "https://github.com/evandroforks/AceJump",
                 "issues": "https://github.com/ice9js/ace-jump-sublime/issues",
                 "labels": [
                     "code navigation",
@@ -50,7 +63,7 @@
                         "git_tag": "1.8.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AceJump/zip/1.8.7",
+                        "url": "https://codeload.github.com/evandroforks/AceJump/zip/1.8.7",
                         "version": "2018.1208.1252"
                     }
                 ]
@@ -98,11 +111,11 @@
             {
                 "authors": [
                     "DavidGerva",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AddFolderToProject",
-                "homepage": "https://github.com/evandrocoan/AddFolderToProject",
+                "details": "https://github.com/evandroforks/AddFolderToProject",
+                "homepage": "https://github.com/evandroforks/AddFolderToProject",
                 "name": "AddFolderToProject",
                 "previous_names": [],
                 "releases": [
@@ -111,7 +124,7 @@
                         "git_tag": "1.1.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AddFolderToProject/zip/1.1.6",
+                        "url": "https://codeload.github.com/evandroforks/AddFolderToProject/zip/1.1.6",
                         "version": "2018.1208.1447"
                     }
                 ]
@@ -119,11 +132,11 @@
             {
                 "authors": [
                     "wadetb",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AdvancedCSV",
-                "homepage": "https://github.com/evandrocoan/AdvancedCSV",
+                "details": "https://github.com/evandroforks/AdvancedCSV",
+                "homepage": "https://github.com/evandroforks/AdvancedCSV",
                 "name": "AdvancedCSV",
                 "previous_names": [],
                 "releases": [
@@ -132,7 +145,7 @@
                         "git_tag": "1.1.15",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AdvancedCSV/zip/1.1.15",
+                        "url": "https://codeload.github.com/evandroforks/AdvancedCSV/zip/1.1.15",
                         "version": "2018.1208.1447"
                     }
                 ]
@@ -140,12 +153,12 @@
             {
                 "authors": [
                     "Will Bond (wbond)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Easy alignment of multiple selections and multi-line selections",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Alignment",
+                "homepage": "https://github.com/evandroforks/Alignment",
                 "issues": "https://github.com/wbond/sublime_alignment/issues",
                 "labels": [],
                 "last_modified": "2013-08-08 08:41:47",
@@ -158,7 +171,7 @@
                         "git_tag": "2.1.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Alignment/zip/2.1.3",
+                        "url": "https://codeload.github.com/evandroforks/Alignment/zip/2.1.3",
                         "version": "2018.1208.1448"
                     }
                 ]
@@ -166,12 +179,12 @@
             {
                 "authors": [
                     "randy3k",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "An alignment plugin for Sublime Text using regular expression",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/AlignTab",
+                "homepage": "https://github.com/evandroforks/AlignTab",
                 "issues": "https://github.com/randy3k/AlignTab/issues",
                 "labels": [],
                 "last_modified": "2018-03-17 04:20:22",
@@ -184,7 +197,7 @@
                         "git_tag": "2.1.14",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AlignTab/zip/2.1.14",
+                        "url": "https://codeload.github.com/evandroforks/AlignTab/zip/2.1.14",
                         "version": "2018.1217.0059"
                     }
                 ]
@@ -213,12 +226,12 @@
             {
                 "authors": [
                     "germtb",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime package for better text/code navigation by jumping paragraphs",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/AltUp",
+                "homepage": "https://github.com/evandroforks/AltUp",
                 "issues": "https://github.com/germtb/AltUp/issues",
                 "labels": [],
                 "last_modified": "2015-12-09 12:30:20",
@@ -231,7 +244,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AltUp/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/AltUp/zip/1.0.3",
                         "version": "2018.1208.1448"
                     }
                 ]
@@ -275,7 +288,7 @@
                     "pawn",
                     "build system"
                 ],
-                "last_modified": "2018-10-24 04:30:10",
+                "last_modified": "2019-01-13 23:24:11",
                 "name": "AmxxEditor",
                 "previous_names": [
                     "Amxmodx"
@@ -306,7 +319,7 @@
                     "amxmodx",
                     "amx mod x"
                 ],
-                "last_modified": "2018-10-10 19:16:24",
+                "last_modified": "2018-12-08 16:49:12",
                 "name": "AmxxPawn",
                 "previous_names": [
                     "Amxx Pawn"
@@ -326,12 +339,12 @@
             {
                 "authors": [
                     "aziz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "ANSI escape codes color highlighting for SublimeText 3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ANSIescape",
+                "homepage": "https://github.com/evandroforks/ANSIescape",
                 "issues": "https://github.com/aziz/SublimeANSI/issues",
                 "labels": [
                     "language syntax"
@@ -346,7 +359,7 @@
                         "git_tag": "0.2.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ANSIescape/zip/0.2.6",
+                        "url": "https://codeload.github.com/evandroforks/ANSIescape/zip/0.2.6",
                         "version": "2018.1220.2115"
                     }
                 ]
@@ -374,12 +387,12 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Syntax detector for Sublime Text http://facelessuser.github.io/ApplySyntax/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ApplySyntax",
+                "homepage": "https://github.com/evandroforks/ApplySyntax",
                 "issues": "https://github.com/facelessuser/ApplySyntax/issues",
                 "labels": [],
                 "last_modified": "2018-09-17 00:55:12",
@@ -392,7 +405,7 @@
                         "git_tag": "2.5.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ApplySyntax/zip/2.5.4",
+                        "url": "https://codeload.github.com/evandroforks/ApplySyntax/zip/2.5.4",
                         "version": "2018.1217.0037"
                     }
                 ]
@@ -472,15 +485,15 @@
             {
                 "authors": [
                     "randy3k",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Automatically reload submodules while developing a Sublime Text package.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/AutomaticPackageReloader",
+                "homepage": "https://github.com/evandroforks/AutomaticPackageReloader",
                 "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
                 "labels": [],
-                "last_modified": "2018-07-27 07:23:04",
+                "last_modified": "2018-12-14 17:34:11",
                 "name": "AutomaticPackageReloader",
                 "previous_names": [
                     "PackageReloader"
@@ -492,7 +505,7 @@
                         "git_tag": "1.3.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AutomaticPackageReloader/zip/1.3.5",
+                        "url": "https://codeload.github.com/evandroforks/AutomaticPackageReloader/zip/1.3.5",
                         "version": "2019.0111.2248"
                     }
                 ]
@@ -500,11 +513,11 @@
             {
                 "authors": [
                     "Wouterdek",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/AutoRefresh",
-                "homepage": "https://github.com/evandrocoan/AutoRefresh",
+                "details": "https://github.com/evandroforks/AutoRefresh",
+                "homepage": "https://github.com/evandroforks/AutoRefresh",
                 "name": "AutoRefresh",
                 "previous_names": [],
                 "releases": [
@@ -513,7 +526,7 @@
                         "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AutoRefresh/zip/1.0.6",
+                        "url": "https://codeload.github.com/evandroforks/AutoRefresh/zip/1.0.6",
                         "version": "2018.1208.1451"
                     }
                 ]
@@ -521,12 +534,12 @@
             {
                 "authors": [
                     "randy3k",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Auto (Hard) Wrap for Sublime Text 2/3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/AutoWrap",
+                "homepage": "https://github.com/evandroforks/AutoWrap",
                 "issues": "https://github.com/randy3k/AutoWrap/issues",
                 "labels": [],
                 "last_modified": "2018-04-12 02:11:44",
@@ -539,7 +552,7 @@
                         "git_tag": "1.3.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AutoWrap/zip/1.3.9",
+                        "url": "https://codeload.github.com/evandroforks/AutoWrap/zip/1.3.9",
                         "version": "2019.0106.0557"
                     }
                 ]
@@ -609,11 +622,11 @@
             {
                 "authors": [
                     "aponxi",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/BetterCoffeescript",
-                "homepage": "https://github.com/evandrocoan/BetterCoffeescript",
+                "details": "https://github.com/evandroforks/BetterCoffeescript",
+                "homepage": "https://github.com/evandroforks/BetterCoffeescript",
                 "name": "BetterCoffeeScript",
                 "previous_names": [],
                 "releases": [
@@ -622,7 +635,7 @@
                         "git_tag": "0.6.36",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BetterCoffeescript/zip/0.6.36",
+                        "url": "https://codeload.github.com/evandroforks/BetterCoffeescript/zip/0.6.36",
                         "version": "2018.1217.1725"
                     }
                 ]
@@ -630,12 +643,12 @@
             {
                 "authors": [
                     "aziz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Adds a couple of missing features to SublimeText 3 Find Results buffer",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/BetterFindBuffer",
+                "homepage": "https://github.com/evandroforks/BetterFindBuffer",
                 "issues": "https://github.com/aziz/BetterFindBuffer/issues",
                 "labels": [
                     "find results",
@@ -651,7 +664,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BetterFindBuffer/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.4",
                         "version": "2019.0110.1840"
                     }
                 ]
@@ -659,15 +672,15 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/BracketHighlighter",
+                "homepage": "https://github.com/evandroforks/BracketHighlighter",
                 "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
                 "labels": [],
-                "last_modified": "2018-10-26 02:19:36",
+                "last_modified": "2019-01-17 01:29:56",
                 "name": "BracketHighlighter",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -677,7 +690,7 @@
                         "git_tag": "2.26.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/BracketHighlighter/zip/2.26.5",
+                        "url": "https://codeload.github.com/evandroforks/BracketHighlighter/zip/2.26.5",
                         "version": "2018.1216.1359"
                     }
                 ]
@@ -767,12 +780,12 @@
             {
                 "authors": [
                     "tushortz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "C++ Completions for Sublime text.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/CppCompletions",
+                "homepage": "https://github.com/evandroforks/CppCompletions",
                 "issues": "https://github.com/tushortz/CPP-Completions/issues",
                 "labels": [
                     "c++",
@@ -793,7 +806,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CppCompletions/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/CppCompletions/zip/1.0.2",
                         "version": "2018.1208.1452"
                     }
                 ]
@@ -801,11 +814,11 @@
             {
                 "authors": [
                     "tushortz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/CppQtCompletions",
-                "homepage": "https://github.com/evandrocoan/CppQtCompletions",
+                "details": "https://github.com/evandroforks/CppQtCompletions",
+                "homepage": "https://github.com/evandroforks/CppQtCompletions",
                 "name": "C++ Qt Completions",
                 "previous_names": [],
                 "releases": [
@@ -814,7 +827,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CppQtCompletions/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/CppQtCompletions/zip/1.0.4",
                         "version": "2018.1208.1453"
                     }
                 ]
@@ -822,12 +835,12 @@
             {
                 "authors": [
                     "Rapptz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "C++11 Sublime Text Snippets",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/CppSnippets",
+                "homepage": "https://github.com/evandroforks/CppSnippets",
                 "issues": "https://github.com/Rapptz/cpp-sublime-snippet/issues",
                 "labels": [
                     "snippets"
@@ -842,19 +855,19 @@
                         "git_tag": "1.2.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CppSnippets/zip/1.2.9",
+                        "url": "https://codeload.github.com/evandroforks/CppSnippets/zip/1.2.9",
                         "version": "2018.1208.1453"
                     }
                 ]
             },
             {
                 "authors": [
-                    "jdc0589",
-                    "Forked by evandrocoan"
+                    "jdavisclark",
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/CaseConversion",
-                "homepage": "https://github.com/evandrocoan/CaseConversion",
+                "details": "https://github.com/evandroforks/CaseConversion",
+                "homepage": "https://github.com/evandroforks/CaseConversion",
                 "name": "CaseConversion",
                 "previous_names": [],
                 "releases": [
@@ -863,7 +876,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CaseConversion/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/CaseConversion/zip/1.0.4",
                         "version": "2018.1208.1453"
                     }
                 ]
@@ -871,11 +884,11 @@
             {
                 "authors": [
                     "jisaacks",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ChainOfCommand",
-                "homepage": "https://github.com/evandrocoan/ChainOfCommand",
+                "details": "https://github.com/evandroforks/ChainOfCommand",
+                "homepage": "https://github.com/evandroforks/ChainOfCommand",
                 "name": "ChainOfCommand",
                 "previous_names": [],
                 "releases": [
@@ -884,7 +897,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ChainOfCommand/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/ChainOfCommand/zip/1.0.2",
                         "version": "2018.1208.1453"
                     }
                 ]
@@ -892,12 +905,12 @@
             {
                 "authors": [
                     "Colin T.A. Gray (colinta)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ChangeQuotes",
+                "homepage": "https://github.com/evandroforks/ChangeQuotes",
                 "issues": "https://github.com/colinta/SublimeChangeQuotes/issues",
                 "labels": [
                     "text manipulation"
@@ -912,7 +925,7 @@
                         "git_tag": "2.3.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ChangeQuotes/zip/2.3.4",
+                        "url": "https://codeload.github.com/evandroforks/ChangeQuotes/zip/2.3.4",
                         "version": "2018.1217.1721"
                     }
                 ]
@@ -920,12 +933,12 @@
             {
                 "authors": [
                     "Will Bond (wbond)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text package for working with channels and repositories",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ChannelRepositoryTools",
+                "homepage": "https://github.com/evandroforks/ChannelRepositoryTools",
                 "issues": "https://github.com/wbond/ChannelRepositoryTools/issues",
                 "labels": [],
                 "last_modified": "2014-12-06 16:10:57",
@@ -938,7 +951,7 @@
                         "git_tag": "1.1.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ChannelRepositoryTools/zip/1.1.5",
+                        "url": "https://codeload.github.com/evandroforks/ChannelRepositoryTools/zip/1.1.5",
                         "version": "2018.1208.1453"
                     }
                 ]
@@ -966,11 +979,11 @@
             {
                 "authors": [
                     "leonid-shevtsov",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ClickableURLs",
-                "homepage": "https://github.com/evandrocoan/ClickableURLs",
+                "details": "https://github.com/evandroforks/ClickableURLs",
+                "homepage": "https://github.com/evandroforks/ClickableURLs",
                 "name": "ClickableURLs",
                 "previous_names": [],
                 "releases": [
@@ -979,7 +992,7 @@
                         "git_tag": "1.3.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ClickableURLs/zip/1.3.4",
+                        "url": "https://codeload.github.com/evandroforks/ClickableURLs/zip/1.3.4",
                         "version": "2018.1217.0051"
                     }
                 ]
@@ -1027,12 +1040,12 @@
             {
                 "authors": [
                     "Monnoroch",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like \"#FFFFFF\", \"rgb(255,255,255)\", \"white\", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ColorHighlighter",
+                "homepage": "https://github.com/evandroforks/ColorHighlighter",
                 "issues": "https://github.com/Monnoroch/ColorHighlighter/issues",
                 "labels": [],
                 "last_modified": "2017-10-06 17:21:01",
@@ -1045,7 +1058,7 @@
                         "git_tag": "8.0.15",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ColorHighlighter/zip/8.0.15",
+                        "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.15",
                         "version": "2018.1208.1454"
                     }
                 ]
@@ -1053,12 +1066,12 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime plugin that provides helpful color tooltips http://facelessuser.github.io/ColorHelper/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ColorHelper",
+                "homepage": "https://github.com/evandroforks/ColorHelper",
                 "issues": "https://github.com/facelessuser/ColorHelper/issues",
                 "labels": [],
                 "last_modified": "2017-10-09 04:34:20",
@@ -1071,7 +1084,7 @@
                         "git_tag": "2.5.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ColorHelper/zip/2.5.5",
+                        "url": "https://codeload.github.com/evandroforks/ColorHelper/zip/2.5.5",
                         "version": "2018.1217.0037"
                     }
                 ]
@@ -1079,12 +1092,12 @@
             {
                 "authors": [
                     "bobef",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "\"Real-time\" color scheme editor plugin for Sublime Text 2/3.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ColorSchemeEditor",
+                "homepage": "https://github.com/evandroforks/ColorSchemeEditor",
                 "issues": "https://github.com/bobef/ColorSchemeEditor/issues",
                 "labels": [],
                 "last_modified": "2015-09-22 11:43:08",
@@ -1097,7 +1110,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ColorSchemeEditor/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/ColorSchemeEditor/zip/1.0.4",
                         "version": "2018.1208.1454"
                     }
                 ]
@@ -1105,12 +1118,12 @@
             {
                 "authors": [
                     "gerardroche",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A testing framework for Sublime Text color schemes.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ColorSchemeUnit",
+                "homepage": "https://github.com/evandroforks/ColorSchemeUnit",
                 "issues": "https://github.com/gerardroche/sublime-color-scheme-unit/issues",
                 "labels": [
                     "color scheme",
@@ -1128,7 +1141,7 @@
                         "git_tag": "1.10.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ColorSchemeUnit/zip/1.10.5",
+                        "url": "https://codeload.github.com/evandroforks/ColorSchemeUnit/zip/1.10.5",
                         "version": "2018.1208.1455"
                     }
                 ]
@@ -1136,11 +1149,11 @@
             {
                 "authors": [
                     "ehuss",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ColumnSelect",
-                "homepage": "https://github.com/evandrocoan/ColumnSelect",
+                "details": "https://github.com/evandroforks/ColumnSelect",
+                "homepage": "https://github.com/evandroforks/ColumnSelect",
                 "name": "ColumnSelect",
                 "previous_names": [],
                 "releases": [
@@ -1149,7 +1162,7 @@
                         "git_tag": "1.9.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ColumnSelect/zip/1.9.1",
+                        "url": "https://codeload.github.com/evandroforks/ColumnSelect/zip/1.9.1",
                         "version": "2018.1208.1517"
                     }
                 ]
@@ -1157,15 +1170,15 @@
             {
                 "authors": [
                     "seanliang",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS, etc.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ConvertToUTF8",
+                "homepage": "https://github.com/evandroforks/ConvertToUTF8",
                 "issues": "https://github.com/seanliang/ConvertToUTF8/issues",
                 "labels": [],
-                "last_modified": "2016-07-10 16:19:14",
+                "last_modified": "2019-01-24 04:11:05",
                 "name": "ConvertToUTF8",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md",
@@ -1175,7 +1188,7 @@
                         "git_tag": "1.2.14",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ConvertToUTF8/zip/1.2.14",
+                        "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.14",
                         "version": "2019.0106.2136"
                     }
                 ]
@@ -1183,12 +1196,12 @@
             {
                 "authors": [
                     "crash5",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Copy selected lines with line number and file name.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/CopyWithLineNumbersReloaded",
+                "homepage": "https://github.com/evandroforks/CopyWithLineNumbersReloaded",
                 "issues": "https://github.com/crash5/CopyWithLineNumbersReloaded/issues",
                 "labels": [],
                 "last_modified": "2016-07-19 20:11:46",
@@ -1201,7 +1214,7 @@
                         "git_tag": "1.2.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CopyWithLineNumbersReloaded/zip/1.2.8",
+                        "url": "https://codeload.github.com/evandroforks/CopyWithLineNumbersReloaded/zip/1.2.8",
                         "version": "2018.1208.1521"
                     }
                 ]
@@ -1332,11 +1345,11 @@
             {
                 "authors": [
                     "yaworsw",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/DeleteCurrentFile",
-                "homepage": "https://github.com/evandrocoan/DeleteCurrentFile",
+                "details": "https://github.com/evandroforks/DeleteCurrentFile",
+                "homepage": "https://github.com/evandroforks/DeleteCurrentFile",
                 "name": "DeleteCurrentFile",
                 "previous_names": [],
                 "releases": [
@@ -1345,7 +1358,7 @@
                         "git_tag": "0.3.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/DeleteCurrentFile/zip/0.3.2",
+                        "url": "https://codeload.github.com/evandroforks/DeleteCurrentFile/zip/0.3.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1353,12 +1366,12 @@
             {
                 "authors": [
                     "Zinggi",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "This adds dictionary entries to the completions inside comments. For lazy typers!",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/DictionaryAutoComplete",
+                "homepage": "https://github.com/evandroforks/DictionaryAutoComplete",
                 "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues",
                 "labels": [],
                 "last_modified": "2018-11-03 11:34:54",
@@ -1371,7 +1384,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/DictionaryAutoComplete/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/DictionaryAutoComplete/zip/1.0.3",
                         "version": "2018.1210.1416"
                     }
                 ]
@@ -1399,18 +1412,18 @@
             {
                 "authors": [
                     "aziz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "SublimeText \"Distraction free mode\" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/DistractionFreeWindow",
+                "homepage": "https://github.com/evandroforks/DistractionFreeWindow",
                 "issues": "https://github.com/aziz/DistractionFreeWindow/issues",
                 "labels": [
                     "fullscreen",
                     "distraction-free"
                 ],
-                "last_modified": "2018-06-12 19:51:13",
+                "last_modified": "2019-02-18 14:55:25",
                 "name": "DistractionFreeWindow",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/aziz/DistractionFreeWindow/master/README.md",
@@ -1420,7 +1433,7 @@
                         "git_tag": "0.6.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/DistractionFreeWindow/zip/0.6.12",
+                        "url": "https://codeload.github.com/evandroforks/DistractionFreeWindow/zip/0.6.12",
                         "version": "2018.1217.1715"
                     }
                 ]
@@ -1428,12 +1441,12 @@
             {
                 "authors": [
                     "spadgos",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",
                 "donate": "http://pledgie.com/campaigns/16316",
-                "homepage": "https://github.com/evandrocoan/DocBlockr",
+                "homepage": "https://github.com/evandroforks/DocBlockr",
                 "issues": "https://github.com/spadgos/sublime-jsdocs/issues",
                 "labels": [
                     "documentation",
@@ -1451,7 +1464,7 @@
                         "git_tag": "2.14.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/DocBlockr/zip/2.14.8",
+                        "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.8",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1459,11 +1472,11 @@
             {
                 "authors": [
                     "mattbanks",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/Dotfiles",
-                "homepage": "https://github.com/evandrocoan/Dotfiles",
+                "details": "https://github.com/evandroforks/Dotfiles",
+                "homepage": "https://github.com/evandroforks/Dotfiles",
                 "name": "Dotfiles",
                 "previous_names": [],
                 "releases": [
@@ -1472,7 +1485,7 @@
                         "git_tag": "1.2.24",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Dotfiles/zip/1.2.24",
+                        "url": "https://codeload.github.com/evandroforks/Dotfiles/zip/1.2.24",
                         "version": "2018.1220.2112"
                     }
                 ]
@@ -1480,12 +1493,12 @@
             {
                 "authors": [
                     "Colin T.A. Gray (colinta)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/DuplicateSelections",
+                "homepage": "https://github.com/evandroforks/DuplicateSelections",
                 "issues": "https://github.com/colinta/SublimeDuplicateSelections/issues",
                 "labels": [
                     "text manipulation"
@@ -1500,7 +1513,7 @@
                         "git_tag": "2.1.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/DuplicateSelections/zip/2.1.4",
+                        "url": "https://codeload.github.com/evandroforks/DuplicateSelections/zip/2.1.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1508,11 +1521,11 @@
             {
                 "authors": [
                     "sublimator",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/EditPreferences",
-                "homepage": "https://github.com/evandrocoan/EditPreferences",
+                "details": "https://github.com/evandroforks/EditPreferences",
+                "homepage": "https://github.com/evandroforks/EditPreferences",
                 "name": "EditPreferences",
                 "previous_names": [],
                 "releases": [
@@ -1521,7 +1534,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/EditPreferences/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/EditPreferences/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1529,12 +1542,12 @@
             {
                 "authors": [
                     "sergeche",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Emmet for Sublime Text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Emmet",
+                "homepage": "https://github.com/evandroforks/Emmet",
                 "issues": "https://github.com/sergeche/emmet-sublime/issues",
                 "labels": [],
                 "last_modified": "2018-06-28 07:42:25",
@@ -1547,7 +1560,7 @@
                         "git_tag": "1.0.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Emmet/zip/1.0.9",
+                        "url": "https://codeload.github.com/evandroforks/Emmet/zip/1.0.9",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1638,12 +1651,12 @@
             {
                 "authors": [
                     "aronwoost",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Like \u201cExpand Selection to Scope\u201d. But better!",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ExpandRegion",
+                "homepage": "https://github.com/evandroforks/ExpandRegion",
                 "issues": "https://github.com/aronwoost/sublime-expand-region/issues",
                 "labels": [
                     "text selection",
@@ -1661,7 +1674,7 @@
                         "git_tag": "1.3.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ExpandRegion/zip/1.3.12",
+                        "url": "https://codeload.github.com/evandroforks/ExpandRegion/zip/1.3.12",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1669,15 +1682,15 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ExportHtml",
+                "homepage": "https://github.com/evandroforks/ExportHtml",
                 "issues": "https://github.com/facelessuser/ExportHtml/issues",
                 "labels": [],
-                "last_modified": "2018-01-02 04:54:06",
+                "last_modified": "2019-01-15 03:45:28",
                 "name": "ExportHtml",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md",
@@ -1687,7 +1700,7 @@
                         "git_tag": "2.10.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ExportHtml/zip/2.10.5",
+                        "url": "https://codeload.github.com/evandroforks/ExportHtml/zip/2.10.5",
                         "version": "2018.1220.2112"
                     }
                 ]
@@ -1724,11 +1737,11 @@
             {
                 "authors": [
                     "dreki",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ExtractText",
-                "homepage": "https://github.com/evandrocoan/ExtractText",
+                "details": "https://github.com/evandroforks/ExtractText",
+                "homepage": "https://github.com/evandroforks/ExtractText",
                 "name": "ExtractText",
                 "previous_names": [],
                 "releases": [
@@ -1737,7 +1750,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ExtractText/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/ExtractText/zip/1.0.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1745,12 +1758,12 @@
             {
                 "authors": [
                     "Colin T.A. Gray (colinta)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.  With contributions from Sebastian Pape (spape) and Jiri Urban (jiriurban)",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FileDiffs",
+                "homepage": "https://github.com/evandroforks/FileDiffs",
                 "issues": "https://github.com/colinta/SublimeFileDiffs/issues",
                 "labels": [
                     "diff/merge"
@@ -1765,7 +1778,7 @@
                         "git_tag": "2.8.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FileDiffs/zip/2.8.3",
+                        "url": "https://codeload.github.com/evandroforks/FileDiffs/zip/2.8.3",
                         "version": "2018.1217.1719"
                     }
                 ]
@@ -1773,11 +1786,11 @@
             {
                 "authors": [
                     "FichteFoll",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/FileHistory",
-                "homepage": "https://github.com/evandrocoan/FileHistory",
+                "details": "https://github.com/evandroforks/FileHistory",
+                "homepage": "https://github.com/evandroforks/FileHistory",
                 "name": "FileHistory",
                 "previous_names": [],
                 "releases": [
@@ -1786,7 +1799,7 @@
                         "git_tag": "1.8.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FileHistory/zip/1.8.6",
+                        "url": "https://codeload.github.com/evandroforks/FileHistory/zip/1.8.6",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1794,12 +1807,12 @@
             {
                 "authors": [
                     "math2001",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "\u26a1\ufe0f A Sublime Text 3 package to help with file (duplicate, move, create...) \u26a1\ufe0f",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FileManager",
+                "homepage": "https://github.com/evandroforks/FileManager",
                 "issues": "https://github.com/math2001/FileManager/issues",
                 "labels": [
                     "sidebar",
@@ -1820,7 +1833,7 @@
                         "git_tag": "1.4.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FileManager/zip/1.4.10",
+                        "url": "https://codeload.github.com/evandroforks/FileManager/zip/1.4.10",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1828,11 +1841,11 @@
             {
                 "authors": [
                     "brianlow",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/FileRename",
-                "homepage": "https://github.com/evandrocoan/FileRename",
+                "details": "https://github.com/evandroforks/FileRename",
+                "homepage": "https://github.com/evandroforks/FileRename",
                 "name": "FileRename",
                 "previous_names": [],
                 "releases": [
@@ -1841,7 +1854,7 @@
                         "git_tag": "1.0.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FileRename/zip/1.0.9",
+                        "url": "https://codeload.github.com/evandroforks/FileRename/zip/1.0.9",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1849,12 +1862,12 @@
             {
                 "authors": [
                     "twolfson",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Find code quickly in Sublime Text.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FindPlusPlus",
+                "homepage": "https://github.com/evandroforks/FindPlusPlus",
                 "issues": "https://github.com/twolfson/FindPlusPlus/issues",
                 "labels": [
                     "file navigation",
@@ -1870,7 +1883,7 @@
                         "git_tag": "0.4.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FindPlusPlus/zip/0.4.7",
+                        "url": "https://codeload.github.com/evandroforks/FindPlusPlus/zip/0.4.7",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1878,12 +1891,12 @@
             {
                 "authors": [
                     "skuroda",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Plugin for Sublime Text to help identify conflicting key mappings.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FindKeyConflicts",
+                "homepage": "https://github.com/evandroforks/FindKeyConflicts",
                 "issues": "https://github.com/skuroda/FindKeyConflicts/issues",
                 "labels": [],
                 "last_modified": "2016-08-21 05:07:00",
@@ -1896,7 +1909,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FindKeyConflicts/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/FindKeyConflicts/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -1964,12 +1977,12 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text Plugin that allows for file navigation via the quick panel taking advantage of Sublime's fuzzy searching.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FuzzyFileNav",
+                "homepage": "https://github.com/evandroforks/FuzzyFileNav",
                 "issues": "https://github.com/facelessuser/FuzzyFileNav/issues",
                 "labels": [],
                 "last_modified": "2016-01-08 17:30:39",
@@ -1982,7 +1995,7 @@
                         "git_tag": "1.3.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FuzzyFileNav/zip/1.3.5",
+                        "url": "https://codeload.github.com/evandroforks/FuzzyFileNav/zip/1.3.5",
                         "version": "2018.1208.1434"
                     }
                 ]
@@ -1990,12 +2003,12 @@
             {
                 "authors": [
                     "sagold",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Autocomplete relative or absolute file paths in Sublime Text project folder ",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/FuzzyFilePath",
+                "homepage": "https://github.com/evandroforks/FuzzyFilePath",
                 "issues": "https://github.com/sagold/FuzzyFilePath/issues",
                 "labels": [
                     "filename",
@@ -2012,7 +2025,7 @@
                         "git_tag": "0.5.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FuzzyFilePath/zip/0.5.8",
+                        "url": "https://codeload.github.com/evandroforks/FuzzyFilePath/zip/0.5.8",
                         "version": "2018.1217.0157"
                     }
                 ]
@@ -2020,11 +2033,11 @@
             {
                 "authors": [
                     "skozlovf",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/GenericConfig",
-                "homepage": "https://github.com/evandrocoan/GenericConfig",
+                "details": "https://github.com/evandroforks/GenericConfig",
+                "homepage": "https://github.com/evandroforks/GenericConfig",
                 "name": "GenericConfig",
                 "previous_names": [],
                 "releases": [
@@ -2033,7 +2046,7 @@
                         "git_tag": "0.0.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/GenericConfig/zip/0.0.12",
+                        "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.12",
                         "version": "2019.0223.0101"
                     }
                 ]
@@ -2041,12 +2054,12 @@
             {
                 "authors": [
                     "condemil",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text plugin for creating new Gists from selected text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Gist",
+                "homepage": "https://github.com/evandroforks/Gist",
                 "issues": "https://github.com/condemil/Gist/issues",
                 "labels": [],
                 "last_modified": "2017-07-31 18:43:39",
@@ -2059,7 +2072,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Gist/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/Gist/zip/1.0.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2067,12 +2080,12 @@
             {
                 "authors": [
                     "kemayo",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Plugin for some git integration into sublime text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SublimeGit",
+                "homepage": "https://github.com/evandroforks/SublimeGit",
                 "issues": "https://github.com/kemayo/sublime-text-git/issues",
                 "labels": [
                     "git",
@@ -2088,7 +2101,7 @@
                         "git_tag": "1.0.15",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SublimeGit/zip/1.0.15",
+                        "url": "https://codeload.github.com/evandroforks/SublimeGit/zip/1.0.15",
                         "version": "2018.1217.1620"
                     }
                 ]
@@ -2116,12 +2129,12 @@
             {
                 "authors": [
                     "jisaacks",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text 2/3 plugin to see git diff in gutter",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/GitGutter",
+                "homepage": "https://github.com/evandroforks/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
                 "last_modified": "2018-11-10 15:06:31",
@@ -2137,7 +2150,7 @@
                         "git_tag": "1.9.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/GitGutter/zip/1.9.6",
+                        "url": "https://codeload.github.com/evandroforks/GitGutter/zip/1.9.6",
                         "version": "2018.1216.0837"
                     }
                 ]
@@ -2145,11 +2158,11 @@
             {
                 "authors": [
                     "praveenpuglia",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/GitHubMarkdownSnippets",
-                "homepage": "https://github.com/evandrocoan/GitHubMarkdownSnippets",
+                "details": "https://github.com/evandroforks/GithubMarkdownSnippets",
+                "homepage": "https://github.com/evandroforks/GithubMarkdownSnippets",
                 "name": "GitHubMarkdownSnippets",
                 "previous_names": [],
                 "releases": [
@@ -2158,7 +2171,7 @@
                         "git_tag": "2.1.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/GitHubMarkdownSnippets/zip/2.1.3",
+                        "url": "https://codeload.github.com/evandroforks/GithubMarkdownSnippets/zip/2.1.3",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2166,12 +2179,12 @@
             {
                 "authors": [
                     "chrissimpkins",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Glue is a plugin that joins your shell to Sublime Text in quasi-perfect harmony.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Glue",
+                "homepage": "https://github.com/evandroforks/Glue",
                 "issues": "https://github.com/chrissimpkins/glue/issues",
                 "labels": [
                     "terminal",
@@ -2188,7 +2201,7 @@
                         "git_tag": "0.9.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Glue/zip/0.9.10",
+                        "url": "https://codeload.github.com/evandroforks/Glue/zip/0.9.10",
                         "version": "2018.1208.1434"
                     }
                 ]
@@ -2216,11 +2229,11 @@
             {
                 "authors": [
                     "noahcoad",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/GoogleSpellCheck",
-                "homepage": "https://github.com/evandrocoan/GoogleSpellCheck",
+                "details": "https://github.com/evandroforks/GoogleSpellCheck",
+                "homepage": "https://github.com/evandroforks/GoogleSpellCheck",
                 "name": "GoogleSpellCheck",
                 "previous_names": [],
                 "releases": [
@@ -2229,7 +2242,7 @@
                         "git_tag": "1.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/GoogleSpellCheck/zip/1.0.5",
+                        "url": "https://codeload.github.com/evandroforks/GoogleSpellCheck/zip/1.0.5",
                         "version": "2018.1208.1435"
                     }
                 ]
@@ -2237,12 +2250,12 @@
             {
                 "authors": [
                     "shagabutdinov",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Better goto last edit",
                 "donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
-                "homepage": "https://github.com/evandrocoan/GotoLastEditEnhanced",
+                "homepage": "https://github.com/evandroforks/GotoLastEditEnhanced",
                 "issues": "https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced/issues",
                 "labels": [
                     "sublime-enhanced",
@@ -2258,7 +2271,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/GotoLastEditEnhanced/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/GotoLastEditEnhanced/zip/1.0.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2334,7 +2347,7 @@
                 "homepage": "https://github.com/evandroforks/HexViewer",
                 "issues": "https://github.com/facelessuser/HexViewer/issues",
                 "labels": [],
-                "last_modified": "2017-11-20 01:52:58",
+                "last_modified": "2019-01-17 05:35:59",
                 "name": "HexViewer",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/HexViewer/master/readme.md",
@@ -2352,11 +2365,11 @@
             {
                 "authors": [
                     "bblanchon",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/HighlightBuildErrors",
-                "homepage": "https://github.com/evandrocoan/HighlightBuildErrors",
+                "details": "https://github.com/evandroforks/HighlightBuildErrors",
+                "homepage": "https://github.com/evandroforks/HighlightBuildErrors",
                 "name": "HighlightBuildErrors",
                 "previous_names": [],
                 "releases": [
@@ -2365,7 +2378,7 @@
                         "git_tag": "3.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HighlightBuildErrors/zip/3.0.10",
+                        "url": "https://codeload.github.com/evandroforks/HighlightBuildErrors/zip/3.0.10",
                         "version": "2018.1208.1435"
                     }
                 ]
@@ -2373,12 +2386,12 @@
             {
                 "authors": [
                     "seanliang",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text 2 & 3 plugin for highlighting mutiple words in different colors",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/HighlightWords",
+                "homepage": "https://github.com/evandroforks/HighlightWords",
                 "issues": "https://github.com/seanliang/HighlightWords/issues",
                 "labels": [],
                 "last_modified": "2015-12-21 04:05:23",
@@ -2391,7 +2404,7 @@
                         "git_tag": "1.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.5",
+                        "url": "https://codeload.github.com/evandroforks/HighlightWords/zip/1.0.5",
                         "version": "2018.1208.1731"
                     }
                 ]
@@ -2419,12 +2432,12 @@
             },
             {
                 "authors": [
-                    "TheOnlyRew",
-                    "Forked by evandrocoan"
+                    "pyrrho",
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/HorizontalScroll",
-                "homepage": "https://github.com/evandrocoan/HorizontalScroll",
+                "details": "https://github.com/evandroforks/HorizontalScroll",
+                "homepage": "https://github.com/evandroforks/HorizontalScroll",
                 "name": "HorizontalScroll",
                 "previous_names": [],
                 "releases": [
@@ -2433,7 +2446,7 @@
                         "git_tag": "1.1.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HorizontalScroll/zip/1.1.6",
+                        "url": "https://codeload.github.com/evandroforks/HorizontalScroll/zip/1.1.6",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2461,11 +2474,11 @@
             {
                 "authors": [
                     "xdrop",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/HungryBackspace",
-                "homepage": "https://github.com/evandrocoan/HungryBackspace",
+                "details": "https://github.com/evandroforks/HungryBackspace",
+                "homepage": "https://github.com/evandroforks/HungryBackspace",
                 "name": "HungryBackspace",
                 "previous_names": [],
                 "releases": [
@@ -2474,7 +2487,7 @@
                         "git_tag": "1.1.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HungryBackspace/zip/1.1.10",
+                        "url": "https://codeload.github.com/evandroforks/HungryBackspace/zip/1.1.10",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2482,12 +2495,12 @@
             {
                 "authors": [
                     "eBookArchitects",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text 2 Plugin that can generate a sequence of numbers using search and replace.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Incrementor",
+                "homepage": "https://github.com/evandroforks/Incrementor",
                 "issues": "https://github.com/eBookArchitects/Incrementor/issues",
                 "labels": [],
                 "last_modified": "2016-09-07 16:15:46",
@@ -2500,7 +2513,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Incrementor/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/Incrementor/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2508,11 +2521,11 @@
             {
                 "authors": [
                     "yulanggong",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/IncrementSelection",
-                "homepage": "https://github.com/evandrocoan/IncrementSelection",
+                "details": "https://github.com/evandroforks/IncrementSelection",
+                "homepage": "https://github.com/evandroforks/IncrementSelection",
                 "name": "IncrementSelection",
                 "previous_names": [],
                 "releases": [
@@ -2521,7 +2534,7 @@
                         "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/IncrementSelection/zip/1.0.6",
+                        "url": "https://codeload.github.com/evandroforks/IncrementSelection/zip/1.0.6",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2529,11 +2542,11 @@
             {
                 "authors": [
                     "Epskampie",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/IndentAndBraces",
-                "homepage": "https://github.com/evandrocoan/IndentAndBraces",
+                "details": "https://github.com/evandroforks/IndentAndBraces",
+                "homepage": "https://github.com/evandroforks/IndentAndBraces",
                 "name": "IndentAndBraces",
                 "previous_names": [],
                 "releases": [
@@ -2542,7 +2555,7 @@
                         "git_tag": "1.0.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/IndentAndBraces/zip/1.0.9",
+                        "url": "https://codeload.github.com/evandroforks/IndentAndBraces/zip/1.0.9",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2550,11 +2563,11 @@
             {
                 "authors": [
                     "socsieng",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/IndentSize",
-                "homepage": "https://github.com/evandrocoan/IndentSize",
+                "details": "https://github.com/evandroforks/IndentSize",
+                "homepage": "https://github.com/evandroforks/IndentSize",
                 "name": "IndentSize",
                 "previous_names": [],
                 "releases": [
@@ -2563,7 +2576,7 @@
                         "git_tag": "0.1.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/IndentSize/zip/0.1.5",
+                        "url": "https://codeload.github.com/evandroforks/IndentSize/zip/0.1.5",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2571,11 +2584,11 @@
             {
                 "authors": [
                     "jbrooksuk",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/InsertNums",
-                "homepage": "https://github.com/evandrocoan/InsertNums",
+                "details": "https://github.com/evandroforks/InsertNums",
+                "homepage": "https://github.com/evandroforks/InsertNums",
                 "name": "InsertNums",
                 "previous_names": [],
                 "releases": [
@@ -2584,7 +2597,7 @@
                         "git_tag": "2.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/InsertNums/zip/2.0.5",
+                        "url": "https://codeload.github.com/evandroforks/InsertNums/zip/2.0.5",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2592,11 +2605,11 @@
             {
                 "authors": [
                     "vontio",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/InvertSelection",
-                "homepage": "https://github.com/evandrocoan/InvertSelection",
+                "details": "https://github.com/evandroforks/InvertSelection",
+                "homepage": "https://github.com/evandroforks/InvertSelection",
                 "name": "InvertSelection",
                 "previous_names": [],
                 "releases": [
@@ -2605,7 +2618,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/InvertSelection/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/InvertSelection/zip/1.0.3",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2653,12 +2666,12 @@
             {
                 "authors": [
                     "spywhere",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Java Development Plugin for Sublime Text 3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Javatar",
+                "homepage": "https://github.com/evandroforks/Javatar",
                 "issues": "https://github.com/spywhere/Javatar/issues",
                 "labels": [
                     "build system",
@@ -2674,7 +2687,7 @@
                         "git_tag": "2.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Javatar/zip/2.0.4",
+                        "url": "https://codeload.github.com/evandroforks/Javatar/zip/2.0.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2693,7 +2706,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2018-12-06 01:22:48",
+                "last_modified": "2019-01-09 03:58:53",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2711,11 +2724,11 @@
             {
                 "authors": [
                     "mwean",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/JumpAlongIndent",
-                "homepage": "https://github.com/evandrocoan/JumpAlongIndent",
+                "details": "https://github.com/evandroforks/JumpAlongIndent",
+                "homepage": "https://github.com/evandroforks/JumpAlongIndent",
                 "name": "JumpAlongIndent",
                 "previous_names": [],
                 "releases": [
@@ -2724,7 +2737,7 @@
                         "git_tag": "0.4.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/JumpAlongIndent/zip/0.4.4",
+                        "url": "https://codeload.github.com/evandroforks/JumpAlongIndent/zip/0.4.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2818,12 +2831,12 @@
             {
                 "authors": [
                     "r-stein",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text Package to insert the quotes in a smart way",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/LaTeXSmartQuotes",
+                "homepage": "https://github.com/evandroforks/LaTeXSmartQuotes",
                 "issues": "https://github.com/r-stein/sublime-text-latex-smart-quotes/issues",
                 "labels": [
                     "latex"
@@ -2838,7 +2851,7 @@
                         "git_tag": "1.0.15",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LaTeXSmartQuotes/zip/1.0.15",
+                        "url": "https://codeload.github.com/evandroforks/LaTeXSmartQuotes/zip/1.0.15",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2846,12 +2859,12 @@
             {
                 "authors": [
                     "SublimeText",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "LaTeX plugin for Sublime Text 2 and 3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/LaTeXTools",
+                "homepage": "https://github.com/evandroforks/LaTeXTools",
                 "issues": "https://github.com/SublimeText/LaTeXTools/issues",
                 "labels": [],
                 "last_modified": "2018-10-22 02:36:54",
@@ -2864,7 +2877,7 @@
                         "git_tag": "4.0.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LaTeXTools/zip/4.0.7",
+                        "url": "https://codeload.github.com/evandroforks/LaTeXTools/zip/4.0.7",
                         "version": "2018.1217.0135"
                     }
                 ]
@@ -2872,11 +2885,11 @@
             {
                 "authors": [
                     "kevinstadler",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/LaTeXWordCount",
-                "homepage": "https://github.com/evandrocoan/LaTeXWordCount",
+                "details": "https://github.com/evandroforks/LaTeXWordCount",
+                "homepage": "https://github.com/evandroforks/LaTeXWordCount",
                 "name": "LaTeXWordCount",
                 "previous_names": [],
                 "releases": [
@@ -2885,7 +2898,7 @@
                         "git_tag": "1.1.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LaTeXWordCount/zip/1.1.6",
+                        "url": "https://codeload.github.com/evandroforks/LaTeXWordCount/zip/1.1.6",
                         "version": "2018.1217.0038"
                     }
                 ]
@@ -2893,12 +2906,12 @@
             {
                 "authors": [
                     "danro",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "LESS syntax highlighting for Sublime Text.",
                 "donate": "https://paypal.me/pools/c/89Rcz97pIQ",
-                "homepage": "https://github.com/evandrocoan/LESS",
+                "homepage": "https://github.com/evandroforks/LESS",
                 "issues": "https://github.com/danro/LESS-sublime/issues",
                 "labels": [
                     "language syntax"
@@ -2913,7 +2926,7 @@
                         "git_tag": "2.6.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LESS/zip/2.6.2",
+                        "url": "https://codeload.github.com/evandroforks/LESS/zip/2.6.2",
                         "version": "2018.1217.0052"
                     }
                 ]
@@ -2921,11 +2934,11 @@
             {
                 "authors": [
                     "vontio",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/LineEndingsUnify",
-                "homepage": "https://github.com/evandrocoan/LineEndingsUnify",
+                "details": "https://github.com/evandroforks/LineEndingsUnify",
+                "homepage": "https://github.com/evandroforks/LineEndingsUnify",
                 "name": "LineEndingsUnify",
                 "previous_names": [],
                 "releases": [
@@ -2934,7 +2947,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LineEndingsUnify/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/LineEndingsUnify/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -2942,12 +2955,12 @@
             {
                 "authors": [
                     "heldev",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "This Sublime Text plugin allows you to compare, merge and manipulate lists of things, whether they are todo items, lists of files or arrays from API responses.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/LinesMultisets",
+                "homepage": "https://github.com/evandroforks/LinesMultisets",
                 "issues": "https://github.com/heldev/sublime-lines-multisets/issues",
                 "labels": [
                     "text manipulation",
@@ -2965,7 +2978,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LinesMultisets/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/LinesMultisets/zip/1.0.3",
                         "version": "2018.1220.2016"
                     }
                 ]
@@ -2993,11 +3006,11 @@
             {
                 "authors": [
                     "vishr",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/LocalHistory",
-                "homepage": "https://github.com/evandrocoan/LocalHistory",
+                "details": "https://github.com/evandroforks/LocalHistory",
+                "homepage": "https://github.com/evandroforks/LocalHistory",
                 "name": "LocalHistory",
                 "previous_names": [],
                 "releases": [
@@ -3006,7 +3019,7 @@
                         "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LocalHistory/zip/1.0.6",
+                        "url": "https://codeload.github.com/evandroforks/LocalHistory/zip/1.0.6",
                         "version": "2019.0113.1443"
                     }
                 ]
@@ -3022,7 +3035,7 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2018-11-01 12:18:18",
+                "last_modified": "2019-01-15 22:45:11",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3100,19 +3113,19 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Markdown preview and build plugin for Sublime Text https://facelessuser.github.io/MarkdownPreview/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/MarkdownPreview",
+                "homepage": "https://github.com/evandroforks/MarkdownPreview",
                 "issues": "https://github.com/facelessuser/MarkdownPreview/issues",
                 "labels": [
                     "markdown",
                     "preview",
                     "build"
                 ],
-                "last_modified": "2018-10-10 03:16:20",
+                "last_modified": "2018-12-31 18:10:43",
                 "name": "MarkdownPreview",
                 "previous_names": [
                     "Markdown Preview"
@@ -3124,7 +3137,7 @@
                         "git_tag": "1.4.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MarkdownPreview/zip/1.4.9",
+                        "url": "https://codeload.github.com/evandroforks/MarkdownPreview/zip/1.4.9",
                         "version": "2019.0106.0554"
                     }
                 ]
@@ -3173,11 +3186,11 @@
             {
                 "authors": [
                     "tushortz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/MatlabCompletions",
-                "homepage": "https://github.com/evandrocoan/MatlabCompletions",
+                "details": "https://github.com/evandroforks/MatlabCompletions",
+                "homepage": "https://github.com/evandroforks/MatlabCompletions",
                 "name": "MatlabCompletions",
                 "previous_names": [],
                 "releases": [
@@ -3186,7 +3199,7 @@
                         "git_tag": "1.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MatlabCompletions/zip/1.0.5",
+                        "url": "https://codeload.github.com/evandroforks/MatlabCompletions/zip/1.0.5",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3194,12 +3207,12 @@
             {
                 "authors": [
                     "joepmoritz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime package that adds all Matlab filenames in your project to auto complete",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/MatlabFilenameAutoComplete",
+                "homepage": "https://github.com/evandroforks/MatlabFilenameAutoComplete",
                 "issues": "https://github.com/joepmoritz/MatlabFilenameAutoComplete/issues",
                 "labels": [
                     "auto-complete",
@@ -3215,7 +3228,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MatlabFilenameAutoComplete/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/MatlabFilenameAutoComplete/zip/1.0.3",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3223,12 +3236,12 @@
             {
                 "authors": [
                     "nlloyd",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text 2 Plugin providing integration with the Apache Maven build and project management tool",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Maven",
+                "homepage": "https://github.com/evandroforks/Maven",
                 "issues": "https://github.com/nlloyd/SublimeMaven/issues",
                 "labels": [],
                 "last_modified": "2014-09-06 18:10:20",
@@ -3241,7 +3254,7 @@
                         "git_tag": "2.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Maven/zip/2.0.4",
+                        "url": "https://codeload.github.com/evandroforks/Maven/zip/2.0.4",
                         "version": "2018.1129.2335"
                     }
                 ]
@@ -3249,12 +3262,12 @@
             {
                 "authors": [
                     "jisaacks",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text plugin to quickly maximize a pane in a multi pane layout without resetting the layout.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/MaxPane",
+                "homepage": "https://github.com/evandroforks/MaxPane",
                 "issues": "https://github.com/jisaacks/MaxPane/issues",
                 "labels": [],
                 "last_modified": "2017-09-06 17:38:05",
@@ -3267,7 +3280,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/MaxPane/zip/1.0.3",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3275,12 +3288,12 @@
             {
                 "authors": [
                     "Colin T.A. Gray (colinta)",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/MoveText",
+                "homepage": "https://github.com/evandroforks/MoveText",
                 "issues": "https://github.com/colinta/SublimeMoveText/issues",
                 "labels": [
                     "formatting",
@@ -3296,7 +3309,7 @@
                         "git_tag": "2.0.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MoveText/zip/2.0.9",
+                        "url": "https://codeload.github.com/evandroforks/MoveText/zip/2.0.9",
                         "version": "2018.1217.1725"
                     }
                 ]
@@ -3304,12 +3317,12 @@
             {
                 "authors": [
                     "philippotto",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text Plugin which enhances editing of multiple selections by adding various features.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/MultiEditUtils",
+                "homepage": "https://github.com/evandroforks/MultiEditUtils",
                 "issues": "https://github.com/philippotto/Sublime-MultiEditUtils/issues",
                 "labels": [
                     "text manipulation",
@@ -3326,7 +3339,7 @@
                         "git_tag": "1.9.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MultiEditUtils/zip/1.9.9",
+                        "url": "https://codeload.github.com/evandroforks/MultiEditUtils/zip/1.9.9",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3334,11 +3347,11 @@
             {
                 "authors": [
                     "ancor-dev",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/MySqlSnippets",
-                "homepage": "https://github.com/evandrocoan/MySqlSnippets",
+                "details": "https://github.com/evandroforks/MySqlSnippets",
+                "homepage": "https://github.com/evandroforks/MySqlSnippets",
                 "name": "MySQLSnippets",
                 "previous_names": [],
                 "releases": [
@@ -3347,7 +3360,7 @@
                         "git_tag": "1.6.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MySqlSnippets/zip/1.6.3",
+                        "url": "https://codeload.github.com/evandroforks/MySqlSnippets/zip/1.6.3",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3365,7 +3378,7 @@
                     "color scheme",
                     "notepad++"
                 ],
-                "last_modified": "2018-10-10 23:02:13",
+                "last_modified": "2018-12-08 17:23:39",
                 "name": "Notepad++ Color Scheme",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
@@ -3390,11 +3403,11 @@
             {
                 "authors": [
                     "hktonylee",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/NumberKing",
-                "homepage": "https://github.com/evandrocoan/NumberKing",
+                "details": "https://github.com/evandroforks/NumberKing",
+                "homepage": "https://github.com/evandroforks/NumberKing",
                 "name": "NumberKing",
                 "previous_names": [],
                 "releases": [
@@ -3403,7 +3416,7 @@
                         "git_tag": "1.2.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/NumberKing/zip/1.2.3",
+                        "url": "https://codeload.github.com/evandroforks/NumberKing/zip/1.2.3",
                         "version": "2018.1210.1204"
                     }
                 ]
@@ -3491,15 +3504,15 @@
             {
                 "authors": [
                     "SublimeText",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Origami",
+                "homepage": "https://github.com/evandroforks/Origami",
                 "issues": "https://github.com/SublimeText/Origami/issues",
                 "labels": [],
-                "last_modified": "2018-11-21 15:35:14",
+                "last_modified": "2019-02-21 03:47:27",
                 "name": "Origami",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
@@ -3509,7 +3522,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Origami/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.4",
                         "version": "2018.1210.2153"
                     }
                 ]
@@ -3517,12 +3530,12 @@
             {
                 "authors": [
                     "OdatNurd",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Easily Manage Your Sublime Text Package Overrides",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/OverrideAudit",
+                "homepage": "https://github.com/evandroforks/OverrideAudit",
                 "issues": "https://github.com/OdatNurd/OverrideAudit/issues",
                 "labels": [
                     "diff",
@@ -3530,7 +3543,7 @@
                     "resource",
                     "package development"
                 ],
-                "last_modified": "2017-05-01 17:58:39",
+                "last_modified": "2019-02-15 21:59:45",
                 "name": "OverrideAudit",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -3540,7 +3553,7 @@
                         "git_tag": "1.1.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/OverrideAudit/zip/1.1.6",
+                        "url": "https://codeload.github.com/evandroforks/OverrideAudit/zip/1.1.6",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3609,15 +3622,15 @@
                 "authors": [
                     "guillermooo",
                     "FichteFoll",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/PackageDev",
+                "homepage": "https://github.com/evandroforks/PackageDev",
                 "issues": "https://github.com/SublimeText/PackageDev/issues",
                 "labels": [],
-                "last_modified": "2018-10-24 00:09:06",
+                "last_modified": "2019-02-01 15:03:15",
                 "name": "PackageDev",
                 "previous_names": [
                     "AAAPackageDev"
@@ -3629,7 +3642,7 @@
                         "git_tag": "3.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PackageDev/zip/3.0.10",
+                        "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.0.10",
                         "version": "2018.1208.1437"
                     }
                 ]
@@ -3637,15 +3650,15 @@
             {
                 "authors": [
                     "skuroda",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text plugin to view package resources. ",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/PackageResourceViewer",
+                "homepage": "https://github.com/evandroforks/PackageResourceViewer",
                 "issues": "https://github.com/skuroda/PackageResourceViewer/issues",
                 "labels": [],
-                "last_modified": "2016-07-11 19:48:54",
+                "last_modified": "2018-12-17 17:16:45",
                 "name": "PackageResourceViewer",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/skuroda/PackageResourceViewer/master/README.md",
@@ -3655,7 +3668,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PackageResourceViewer/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/PackageResourceViewer/zip/1.0.4",
                         "version": "2018.1217.1605"
                     }
                 ]
@@ -3736,11 +3749,11 @@
             {
                 "authors": [
                     "hbhakhra",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/PathTranslator",
-                "homepage": "https://github.com/evandrocoan/PathTranslator",
+                "details": "https://github.com/evandroforks/PathTranslator",
+                "homepage": "https://github.com/evandroforks/PathTranslator",
                 "name": "PathTranslator",
                 "previous_names": [],
                 "releases": [
@@ -3749,7 +3762,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PathTranslator/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/PathTranslator/zip/1.0.4",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3797,19 +3810,18 @@
             {
                 "authors": [
                     "jvantuyl",
-                    "evandrocoan",
-                    "Forked by evandroforks"
+                    "evandrocoan"
                 ],
                 "buy": null,
                 "description": "A fork from https://github.com/jvantuyl/sublime_diagram_plugin package for Sublime Text 3, to render diagrams in your source code",
                 "donate": null,
-                "homepage": "https://github.com/evandroforks/PlantUmlDiagrams",
+                "homepage": "https://github.com/evandrocoan/PlantUmlDiagrams",
                 "issues": "https://github.com/evandrocoan/PlantUmlDiagrams/issues",
                 "labels": [
                     "uml",
                     "plantuml"
                 ],
-                "last_modified": "2018-10-24 04:10:53",
+                "last_modified": "2018-12-08 21:36:56",
                 "name": "PlantUmlDiagrams",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
@@ -3819,7 +3831,7 @@
                         "git_tag": "3.0.11",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PlantUmlDiagrams/zip/3.0.11",
+                        "url": "https://codeload.github.com/evandrocoan/PlantUmlDiagrams/zip/3.0.11",
                         "version": "2018.1208.1936"
                     }
                 ]
@@ -3827,12 +3839,12 @@
             {
                 "authors": [
                     "Briles",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Syntax for Adobe PostScript 3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/PostScript",
+                "homepage": "https://github.com/evandroforks/PostScript",
                 "issues": "https://github.com/Briles/sublime-syntax-postscript/issues",
                 "labels": [
                     "language syntax"
@@ -3847,7 +3859,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PostScript/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/PostScript/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3855,12 +3867,12 @@
             {
                 "authors": [
                     "MaokaiLin",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text 3 package that makes the add/remove/select of multiple cursors more convenient with keyboard.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/PowerCursors",
+                "homepage": "https://github.com/evandroforks/PowerCursors",
                 "issues": "https://github.com/MaokaiLin/PowerCursors/issues",
                 "labels": [],
                 "last_modified": "2014-04-13 03:47:24",
@@ -3873,7 +3885,7 @@
                         "git_tag": "1.2.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PowerCursors/zip/1.2.6",
+                        "url": "https://codeload.github.com/evandroforks/PowerCursors/zip/1.2.6",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -3907,11 +3919,11 @@
             {
                 "authors": [
                     "dzhibas",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/PrettyJSON",
-                "homepage": "https://github.com/evandrocoan/PrettyJSON",
+                "details": "https://github.com/evandroforks/PrettyJSON",
+                "homepage": "https://github.com/evandroforks/PrettyJSON",
                 "name": "PrettyJSON",
                 "previous_names": [],
                 "releases": [
@@ -3920,7 +3932,7 @@
                         "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/PrettyJSON/zip/1.0.1",
+                        "url": "https://codeload.github.com/evandroforks/PrettyJSON/zip/1.0.1",
                         "version": "2018.0117.1321"
                     }
                 ]
@@ -3928,11 +3940,11 @@
             {
                 "authors": [
                     "reywood",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ProjectSpecificSyntax",
-                "homepage": "https://github.com/evandrocoan/ProjectSpecificSyntax",
+                "details": "https://github.com/evandroforks/ProjectSpecificSyntax",
+                "homepage": "https://github.com/evandroforks/ProjectSpecificSyntax",
                 "name": "ProjectSpecificSyntax",
                 "previous_names": [],
                 "releases": [
@@ -3941,7 +3953,7 @@
                         "git_tag": "0.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ProjectSpecificSyntax/zip/0.0.10",
+                        "url": "https://codeload.github.com/evandroforks/ProjectSpecificSyntax/zip/0.0.10",
                         "version": "2018.1210.1306"
                     }
                 ]
@@ -4059,11 +4071,11 @@
             {
                 "authors": [
                     "kimpettersen",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/RandomEverything",
-                "homepage": "https://github.com/evandrocoan/RandomEverything",
+                "details": "https://github.com/evandroforks/RandomEverything",
+                "homepage": "https://github.com/evandroforks/RandomEverything",
                 "name": "RandomEverything",
                 "previous_names": [],
                 "releases": [
@@ -4072,7 +4084,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/RandomEverything/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/RandomEverything/zip/1.0.2",
                         "version": "2017.1025.1518"
                     }
                 ]
@@ -4080,12 +4092,12 @@
             {
                 "authors": [
                     "robertcollier4",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Windows Registry Script (.reg) Language package for SublimeText. Includes syntax highlighting, comments toggling, declaration snippets, a build system to merge current reg file to registry, and a Jump To Reg Key command.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/REG",
+                "homepage": "https://github.com/evandroforks/REG",
                 "issues": "https://github.com/robertcollier4/REG/issues",
                 "labels": [],
                 "last_modified": "2018-11-11 00:47:23",
@@ -4098,7 +4110,7 @@
                         "git_tag": "2.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/REG/zip/2.0.3",
+                        "url": "https://codeload.github.com/evandroforks/REG/zip/2.0.3",
                         "version": "2018.1210.1205"
                     }
                 ]
@@ -4126,12 +4138,12 @@
             {
                 "authors": [
                     "kamilkp",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Quickly re-indent file to two or four spaces tabsize.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ReIndent",
+                "homepage": "https://github.com/evandroforks/ReIndent",
                 "issues": "https://github.com/kamilkp/Sublime-Text-ReIndent/issues",
                 "labels": [],
                 "last_modified": "2016-04-19 05:29:01",
@@ -4144,7 +4156,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ReIndent/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/ReIndent/zip/1.0.2",
                         "version": "2018.1208.1523"
                     }
                 ]
@@ -4159,7 +4171,7 @@
                 "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
                 "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
                 "labels": [],
-                "last_modified": "2018-10-10 22:26:42",
+                "last_modified": "2019-01-13 23:24:11",
                 "name": "RememberCommandPaletteInput",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.MD",
@@ -4171,6 +4183,32 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.3",
                         "version": "2019.0113.2124"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "Gabriel-p",
+                    "Forked by evandrocoan"
+                ],
+                "buy": null,
+                "description": "Replace and/or remove non-ASCII characters",
+                "donate": null,
+                "homepage": "https://github.com/evandrocoan/RemoveNonAsciiChars",
+                "issues": "https://github.com/Gabriel-p/RemoveNonAsciiChars/issues",
+                "labels": [],
+                "last_modified": "2017-11-08 13:48:28",
+                "name": "RemoveNonAsciiChars",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/Gabriel-p/RemoveNonAsciiChars/master/README.md",
+                "releases": [
+                    {
+                        "date": "2017-01-29 12:01:25",
+                        "git_tag": "0.1",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandrocoan/RemoveNonAsciiChars/zip/0.1",
+                        "version": "2017.0129.1201"
                     }
                 ]
             },
@@ -4257,11 +4295,11 @@
             {
                 "authors": [
                     "P233",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SassSyntax",
-                "homepage": "https://github.com/evandrocoan/SassSyntax",
+                "details": "https://github.com/evandroforks/SassSyntax",
+                "homepage": "https://github.com/evandroforks/SassSyntax",
                 "name": "SassSyntax",
                 "previous_names": [],
                 "releases": [
@@ -4270,7 +4308,7 @@
                         "git_tag": "1.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SassSyntax/zip/1.0.5",
+                        "url": "https://codeload.github.com/evandroforks/SassSyntax/zip/1.0.5",
                         "version": "2018.1216.0840"
                     }
                 ]
@@ -4298,12 +4336,12 @@
             {
                 "authors": [
                     "yaworsw",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Adds a command which displays the current scope in the status bar at all times",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ScopeAlways",
+                "homepage": "https://github.com/evandroforks/ScopeAlways",
                 "issues": "https://github.com/yaworsw/Sublime-ScopeAlways/issues",
                 "labels": [],
                 "last_modified": "2017-12-29 23:07:05",
@@ -4316,7 +4354,7 @@
                         "git_tag": "0.3.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ScopeAlways/zip/0.3.1",
+                        "url": "https://codeload.github.com/evandroforks/ScopeAlways/zip/0.3.1",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4324,15 +4362,15 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A plugin for Sublime Text that gets the scope under the cursor. http://facelessuser.github.io/ScopeHunter/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/ScopeHunter",
+                "homepage": "https://github.com/evandroforks/ScopeHunter",
                 "issues": "https://github.com/facelessuser/ScopeHunter/issues",
                 "labels": [],
-                "last_modified": "2018-01-02 04:52:22",
+                "last_modified": "2019-01-15 01:57:25",
                 "name": "ScopeHunter",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md",
@@ -4342,7 +4380,7 @@
                         "git_tag": "2.10.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ScopeHunter/zip/2.10.5",
+                        "url": "https://codeload.github.com/evandroforks/ScopeHunter/zip/2.10.5",
                         "version": "2018.1208.1443"
                     }
                 ]
@@ -4350,11 +4388,11 @@
             {
                 "authors": [
                     "mreq",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SelectAll",
-                "homepage": "https://github.com/evandrocoan/SelectAll",
+                "details": "https://github.com/evandroforks/SelectAll",
+                "homepage": "https://github.com/evandroforks/SelectAll",
                 "name": "SelectAll",
                 "previous_names": [],
                 "releases": [
@@ -4363,18 +4401,18 @@
                         "git_tag": "0.1.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SelectAll/zip/0.1.3",
+                        "url": "https://codeload.github.com/evandroforks/SelectAll/zip/0.1.3",
                         "version": "2018.1208.1524"
                     }
                 ]
             },
             {
                 "authors": [
-                    "evandrocoan"
+                    "evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SelectAllSpellingErrors",
-                "homepage": "https://github.com/evandrocoan/SelectAllSpellingErrors",
+                "details": "https://github.com/evandroforks/SelectAllSpellingErrors",
+                "homepage": "https://github.com/evandroforks/SelectAllSpellingErrors",
                 "name": "SelectAllSpellingErrors",
                 "previous_names": [],
                 "releases": [
@@ -4383,7 +4421,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SelectAllSpellingErrors/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/SelectAllSpellingErrors/zip/1.0.2",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4391,12 +4429,12 @@
             {
                 "authors": [
                     "xavi-",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A sublime package that lets you expand your current selection until a specific character, regex, or char-count is encountered.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SelectUntil",
+                "homepage": "https://github.com/evandroforks/SelectUntil",
                 "issues": "https://github.com/xavi-/sublime-selectuntil/issues",
                 "labels": [
                     "text manipulation",
@@ -4413,7 +4451,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SelectUntil/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/SelectUntil/zip/1.0.3",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4421,11 +4459,11 @@
             {
                 "authors": [
                     "bordaigorl",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SemanticLineWrap",
-                "homepage": "https://github.com/evandrocoan/SemanticLineWrap",
+                "details": "https://github.com/evandroforks/SemanticLineWrap",
+                "homepage": "https://github.com/evandroforks/SemanticLineWrap",
                 "name": "SemanticLineWrap",
                 "previous_names": [],
                 "releases": [
@@ -4434,7 +4472,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SemanticLineWrap/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandroforks/SemanticLineWrap/zip/1.0.2",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4462,12 +4500,12 @@
             {
                 "authors": [
                     "titoBouzout",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Enhancements to Sublime Text sidebar. Files and folders.",
                 "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW",
-                "homepage": "https://github.com/evandrocoan/SideBarEnhancements",
+                "homepage": "https://github.com/evandroforks/SideBarEnhancements",
                 "issues": "https://github.com/titoBouzout/SideBarEnhancements/issues",
                 "labels": [
                     "sidebar",
@@ -4486,7 +4524,7 @@
                         "git_tag": "5.0.34",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SideBarEnhancements/zip/5.0.34",
+                        "url": "https://codeload.github.com/evandroforks/SideBarEnhancements/zip/5.0.34",
                         "version": "2019.0223.0022"
                     }
                 ]
@@ -4494,11 +4532,11 @@
             {
                 "authors": [
                     "DougTy",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/CompareSideBySide",
-                "homepage": "https://github.com/evandrocoan/CompareSideBySide",
+                "details": "https://github.com/evandroforks/CompareSideBySide",
+                "homepage": "https://github.com/evandroforks/CompareSideBySide",
                 "name": "SideBySideCompare",
                 "previous_names": [],
                 "releases": [
@@ -4507,7 +4545,7 @@
                         "git_tag": "1.16.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/CompareSideBySide/zip/1.16.5",
+                        "url": "https://codeload.github.com/evandroforks/CompareSideBySide/zip/1.16.5",
                         "version": "2018.1217.1614"
                     }
                 ]
@@ -4515,11 +4553,11 @@
             {
                 "authors": [
                     "jgbishop",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SideBySideSettings",
-                "homepage": "https://github.com/evandrocoan/SideBySideSettings",
+                "details": "https://github.com/evandroforks/SideBySideSettings",
+                "homepage": "https://github.com/evandroforks/SideBySideSettings",
                 "name": "SideBySideSettings",
                 "previous_names": [],
                 "releases": [
@@ -4528,7 +4566,7 @@
                         "git_tag": "1.6.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SideBySideSettings/zip/1.6.1",
+                        "url": "https://codeload.github.com/evandroforks/SideBySideSettings/zip/1.6.1",
                         "version": "2018.1216.1353"
                     }
                 ]
@@ -4556,12 +4594,12 @@
             {
                 "authors": [
                     "jum4",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Plugin for running SQL commands in Sublime Text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SQLExec",
+                "homepage": "https://github.com/evandroforks/SQLExec",
                 "issues": "https://github.com/jum4/sublime-sqlexec/issues",
                 "labels": [],
                 "last_modified": "2015-04-01 09:06:10",
@@ -4574,7 +4612,7 @@
                         "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SQLExec/zip/1.0.4",
+                        "url": "https://codeload.github.com/evandroforks/SQLExec/zip/1.0.4",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4602,12 +4640,12 @@
             {
                 "authors": [
                     "mtxr",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "SQLTools for Sublime Text 3",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SQLTools",
+                "homepage": "https://github.com/evandroforks/SQLTools",
                 "issues": "https://github.com/mtxr/SQLTools/issues",
                 "labels": [
                     "sql",
@@ -4626,7 +4664,7 @@
                         "git_tag": "0.9.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SQLTools/zip/0.9.13",
+                        "url": "https://codeload.github.com/evandroforks/SQLTools/zip/0.9.13",
                         "version": "2019.0107.1153"
                     }
                 ]
@@ -4634,12 +4672,12 @@
             {
                 "authors": [
                     "vim-zz",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text 3 plugin - persistent highlight of selected text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/StickySearch",
+                "homepage": "https://github.com/evandroforks/StickySearch",
                 "issues": "https://github.com/vim-zz/StickySearch/issues",
                 "labels": [],
                 "last_modified": "2015-06-03 07:22:22",
@@ -4652,7 +4690,7 @@
                         "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/StickySearch/zip/1.0.6",
+                        "url": "https://codeload.github.com/evandroforks/StickySearch/zip/1.0.6",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4681,18 +4719,18 @@
             {
                 "authors": [
                     "SublimeLinter",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "The code linting framework for Sublime Text 3",
                 "donate": "https://paypal.me/pools/c/82jmBQtUbY",
-                "homepage": "https://github.com/evandrocoan/SublimeLinter",
+                "homepage": "https://github.com/evandroforks/SublimeLinter",
                 "issues": "https://github.com/SublimeLinter/SublimeLinter/issues",
                 "labels": [
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2018-10-16 07:31:14",
+                "last_modified": "2019-02-04 17:19:47",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -4704,7 +4742,7 @@
                         "git_tag": "4.9.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SublimeLinter/zip/4.9.2",
+                        "url": "https://codeload.github.com/evandroforks/SublimeLinter/zip/4.9.2",
                         "version": "2019.0111.2247"
                     }
                 ]
@@ -4712,12 +4750,12 @@
             {
                 "authors": [
                     "SublimeLinter",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "SublimeLinter 3 plugin for Java, using javac -Xlint.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SublimeLinter-javac",
+                "homepage": "https://github.com/evandroforks/SublimeLinter-javac",
                 "issues": "https://github.com/SublimeLinter/SublimeLinter-javac/issues",
                 "labels": [
                     "linting",
@@ -4734,7 +4772,7 @@
                         "git_tag": "1.1.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SublimeLinter-javac/zip/1.1.12",
+                        "url": "https://codeload.github.com/evandroforks/SublimeLinter-javac/zip/1.1.12",
                         "version": "2018.1218.1942"
                     }
                 ]
@@ -4754,7 +4792,7 @@
                     "SublimeLinter",
                     "python"
                 ],
-                "last_modified": "2018-05-24 11:22:57",
+                "last_modified": "2019-02-21 15:59:02",
                 "name": "SublimeLinter-pylint",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-pylint/master/README.md",
@@ -4772,11 +4810,11 @@
             {
                 "authors": [
                     "jaipandya",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SublimeTutorial",
-                "homepage": "https://github.com/evandrocoan/SublimeTutorial",
+                "details": "https://github.com/evandroforks/SublimeTutorial",
+                "homepage": "https://github.com/evandroforks/SublimeTutorial",
                 "name": "SublimeTutorial",
                 "previous_names": [],
                 "releases": [
@@ -4785,7 +4823,7 @@
                         "git_tag": "0.2.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SublimeTutorial/zip/0.2.2",
+                        "url": "https://codeload.github.com/evandroforks/SublimeTutorial/zip/0.2.2",
                         "version": "2017.0117.2117"
                     }
                 ]
@@ -4793,12 +4831,12 @@
             {
                 "authors": [
                     "quiqueg",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text package for the Swift programming language",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Swift",
+                "homepage": "https://github.com/evandroforks/Swift",
                 "issues": "https://github.com/quiqueg/Swift-Sublime-Package/issues",
                 "labels": [
                     "language syntax"
@@ -4813,7 +4851,7 @@
                         "git_tag": "0.0.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Swift/zip/0.0.12",
+                        "url": "https://codeload.github.com/evandroforks/Swift/zip/0.0.12",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4821,12 +4859,12 @@
             {
                 "authors": [
                     "TheSpyder",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text plugin to sync project sidebar (folder view) with currently active file.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SyncedSideBar",
+                "homepage": "https://github.com/evandroforks/SyncedSideBar",
                 "issues": "https://github.com/TheSpyder/SyncedSideBar/issues",
                 "labels": [],
                 "last_modified": "2017-01-03 02:30:28",
@@ -4839,7 +4877,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SyncedSideBar/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/SyncedSideBar/zip/1.0.3",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4847,11 +4885,11 @@
             {
                 "authors": [
                     "zzjin",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/SyncViewScroll",
-                "homepage": "https://github.com/evandrocoan/SyncViewScroll",
+                "details": "https://github.com/evandroforks/SyncViewScroll",
+                "homepage": "https://github.com/evandroforks/SyncViewScroll",
                 "name": "SyncViewScroll",
                 "previous_names": [],
                 "releases": [
@@ -4860,7 +4898,7 @@
                         "git_tag": "0.3.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SyncViewScroll/zip/0.3.4",
+                        "url": "https://codeload.github.com/evandroforks/SyncViewScroll/zip/0.3.4",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4868,12 +4906,12 @@
             {
                 "authors": [
                     "randy3k",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Applying settings to a given syntax/extension",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/SyntaxManager",
+                "homepage": "https://github.com/evandroforks/SyntaxManager",
                 "issues": "https://github.com/randy3k/SyntaxManager/issues",
                 "labels": [],
                 "last_modified": "2017-07-21 15:15:35",
@@ -4886,7 +4924,7 @@
                         "git_tag": "1.1.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SyntaxManager/zip/1.1.10",
+                        "url": "https://codeload.github.com/evandroforks/SyntaxManager/zip/1.1.10",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4894,12 +4932,12 @@
             {
                 "authors": [
                     "facelessuser",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Plugin with sticky tabs, more tab closing options, and additional menu items. http://facelessuser.github.io/TabsExtra/",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/TabsExtra",
+                "homepage": "https://github.com/evandroforks/TabsExtra",
                 "issues": "https://github.com/facelessuser/TabsExtra/issues",
                 "labels": [],
                 "last_modified": "2018-03-17 00:15:14",
@@ -4912,7 +4950,7 @@
                         "git_tag": "1.4.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/TabsExtra/zip/1.4.5",
+                        "url": "https://codeload.github.com/evandroforks/TabsExtra/zip/1.4.5",
                         "version": "2018.1216.0050"
                     }
                 ]
@@ -4940,11 +4978,11 @@
             {
                 "authors": [
                     "wbond",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/TerminalShortcuts",
-                "homepage": "https://github.com/evandrocoan/TerminalShortcuts",
+                "details": "https://github.com/evandroforks/TerminalShortcuts",
+                "homepage": "https://github.com/evandroforks/TerminalShortcuts",
                 "name": "TerminalShortcuts",
                 "previous_names": [],
                 "releases": [
@@ -4953,7 +4991,7 @@
                         "git_tag": "1.18.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/TerminalShortcuts/zip/1.18.3",
+                        "url": "https://codeload.github.com/evandroforks/TerminalShortcuts/zip/1.18.3",
                         "version": "2019.0218.2309"
                     }
                 ]
@@ -4977,7 +5015,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2018-11-23 13:22:19",
+                "last_modified": "2019-02-14 19:29:23",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -5056,11 +5094,11 @@
             {
                 "authors": [
                     "duydao",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/TextPastry",
-                "homepage": "https://github.com/evandrocoan/TextPastry",
+                "details": "https://github.com/evandroforks/TextPastry",
+                "homepage": "https://github.com/evandroforks/TextPastry",
                 "name": "TextPastry",
                 "previous_names": [],
                 "releases": [
@@ -5069,7 +5107,7 @@
                         "git_tag": "1.5.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/TextPastry/zip/1.5.4",
+                        "url": "https://codeload.github.com/evandroforks/TextPastry/zip/1.5.4",
                         "version": "2018.1217.1628"
                     }
                 ]
@@ -5077,11 +5115,11 @@
             {
                 "authors": [
                     "gordio",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ToggleWords",
-                "homepage": "https://github.com/evandrocoan/ToggleWords",
+                "details": "https://github.com/evandroforks/ToggleWords",
+                "homepage": "https://github.com/evandroforks/ToggleWords",
                 "name": "ToggleWords",
                 "previous_names": [],
                 "releases": [
@@ -5090,7 +5128,7 @@
                         "git_tag": "2.0.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ToggleWords/zip/2.0.5",
+                        "url": "https://codeload.github.com/evandroforks/ToggleWords/zip/2.0.5",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -5098,12 +5136,12 @@
             {
                 "authors": [
                     "jasonwilliams",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Sublime Text 2/3 syntax highlighting for .toml/.tml format",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Toml",
+                "homepage": "https://github.com/evandroforks/Toml",
                 "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
                 "labels": [],
                 "last_modified": "2018-11-05 11:21:53",
@@ -5116,7 +5154,7 @@
                         "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Toml/zip/1.0.10",
+                        "url": "https://codeload.github.com/evandroforks/Toml/zip/1.0.10",
                         "version": "2019.0106.0556"
                     }
                 ]
@@ -5124,12 +5162,12 @@
             {
                 "authors": [
                     "jonlabelle",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "A Sublime Text plug-in for cleaning up whitespace.",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Trimmer",
+                "homepage": "https://github.com/evandroforks/Trimmer",
                 "issues": "https://github.com/jonlabelle/Trimmer/issues",
                 "labels": [
                     "text manipulation",
@@ -5145,7 +5183,7 @@
                         "git_tag": "1.4.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Trimmer/zip/1.4.12",
+                        "url": "https://codeload.github.com/evandroforks/Trimmer/zip/1.4.12",
                         "version": "2019.0106.0548"
                     }
                 ]
@@ -5153,12 +5191,12 @@
             {
                 "authors": [
                     "Microsoft",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/TypeScript",
+                "homepage": "https://github.com/evandroforks/TypeScript",
                 "issues": "https://github.com/Microsoft/TypeScript-Sublime-Plugin/issues",
                 "labels": [
                     "auto-complete",
@@ -5169,7 +5207,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2018-11-29 02:28:20",
+                "last_modified": "2019-01-31 06:25:30",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -5179,7 +5217,7 @@
                         "git_tag": "3.3.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/TypeScript/zip/3.3.2",
+                        "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.3.2",
                         "version": "2019.0223.2114"
                     }
                 ]
@@ -5195,7 +5233,7 @@
                 "homepage": "https://github.com/evandrocoan/UnitTesting",
                 "issues": "https://github.com/SublimeText/UnitTesting/issues",
                 "labels": [],
-                "last_modified": "2018-10-05 16:45:55",
+                "last_modified": "2018-12-25 03:54:05",
                 "name": "UnitTesting",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
@@ -5233,12 +5271,12 @@
             {
                 "authors": [
                     "SublimeText",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "VBScript package for Sublime Text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/VBScript",
+                "homepage": "https://github.com/evandroforks/VBScript",
                 "issues": "https://github.com/SublimeText/VBScript/issues",
                 "labels": [],
                 "last_modified": "2016-06-13 15:16:42",
@@ -5251,7 +5289,7 @@
                         "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/VBScript/zip/1.0.3",
+                        "url": "https://codeload.github.com/evandroforks/VBScript/zip/1.0.3",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -5279,12 +5317,12 @@
             {
                 "authors": [
                     "randy3k",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "Remove Trailing Whitespace for Sublime Text",
                 "donate": null,
-                "homepage": "https://github.com/evandrocoan/Whitespace",
+                "homepage": "https://github.com/evandroforks/Whitespace",
                 "issues": "https://github.com/randy3k/Whitespace/issues",
                 "labels": [],
                 "last_modified": "2017-03-29 21:04:19",
@@ -5297,7 +5335,7 @@
                         "git_tag": "0.1.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/Whitespace/zip/0.1.7",
+                        "url": "https://codeload.github.com/evandroforks/Whitespace/zip/0.1.7",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -5352,11 +5390,11 @@
             {
                 "authors": [
                     "13xforever",
-                    "Forked by evandrocoan"
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandrocoan/X86Assembly",
-                "homepage": "https://github.com/evandrocoan/X86Assembly",
+                "details": "https://github.com/evandroforks/X86Assembly",
+                "homepage": "https://github.com/evandroforks/X86Assembly",
                 "name": "X86Assembly",
                 "previous_names": [],
                 "releases": [
@@ -5365,7 +5403,7 @@
                         "git_tag": "3.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/X86Assembly/zip/3.0.2",
+                        "url": "https://codeload.github.com/evandroforks/X86Assembly/zip/3.0.2",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -5515,24 +5553,24 @@
             {
                 "authors": [
                     "SamuelMarks",
-                    "Forked by evandroforks"
+                    "Forked by evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/plantumlconnection",
-                "homepage": "https://github.com/evandroforks/plantumlconnection",
-                "issues": "https://github.com/evandroforks/plantumlconnection/issues",
+                "details": "https://github.com/evandrocoan/plantumlconnection",
+                "homepage": "https://github.com/evandrocoan/plantumlconnection",
+                "issues": "https://github.com/evandrocoan/plantumlconnection/issues",
                 "load_order": "50",
                 "name": "plantumlconnection",
                 "previous_names": [],
                 "releases": [
                     {
-                        "base": "https://github.com/evandroforks/plantumlconnection",
+                        "base": "https://github.com/evandrocoan/plantumlconnection",
                         "date": "2018-12-15 21:30:38",
                         "git_tag": "1.1.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandroforks/plantumlconnection/zip/1.1.2",
+                        "url": "https://codeload.github.com/evandrocoan/plantumlconnection/zip/1.1.2",
                         "version": "2018.1215.2130"
                     }
                 ]
@@ -5589,7 +5627,7 @@
             },
             {
                 "authors": [
-                    "randy3k",
+                    "packagecontrol",
                     "Forked by evandroforks"
                 ],
                 "description": "No description available.",
@@ -5609,6 +5647,31 @@
                         "tags": true,
                         "url": "https://codeload.github.com/evandroforks/python-pywin32/zip/0.0.223",
                         "version": "2018.1208.1523"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "SublimeText",
+                    "Forked by evandrocoan"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/sublime_lib",
+                "homepage": "https://github.com/evandrocoan/sublime_lib",
+                "issues": "https://github.com/evandrocoan/sublime_lib/issues",
+                "load_order": "01",
+                "name": "sublime_lib",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "base": "https://github.com/evandrocoan/sublime_lib",
+                        "date": "2019-01-04 17:22:14",
+                        "git_tag": "v1.2.2",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "tags": true,
+                        "url": "https://codeload.github.com/evandrocoan/sublime_lib/zip/v1.2.2",
+                        "version": "2019.0104.1722"
                     }
                 ]
             }
