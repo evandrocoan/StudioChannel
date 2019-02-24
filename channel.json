@@ -3672,13 +3672,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-01-20 20:17:15",
+                        "date": "2019-02-24 19:31:46",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2019.0120.2017"
+                        "version": "2019.0224.1931"
                     }
                 ]
             },
@@ -4668,13 +4668,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-22 23:24:39",
+                        "date": "2019-02-23 23:15:50",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.0222.2324"
+                        "version": "2019.0223.2315"
                     }
                 ]
             },
@@ -5175,12 +5175,12 @@
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-01-11 22:46:33",
+                        "date": "2019-02-23 21:14:39",
                         "git_tag": "3.3.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/TypeScript/zip/3.3.2",
-                        "version": "2019.0111.2246"
+                        "version": "2019.0223.2114"
                     }
                 ]
             },
