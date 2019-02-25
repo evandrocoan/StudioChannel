@@ -5056,26 +5056,6 @@
                     "evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/SublimePackageText.git",
-                "homepage": "https://github.com/evandroforks/SublimePackageText.git",
-                "name": "Text",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2018-12-08 12:31:47",
-                        "git_tag": "1.0.1",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackageText/zip/1.0.1",
-                        "version": "2018.1208.1231"
-                    }
-                ]
-            },
-            {
-                "authors": [
-                    "evandroforks"
-                ],
-                "description": "No description available.",
                 "details": "https://github.com/evandroforks/SublimePackageTextile.git",
                 "homepage": "https://github.com/evandroforks/SublimePackageTextile.git",
                 "name": "Textile",
