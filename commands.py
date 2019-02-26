@@ -221,7 +221,7 @@ def is_the_first_load_time():
         If the installation is postponed, then the user must to manually start it by running its
         command on the command palette or in the preferences menu.
     """
-    return g_installation_details.get( "automatically_show_installation_wizard", False )
+    return g_installation_details.get( "automatically_show_installation_wizard", True )
 
 
 def is_development_version():
