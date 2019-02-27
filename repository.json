@@ -5639,13 +5639,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/sublime_lib",
-                    "date": "2019-01-04 17:22:14",
-                    "git_tag": "v1.2.2",
+                    "date": "2019-01-11 22:00:51",
+                    "git_tag": "1.2.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/sublime_lib/zip/v1.2.2",
-                    "version": "2019.0104.1722"
+                    "url": "https://codeload.github.com/evandrocoan/sublime_lib/zip/1.2.3",
+                    "version": "2019.0111.2200"
                 }
             ]
         }
