@@ -237,7 +237,10 @@ def is_channel_installed():
         Returns True if the channel is installed, i.e., there are packages added to the
         `packages_to_uninstall` list.
     """
-    has_installed_packages = len( g_installation_details.get( "packages_to_uninstall", [] ) ) > 0
+    has_installed_packages = sum( [
+            len( g_installation_details.get( "packages_to_uninstall", [] ) ),
+            len( g_installation_details.get( "packages_not_installed", [] )  )
+        ] ) > 0
     return has_installed_packages
 
 
