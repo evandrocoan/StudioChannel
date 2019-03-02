@@ -3685,13 +3685,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-28 01:22:35",
+                        "date": "2019-03-01 00:42:26",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2019.0228.0122"
+                        "version": "2019.0301.0042"
                     }
                 ]
             },
@@ -4408,11 +4408,11 @@
             },
             {
                 "authors": [
-                    "evandroforks"
+                    "evandrocoan"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/SelectAllSpellingErrors",
-                "homepage": "https://github.com/evandroforks/SelectAllSpellingErrors",
+                "details": "https://github.com/evandrocoan/SelectAllSpellingErrors",
+                "homepage": "https://github.com/evandrocoan/SelectAllSpellingErrors",
                 "name": "SelectAllSpellingErrors",
                 "previous_names": [],
                 "releases": [
@@ -4421,7 +4421,7 @@
                         "git_tag": "1.0.2",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SelectAllSpellingErrors/zip/1.0.2",
+                        "url": "https://codeload.github.com/evandrocoan/SelectAllSpellingErrors/zip/1.0.2",
                         "version": "2018.1208.1524"
                     }
                 ]
@@ -4646,7 +4646,7 @@
                 "description": "SQLTools for Sublime Text 3",
                 "donate": null,
                 "homepage": "https://github.com/evandroforks/SQLTools",
-                "issues": "https://github.com/mtxr/SQLTools/issues",
+                "issues": "https://github.com/mtxr/SublimeText-SQLTools/issues",
                 "labels": [
                     "sql",
                     "formatting",
@@ -5187,7 +5187,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2019-01-31 06:25:30",
+                "last_modified": "2019-02-25 21:45:31",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
