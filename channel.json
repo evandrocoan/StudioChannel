@@ -260,13 +260,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-28 01:22:24",
+                        "date": "2019-03-03 20:34:23",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                        "version": "2019.0228.0122"
+                        "version": "2019.0303.2034"
                     }
                 ]
             },
@@ -1271,12 +1271,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-22 23:02:53",
-                        "git_tag": "1.0.22",
+                        "date": "2019-03-03 02:16:30",
+                        "git_tag": "1.0.23",
                         "platforms": "*",
                         "sublime_text": ">3161",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.22",
-                        "version": "2019.0222.2302"
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.23",
+                        "version": "2019.0303.0216"
                     },
                     {
                         "date": "2018-10-17 23:51:58",
@@ -1795,12 +1795,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-12-08 15:23:22",
-                        "git_tag": "1.8.6",
+                        "date": "2019-03-02 00:01:51",
+                        "git_tag": "1.8.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/FileHistory/zip/1.8.6",
-                        "version": "2018.1208.1523"
+                        "url": "https://codeload.github.com/evandroforks/FileHistory/zip/1.8.7",
+                        "version": "2019.0302.0001"
                     }
                 ]
             },
@@ -3492,12 +3492,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-10 15:03:20",
-                        "git_tag": "1.0.5",
+                        "date": "2019-03-01 00:14:31",
+                        "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/OpenAutoCompletion/zip/1.0.5",
-                        "version": "2019.0210.1503"
+                        "url": "https://codeload.github.com/evandrocoan/OpenAutoCompletion/zip/1.0.6",
+                        "version": "2019.0301.0014"
                     }
                 ]
             },
@@ -3685,13 +3685,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-03-01 00:42:26",
+                        "date": "2019-03-03 20:44:04",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                        "version": "2019.0301.0042"
+                        "version": "2019.0303.2044"
                     }
                 ]
             },
@@ -4417,12 +4417,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-12-08 15:24:01",
-                        "git_tag": "1.0.2",
+                        "date": "2019-03-02 12:31:54",
+                        "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SelectAllSpellingErrors/zip/1.0.2",
-                        "version": "2018.1208.1524"
+                        "url": "https://codeload.github.com/evandrocoan/SelectAllSpellingErrors/zip/1.0.3",
+                        "version": "2019.0302.1231"
                     }
                 ]
             },
@@ -4706,13 +4706,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-28 01:22:24",
+                        "date": "2019-03-03 20:34:23",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.0228.0122"
+                        "version": "2019.0303.2034"
                     }
                 ]
             },
@@ -5446,13 +5446,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/channelmanager",
-                        "date": "2019-02-28 01:20:37",
-                        "git_tag": "1.0.101",
+                        "date": "2019-03-03 20:34:23",
+                        "git_tag": "1.0.102",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.101",
-                        "version": "2019.0228.0120"
+                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.102",
+                        "version": "2019.0303.2034"
                     }
                 ]
             },
