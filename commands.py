@@ -139,6 +139,7 @@ def plugin_loaded():
 
 def run_setup_operations():
     installed_packages = get_installed_packages( list_default_packages=True, list_dependencies=True )
+    installed_packages.append( "User" )
     look_for_invalid_default_ignored_packages( installed_packages )
 
     if load_channel_settings():
