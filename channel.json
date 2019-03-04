@@ -1481,12 +1481,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2018-12-20 21:12:27",
-                        "git_tag": "1.2.24",
+                        "date": "2019-03-03 23:14:59",
+                        "git_tag": "1.2.25",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/Dotfiles/zip/1.2.24",
-                        "version": "2018.1220.2112"
+                        "url": "https://codeload.github.com/evandroforks/Dotfiles/zip/1.2.25",
+                        "version": "2019.0303.2314"
                     }
                 ]
             },
@@ -2042,12 +2042,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-02-23 01:01:34",
-                        "git_tag": "0.0.12",
+                        "date": "2019-03-03 23:15:42",
+                        "git_tag": "0.0.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.12",
-                        "version": "2019.0223.0101"
+                        "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.13",
+                        "version": "2019.0303.2315"
                     }
                 ]
             },
