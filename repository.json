@@ -723,12 +723,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:40",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:27",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -743,12 +743,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:40",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:27",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -1205,12 +1205,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:40",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:27",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -1225,12 +1225,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:41",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:28",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageD/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageD/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -1246,12 +1246,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-13 23:27:28",
-                    "git_tag": "1.0.24",
+                    "date": "2019-03-17 18:57:48",
+                    "git_tag": "1.0.25",
                     "platforms": "*",
                     "sublime_text": ">3181",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.24",
-                    "version": "2019.0313.2327"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.25",
+                    "version": "2019.0317.1857"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1442,12 +1442,12 @@
             "readme": "https://raw.githubusercontent.com/spadgos/sublime-jsdocs/master/README.md",
             "releases": [
                 {
-                    "date": "2019-03-13 22:35:12",
-                    "git_tag": "2.14.9",
+                    "date": "2019-03-16 19:57:03",
+                    "git_tag": "2.14.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.9",
-                    "version": "2019.0313.2235"
+                    "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.10",
+                    "version": "2019.0316.1957"
                 }
             ]
         },
@@ -2024,12 +2024,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-03 23:15:42",
-                    "git_tag": "0.0.13",
+                    "date": "2019-03-16 19:56:47",
+                    "git_tag": "0.0.14",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.13",
-                    "version": "2019.0303.2315"
+                    "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.14",
+                    "version": "2019.0316.1956"
                 }
             ]
         },
@@ -2199,12 +2199,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:41",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:28",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -2269,12 +2269,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:41",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:28",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGraphviz/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGraphviz/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -2444,12 +2444,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:42",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:28",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageHTML/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageHTML/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -2636,12 +2636,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:42",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:29",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3023,12 +3023,12 @@
             "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
             "releases": [
                 {
-                    "date": "2019-02-27 23:22:45",
-                    "git_tag": "0.8.3",
+                    "date": "2019-03-17 18:19:12",
+                    "git_tag": "0.8.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.8.3",
-                    "version": "2019.0227.2322"
+                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.8.4",
+                    "version": "2019.0317.1819"
                 }
             ]
         },
@@ -3043,12 +3043,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:43",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:29",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageLua/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageLua/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3156,12 +3156,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:44",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:29",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMatlab/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMatlab/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3414,12 +3414,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:44",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:29",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3620,12 +3620,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/PackageDev/master/README.md",
             "releases": [
                 {
-                    "date": "2019-01-19 17:51:20",
-                    "git_tag": "3.2.4",
+                    "date": "2019-03-17 02:39:35",
+                    "git_tag": "3.2.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.2.4",
-                    "version": "2019.0119.1751"
+                    "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.2.5",
+                    "version": "2019.0317.0239"
                 }
             ]
         },
@@ -3667,13 +3667,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-03 20:44:04",
+                    "date": "2019-03-17 19:04:33",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2019.0303.2044"
+                    "version": "2019.0317.1904"
                 }
             ]
         },
@@ -3760,12 +3760,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:44",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:30",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePerl/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePerl/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3780,12 +3780,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:45",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:30",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -3972,12 +3972,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:45",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:30",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePython/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePython/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4041,12 +4041,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:45",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:30",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRails/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRails/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4245,12 +4245,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:46",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:31",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4265,12 +4265,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:46",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:31",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRust/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRust/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4306,12 +4306,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:46",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:31",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageScala/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageScala/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4470,12 +4470,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:46",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:31",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageShellScript/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageShellScript/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4564,12 +4564,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:47",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-16 20:32:32",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageSQL/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageSQL/zip/1.0.3",
+                    "version": "2019.0316.2032"
                 }
             ]
         },
@@ -4688,13 +4688,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-04 00:04:30",
+                    "date": "2019-03-17 19:03:48",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0304.0004"
+                    "version": "2019.0317.1903"
                 }
             ]
         },
@@ -5221,12 +5221,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-01-07 11:54:05",
-                    "git_tag": "1.0.31",
+                    "date": "2019-03-17 19:05:10",
+                    "git_tag": "1.0.32",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.31",
-                    "version": "2019.0107.1154"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.32",
+                    "version": "2019.0317.1905"
                 }
             ]
         },
@@ -5401,12 +5401,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:48",
-                    "git_tag": "1.0.1",
+                    "date": "2019-03-16 20:32:32",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageYAML/zip/1.0.1",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageYAML/zip/1.0.2",
+                    "version": "2019.0316.2032"
                 }
             ]
         }
@@ -5475,13 +5475,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2019-03-10 22:10:07",
-                    "git_tag": "2.6.3",
+                    "date": "2019-03-14 22:38:58",
+                    "git_tag": "2.6.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.3",
-                    "version": "2019.0310.2210"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.4",
+                    "version": "2019.0314.2238"
                 }
             ]
         },
