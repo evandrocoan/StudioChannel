@@ -1157,7 +1157,7 @@
                 "homepage": "https://github.com/evandroforks/ConvertToUTF8",
                 "issues": "https://github.com/seanliang/ConvertToUTF8/issues",
                 "labels": [],
-                "last_modified": "2019-01-24 04:11:05",
+                "last_modified": "2019-03-14 08:07:48",
                 "name": "ConvertToUTF8",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md",
@@ -1253,7 +1253,7 @@
                         "date": "2019-03-13 23:27:28",
                         "git_tag": "1.0.24",
                         "platforms": "*",
-                        "sublime_text": ">3161",
+                        "sublime_text": ">3181",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.24",
                         "version": "2019.0313.2327"
                     },
@@ -1298,6 +1298,13 @@
                         "sublime_text": "<=3161",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3161",
                         "version": "2018.1017.2352"
+                    },
+                    {
+                        "date": "2018-12-09 16:19:35",
+                        "platforms": "*",
+                        "sublime_text": "<=3181",
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3181",
+                        "version": "2018.1209.1619"
                     }
                 ]
             },
@@ -2116,7 +2123,7 @@
                 "homepage": "https://github.com/evandroforks/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2019-03-13 19:33:28",
+                "last_modified": "2019-03-15 17:48:46",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -3522,7 +3529,7 @@
                     "resource",
                     "package development"
                 ],
-                "last_modified": "2019-02-15 21:59:45",
+                "last_modified": "2019-03-14 06:37:52",
                 "name": "OverrideAudit",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -3617,12 +3624,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/PackageDev/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-12-08 14:37:36",
-                        "git_tag": "3.0.10",
+                        "date": "2019-01-19 17:51:20",
+                        "git_tag": "3.2.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.0.10",
-                        "version": "2018.1208.1437"
+                        "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.2.4",
+                        "version": "2019.0119.1751"
                     }
                 ]
             },
@@ -3992,7 +3999,7 @@
                     "preferences",
                     "settings"
                 ],
-                "last_modified": "2018-11-07 17:50:56",
+                "last_modified": "2019-03-14 00:12:34",
                 "name": "QuickSettings",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.rst",
@@ -4994,7 +5001,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2019-02-14 19:29:23",
+                "last_modified": "2019-03-17 02:39:29",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
