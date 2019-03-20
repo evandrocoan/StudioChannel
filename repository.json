@@ -189,12 +189,12 @@
             "readme": "https://raw.githubusercontent.com/randy3k/AlignTab/master/README.md",
             "releases": [
                 {
-                    "date": "2018-12-17 00:59:29",
-                    "git_tag": "2.1.14",
+                    "date": "2019-03-18 20:42:55",
+                    "git_tag": "2.1.15",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/AlignTab/zip/2.1.14",
-                    "version": "2018.1217.0059"
+                    "url": "https://codeload.github.com/evandroforks/AlignTab/zip/2.1.15",
+                    "version": "2019.0318.2042"
                 }
             ]
         },
@@ -847,12 +847,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 14:53:20",
-                    "git_tag": "1.0.4",
+                    "date": "2019-03-18 20:38:49",
+                    "git_tag": "1.0.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CaseConversion/zip/1.0.4",
-                    "version": "2018.1208.1453"
+                    "url": "https://codeload.github.com/evandroforks/CaseConversion/zip/1.0.5",
+                    "version": "2019.0318.2038"
                 }
             ]
         },
@@ -1246,12 +1246,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-17 18:57:48",
-                    "git_tag": "1.0.25",
+                    "date": "2019-03-19 21:38:35",
+                    "git_tag": "1.0.26",
                     "platforms": "*",
                     "sublime_text": ">3181",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.25",
-                    "version": "2019.0317.1857"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.26",
+                    "version": "2019.0319.2138"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -3500,12 +3500,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
             "releases": [
                 {
-                    "date": "2019-03-13 23:22:21",
-                    "git_tag": "1.0.5",
+                    "date": "2019-03-17 23:41:45",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.5",
-                    "version": "2019.0313.2322"
+                    "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.6",
+                    "version": "2019.0317.2341"
                 }
             ]
         },
@@ -3667,13 +3667,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-17 19:04:33",
+                    "date": "2019-03-19 22:39:53",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2019.0317.1904"
+                    "version": "2019.0319.2239"
                 }
             ]
         },
@@ -4688,13 +4688,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-17 19:03:48",
+                    "date": "2019-03-17 19:11:49",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0317.1903"
+                    "version": "2019.0317.1911"
                 }
             ]
         },
@@ -5221,12 +5221,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-17 19:05:10",
-                    "git_tag": "1.0.32",
+                    "date": "2019-03-18 09:43:52",
+                    "git_tag": "1.0.33",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.32",
-                    "version": "2019.0317.1905"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.33",
+                    "version": "2019.0318.0943"
                 }
             ]
         },
