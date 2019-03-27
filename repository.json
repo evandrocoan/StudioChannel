@@ -1032,10 +1032,10 @@
             "releases": [
                 {
                     "date": "2018-08-15 19:25:30",
-                    "git_tag": "master",
+                    "git_tag": "1.0.0",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CMake/zip/master",
+                    "url": "https://codeload.github.com/evandroforks/CMake/zip/1.0.0",
                     "version": "2018.0815.1925"
                 }
             ]
@@ -1274,12 +1274,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-23 00:34:16",
-                    "git_tag": "1.0.28",
+                    "date": "2019-03-27 00:33:48",
+                    "git_tag": "1.0.29",
                     "platforms": "*",
                     "sublime_text": ">3181",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.28",
-                    "version": "2019.0323.0034"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.29",
+                    "version": "2019.0327.0033"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -4716,13 +4716,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-22 00:15:26",
+                    "date": "2019-03-27 00:46:57",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0322.0015"
+                    "version": "2019.0327.0046"
                 }
             ]
         },
