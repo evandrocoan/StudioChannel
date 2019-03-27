@@ -395,7 +395,7 @@
                 "homepage": "https://github.com/evandroforks/ApplySyntax",
                 "issues": "https://github.com/facelessuser/ApplySyntax/issues",
                 "labels": [],
-                "last_modified": "2018-09-17 00:55:12",
+                "last_modified": "2019-02-19 21:56:06",
                 "name": "ApplySyntax",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -1013,6 +1013,34 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.2",
                         "version": "2018.1208.1231"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "zyxar",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "Sublime Text 2/3 - CMake Package",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/CMake",
+                "issues": "https://github.com/zyxar/Sublime-CMakeLists/issues",
+                "labels": [
+                    "language syntax"
+                ],
+                "last_modified": "2018-08-15 11:25:30",
+                "name": "CMake",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/zyxar/Sublime-CMakeLists/master/README.md",
+                "releases": [
+                    {
+                        "date": "2018-08-15 19:25:30",
+                        "git_tag": "master",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/CMake/zip/master",
+                        "version": "2018.0815.1925"
                     }
                 ]
             },
@@ -3021,7 +3049,7 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2019-01-15 22:45:11",
+                "last_modified": "2019-03-19 20:20:45",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3616,7 +3644,7 @@
                 "homepage": "https://github.com/evandroforks/PackageDev",
                 "issues": "https://github.com/SublimeText/PackageDev/issues",
                 "labels": [],
-                "last_modified": "2019-02-01 15:03:15",
+                "last_modified": "2019-03-18 20:48:25",
                 "name": "PackageDev",
                 "previous_names": [
                     "AAAPackageDev"
@@ -4716,7 +4744,7 @@
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2019-02-04 17:19:47",
+                "last_modified": "2019-03-26 20:26:58",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -5001,7 +5029,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2019-03-17 02:39:29",
+                "last_modified": "2019-03-20 19:00:17",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
