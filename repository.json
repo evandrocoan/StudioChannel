@@ -1161,12 +1161,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 15:17:21",
-                    "git_tag": "1.9.1",
+                    "date": "2019-03-27 23:28:36",
+                    "git_tag": "1.9.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/ColumnSelect/zip/1.9.1",
-                    "version": "2018.1208.1517"
+                    "url": "https://codeload.github.com/evandroforks/ColumnSelect/zip/1.9.2",
+                    "version": "2019.0327.2328"
                 }
             ]
         },
@@ -1274,12 +1274,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-27 00:33:48",
-                    "git_tag": "1.0.29",
+                    "date": "2019-03-28 21:12:18",
+                    "git_tag": "1.0.30",
                     "platforms": "*",
                     "sublime_text": ">3181",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.29",
-                    "version": "2019.0327.0033"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.30",
+                    "version": "2019.0328.2112"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -3111,12 +3111,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 12:31:43",
-                    "git_tag": "1.0.2",
+                    "date": "2019-03-27 23:28:58",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.2",
-                    "version": "2018.1208.1231"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.3",
+                    "version": "2019.0327.2328"
                 }
             ]
         },
@@ -4187,12 +4187,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.MD",
             "releases": [
                 {
-                    "date": "2019-01-13 21:24:11",
-                    "git_tag": "1.0.3",
+                    "date": "2019-03-28 21:20:58",
+                    "git_tag": "1.0.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.3",
-                    "version": "2019.0113.2124"
+                    "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.4",
+                    "version": "2019.0328.2120"
                 }
             ]
         },
@@ -4716,13 +4716,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-27 00:46:57",
+                    "date": "2019-03-27 00:50:11",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0327.0046"
+                    "version": "2019.0327.0050"
                 }
             ]
         },
