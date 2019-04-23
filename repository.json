@@ -5368,12 +5368,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-04-16 23:25:26",
-                    "git_tag": "1.8.2",
+                    "date": "2019-04-23 03:28:19",
+                    "git_tag": "1.8.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.2",
-                    "version": "2019.0416.2325"
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.3",
+                    "version": "2019.0423.0328"
                 }
             ]
         },
