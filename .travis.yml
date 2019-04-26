@@ -27,7 +27,7 @@ before_install:
 
     # if $TOXENV is empty
     - if [ -z "$TOXENV" ]; then
-            curl -OL https://raw.githubusercontent.com/evandroforks/UnitTesting/master/sbin/travis.sh;
+            curl -OL https://raw.githubusercontent.com/evandrocoan/UnitTesting/master/sbin/travis.sh;
       fi
 
     - if [ -z "$TOXENV" ] && [ "$TRAVIS_OS_NAME" == "osx" ]; then

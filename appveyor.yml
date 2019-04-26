@@ -35,7 +35,7 @@ install:
     - pip list
 
     # Install Sublime Text tools
-    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {appveyor DownloadFile "https://raw.githubusercontent.com/evandroforks/UnitTesting/master/sbin/appveyor.ps1"}
+    - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {appveyor DownloadFile "https://raw.githubusercontent.com/evandrocoan/UnitTesting/master/sbin/appveyor.ps1"}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "bootstrap" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/portalockerfile" "portalockerfile" -verbose}
     - ps: If((!$env:TOXENV) -and (!$env:COVERAGE)) {.\appveyor.ps1 "clone_git_package" "https://github.com/evandroforks/diffmatchpatch" "diffmatchpatch" -verbose}
