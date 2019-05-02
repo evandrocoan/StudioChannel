@@ -21,7 +21,7 @@
                     "file",
                     "icons"
                 ],
-                "last_modified": "2019-01-09 13:07:24",
+                "last_modified": "2019-04-02 18:59:52",
                 "name": "A File Icon",
                 "previous_names": [
                     "File Icons Extended",
@@ -319,7 +319,7 @@
                     "amxmodx",
                     "amx mod x"
                 ],
-                "last_modified": "2018-12-08 16:49:12",
+                "last_modified": "2019-03-30 21:17:45",
                 "name": "AmxxPawn",
                 "previous_names": [
                     "Amxx Pawn"
@@ -493,7 +493,7 @@
                 "homepage": "https://github.com/evandroforks/AutomaticPackageReloader",
                 "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
                 "labels": [],
-                "last_modified": "2018-12-14 17:34:11",
+                "last_modified": "2019-04-26 15:10:15",
                 "name": "AutomaticPackageReloader",
                 "previous_names": [
                     "PackageReloader"
@@ -1281,7 +1281,7 @@
                         "date": "2019-05-01 06:32:12",
                         "git_tag": "1.0.32",
                         "platforms": "*",
-                        "sublime_text": ">3181",
+                        "sublime_text": ">3200",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.32",
                         "version": "2019.0501.0632"
                     },
@@ -1333,6 +1333,13 @@
                         "sublime_text": "<=3181",
                         "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3181",
                         "version": "2018.1209.1619"
+                    },
+                    {
+                        "date": "2019-04-05 21:23:27",
+                        "platforms": "*",
+                        "sublime_text": "<=3200",
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3200",
+                        "version": "2019.0405.2123"
                     }
                 ]
             },
@@ -1837,7 +1844,7 @@
                     "file creation",
                     "file navigation"
                 ],
-                "last_modified": "2017-10-15 07:53:20",
+                "last_modified": "2019-04-17 21:52:40",
                 "name": "FileManager",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md",
@@ -2029,7 +2036,7 @@
                     "filepath",
                     "auto-complete"
                 ],
-                "last_modified": "2018-05-06 20:52:08",
+                "last_modified": "2019-04-03 06:52:42",
                 "name": "FuzzyFilePath",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/sagold/FuzzyFilePath/master/README.md",
@@ -2151,7 +2158,7 @@
                 "homepage": "https://github.com/evandroforks/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2019-03-15 17:48:46",
+                "last_modified": "2019-04-05 15:49:04",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -2919,6 +2926,34 @@
             },
             {
                 "authors": [
+                    "randy3k",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "Better LaTeX experience with Sublime Text",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/LaTeXYZ",
+                "issues": "https://github.com/randy3k/LaTeXYZ/issues",
+                "labels": [],
+                "last_modified": "2018-04-14 14:00:02",
+                "name": "LaTeXYZ",
+                "previous_names": [
+                    "LaTeXZeta"
+                ],
+                "readme": "https://raw.githubusercontent.com/randy3k/LaTeXYZ/master/README.md",
+                "releases": [
+                    {
+                        "date": "2018-04-14 10:00:02",
+                        "git_tag": "0.1.13",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/LaTeXYZ/zip/0.1.13",
+                        "version": "2018.0414.1000"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "danro",
                     "Forked by evandroforks"
                 ],
@@ -3139,7 +3174,7 @@
                     "preview",
                     "build"
                 ],
-                "last_modified": "2018-12-31 18:10:43",
+                "last_modified": "2019-04-16 00:42:22",
                 "name": "MarkdownPreview",
                 "previous_names": [
                     "Markdown Preview"
@@ -3392,7 +3427,7 @@
                     "color scheme",
                     "notepad++"
                 ],
-                "last_modified": "2018-12-08 17:23:39",
+                "last_modified": "2019-03-30 18:53:58",
                 "name": "Notepad++ Color Scheme",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
@@ -3644,7 +3679,7 @@
                 "homepage": "https://github.com/evandroforks/PackageDev",
                 "issues": "https://github.com/SublimeText/PackageDev/issues",
                 "labels": [],
-                "last_modified": "2019-03-18 20:48:25",
+                "last_modified": "2019-04-30 19:17:26",
                 "name": "PackageDev",
                 "previous_names": [
                     "AAAPackageDev"
@@ -4114,7 +4149,7 @@
                 "homepage": "https://github.com/evandroforks/REG",
                 "issues": "https://github.com/robertcollier4/REG/issues",
                 "labels": [],
-                "last_modified": "2018-11-11 00:47:23",
+                "last_modified": "2017-10-06 13:45:38",
                 "name": "REG",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/robertcollier4/REG/master/README.md",
@@ -4185,7 +4220,7 @@
                 "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
                 "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
                 "labels": [],
-                "last_modified": "2019-01-13 23:24:11",
+                "last_modified": "2019-03-29 00:20:58",
                 "name": "RememberCommandPaletteInput",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.MD",
@@ -4528,7 +4563,7 @@
                     "file",
                     "clipboard"
                 ],
-                "last_modified": "2018-12-05 13:20:29",
+                "last_modified": "2019-04-19 03:04:46",
                 "name": "SideBarEnhancements",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -4744,7 +4779,7 @@
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2019-03-26 20:26:58",
+                "last_modified": "2019-04-25 12:31:08",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -5029,7 +5064,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2019-03-20 19:00:17",
+                "last_modified": "2019-04-28 19:16:49",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -5201,7 +5236,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2019-02-25 21:45:31",
+                "last_modified": "2019-03-28 18:13:08",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
