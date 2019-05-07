@@ -4751,13 +4751,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-05-01 21:21:45",
+                    "date": "2019-05-04 21:35:44",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0501.2121"
+                    "version": "2019.0504.2135"
                 }
             ]
         },
@@ -5066,12 +5066,12 @@
             "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
             "releases": [
                 {
-                    "date": "2018-12-10 12:04:56",
-                    "git_tag": "0.2.13",
+                    "date": "2019-05-05 21:12:10",
+                    "git_tag": "0.2.14",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/Terminus/zip/0.2.13",
-                    "version": "2018.1210.1204"
+                    "url": "https://codeload.github.com/evandroforks/Terminus/zip/0.2.14",
+                    "version": "2019.0505.2112"
                 }
             ]
         },
@@ -5087,12 +5087,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-05-04 17:42:34",
-                    "git_tag": "1.3.7",
+                    "date": "2019-05-05 22:39:47",
+                    "git_tag": "1.3.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.7",
-                    "version": "2019.0504.1742"
+                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.8",
+                    "version": "2019.0505.2239"
                 }
             ]
         },
@@ -5403,12 +5403,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-05-04 17:26:01",
-                    "git_tag": "1.8.5",
+                    "date": "2019-05-07 09:09:25",
+                    "git_tag": "1.8.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.5",
-                    "version": "2019.0504.1726"
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.6",
+                    "version": "2019.0507.0909"
                 }
             ]
         },
@@ -5538,13 +5538,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2019-05-02 02:40:01",
-                    "git_tag": "2.6.10",
+                    "date": "2019-05-05 22:41:21",
+                    "git_tag": "2.6.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.10",
-                    "version": "2019.0502.0240"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.11",
+                    "version": "2019.0505.2241"
                 }
             ]
         },
