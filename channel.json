@@ -3371,12 +3371,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/MoveTab/master/README.md",
                 "releases": [
                     {
-                        "date": "2013-09-12 16:16:08",
-                        "git_tag": "1.0.0",
+                        "date": "2019-07-28 13:30:41",
+                        "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/MoveTab/zip/1.0.0",
-                        "version": "2013.0912.1616"
+                        "url": "https://codeload.github.com/evandroforks/MoveTab/zip/1.0.1",
+                        "version": "2019.0728.1330"
                     }
                 ]
             },
@@ -3613,12 +3613,12 @@
                 "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
                 "releases": [
                     {
-                        "date": "2019-07-28 00:37:58",
-                        "git_tag": "1.0.7",
+                        "date": "2019-07-28 13:31:58",
+                        "git_tag": "1.0.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.7",
-                        "version": "2019.0728.0037"
+                        "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.8",
+                        "version": "2019.0728.1331"
                     }
                 ]
             },
@@ -3823,10 +3823,10 @@
                 "releases": [
                     {
                         "date": "2019-07-28 13:28:38",
-                        "git_tag": "master",
+                        "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePaneNavigation/zip/master",
+                        "url": "https://codeload.github.com/evandroforks/SublimePaneNavigation/zip/1.0.1",
                         "version": "2019.0728.1328"
                     }
                 ]
@@ -4821,13 +4821,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-07-28 00:44:27",
+                        "date": "2019-07-28 01:11:48",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.0728.0044"
+                        "version": "2019.0728.0111"
                     }
                 ]
             },
