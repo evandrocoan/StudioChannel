@@ -3809,6 +3809,26 @@
         },
         {
             "authors": [
+                "evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/SublimePaneNavigation",
+            "homepage": "https://github.com/evandroforks/SublimePaneNavigation",
+            "name": "PaneNavigation",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2019-07-28 13:28:38",
+                    "git_tag": "master",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/SublimePaneNavigation/zip/master",
+                    "version": "2019.0728.1328"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "fnkr",
                 "Forked by evandroforks"
             ],
