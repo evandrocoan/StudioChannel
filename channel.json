@@ -21,7 +21,7 @@
                     "file",
                     "icons"
                 ],
-                "last_modified": "2019-04-02 18:59:52",
+                "last_modified": "2019-05-30 08:11:16",
                 "name": "A File Icon",
                 "previous_names": [
                     "File Icons Extended",
@@ -288,7 +288,7 @@
                     "pawn",
                     "build system"
                 ],
-                "last_modified": "2019-01-13 23:24:11",
+                "last_modified": "2019-04-26 03:45:15",
                 "name": "AmxxEditor",
                 "previous_names": [
                     "Amxmodx"
@@ -467,7 +467,7 @@
                 "homepage": "https://github.com/evandroforks/SublimeAutoHotkey",
                 "issues": "https://github.com/ahkscript/SublimeAutoHotkey/issues",
                 "labels": [],
-                "last_modified": "2016-12-01 04:19:11",
+                "last_modified": "2019-05-05 23:39:53",
                 "name": "AutoHotkey",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/ahkscript/SublimeAutoHotkey/master/README.md",
@@ -507,6 +507,26 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/AutomaticPackageReloader/zip/1.3.5",
                         "version": "2019.0111.2248"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "evandroforks"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandroforks/AutoRefresh",
+                "homepage": "https://github.com/evandroforks/AutoRefresh",
+                "name": "AutoRefresh",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2018-12-08 14:51:18",
+                        "git_tag": "1.0.6",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/AutoRefresh/zip/1.0.6",
+                        "version": "2018.1208.1451"
                     }
                 ]
             },
@@ -1920,7 +1940,7 @@
                 "homepage": "https://github.com/evandroforks/FindKeyConflicts",
                 "issues": "https://github.com/skuroda/FindKeyConflicts/issues",
                 "labels": [],
-                "last_modified": "2016-08-21 05:07:00",
+                "last_modified": "2019-05-17 02:08:34",
                 "name": "FindKeyConflicts",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/skuroda/FindKeyConflicts/master/README.md",
@@ -2158,7 +2178,7 @@
                 "homepage": "https://github.com/evandroforks/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2019-04-05 15:49:04",
+                "last_modified": "2019-07-04 16:32:14",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -2727,7 +2747,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2019-01-09 03:58:53",
+                "last_modified": "2019-07-20 19:48:32",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2888,7 +2908,7 @@
                 "homepage": "https://github.com/evandroforks/LaTeXTools",
                 "issues": "https://github.com/SublimeText/LaTeXTools/issues",
                 "labels": [],
-                "last_modified": "2018-10-22 02:36:54",
+                "last_modified": "2019-07-16 17:44:23",
                 "name": "LaTeXTools",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/LaTeXTools/master/README.markdown",
@@ -3084,7 +3104,7 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2019-03-19 20:20:45",
+                "last_modified": "2019-07-22 22:37:02",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3336,6 +3356,32 @@
             },
             {
                 "authors": [
+                    "SublimeText",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "Plugin for Sublime Text to move tabs around",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/MoveTab",
+                "issues": null,
+                "labels": [],
+                "last_modified": "2013-09-12 08:16:08",
+                "name": "MoveTab",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/SublimeText/MoveTab/master/README.md",
+                "releases": [
+                    {
+                        "date": "2013-09-12 16:16:08",
+                        "git_tag": "master",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/MoveTab/zip/master",
+                        "version": "2013.0912.1616"
+                    }
+                ]
+            },
+            {
+                "authors": [
                     "Colin T.A. Gray (colinta)",
                     "Forked by evandroforks"
                 ],
@@ -3561,7 +3607,7 @@
                 "homepage": "https://github.com/evandroforks/Origami",
                 "issues": "https://github.com/SublimeText/Origami/issues",
                 "labels": [],
-                "last_modified": "2019-02-21 03:47:27",
+                "last_modified": "2019-07-02 00:48:46",
                 "name": "Origami",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
@@ -4563,7 +4609,7 @@
                     "file",
                     "clipboard"
                 ],
-                "last_modified": "2019-04-19 03:04:46",
+                "last_modified": "2019-05-12 05:11:39",
                 "name": "SideBarEnhancements",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -4703,7 +4749,7 @@
                     "tools",
                     "completions"
                 ],
-                "last_modified": "2018-01-29 13:11:35",
+                "last_modified": "2019-06-07 16:19:24",
                 "name": "SQLTools",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/mtxr/SQLTools/master/README.md",
@@ -4779,7 +4825,7 @@
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2019-04-25 12:31:08",
+                "last_modified": "2019-07-23 06:10:15",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -4841,7 +4887,7 @@
                     "SublimeLinter",
                     "python"
                 ],
-                "last_modified": "2019-02-21 15:59:02",
+                "last_modified": "2019-07-23 19:34:51",
                 "name": "SublimeLinter-pylint",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeLinter/SublimeLinter-pylint/master/README.md",
@@ -5219,14 +5265,14 @@
             },
             {
                 "authors": [
-                    "Microsoft",
+                    "microsoft",
                     "Forked by evandroforks"
                 ],
                 "buy": null,
                 "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins",
                 "donate": null,
                 "homepage": "https://github.com/evandroforks/TypeScript",
-                "issues": "https://github.com/Microsoft/TypeScript-Sublime-Plugin/issues",
+                "issues": "https://github.com/microsoft/TypeScript-Sublime-Plugin/issues",
                 "labels": [
                     "auto-complete",
                     "code navigation",
@@ -5236,7 +5282,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2019-03-28 18:13:08",
+                "last_modified": "2019-05-29 00:27:24",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -5308,7 +5354,7 @@
                 "homepage": "https://github.com/evandroforks/VBScript",
                 "issues": "https://github.com/SublimeText/VBScript/issues",
                 "labels": [],
-                "last_modified": "2016-06-13 15:16:42",
+                "last_modified": "2019-05-21 09:23:54",
                 "name": "VBScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/SublimeText/VBScript/master/readme.md",
