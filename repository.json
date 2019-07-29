@@ -1295,12 +1295,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-07-28 00:37:03",
-                    "git_tag": "1.0.34",
+                    "date": "2019-07-28 16:45:05",
+                    "git_tag": "1.0.35",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.34",
-                    "version": "2019.0728.0037"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.35",
+                    "version": "2019.0728.1645"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1963,12 +1963,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-05-01 06:22:53",
-                    "git_tag": "1.0.4",
+                    "date": "2019-07-28 21:50:38",
+                    "git_tag": "1.0.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.4",
-                    "version": "2019.0501.0622"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.5",
+                    "version": "2019.0728.2150"
                 }
             ]
         },
@@ -3610,12 +3610,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
             "releases": [
                 {
-                    "date": "2019-07-28 13:31:58",
-                    "git_tag": "1.0.8",
+                    "date": "2019-07-29 03:27:55",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.8",
-                    "version": "2019.0728.1331"
+                    "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.9",
+                    "version": "2019.0729.0327"
                 }
             ]
         },
@@ -4839,13 +4839,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-07-28 01:11:48",
+                    "date": "2019-07-29 01:09:13",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0728.0111"
+                    "version": "2019.0729.0109"
                 }
             ]
         },
@@ -5470,12 +5470,12 @@
             "readme": null,
             "releases": [
                 {
-                    "date": "2019-01-06 05:31:25",
-                    "git_tag": "1.0.6",
+                    "date": "2019-07-29 03:18:54",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.6",
-                    "version": "2019.0106.0531"
+                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.7",
+                    "version": "2019.0729.0318"
                 }
             ]
         },
