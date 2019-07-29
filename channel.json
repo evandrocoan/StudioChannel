@@ -21,7 +21,7 @@
                     "file",
                     "icons"
                 ],
-                "last_modified": "2019-05-30 08:11:16",
+                "last_modified": "2019-07-28 20:59:12",
                 "name": "A File Icon",
                 "previous_names": [
                     "File Icons Extended",
@@ -512,7 +512,8 @@
             },
             {
                 "authors": [
-                    "evandroforks"
+                    "Wouterdek",
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
                 "details": "https://github.com/evandroforks/AutoRefresh",
@@ -3813,11 +3814,12 @@
             },
             {
                 "authors": [
-                    "evandroforks"
+                    "borist",
+                    "Forked by evandroforks"
                 ],
                 "description": "No description available.",
-                "details": "https://github.com/evandroforks/SublimePaneNavigation",
-                "homepage": "https://github.com/evandroforks/SublimePaneNavigation",
+                "details": "https://github.com/evandroforks/PaneNavigation",
+                "homepage": "https://github.com/evandroforks/PaneNavigation",
                 "name": "PaneNavigation",
                 "previous_names": [],
                 "releases": [
@@ -3826,7 +3828,7 @@
                         "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePaneNavigation/zip/1.0.1",
+                        "url": "https://codeload.github.com/evandroforks/PaneNavigation/zip/1.0.1",
                         "version": "2019.0728.1328"
                     }
                 ]
@@ -4683,6 +4685,26 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandroforks/SideBySideSettings/zip/1.6.2",
                         "version": "2019.0313.2112"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "evandrocoan"
+                ],
+                "description": "No description available.",
+                "details": "https://github.com/evandrocoan/SkipCloseForClonedViews",
+                "homepage": "https://github.com/evandrocoan/SkipCloseForClonedViews",
+                "name": "SkipCloseForClonedViews",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2019-07-28 21:53:40",
+                        "git_tag": "1.0.0",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.0",
+                        "version": "2019.0728.2153"
                     }
                 ]
             },
