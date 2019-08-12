@@ -21,7 +21,7 @@
                     "file",
                     "icons"
                 ],
-                "last_modified": "2019-07-28 20:59:12",
+                "last_modified": "2019-07-29 15:33:56",
                 "name": "A File Icon",
                 "previous_names": [
                     "File Icons Extended",
@@ -349,7 +349,7 @@
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2018-08-03 10:04:24",
+                "last_modified": "2019-08-02 18:00:20",
                 "name": "ANSIescape",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -1961,6 +1961,26 @@
                     "evandrocoan"
                 ],
                 "description": "No description available.",
+                "details": "https://github.com/evandrocoan/FixedToggleFindPanel",
+                "homepage": "https://github.com/evandrocoan/FixedToggleFindPanel",
+                "name": "FixedToggleFindPanel",
+                "previous_names": [],
+                "releases": [
+                    {
+                        "date": "2019-08-11 21:20:05",
+                        "git_tag": "master",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/master",
+                        "version": "2019.0811.2120"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "evandrocoan"
+                ],
+                "description": "No description available.",
                 "details": "https://github.com/evandrocoan/FixProjectSwitchRestartBug",
                 "homepage": "https://github.com/evandrocoan/FixProjectSwitchRestartBug",
                 "name": "FixProjectSwitchRestartBug",
@@ -2748,7 +2768,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2019-07-20 19:48:32",
+                "last_modified": "2019-08-03 17:06:32",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -3340,7 +3360,7 @@
                 "homepage": "https://github.com/evandroforks/MaxPane",
                 "issues": "https://github.com/jisaacks/MaxPane/issues",
                 "labels": [],
-                "last_modified": "2017-09-06 17:38:05",
+                "last_modified": "2019-08-08 09:48:59",
                 "name": "MaxPane",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
