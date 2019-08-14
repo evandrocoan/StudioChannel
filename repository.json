@@ -509,11 +509,11 @@
         {
             "authors": [
                 "Wouterdek",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/AutoRefresh",
-            "homepage": "https://github.com/evandroforks/AutoRefresh",
+            "details": "https://github.com/evandrocoan/AutoRefresh",
+            "homepage": "https://github.com/evandrocoan/AutoRefresh",
             "name": "AutoRefresh",
             "previous_names": [],
             "releases": [
@@ -522,7 +522,7 @@
                     "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/AutoRefresh/zip/1.0.7",
+                    "url": "https://codeload.github.com/evandrocoan/AutoRefresh/zip/1.0.7",
                     "version": "2019.0710.1919"
                 }
             ]
@@ -859,11 +859,11 @@
         {
             "authors": [
                 "jdavisclark",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/CaseConversion",
-            "homepage": "https://github.com/evandroforks/CaseConversion",
+            "details": "https://github.com/evandrocoan/CaseConversion",
+            "homepage": "https://github.com/evandrocoan/CaseConversion",
             "name": "CaseConversion",
             "previous_names": [],
             "releases": [
@@ -872,7 +872,7 @@
                     "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CaseConversion/zip/1.0.6",
+                    "url": "https://codeload.github.com/evandrocoan/CaseConversion/zip/1.0.6",
                     "version": "2019.0706.2038"
                 }
             ]
@@ -2444,12 +2444,12 @@
         {
             "authors": [
                 "seanliang",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "buy": null,
             "description": "A Sublime Text 2 & 3 plugin for highlighting mutiple words in different colors",
             "donate": null,
-            "homepage": "https://github.com/evandroforks/HighlightWords",
+            "homepage": "https://github.com/evandrocoan/HighlightWords",
             "issues": "https://github.com/seanliang/HighlightWords/issues",
             "labels": [],
             "last_modified": "2015-12-21 04:05:23",
@@ -2462,7 +2462,7 @@
                     "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/HighlightWords/zip/1.0.7",
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.7",
                     "version": "2019.0724.1638"
                 }
             ]
@@ -2470,11 +2470,11 @@
         {
             "authors": [
                 "SublimeText",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/HighlightWordsOnSelection",
-            "homepage": "https://github.com/evandroforks/HighlightWordsOnSelection",
+            "details": "https://github.com/evandrocoan/HighlightWordsOnSelection",
+            "homepage": "https://github.com/evandrocoan/HighlightWordsOnSelection",
             "name": "HighlightWordsOnSelection",
             "previous_names": [],
             "releases": [
@@ -2483,7 +2483,7 @@
                     "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/HighlightWordsOnSelection/zip/1.0.10",
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.10",
                     "version": "2019.0813.0055"
                 }
             ]
@@ -3121,7 +3121,7 @@
             "homepage": "https://github.com/evandrocoan/LSP",
             "issues": "https://github.com/tomv564/LSP/issues",
             "labels": [],
-            "last_modified": "2019-07-22 22:37:02",
+            "last_modified": "2019-08-12 09:50:48",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3348,12 +3348,12 @@
         {
             "authors": [
                 "jisaacks",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "buy": null,
             "description": "Sublime Text plugin to quickly maximize a pane in a multi pane layout without resetting the layout.",
             "donate": null,
-            "homepage": "https://github.com/evandroforks/MaxPane",
+            "homepage": "https://github.com/evandrocoan/MaxPane",
             "issues": "https://github.com/jisaacks/MaxPane/issues",
             "labels": [],
             "last_modified": "2019-08-08 09:48:59",
@@ -3366,7 +3366,7 @@
                     "git_tag": "1.0.5",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/MaxPane/zip/1.0.5",
+                    "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.5",
                     "version": "2019.0809.2149"
                 }
             ]
@@ -5186,11 +5186,11 @@
         {
             "authors": [
                 "asfaltboy",
-                "Forked by evandroforks"
+                "Forked by evandrocoan"
             ],
             "description": "No description available.",
-            "details": "https://github.com/evandroforks/SublimeTestPlier",
-            "homepage": "https://github.com/evandroforks/SublimeTestPlier",
+            "details": "https://github.com/evandrocoan/TestPlier",
+            "homepage": "https://github.com/evandrocoan/TestPlier",
             "name": "TestPlier",
             "previous_names": [],
             "releases": [
@@ -5199,7 +5199,7 @@
                     "git_tag": "1.3.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimeTestPlier/zip/1.3.9",
+                    "url": "https://codeload.github.com/evandrocoan/TestPlier/zip/1.3.9",
                     "version": "2019.0803.2101"
                 }
             ]
@@ -5242,6 +5242,26 @@
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/TextPastry/zip/1.5.4",
                     "version": "2018.1217.1628"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "evandrocoan"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandrocoan/ToggleSettingsInBatch",
+            "homepage": "https://github.com/evandrocoan/ToggleSettingsInBatch",
+            "name": "ToggleSettingsInBatch",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2019-08-13 22:00:52",
+                    "git_tag": "master",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/master",
+                    "version": "2019.0813.2200"
                 }
             ]
         },
