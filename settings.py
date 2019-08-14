@@ -34,6 +34,7 @@ import os
 # import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.channel_manager" )
 # import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.channel_utilities" )
 # import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.submodules_manager" )
+# import sublime_plugin; sublime_plugin.reload_plugin( "channel_manager.copy_default_package" )
 
 from debug_tools.third_part import clean_urljoin
 from channel_manager.channel_utilities import run_channel_setup
