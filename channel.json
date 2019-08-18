@@ -90,26 +90,6 @@
             },
             {
                 "authors": [
-                    "evandrocoan"
-                ],
-                "description": "No description available.",
-                "details": "https://github.com/evandrocoan/ActiveViewJumpBack",
-                "homepage": "https://github.com/evandrocoan/ActiveViewJumpBack",
-                "name": "ActiveViewJumpBack",
-                "previous_names": [],
-                "releases": [
-                    {
-                        "date": "2019-03-13 21:12:33",
-                        "git_tag": "1.0.4",
-                        "platforms": "*",
-                        "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ActiveViewJumpBack/zip/1.0.4",
-                        "version": "2019.0313.2112"
-                    }
-                ]
-            },
-            {
-                "authors": [
                     "DavidGerva",
                     "Forked by evandroforks"
                 ],
@@ -5261,10 +5241,10 @@
                 "releases": [
                     {
                         "date": "2019-08-13 22:00:52",
-                        "git_tag": "master",
+                        "git_tag": "1.0.0",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/master",
+                        "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.0",
                         "version": "2019.0813.2200"
                     }
                 ]
