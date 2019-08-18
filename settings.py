@@ -127,7 +127,6 @@ def plugin_loaded():
         "Gist",
         "Git",
         "GitGutter",
-        "GotoLastEditEnhanced",
         "Javatar",
         "MatlabCompletions",
         "MatlabFilenameAutoComplete",
