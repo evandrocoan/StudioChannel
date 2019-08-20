@@ -1275,12 +1275,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 19:55:19",
-                    "git_tag": "1.0.39",
+                    "date": "2019-08-19 22:18:06",
+                    "git_tag": "1.0.40",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.39",
-                    "version": "2019.0818.1955"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.40",
+                    "version": "2019.0819.2218"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1943,12 +1943,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-15 01:20:39",
-                    "git_tag": "1.0.2",
+                    "date": "2019-08-19 21:18:27",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.2",
-                    "version": "2019.0815.0120"
+                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.3",
+                    "version": "2019.0819.2118"
                 }
             ]
         },
@@ -1963,12 +1963,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-17 22:50:03",
-                    "git_tag": "1.0.7",
+                    "date": "2019-08-19 22:17:49",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.7",
-                    "version": "2019.0817.2250"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.8",
+                    "version": "2019.0819.2217"
                 }
             ]
         },
@@ -2459,12 +2459,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 17:34:43",
-                    "git_tag": "1.0.11",
+                    "date": "2019-08-19 21:19:05",
+                    "git_tag": "1.0.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.11",
-                    "version": "2019.0818.1734"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.12",
+                    "version": "2019.0819.2119"
                 }
             ]
         },
@@ -3342,12 +3342,12 @@
             "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
             "releases": [
                 {
-                    "date": "2019-08-17 18:39:34",
-                    "git_tag": "1.0.6",
+                    "date": "2019-08-19 23:29:06",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.6",
-                    "version": "2019.0817.1839"
+                    "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.7",
+                    "version": "2019.0819.2329"
                 }
             ]
         },
@@ -3610,12 +3610,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.markdown",
             "releases": [
                 {
-                    "date": "2019-08-16 22:54:54",
+                    "date": "2019-08-19 00:54:56",
                     "git_tag": "1.0.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.12",
-                    "version": "2019.0816.2254"
+                    "version": "2019.0819.0054"
                 }
             ]
         },
@@ -3777,13 +3777,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-05-01 21:15:54",
+                    "date": "2019-08-18 22:27:59",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2019.0501.2115"
+                    "version": "2019.0818.2227"
                 }
             ]
         },
@@ -4839,13 +4839,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 19:49:25",
+                    "date": "2019-08-18 20:03:00",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0818.1949"
+                    "version": "2019.0818.2003"
                 }
             ]
         },
@@ -5236,12 +5236,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 19:28:05",
+                    "date": "2019-08-18 23:49:50",
                     "git_tag": "1.0.1",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.1",
-                    "version": "2019.0818.1928"
+                    "version": "2019.0818.2349"
                 }
             ]
         },
