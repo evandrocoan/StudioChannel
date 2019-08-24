@@ -236,13 +236,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-03 20:34:23",
+                    "date": "2019-08-24 00:41:24",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                    "version": "2019.0303.2034"
+                    "version": "2019.0824.0041"
                 }
             ]
         },
@@ -943,12 +943,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-11 19:41:04",
-                    "git_tag": "1.0.5",
+                    "date": "2019-08-24 00:44:38",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.5",
-                    "version": "2019.0811.1941"
+                    "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.6",
+                    "version": "2019.0824.0044"
                 }
             ]
         },
@@ -1275,12 +1275,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-19 22:18:06",
-                    "git_tag": "1.0.40",
+                    "date": "2019-08-24 20:24:45",
+                    "git_tag": "1.0.41",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.40",
-                    "version": "2019.0819.2218"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.41",
+                    "version": "2019.0824.2024"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1943,12 +1943,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-19 21:18:27",
-                    "git_tag": "1.0.3",
+                    "date": "2019-08-24 18:14:56",
+                    "git_tag": "1.0.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.3",
-                    "version": "2019.0819.2118"
+                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.4",
+                    "version": "2019.0824.1814"
                 }
             ]
         },
@@ -1963,12 +1963,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-19 22:17:49",
-                    "git_tag": "1.0.8",
+                    "date": "2019-08-24 20:25:02",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.8",
-                    "version": "2019.0819.2217"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.9",
+                    "version": "2019.0824.2025"
                 }
             ]
         },
@@ -2459,12 +2459,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-19 21:19:05",
-                    "git_tag": "1.0.12",
+                    "date": "2019-08-24 17:35:52",
+                    "git_tag": "1.0.13",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.12",
-                    "version": "2019.0819.2119"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.13",
+                    "version": "2019.0824.1735"
                 }
             ]
         },
@@ -3342,12 +3342,12 @@
             "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
             "releases": [
                 {
-                    "date": "2019-08-19 23:29:06",
-                    "git_tag": "1.0.7",
+                    "date": "2019-08-24 20:25:02",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.7",
-                    "version": "2019.0819.2329"
+                    "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.8",
+                    "version": "2019.0824.2025"
                 }
             ]
         },
@@ -4839,13 +4839,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 20:03:00",
+                    "date": "2019-08-24 00:41:25",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0818.2003"
+                    "version": "2019.0824.0041"
                 }
             ]
         },
@@ -5646,13 +5646,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2019-08-11 18:51:45",
-                    "git_tag": "2.6.15",
+                    "date": "2019-08-21 22:53:51",
+                    "git_tag": "2.6.16",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.15",
-                    "version": "2019.0811.1851"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.16",
+                    "version": "2019.0821.2253"
                 }
             ]
         },
