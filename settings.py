@@ -91,9 +91,11 @@ def plugin_loaded():
 
     g_channelSettings['FORBIDDEN_PACKAGES'] = \
     [
-        "channelmanager",
         "Notepad++ Color Scheme",
         "PackagesManager",
+        "Default",
+        "RememberCommandPaletteInput",
+        "ClearCursorsCarets",
     ]
 
     g_channelSettings['PACKAGES_TO_NOT_INSTALL_STABLE'] = \
