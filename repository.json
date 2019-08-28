@@ -1943,12 +1943,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-26 21:39:54",
-                    "git_tag": "1.0.5",
+                    "date": "2019-08-27 22:37:03",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.5",
-                    "version": "2019.0826.2139"
+                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.6",
+                    "version": "2019.0827.2237"
                 }
             ]
         },
@@ -1963,12 +1963,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-24 20:25:02",
-                    "git_tag": "1.0.9",
+                    "date": "2019-08-27 21:27:34",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.9",
-                    "version": "2019.0824.2025"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.10",
+                    "version": "2019.0827.2127"
                 }
             ]
         },
@@ -4839,13 +4839,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-24 20:37:18",
+                    "date": "2019-08-26 22:29:57",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0824.2037"
+                    "version": "2019.0826.2229"
                 }
             ]
         },
@@ -5236,12 +5236,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 23:49:50",
-                    "git_tag": "1.0.1",
+                    "date": "2019-08-28 01:11:33",
+                    "git_tag": "1.0.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.1",
-                    "version": "2019.0818.2349"
+                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.2",
+                    "version": "2019.0828.0111"
                 }
             ]
         },
