@@ -923,12 +923,12 @@
             "readme": "https://raw.githubusercontent.com/wbond/ChannelRepositoryTools/master/readme.md",
             "releases": [
                 {
-                    "date": "2018-12-08 14:53:53",
-                    "git_tag": "1.1.5",
+                    "date": "2019-09-01 22:20:35",
+                    "git_tag": "1.1.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/ChannelRepositoryTools/zip/1.1.5",
-                    "version": "2018.1208.1453"
+                    "url": "https://codeload.github.com/evandroforks/ChannelRepositoryTools/zip/1.1.6",
+                    "version": "2019.0901.2220"
                 }
             ]
         },
@@ -1058,12 +1058,12 @@
             "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md",
             "releases": [
                 {
-                    "date": "2018-12-08 14:54:40",
-                    "git_tag": "8.0.15",
+                    "date": "2019-09-01 18:55:46",
+                    "git_tag": "8.0.16",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.15",
-                    "version": "2018.1208.1454"
+                    "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.16",
+                    "version": "2019.0901.1855"
                 }
             ]
         },
@@ -1188,12 +1188,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md",
             "releases": [
                 {
-                    "date": "2019-01-06 21:36:05",
-                    "git_tag": "1.2.14",
+                    "date": "2019-09-01 18:56:14",
+                    "git_tag": "1.2.15",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.14",
-                    "version": "2019.0106.2136"
+                    "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.15",
+                    "version": "2019.0901.1856"
                 }
             ]
         },
@@ -1275,12 +1275,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-24 20:35:16",
-                    "git_tag": "1.0.41",
+                    "date": "2019-09-01 15:32:21",
+                    "git_tag": "1.0.42",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.41",
-                    "version": "2019.0824.2035"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.42",
+                    "version": "2019.0901.1532"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1943,12 +1943,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-27 22:37:03",
-                    "git_tag": "1.0.6",
+                    "date": "2019-09-01 19:05:37",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.6",
-                    "version": "2019.0827.2237"
+                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.7",
+                    "version": "2019.0901.1905"
                 }
             ]
         },
@@ -1963,12 +1963,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-27 21:27:34",
-                    "git_tag": "1.0.10",
+                    "date": "2019-08-29 00:21:56",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.10",
-                    "version": "2019.0827.2127"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.11",
+                    "version": "2019.0829.0021"
                 }
             ]
         },
@@ -2305,12 +2305,12 @@
             "readme": "https://raw.githubusercontent.com/shagabutdinov/sublime-goto-last-edit-enhanced/master/readme.md",
             "releases": [
                 {
-                    "date": "2019-08-18 19:39:22",
-                    "git_tag": "1.0.5",
+                    "date": "2019-09-01 02:12:02",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/GotoLastEditEnhanced/zip/1.0.5",
-                    "version": "2019.0818.1939"
+                    "url": "https://codeload.github.com/evandroforks/GotoLastEditEnhanced/zip/1.0.6",
+                    "version": "2019.0901.0212"
                 }
             ]
         },
@@ -3681,12 +3681,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2018-12-08 15:23:47",
-                    "git_tag": "1.0.2",
+                    "date": "2019-09-01 22:42:17",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/OverrideEditSettingsDefaultContents/zip/1.0.2",
-                    "version": "2018.1208.1523"
+                    "url": "https://codeload.github.com/evandrocoan/OverrideEditSettingsDefaultContents/zip/1.0.3",
+                    "version": "2019.0901.2242"
                 }
             ]
         },
@@ -4839,13 +4839,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-26 22:29:57",
+                    "date": "2019-08-28 01:14:19",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2019.0826.2229"
+                    "version": "2019.0828.0114"
                 }
             ]
         },
@@ -5236,12 +5236,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-28 01:11:33",
-                    "git_tag": "1.0.2",
+                    "date": "2019-08-29 00:44:08",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.2",
-                    "version": "2019.0828.0111"
+                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.3",
+                    "version": "2019.0829.0044"
                 }
             ]
         },
@@ -5392,12 +5392,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-08-18 19:41:45",
-                    "git_tag": "1.0.36",
+                    "date": "2019-09-01 22:31:36",
+                    "git_tag": "1.0.37",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.36",
-                    "version": "2019.0818.1941"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.37",
+                    "version": "2019.0901.2231"
                 }
             ]
         },
