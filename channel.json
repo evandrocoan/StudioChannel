@@ -1967,12 +1967,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-08-29 00:21:56",
-                        "git_tag": "1.0.11",
+                        "date": "2019-09-01 23:14:34",
+                        "git_tag": "1.0.12",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.11",
-                        "version": "2019.0829.0021"
+                        "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.12",
+                        "version": "2019.0901.2314"
                     }
                 ]
             },
@@ -3346,12 +3346,12 @@
                 "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-08-24 20:25:02",
-                        "git_tag": "1.0.8",
+                        "date": "2019-09-01 23:09:37",
+                        "git_tag": "1.0.9",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.8",
-                        "version": "2019.0824.2025"
+                        "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.9",
+                        "version": "2019.0901.2309"
                     }
                 ]
             },
@@ -4699,12 +4699,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-08-13 00:34:22",
-                        "git_tag": "1.0.2",
+                        "date": "2019-09-01 23:09:54",
+                        "git_tag": "1.0.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.2",
-                        "version": "2019.0813.0034"
+                        "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.3",
+                        "version": "2019.0901.2309"
                     }
                 ]
             },
@@ -4843,13 +4843,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-08-28 01:14:19",
+                        "date": "2019-09-01 22:47:34",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.0828.0114"
+                        "version": "2019.0901.2247"
                     }
                 ]
             },
