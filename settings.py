@@ -122,6 +122,7 @@ def plugin_loaded():
         "C++ Snippets",
         "BracketHighlighter",
         "ColorHelper",
+        "Emmet",
         "DictionaryAutoComplete",
         "FileManager",
         "Find++",
