@@ -2521,12 +2521,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-03-21 22:00:15",
-                    "git_tag": "1.1.11",
+                    "date": "2019-09-15 01:49:14",
+                    "git_tag": "1.1.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/HungryBackspace/zip/1.1.11",
-                    "version": "2019.0321.2200"
+                    "url": "https://codeload.github.com/evandroforks/HungryBackspace/zip/1.1.12",
+                    "version": "2019.0915.0149"
                 }
             ]
         },
