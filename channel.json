@@ -335,12 +335,12 @@
                 "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-07-10 20:07:28",
-                        "git_tag": "0.2.7",
+                        "date": "2019-09-28 19:35:41",
+                        "git_tag": "0.2.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/ANSIescape/zip/0.2.7",
-                        "version": "2019.0710.2007"
+                        "url": "https://codeload.github.com/evandroforks/ANSIescape/zip/0.2.8",
+                        "version": "2019.0928.1935"
                     }
                 ]
             },
@@ -502,12 +502,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-07-10 19:19:02",
-                        "git_tag": "1.0.7",
+                        "date": "2019-09-28 19:36:01",
+                        "git_tag": "1.0.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AutoRefresh/zip/1.0.7",
-                        "version": "2019.0710.1919"
+                        "url": "https://codeload.github.com/evandrocoan/AutoRefresh/zip/1.0.8",
+                        "version": "2019.0928.1936"
                     }
                 ]
             },
@@ -1062,12 +1062,12 @@
                 "readme": "https://raw.githubusercontent.com/Monnoroch/ColorHighlighter/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-09-01 18:55:46",
-                        "git_tag": "8.0.16",
+                        "date": "2019-09-19 13:18:05",
+                        "git_tag": "8.0.17",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.16",
-                        "version": "2019.0901.1855"
+                        "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.17",
+                        "version": "2019.0919.1318"
                     }
                 ]
             },
@@ -1279,12 +1279,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-09-28 16:57:49",
-                        "git_tag": "1.0.45",
+                        "date": "2019-09-28 19:36:25",
+                        "git_tag": "1.0.46",
                         "platforms": "*",
                         "sublime_text": ">3200",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.45",
-                        "version": "2019.0928.1657"
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.46",
+                        "version": "2019.0928.1936"
                     },
                     {
                         "date": "2018-10-17 23:51:58",
@@ -3085,12 +3085,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-01-13 14:43:41",
-                        "git_tag": "1.0.6",
+                        "date": "2019-09-28 19:33:25",
+                        "git_tag": "1.0.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/LocalHistory/zip/1.0.6",
-                        "version": "2019.0113.1443"
+                        "url": "https://codeload.github.com/evandroforks/LocalHistory/zip/1.0.7",
+                        "version": "2019.0928.1933"
                     }
                 ]
             },
@@ -3111,12 +3111,12 @@
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-09-14 00:46:42",
-                        "git_tag": "0.8.7",
+                        "date": "2019-09-16 14:12:02",
+                        "git_tag": "0.8.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.8.7",
-                        "version": "2019.0914.0046"
+                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.8.8",
+                        "version": "2019.0916.1412"
                     }
                 ]
             },
@@ -4679,12 +4679,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-03-13 21:12:34",
-                        "git_tag": "1.6.2",
+                        "date": "2019-09-28 17:11:49",
+                        "git_tag": "1.6.3",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SideBySideSettings/zip/1.6.2",
-                        "version": "2019.0313.2112"
+                        "url": "https://codeload.github.com/evandroforks/SideBySideSettings/zip/1.6.3",
+                        "version": "2019.0928.1711"
                     }
                 ]
             },
@@ -4699,12 +4699,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-09-01 23:09:54",
-                        "git_tag": "1.0.3",
+                        "date": "2019-09-28 19:34:11",
+                        "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.3",
-                        "version": "2019.0901.2309"
+                        "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.4",
+                        "version": "2019.0928.1934"
                     }
                 ]
             },
@@ -4843,13 +4843,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-09-15 01:51:58",
+                        "date": "2019-09-28 18:08:01",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.0915.0151"
+                        "version": "2019.0928.1808"
                     }
                 ]
             },
@@ -5752,13 +5752,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/pushdownparser",
-                        "date": "2019-01-20 14:36:39",
-                        "git_tag": "0.66",
+                        "date": "2019-09-07 23:13:59",
+                        "git_tag": "0.66.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66",
-                        "version": "2019.0120.1436"
+                        "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.1",
+                        "version": "2019.0907.2313"
                     }
                 ]
             },
