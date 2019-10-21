@@ -1482,12 +1482,12 @@
                 "readme": "https://raw.githubusercontent.com/spadgos/sublime-jsdocs/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:46",
-                        "git_tag": "2.14.12",
+                        "date": "2019-10-20 16:46:29",
+                        "git_tag": "2.14.13",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.12",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.13",
+                        "version": "2019.1020.1646"
                     }
                 ]
             },
@@ -2861,12 +2861,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-04 19:15:02",
-                        "git_tag": "1.0.3",
+                        "date": "2019-10-20 15:21:13",
+                        "git_tag": "1.0.4",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackageLaTeX/zip/1.0.3",
-                        "version": "2019.1004.1915"
+                        "url": "https://codeload.github.com/evandroforks/SublimePackageLaTeX/zip/1.0.4",
+                        "version": "2019.1020.1521"
                     }
                 ]
             },
@@ -3480,12 +3480,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-10-04 19:15:10",
-                        "git_tag": "2.0.11",
+                        "date": "2019-10-20 16:14:26",
+                        "git_tag": "2.0.12",
                         "platforms": "*",
                         "sublime_text": ">3144",
-                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.11",
-                        "version": "2019.1004.1915"
+                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.12",
+                        "version": "2019.1020.1614"
                     },
                     {
                         "date": "2017-08-10 23:50:25",
@@ -4843,13 +4843,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-04 19:15:39",
+                        "date": "2019-10-21 02:04:23",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.1004.1915"
+                        "version": "2019.1021.0204"
                     }
                 ]
             },
@@ -5471,12 +5471,12 @@
                 "readme": "https://raw.githubusercontent.com/SalGnt/Sublime-VimL/master/README.md",
                 "releases": [
                     {
-                        "date": "2018-10-04 12:37:24",
-                        "git_tag": "v0.1.4",
+                        "date": "2019-10-20 16:46:01",
+                        "git_tag": "0.1.5",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/VimL/zip/v0.1.4",
-                        "version": "2018.1004.1237"
+                        "url": "https://codeload.github.com/evandroforks/VimL/zip/0.1.5",
+                        "version": "2019.1020.1646"
                     }
                 ]
             },
