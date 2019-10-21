@@ -268,12 +268,12 @@
                     "pawn",
                     "build system"
                 ],
-                "last_modified": "2019-04-26 03:45:15",
+                "last_modified": "2019-10-04 22:14:34",
                 "name": "AmxxEditor",
                 "previous_names": [
                     "Amxmodx"
                 ],
-                "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.MD",
+                "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
                 "releases": [
                     {
                         "date": "2019-10-04 19:14:34",
@@ -299,7 +299,7 @@
                     "amxmodx",
                     "amx mod x"
                 ],
-                "last_modified": "2019-03-30 21:17:45",
+                "last_modified": "2019-10-04 22:14:35",
                 "name": "AmxxPawn",
                 "previous_names": [
                     "Amxx Pawn"
@@ -329,7 +329,7 @@
                 "labels": [
                     "language syntax"
                 ],
-                "last_modified": "2019-08-02 18:00:20",
+                "last_modified": "2019-09-26 22:26:54",
                 "name": "ANSIescape",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -447,7 +447,7 @@
                 "homepage": "https://github.com/evandroforks/SublimeAutoHotkey",
                 "issues": "https://github.com/ahkscript/SublimeAutoHotkey/issues",
                 "labels": [],
-                "last_modified": "2019-05-05 23:39:53",
+                "last_modified": "2019-09-01 14:40:57",
                 "name": "AutoHotkey",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/ahkscript/SublimeAutoHotkey/master/README.md",
@@ -660,7 +660,7 @@
                 "homepage": "https://github.com/evandroforks/BracketHighlighter",
                 "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
                 "labels": [],
-                "last_modified": "2019-01-17 01:29:56",
+                "last_modified": "2019-09-25 22:54:46",
                 "name": "BracketHighlighter",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -1082,7 +1082,7 @@
                 "homepage": "https://github.com/evandroforks/ColorHelper",
                 "issues": "https://github.com/facelessuser/ColorHelper/issues",
                 "labels": [],
-                "last_modified": "2017-10-09 04:34:20",
+                "last_modified": "2019-08-25 22:22:57",
                 "name": "ColorHelper",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md",
@@ -1845,7 +1845,7 @@
                     "file creation",
                     "file navigation"
                 ],
-                "last_modified": "2019-04-17 21:52:40",
+                "last_modified": "2019-09-01 08:29:15",
                 "name": "FileManager",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md",
@@ -2179,7 +2179,7 @@
                 "homepage": "https://github.com/evandroforks/GitGutter",
                 "issues": "https://github.com/jisaacks/GitGutter/issues",
                 "labels": [],
-                "last_modified": "2019-07-04 16:32:14",
+                "last_modified": "2019-10-19 16:18:14",
                 "name": "GitGutter",
                 "previous_names": [
                     "Git Gutter",
@@ -2545,7 +2545,7 @@
                 "homepage": "https://github.com/evandroforks/Incrementor",
                 "issues": "https://github.com/eBookArchitects/Incrementor/issues",
                 "labels": [],
-                "last_modified": "2016-09-07 16:15:46",
+                "last_modified": "2019-09-08 15:06:16",
                 "name": "Incrementor",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/eBookArchitects/Incrementor/master/README.markdown",
@@ -2748,7 +2748,7 @@
                     "javascript",
                     "syntax"
                 ],
-                "last_modified": "2019-08-03 17:06:32",
+                "last_modified": "2019-08-25 15:31:05",
                 "name": "JSCustom",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2956,7 +2956,7 @@
                 "homepage": "https://github.com/evandroforks/LaTeXYZ",
                 "issues": "https://github.com/randy3k/LaTeXYZ/issues",
                 "labels": [],
-                "last_modified": "2018-04-14 14:00:02",
+                "last_modified": "2019-05-01 01:26:27",
                 "name": "LaTeXYZ",
                 "previous_names": [
                     "LaTeXZeta"
@@ -3105,7 +3105,7 @@
                 "homepage": "https://github.com/evandrocoan/LSP",
                 "issues": "https://github.com/tomv564/LSP/issues",
                 "labels": [],
-                "last_modified": "2019-08-12 09:50:48",
+                "last_modified": "2019-09-19 10:46:39",
                 "name": "LSP",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
@@ -3195,7 +3195,7 @@
                     "preview",
                     "build"
                 ],
-                "last_modified": "2019-04-16 00:42:22",
+                "last_modified": "2019-10-15 05:04:32",
                 "name": "MarkdownPreview",
                 "previous_names": [
                     "Markdown Preview"
@@ -3340,7 +3340,7 @@
                 "homepage": "https://github.com/evandrocoan/MaxPane",
                 "issues": "https://github.com/jisaacks/MaxPane/issues",
                 "labels": [],
-                "last_modified": "2019-08-08 09:48:59",
+                "last_modified": "2019-09-17 19:27:46",
                 "name": "MaxPane",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
@@ -3474,7 +3474,7 @@
                     "color scheme",
                     "notepad++"
                 ],
-                "last_modified": "2019-03-30 18:53:58",
+                "last_modified": "2019-10-04 22:15:10",
                 "name": "Notepad++ Color Scheme",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
@@ -3639,7 +3639,7 @@
                     "resource",
                     "package development"
                 ],
-                "last_modified": "2019-03-14 06:37:52",
+                "last_modified": "2019-09-16 03:07:14",
                 "name": "OverrideAudit",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -3726,7 +3726,7 @@
                 "homepage": "https://github.com/evandroforks/PackageDev",
                 "issues": "https://github.com/SublimeText/PackageDev/issues",
                 "labels": [],
-                "last_modified": "2019-04-30 19:17:26",
+                "last_modified": "2019-09-20 00:37:57",
                 "name": "PackageDev",
                 "previous_names": [
                     "AAAPackageDev"
@@ -3938,7 +3938,7 @@
                     "uml",
                     "plantuml"
                 ],
-                "last_modified": "2018-12-08 21:36:56",
+                "last_modified": "2019-10-04 23:36:58",
                 "name": "PlantUmlDiagrams",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
@@ -4130,10 +4130,10 @@
                     "preferences",
                     "settings"
                 ],
-                "last_modified": "2019-03-14 00:12:34",
+                "last_modified": "2019-10-04 22:15:19",
                 "name": "QuickSettings",
                 "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.rst",
+                "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.md",
                 "releases": [
                     {
                         "date": "2019-10-04 19:15:19",
@@ -4288,10 +4288,10 @@
                 "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
                 "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
                 "labels": [],
-                "last_modified": "2019-03-29 00:20:58",
+                "last_modified": "2019-10-04 22:15:21",
                 "name": "RememberCommandPaletteInput",
                 "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.MD",
+                "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.md",
                 "releases": [
                     {
                         "date": "2019-10-04 19:15:21",
@@ -4867,7 +4867,7 @@
                     "linting",
                     "SublimeLinter"
                 ],
-                "last_modified": "2019-07-23 06:10:15",
+                "last_modified": "2019-09-26 18:42:12",
                 "name": "SublimeLinter",
                 "previous_names": [
                     "SublimeLinter Beta"
@@ -5139,7 +5139,7 @@
                     "Forked by evandroforks"
                 ],
                 "buy": null,
-                "description": "Best Terminal Emulator of Sublime Text.",
+                "description": "Best Terminal Emulator for Sublime Text.",
                 "donate": null,
                 "homepage": "https://github.com/evandroforks/Terminus",
                 "issues": "https://github.com/randy3k/Terminus/issues",
@@ -5152,7 +5152,7 @@
                     "cmd",
                     "powershell"
                 ],
-                "last_modified": "2019-04-28 19:16:49",
+                "last_modified": "2019-09-26 17:16:00",
                 "name": "Terminus",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -5281,7 +5281,7 @@
                 "homepage": "https://github.com/evandroforks/Toml",
                 "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
                 "labels": [],
-                "last_modified": "2018-11-05 11:21:53",
+                "last_modified": "2019-10-20 18:10:00",
                 "name": "TOML",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md",
@@ -5310,7 +5310,7 @@
                     "text manipulation",
                     "formatting"
                 ],
-                "last_modified": "2019-03-12 03:03:27",
+                "last_modified": "2019-09-28 22:24:56",
                 "name": "Trimmer",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md",
@@ -5344,7 +5344,7 @@
                     "typescript",
                     "javascript"
                 ],
-                "last_modified": "2019-05-29 00:27:24",
+                "last_modified": "2019-08-28 17:26:46",
                 "name": "TypeScript",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -5448,6 +5448,35 @@
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/ViewSettingsFreely/zip/1.0.5",
                         "version": "2019.1004.1915"
+                    }
+                ]
+            },
+            {
+                "authors": [
+                    "Salvatore Gentile",
+                    "Forked by evandroforks"
+                ],
+                "buy": null,
+                "description": "VimL Package for Sublime Text.",
+                "donate": null,
+                "homepage": "https://github.com/evandroforks/VimL",
+                "issues": "https://github.com/SalGnt/Sublime-VimL/issues",
+                "labels": [
+                    "language",
+                    "syntax"
+                ],
+                "last_modified": "2018-10-04 10:37:24",
+                "name": "VimL",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/SalGnt/Sublime-VimL/master/README.md",
+                "releases": [
+                    {
+                        "date": "2018-10-04 12:37:24",
+                        "git_tag": "v0.1.4",
+                        "platforms": "*",
+                        "sublime_text": ">=3126",
+                        "url": "https://codeload.github.com/evandroforks/VimL/zip/v0.1.4",
+                        "version": "2018.1004.1237"
                     }
                 ]
             },
