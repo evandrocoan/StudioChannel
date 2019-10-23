@@ -640,12 +640,12 @@
                 "readme": "https://raw.githubusercontent.com/aziz/BetterFindBuffer/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:38",
-                        "git_tag": "1.0.6",
+                        "date": "2019-10-22 22:22:24",
+                        "git_tag": "1.0.7",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.6",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.7",
+                        "version": "2019.1022.2222"
                     }
                 ]
             },
@@ -1279,12 +1279,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-15 00:11:16",
-                        "git_tag": "1.0.47",
+                        "date": "2019-10-22 17:52:13",
+                        "git_tag": "1.0.48",
                         "platforms": "*",
                         "sublime_text": ">3200",
-                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.47",
-                        "version": "2019.1015.0011"
+                        "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.48",
+                        "version": "2019.1022.1752"
                     },
                     {
                         "date": "2018-10-17 23:51:58",
@@ -2007,12 +2007,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:52",
-                        "git_tag": "1.0.5",
+                        "date": "2019-10-15 16:10:00",
+                        "git_tag": "1.0.6",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/ForceRewriteSublimeSettings/zip/1.0.5",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandrocoan/ForceRewriteSublimeSettings/zip/1.0.6",
+                        "version": "2019.1015.1610"
                     }
                 ]
             },
@@ -2442,12 +2442,12 @@
                 "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:57",
-                        "git_tag": "1.0.9",
+                        "date": "2019-10-22 14:57:19",
+                        "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.9",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.10",
+                        "version": "2019.1022.1457"
                     }
                 ]
             },
@@ -2463,12 +2463,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:57",
-                        "git_tag": "1.0.17",
+                        "date": "2019-10-21 23:54:48",
+                        "git_tag": "1.0.18",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.17",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.18",
+                        "version": "2019.1021.2354"
                     }
                 ]
             },
@@ -2484,12 +2484,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-04 19:14:57",
-                        "git_tag": "1.1.7",
+                        "date": "2019-10-21 23:54:09",
+                        "git_tag": "1.1.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/HorizontalScroll/zip/1.1.7",
-                        "version": "2019.1004.1914"
+                        "url": "https://codeload.github.com/evandroforks/HorizontalScroll/zip/1.1.8",
+                        "version": "2019.1021.2354"
                     }
                 ]
             },
@@ -3480,12 +3480,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
                 "releases": [
                     {
-                        "date": "2019-10-20 16:14:26",
-                        "git_tag": "2.0.12",
+                        "date": "2019-10-22 02:13:58",
+                        "git_tag": "2.0.13",
                         "platforms": "*",
                         "sublime_text": ">3144",
-                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.12",
-                        "version": "2019.1020.1614"
+                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.13",
+                        "version": "2019.1022.0213"
                     },
                     {
                         "date": "2017-08-10 23:50:25",
@@ -4843,13 +4843,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2019-10-21 02:04:23",
+                        "date": "2019-10-21 02:07:22",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2019.1021.0204"
+                        "version": "2019.1021.0207"
                     }
                 ]
             },
