@@ -17,7 +17,7 @@
                 "file",
                 "icons"
             ],
-            "last_modified": "2019-07-29 15:33:56",
+            "last_modified": "2020-03-29 12:39:05",
             "name": "A File Icon",
             "previous_names": [
                 "File Icons Extended",
@@ -236,13 +236,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:09",
+                    "date": "2020-04-26 18:15:15",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                    "version": "2019.1226.1418"
+                    "version": "2020.0426.1815"
                 }
             ]
         },
@@ -264,7 +264,7 @@
                 "pawn",
                 "build system"
             ],
-            "last_modified": "2019-10-04 22:14:34",
+            "last_modified": "2020-03-28 23:25:08",
             "name": "AmxxEditor",
             "previous_names": [
                 "Amxmodx"
@@ -295,12 +295,12 @@
                 "amxmodx",
                 "amx mod x"
             ],
-            "last_modified": "2019-10-04 22:14:35",
+            "last_modified": "2019-12-26 17:18:09",
             "name": "AmxxPawn",
             "previous_names": [
                 "Amxx Pawn"
             ],
-            "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeAmxxPawn/master/README.md",
+            "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxPawn/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:09",
@@ -325,7 +325,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2019-09-26 22:26:54",
+            "last_modified": "2020-04-06 19:14:32",
             "name": "ANSIescape",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -371,7 +371,7 @@
             "homepage": "https://github.com/evandroforks/ApplySyntax",
             "issues": "https://github.com/facelessuser/ApplySyntax/issues",
             "labels": [],
-            "last_modified": "2019-02-19 21:56:06",
+            "last_modified": "2020-02-24 15:13:34",
             "name": "ApplySyntax",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -408,19 +408,19 @@
         },
         {
             "authors": [
-                "BoundInCode",
+                "liamcain",
                 "Forked by evandrocoan"
             ],
             "buy": null,
             "description": "Sublime Text plugin that autocompletes filenames",
             "donate": null,
             "homepage": "https://github.com/evandrocoan/AutoFileName",
-            "issues": "https://github.com/BoundInCode/AutoFileName/issues",
+            "issues": "https://github.com/liamcain/AutoFileName/issues",
             "labels": [],
             "last_modified": "2014-01-13 07:57:49",
             "name": "AutoFileName",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md",
+            "readme": "https://raw.githubusercontent.com/liamcain/AutoFileName/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:11",
@@ -443,7 +443,7 @@
             "homepage": "https://github.com/evandroforks/SublimeAutoHotkey",
             "issues": "https://github.com/ahkscript/SublimeAutoHotkey/issues",
             "labels": [],
-            "last_modified": "2019-09-01 14:40:57",
+            "last_modified": "2019-11-28 16:49:59",
             "name": "AutoHotkey",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/ahkscript/SublimeAutoHotkey/master/README.md",
@@ -469,7 +469,7 @@
             "homepage": "https://github.com/evandroforks/AutomaticPackageReloader",
             "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
             "labels": [],
-            "last_modified": "2019-04-26 15:10:15",
+            "last_modified": "2019-12-06 06:32:30",
             "name": "AutomaticPackageReloader",
             "previous_names": [
                 "PackageReloader"
@@ -651,12 +651,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/",
+            "description": "Bracket and tag highlighter for Sublime Text",
             "donate": null,
             "homepage": "https://github.com/evandroforks/BracketHighlighter",
             "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
             "labels": [],
-            "last_modified": "2019-09-25 22:54:46",
+            "last_modified": "2020-02-29 14:38:13",
             "name": "BracketHighlighter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -936,11 +936,16 @@
             "authors": [
                 "evandrocoan"
             ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/ClearCursorsCarets",
+            "buy": null,
+            "description": "To clear the Sublime Text mouse selections before close any opened panel when hitting the `escape` key",
+            "donate": null,
             "homepage": "https://github.com/evandrocoan/ClearCursorsCarets",
+            "issues": "https://github.com/evandrocoan/ClearCursorsCarets/issues",
+            "labels": [],
+            "last_modified": "2019-12-26 17:18:20",
             "name": "ClearCursorsCarets",
             "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/evandrocoan/ClearCursorsCarets/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:20",
@@ -1073,12 +1078,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Sublime plugin that provides helpful color tooltips http://facelessuser.github.io/ColorHelper/",
+            "description": "Sublime plugin that provides helpful color tooltips",
             "donate": null,
             "homepage": "https://github.com/evandroforks/ColorHelper",
             "issues": "https://github.com/facelessuser/ColorHelper/issues",
             "labels": [],
-            "last_modified": "2019-08-25 22:22:57",
+            "last_modified": "2020-03-29 16:24:18",
             "name": "ColorHelper",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md",
@@ -1133,7 +1138,7 @@
                 "color scheme",
                 "testing"
             ],
-            "last_modified": "2017-12-30 16:08:41",
+            "last_modified": "2020-01-22 13:49:27",
             "name": "ColorSchemeUnit",
             "previous_names": [
                 "color_scheme_unit"
@@ -1275,12 +1280,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:25",
-                    "git_tag": "1.0.50",
+                    "date": "2020-03-28 21:47:16",
+                    "git_tag": "1.0.51",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.50",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.51",
+                    "version": "2020.0328.2147"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1392,7 +1397,7 @@
             "homepage": "https://github.com/evandroforks/DictionaryAutoComplete",
             "issues": "https://github.com/Zinggi/DictionaryAutoComplete/issues",
             "labels": [],
-            "last_modified": "2018-11-03 11:34:54",
+            "last_modified": "2020-01-26 15:51:35",
             "name": "DictionaryAutoComplete",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Zinggi/DictionaryAutoComplete/master/README.md",
@@ -1703,12 +1708,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml",
+            "description": "Sublime Text - Export code to HTML for copying/printing/saving.",
             "donate": null,
             "homepage": "https://github.com/evandroforks/ExportHtml",
             "issues": "https://github.com/facelessuser/ExportHtml/issues",
             "labels": [],
-            "last_modified": "2019-01-15 03:45:28",
+            "last_modified": "2020-03-29 00:51:34",
             "name": "ExportHtml",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md",
@@ -1841,7 +1846,7 @@
                 "file creation",
                 "file navigation"
             ],
-            "last_modified": "2019-09-01 08:29:15",
+            "last_modified": "2020-01-24 22:19:22",
             "name": "FileManager",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md",
@@ -1976,11 +1981,18 @@
             "authors": [
                 "evandrocoan"
             ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/FixSelectionAfterIndent",
+            "buy": null,
+            "description": "Keep Sublime Text entire lines selected when indenting with tab",
+            "donate": null,
             "homepage": "https://github.com/evandrocoan/FixSelectionAfterIndent",
+            "issues": "https://github.com/evandrocoan/FixSelectionAfterIndent/issues",
+            "labels": [
+                "formatting"
+            ],
+            "last_modified": "2019-12-26 17:18:35",
             "name": "FixSelectionAfterIndent",
             "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/evandrocoan/FixSelectionAfterIndent/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:35",
@@ -2175,7 +2187,7 @@
             "homepage": "https://github.com/evandroforks/GitGutter",
             "issues": "https://github.com/jisaacks/GitGutter/issues",
             "labels": [],
-            "last_modified": "2019-10-19 16:18:14",
+            "last_modified": "2019-10-29 17:38:16",
             "name": "GitGutter",
             "previous_names": [
                 "Git Gutter",
@@ -2380,12 +2392,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Hex viewer and editor for SublimeText http://facelessuser.github.io/HexViewer/",
+            "description": "Hex viewer and editor for SublimeText",
             "donate": null,
             "homepage": "https://github.com/evandroforks/HexViewer",
             "issues": "https://github.com/facelessuser/HexViewer/issues",
             "labels": [],
-            "last_modified": "2019-01-17 05:35:59",
+            "last_modified": "2020-02-10 16:08:29",
             "name": "HexViewer",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/HexViewer/master/readme.md",
@@ -2744,7 +2756,7 @@
                 "javascript",
                 "syntax"
             ],
-            "last_modified": "2019-08-25 15:31:05",
+            "last_modified": "2020-04-01 00:08:36",
             "name": "JSCustom",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -2756,6 +2768,26 @@
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandroforks/JSCustom/zip/1.1.6",
                     "version": "2019.1226.1418"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/SublimePackageJSON.git",
+            "homepage": "https://github.com/evandroforks/SublimePackageJSON.git",
+            "name": "JSON",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2020-03-30 22:24:00",
+                    "git_tag": "master",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/master",
+                    "version": "2020.0330.2224"
                 }
             ]
         },
@@ -2784,11 +2816,16 @@
             "authors": [
                 "evandrocoan"
             ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/KeepPastedTextSelected",
+            "buy": null,
+            "description": "When pasting text with the command `Ctrl+Shift+V` (paste_and_indent), it makes the pasted text to be selected",
+            "donate": null,
             "homepage": "https://github.com/evandrocoan/KeepPastedTextSelected",
+            "issues": "https://github.com/evandrocoan/KeepPastedTextSelected/issues",
+            "labels": [],
+            "last_modified": "2019-12-26 17:18:46",
             "name": "KeepPastedTextSelected",
             "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/evandrocoan/KeepPastedTextSelected/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:46",
@@ -2952,7 +2989,7 @@
             "homepage": "https://github.com/evandroforks/LaTeXYZ",
             "issues": "https://github.com/randy3k/LaTeXYZ/issues",
             "labels": [],
-            "last_modified": "2019-05-01 01:26:27",
+            "last_modified": "2019-10-25 07:58:46",
             "name": "LaTeXYZ",
             "previous_names": [
                 "LaTeXZeta"
@@ -2982,7 +3019,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2018-12-08 21:23:08",
+            "last_modified": "2020-02-02 20:11:59",
             "name": "LESS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
@@ -3092,19 +3129,25 @@
         },
         {
             "authors": [
-                "tomv564",
+                "sublimelsp",
                 "Forked by evandrocoan"
             ],
             "buy": null,
             "description": "Language Server Protocol support for Sublime Text 3",
             "donate": null,
             "homepage": "https://github.com/evandrocoan/LSP",
-            "issues": "https://github.com/tomv564/LSP/issues",
-            "labels": [],
-            "last_modified": "2019-09-19 10:46:39",
+            "issues": "https://github.com/sublimelsp/LSP/issues",
+            "labels": [
+                "auto-complete",
+                "linting",
+                "formatting",
+                "code navigation",
+                "intellisense"
+            ],
+            "last_modified": "2020-04-04 19:44:11",
             "name": "LSP",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/tomv564/LSP/master/README.md",
+            "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:51",
@@ -3336,7 +3379,7 @@
             "homepage": "https://github.com/evandrocoan/MaxPane",
             "issues": "https://github.com/jisaacks/MaxPane/issues",
             "labels": [],
-            "last_modified": "2019-09-17 19:27:46",
+            "last_modified": "2019-11-14 20:56:23",
             "name": "MaxPane",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/jisaacks/MaxPane/master/README.md",
@@ -3470,10 +3513,10 @@
                 "color scheme",
                 "notepad++"
             ],
-            "last_modified": "2019-10-04 22:15:10",
+            "last_modified": "2019-12-26 17:18:56",
             "name": "Notepad++ Color Scheme",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/evandrocoan/SublimeNotepadPlusPlusTheme/master/README.md",
+            "readme": "https://raw.githubusercontent.com/evandrocoan/NotepadPlusPlusColorScheme/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:56",
@@ -3489,6 +3532,36 @@
                     "sublime_text": "<=3144",
                     "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/3144",
                     "version": "2017.0810.2350"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "SublimeText",
+                "Forked by evandroforks"
+            ],
+            "buy": null,
+            "description": "Sublime Text plugin for the Nullsoft Scriptable Install System",
+            "donate": null,
+            "homepage": "https://github.com/evandroforks/NSIS",
+            "issues": "https://github.com/SublimeText/NSIS/issues",
+            "labels": [
+                "language syntax",
+                "nsis",
+                "build system"
+            ],
+            "last_modified": "2019-12-16 21:02:57",
+            "name": "NSIS",
+            "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/SublimeText/NSIS/master/README.md",
+            "releases": [
+                {
+                    "date": "2018-02-10 12:28:18",
+                    "git_tag": "st3-2.5.0",
+                    "platforms": "*",
+                    "sublime_text": ">=3126",
+                    "url": "https://codeload.github.com/evandroforks/NSIS/zip/st3-2.5.0",
+                    "version": "2018.0210.1228"
                 }
             ]
         },
@@ -3635,7 +3708,7 @@
                 "resource",
                 "package development"
             ],
-            "last_modified": "2019-09-16 03:07:14",
+            "last_modified": "2020-02-26 23:28:11",
             "name": "OverrideAudit",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -3674,11 +3747,16 @@
             "authors": [
                 "evandrocoan"
             ],
-            "description": "No description available.",
-            "details": "https://github.com/evandrocoan/OverrideEditSettingsDefaultContents",
+            "buy": null,
+            "description": "Disables the default text provided by edit_settings to allow the window to be closed without the save prompt",
+            "donate": null,
             "homepage": "https://github.com/evandrocoan/OverrideEditSettingsDefaultContents",
+            "issues": "https://github.com/evandrocoan/OverrideEditSettingsDefaultContents/issues",
+            "labels": [],
+            "last_modified": "2019-12-26 17:18:59",
             "name": "OverrideEditSettingsDefaultContents",
             "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/evandrocoan/OverrideEditSettingsDefaultContents/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:18:59",
@@ -3722,7 +3800,7 @@
             "homepage": "https://github.com/evandroforks/PackageDev",
             "issues": "https://github.com/SublimeText/PackageDev/issues",
             "labels": [],
-            "last_modified": "2019-09-20 00:37:57",
+            "last_modified": "2020-03-02 15:26:04",
             "name": "PackageDev",
             "previous_names": [
                 "AAAPackageDev"
@@ -3831,23 +3909,13 @@
         },
         {
             "authors": [
-                "fnkr",
-                "Forked by evandroforks"
+                "evandroforks"
             ],
-            "buy": null,
-            "description": "Pascal/Delphi syntax highlighting and snippets.",
-            "donate": null,
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/SublimePackagePascal.git",
             "homepage": "https://github.com/evandroforks/SublimePackagePascal.git",
-            "issues": "https://github.com/fnkr/ST-Pascal/issues",
-            "labels": [
-                "language syntax",
-                "snippets",
-                "build system"
-            ],
-            "last_modified": "2017-08-13 14:19:23",
             "name": "Pascal",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/fnkr/ST-Pascal/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:19:02",
@@ -3934,7 +4002,7 @@
                 "uml",
                 "plantuml"
             ],
-            "last_modified": "2019-10-04 23:36:58",
+            "last_modified": "2019-12-26 17:19:04",
             "name": "PlantUmlDiagrams",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
@@ -4126,7 +4194,7 @@
                 "preferences",
                 "settings"
             ],
-            "last_modified": "2019-10-04 22:15:19",
+            "last_modified": "2019-12-26 17:19:07",
             "name": "QuickSettings",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.md",
@@ -4284,7 +4352,7 @@
             "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
             "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
             "labels": [],
-            "last_modified": "2019-10-04 22:15:21",
+            "last_modified": "2019-12-26 17:19:09",
             "name": "RememberCommandPaletteInput",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.md",
@@ -4478,12 +4546,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "A plugin for Sublime Text that gets the scope under the cursor. http://facelessuser.github.io/ScopeHunter/",
+            "description": "A plugin for Sublime Text that gets the scope under the cursor.",
             "donate": null,
             "homepage": "https://github.com/evandroforks/ScopeHunter",
             "issues": "https://github.com/facelessuser/ScopeHunter/issues",
             "labels": [],
-            "last_modified": "2019-01-15 01:57:25",
+            "last_modified": "2020-03-29 14:14:40",
             "name": "ScopeHunter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md",
@@ -4627,7 +4695,7 @@
                 "file",
                 "clipboard"
             ],
-            "last_modified": "2019-05-12 05:11:39",
+            "last_modified": "2020-01-21 13:19:07",
             "name": "SideBarEnhancements",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -4790,7 +4858,7 @@
             "last_modified": "2019-06-07 16:19:24",
             "name": "SQLTools",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/mtxr/SQLTools/master/README.md",
+            "readme": "https://raw.githubusercontent.com/mtxr/SublimeText-SQLTools/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:19:17",
@@ -4863,7 +4931,7 @@
                 "linting",
                 "SublimeLinter"
             ],
-            "last_modified": "2019-09-26 18:42:12",
+            "last_modified": "2019-11-12 10:46:08",
             "name": "SublimeLinter",
             "previous_names": [
                 "SublimeLinter Beta"
@@ -5068,12 +5136,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Sublime Plugin with sticky tabs, more tab closing options, and additional menu items. http://facelessuser.github.io/TabsExtra/",
+            "description": "Sublime Plugin with sticky tabs, more tab closing options, and additional menu items.",
             "donate": null,
             "homepage": "https://github.com/evandroforks/TabsExtra",
             "issues": "https://github.com/facelessuser/TabsExtra/issues",
             "labels": [],
-            "last_modified": "2018-03-17 00:15:14",
+            "last_modified": "2019-12-02 01:40:51",
             "name": "TabsExtra",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md",
@@ -5135,7 +5203,7 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Best Terminal Emulator for Sublime Text.",
+            "description": "Bring a real terminal to Sublime Text",
             "donate": null,
             "homepage": "https://github.com/evandroforks/Terminus",
             "issues": "https://github.com/randy3k/Terminus/issues",
@@ -5148,7 +5216,7 @@
                 "cmd",
                 "powershell"
             ],
-            "last_modified": "2019-09-26 17:16:00",
+            "last_modified": "2020-04-11 07:42:48",
             "name": "Terminus",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -5280,7 +5348,7 @@
             "last_modified": "2019-10-20 18:10:00",
             "name": "TOML",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/Jayflux/sublime_toml_highlighting/master/README.md",
+            "readme": "https://raw.githubusercontent.com/jasonwilliams/sublime_toml_highlighting/master/README.md",
             "releases": [
                 {
                     "date": "2019-12-26 14:19:24",
@@ -5340,18 +5408,18 @@
                 "typescript",
                 "javascript"
             ],
-            "last_modified": "2019-08-28 17:26:46",
+            "last_modified": "2020-02-20 09:10:07",
             "name": "TypeScript",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:25",
-                    "git_tag": "3.3.6",
+                    "date": "2020-02-20 01:10:07",
+                    "git_tag": "3.8.2",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.3.6",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.8.2",
+                    "version": "2020.0220.0110"
                 }
             ]
         },
@@ -5366,7 +5434,7 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting",
             "issues": "https://github.com/SublimeText/UnitTesting/issues",
             "labels": [],
-            "last_modified": "2018-12-25 03:54:05",
+            "last_modified": "2020-04-13 22:39:32",
             "name": "UnitTesting",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
@@ -5626,13 +5694,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2019-08-14 00:20:21",
-                    "git_tag": "1.0.104",
+                    "date": "2019-12-27 00:42:07",
+                    "git_tag": "1.0.105",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.104",
-                    "version": "2019.0814.0020"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.105",
+                    "version": "2019.1227.0042"
                 }
             ]
         },
