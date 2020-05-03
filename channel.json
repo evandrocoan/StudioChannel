@@ -2708,12 +2708,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2020-03-30 21:59:53",
-                        "git_tag": "1.0.9",
+                        "date": "2020-05-02 21:29:51",
+                        "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.9",
-                        "version": "2020.0330.2159"
+                        "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.10",
+                        "version": "2020.0502.2129"
                     }
                 ]
             },
@@ -2786,12 +2786,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2020-03-30 22:24:00",
-                        "git_tag": "1.0.0",
+                        "date": "2020-05-02 21:28:31",
+                        "git_tag": "1.0.1",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/1.0.0",
-                        "version": "2020.0330.2224"
+                        "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/1.0.1",
+                        "version": "2020.0502.2128"
                     }
                 ]
             },
@@ -3214,12 +3214,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2020-03-30 21:59:54",
-                        "git_tag": "1.0.9",
+                        "date": "2020-05-02 21:04:19",
+                        "git_tag": "1.0.10",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.9",
-                        "version": "2020.0330.2159"
+                        "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.10",
+                        "version": "2020.0502.2104"
                     }
                 ]
             },
@@ -3983,12 +3983,12 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2020-03-30 21:59:55",
-                        "git_tag": "1.0.7",
+                        "date": "2020-05-02 21:30:09",
+                        "git_tag": "1.0.8",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.7",
-                        "version": "2020.0330.2159"
+                        "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.8",
+                        "version": "2020.0502.2130"
                     }
                 ]
             },
@@ -4911,13 +4911,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2020-04-26 18:38:13",
+                        "date": "2020-04-26 18:45:03",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2020.0426.1838"
+                        "version": "2020.0426.1845"
                     }
                 ]
             },
@@ -5700,13 +5700,13 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/channelmanager",
-                        "date": "2020-04-26 18:13:59",
-                        "git_tag": "1.0.106",
+                        "date": "2020-05-02 21:34:00",
+                        "git_tag": "1.0.107",
                         "platforms": "*",
                         "sublime_text": ">=3126",
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.106",
-                        "version": "2020.0426.1813"
+                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.107",
+                        "version": "2020.0502.2134"
                     }
                 ]
             },
