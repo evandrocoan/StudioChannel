@@ -106,21 +106,35 @@ class StudioChannelGenerateChannelFile(DevelopmentVersionBaseCommand):
 
     def run(self, command="all"):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        channel_manager.main( g_channelSettings, command )
+
+        if load_channel_settings():
+            channel_manager.main( g_channelSettings, command )
+
+        else:
+            log( 1, "Error: Could not load the settings files! g_channelSettings:", str( g_channelSettings ) )
 
 
 class StudioChannelRunChannelAndSubmodules(DevelopmentVersionBaseCommand):
 
     def run(self, command):
         sublime.active_window().run_command( "show_panel", {"panel": "console", "toggle": False} )
-        channel_manager.main( g_channelSettings, command )
-        submodules_manager.main( command )
+
+        if load_channel_settings():
+            channel_manager.main( g_channelSettings, command )
+            submodules_manager.main( command )
+
+        else:
+            log( 1, "Error: Could not load the settings files! g_channelSettings:", str( g_channelSettings ) )
 
 
 class StudioChannelRunInstallation(sublime_plugin.ApplicationCommand):
 
     def run(self):
-        installation_wizard.main( g_channelSettings )
+        if load_channel_settings():
+            installation_wizard.main( g_channelSettings )
+
+        else:
+            log( 1, "Error: Could not load the settings files! g_channelSettings:", str( g_channelSettings ) )
 
 
 class StudioChannelRunUninstallation(sublime_plugin.ApplicationCommand):
@@ -130,7 +144,11 @@ class StudioChannelRunUninstallation(sublime_plugin.ApplicationCommand):
             You can always run the uninstaller, either to uninstall everything, or just this
             package or just some packages.
         """
-        uninstallation_wizard.main( g_channelSettings )
+        if load_channel_settings():
+            uninstallation_wizard.main( g_channelSettings )
+
+        else:
+            log( 1, "Error: Could not load the settings files! g_channelSettings:", str( g_channelSettings ) )
 
 
 def plugin_loaded():
@@ -175,7 +193,7 @@ def load_channel_settings():
         # Stop delaying indefinitely
         if g_is_settings_load_delayed:
             log.newline()
-            log( 1, "Error: Could not load the settings files! g_channelSettings: " + str( g_channelSettings ) )
+            log( 1, "Error: Could not load the settings files! g_channelSettings:", str( g_channelSettings ) )
 
         else:
             g_is_settings_load_delayed = True
