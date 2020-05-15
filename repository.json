@@ -272,12 +272,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
             "releases": [
                 {
-                    "date": "2020-05-14 19:00:04",
-                    "git_tag": "3.0.27",
+                    "date": "2020-05-15 20:41:42",
+                    "git_tag": "3.0.28",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.27",
-                    "version": "2020.0514.1900"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.28",
+                    "version": "2020.0515.2041"
                 }
             ]
         },
@@ -303,12 +303,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxPawn/master/README.md",
             "releases": [
                 {
-                    "date": "2020-04-12 20:22:53",
-                    "git_tag": "1.0.21",
+                    "date": "2020-05-15 20:41:43",
+                    "git_tag": "1.0.22",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.21",
-                    "version": "2020.0412.2022"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.22",
+                    "version": "2020.0515.2041"
                 }
             ]
         },
