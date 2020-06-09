@@ -276,12 +276,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
                 "releases": [
                     {
-                        "date": "2020-06-08 12:11:58",
-                        "git_tag": "3.0.38",
+                        "date": "2020-06-09 16:19:23",
+                        "git_tag": "3.0.39",
                         "platforms": "*",
                         "sublime_text": ">=3126",
-                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.38",
-                        "version": "2020.0608.1211"
+                        "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.39",
+                        "version": "2020.0609.1619"
                     }
                 ]
             },
