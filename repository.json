@@ -26,12 +26,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/AFileIcon/master/README.md",
             "releases": [
                 {
-                    "date": "2020-02-08 12:50:54",
-                    "git_tag": "3.3.5",
+                    "date": "2020-08-16 11:05:47",
+                    "git_tag": "3.3.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.3.5",
-                    "version": "2020.0208.1250"
+                    "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.3.6",
+                    "version": "2020.0816.1105"
                 }
             ]
         },
@@ -236,13 +236,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-04-26 18:16:17",
+                    "date": "2020-04-26 18:50:11",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                    "version": "2020.0426.1816"
+                    "version": "2020.0426.1850"
                 }
             ]
         },
@@ -607,12 +607,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:14",
-                    "git_tag": "0.6.39",
+                    "date": "2020-05-20 22:49:42",
+                    "git_tag": "0.6.40",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/BetterCoffeescript/zip/0.6.39",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/BetterCoffeescript/zip/0.6.40",
+                    "version": "2020.0520.2249"
                 }
             ]
         },
@@ -636,12 +636,12 @@
             "readme": "https://raw.githubusercontent.com/aziz/BetterFindBuffer/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:15",
-                    "git_tag": "1.0.9",
+                    "date": "2020-09-27 21:48:06",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.9",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.10",
+                    "version": "2020.0927.2148"
                 }
             ]
         },
@@ -662,12 +662,12 @@
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:15",
-                    "git_tag": "2.26.8",
+                    "date": "2020-06-06 12:30:47",
+                    "git_tag": "2.26.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/BracketHighlighter/zip/2.26.8",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/BracketHighlighter/zip/2.26.9",
+                    "version": "2020.0606.1230"
                 }
             ]
         },
@@ -744,12 +744,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:50",
-                    "git_tag": "1.0.10",
+                    "date": "2020-05-07 11:25:29",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.10",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.11",
+                    "version": "2020.0507.1125"
                 }
             ]
         },
@@ -1009,12 +1009,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:50",
-                    "git_tag": "1.0.6",
+                    "date": "2020-05-20 22:47:37",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.6",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.7",
+                    "version": "2020.0520.2247"
                 }
             ]
         },
@@ -1037,12 +1037,12 @@
             "readme": "https://raw.githubusercontent.com/zyxar/Sublime-CMakeLists/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:21",
-                    "git_tag": "1.0.3",
+                    "date": "2020-05-07 11:25:29",
+                    "git_tag": "1.0.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CMake/zip/1.0.3",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/CMake/zip/1.0.4",
+                    "version": "2020.0507.1125"
                 }
             ]
         },
@@ -1239,12 +1239,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:50",
-                    "git_tag": "1.0.8",
+                    "date": "2020-05-07 08:28:47",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.8",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.9",
+                    "version": "2020.0507.0828"
                 }
             ]
         },
@@ -1280,12 +1280,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-28 21:47:16",
-                    "git_tag": "1.0.51",
+                    "date": "2020-05-07 11:25:15",
+                    "git_tag": "1.0.52",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.51",
-                    "version": "2020.0328.2147"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.52",
+                    "version": "2020.0507.1125"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -2267,12 +2267,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:51",
-                    "git_tag": "1.0.8",
+                    "date": "2020-05-07 11:25:30",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.8",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.9",
+                    "version": "2020.0507.1125"
                 }
             ]
         },
@@ -2450,12 +2450,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
             "releases": [
                 {
-                    "date": "2020-01-06 10:50:43",
-                    "git_tag": "1.0.13",
+                    "date": "2020-09-27 20:04:38",
+                    "git_tag": "1.0.14",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.13",
-                    "version": "2020.0106.1050"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.14",
+                    "version": "2020.0927.2004"
                 }
             ]
         },
@@ -2704,12 +2704,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-05-02 21:29:51",
-                    "git_tag": "1.0.10",
+                    "date": "2020-05-20 21:36:39",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.10",
-                    "version": "2020.0502.2129"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.11",
+                    "version": "2020.0520.2136"
                 }
             ]
         },
@@ -2922,12 +2922,12 @@
             "readme": "https://raw.githubusercontent.com/r-stein/sublime-text-latex-smart-quotes/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:48",
-                    "git_tag": "1.0.21",
+                    "date": "2020-05-07 08:28:48",
+                    "git_tag": "1.0.22",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/LaTeXSmartQuotes/zip/1.0.21",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/LaTeXSmartQuotes/zip/1.0.22",
+                    "version": "2020.0507.0828"
                 }
             ]
         },
@@ -2948,12 +2948,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/LaTeXTools/master/README.markdown",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:48",
-                    "git_tag": "4.0.14",
+                    "date": "2020-05-20 22:42:15",
+                    "git_tag": "4.0.15",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/LaTeXTools/zip/4.0.14",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/LaTeXTools/zip/4.0.15",
+                    "version": "2020.0520.2242"
                 }
             ]
         },
@@ -2997,12 +2997,12 @@
             "readme": "https://raw.githubusercontent.com/randy3k/LaTeXYZ/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:49",
-                    "git_tag": "0.1.19",
+                    "date": "2020-05-07 11:25:31",
+                    "git_tag": "0.1.20",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/LaTeXYZ/zip/0.1.19",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/LaTeXYZ/zip/0.1.20",
+                    "version": "2020.0507.1125"
                 }
             ]
         },
@@ -3025,12 +3025,12 @@
             "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:49",
-                    "git_tag": "2.6.6",
+                    "date": "2020-05-07 08:28:49",
+                    "git_tag": "2.6.7",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/LESS/zip/2.6.6",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/LESS/zip/2.6.7",
+                    "version": "2020.0507.0828"
                 }
             ]
         },
@@ -3210,12 +3210,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-05-02 21:04:19",
-                    "git_tag": "1.0.10",
+                    "date": "2020-06-06 12:24:26",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.10",
-                    "version": "2020.0502.2104"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.11",
+                    "version": "2020.0606.1224"
                 }
             ]
         },
@@ -3597,12 +3597,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:54",
-                    "git_tag": "1.0.8",
+                    "date": "2020-05-07 11:25:31",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.8",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.9",
+                    "version": "2020.0507.1125"
                 }
             ]
         },
@@ -3855,13 +3855,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 15:37:12",
+                    "date": "2020-10-13 20:42:25",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2019.1226.1537"
+                    "version": "2020.1013.2042"
                 }
             ]
         },
@@ -4444,12 +4444,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-03-30 21:59:56",
-                    "git_tag": "1.0.7",
+                    "date": "2020-05-20 22:53:56",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.7",
-                    "version": "2020.0330.2159"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.8",
+                    "version": "2020.0520.2253"
                 }
             ]
         },
@@ -4907,13 +4907,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-04-26 18:45:03",
+                    "date": "2020-06-17 15:25:36",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2020.0426.1845"
+                    "version": "2020.0617.1525"
                 }
             ]
         },
@@ -5460,12 +5460,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:26",
-                    "git_tag": "1.0.42",
+                    "date": "2020-06-07 17:15:19",
+                    "git_tag": "1.0.43",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.42",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.43",
+                    "version": "2020.0607.1715"
                 }
             ]
         },
@@ -5608,12 +5608,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:28",
-                    "git_tag": "1.8.10",
+                    "date": "2020-08-16 10:47:01",
+                    "git_tag": "1.8.11",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.10",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.11",
+                    "version": "2020.0816.1047"
                 }
             ]
         },
@@ -5743,13 +5743,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2020-03-28 21:48:42",
-                    "git_tag": "2.6.21",
+                    "date": "2020-05-17 18:15:58",
+                    "git_tag": "2.6.22",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.21",
-                    "version": "2020.0328.2148"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.22",
+                    "version": "2020.0517.1815"
                 }
             ]
         },
@@ -5768,13 +5768,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandroforks/diffmatchpatch",
-                    "date": "2019-12-27 00:42:07",
-                    "git_tag": "1.0.5",
+                    "date": "2020-10-13 20:26:44",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/diffmatchpatch/zip/1.0.5",
-                    "version": "2019.1227.0042"
+                    "url": "https://codeload.github.com/evandroforks/diffmatchpatch/zip/1.0.6",
+                    "version": "2020.1013.2026"
                 }
             ]
         },
@@ -5868,13 +5868,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandroforks/python-pywin32",
-                    "date": "2018-12-08 15:23:56",
-                    "git_tag": "0.0.223",
+                    "date": "2020-09-27 21:55:36",
+                    "git_tag": "0.0.224",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/python-pywin32/zip/0.0.223",
-                    "version": "2018.1208.1523"
+                    "url": "https://codeload.github.com/evandroforks/python-pywin32/zip/0.0.224",
+                    "version": "2020.0927.2155"
                 }
             ]
         },
