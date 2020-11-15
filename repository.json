@@ -1219,12 +1219,12 @@
             "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:24",
-                    "git_tag": "1.2.11",
+                    "date": "2020-10-15 16:37:19",
+                    "git_tag": "1.2.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CopyWithLineNumbersReloaded/zip/1.2.11",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/CopyWithLineNumbersReloaded/zip/1.2.12",
+                    "version": "2020.1015.1637"
                 }
             ]
         },
@@ -1620,12 +1620,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:29",
-                    "git_tag": "0.2.7",
+                    "date": "2020-10-22 18:27:44",
+                    "git_tag": "0.2.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/InlinePython/zip/0.2.7",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandroforks/InlinePython/zip/0.2.8",
+                    "version": "2020.1022.1827"
                 }
             ]
         },
@@ -2450,12 +2450,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
             "releases": [
                 {
-                    "date": "2020-09-27 20:04:38",
-                    "git_tag": "1.0.14",
+                    "date": "2020-10-22 16:51:29",
+                    "git_tag": "1.0.15",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.14",
-                    "version": "2020.0927.2004"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.15",
+                    "version": "2020.1022.1651"
                 }
             ]
         },
@@ -2471,12 +2471,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-01-06 12:38:57",
-                    "git_tag": "1.0.21",
+                    "date": "2020-11-05 12:21:10",
+                    "git_tag": "1.0.22",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.21",
-                    "version": "2020.0106.1238"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.22",
+                    "version": "2020.1105.1221"
                 }
             ]
         },
@@ -3855,13 +3855,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-10-13 20:42:25",
+                    "date": "2020-11-14 22:12:06",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2020.1013.2042"
+                    "version": "2020.1114.2212"
                 }
             ]
         },
@@ -4907,13 +4907,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-06-17 15:25:36",
+                    "date": "2020-10-13 20:45:55",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2020.0617.1525"
+                    "version": "2020.1013.2045"
                 }
             ]
         },
@@ -5694,13 +5694,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2020-05-02 21:34:00",
-                    "git_tag": "1.0.107",
+                    "date": "2020-11-14 21:40:11",
+                    "git_tag": "1.0.108",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.107",
-                    "version": "2020.0502.2134"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.108",
+                    "version": "2020.1114.2140"
                 }
             ]
         },
@@ -5743,13 +5743,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2020-05-17 18:15:58",
-                    "git_tag": "2.6.22",
+                    "date": "2020-11-14 21:43:07",
+                    "git_tag": "2.6.23",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.22",
-                    "version": "2020.0517.1815"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.23",
+                    "version": "2020.1114.2143"
                 }
             ]
         },
@@ -5843,13 +5843,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/pushdownparser",
-                    "date": "2019-12-27 00:42:08",
-                    "git_tag": "0.66.3",
+                    "date": "2020-10-13 20:50:04",
+                    "git_tag": "0.66.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.3",
-                    "version": "2019.1227.0042"
+                    "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.4",
+                    "version": "2020.1013.2050"
                 }
             ]
         },
