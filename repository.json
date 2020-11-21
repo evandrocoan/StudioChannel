@@ -26,12 +26,12 @@
             "readme": "https://raw.githubusercontent.com/SublimeText/AFileIcon/master/README.md",
             "releases": [
                 {
-                    "date": "2020-08-16 11:05:47",
-                    "git_tag": "3.3.6",
+                    "date": "2020-11-21 15:40:28",
+                    "git_tag": "3.15.1",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.3.6",
-                    "version": "2020.0816.1105"
+                    "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.15.1",
+                    "version": "2020.1121.1540"
                 }
             ]
         },
@@ -1948,12 +1948,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:34",
-                    "git_tag": "1.0.12",
+                    "date": "2020-11-16 08:28:11",
+                    "git_tag": "1.0.13",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.12",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.13",
+                    "version": "2020.1116.0828"
                 }
             ]
         },
@@ -4722,12 +4722,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:15",
-                    "git_tag": "1.16.8",
+                    "date": "2020-11-21 15:13:38",
+                    "git_tag": "1.16.9",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/CompareSideBySide/zip/1.16.8",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandroforks/CompareSideBySide/zip/1.16.9",
+                    "version": "2020.1121.1513"
                 }
             ]
         },
@@ -4907,13 +4907,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-14 22:13:16",
+                    "date": "2020-11-15 21:39:48",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2020.1114.2213"
+                    "version": "2020.1115.2139"
                 }
             ]
         },
@@ -5414,12 +5414,12 @@
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
             "releases": [
                 {
-                    "date": "2020-02-20 01:10:07",
-                    "git_tag": "3.8.2",
+                    "date": "2020-11-17 21:47:56",
+                    "git_tag": "3.9.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.8.2",
-                    "version": "2020.0220.0110"
+                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.9.3",
+                    "version": "2020.1117.2147"
                 }
             ]
         },
@@ -5460,12 +5460,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-06-07 17:15:19",
-                    "git_tag": "1.0.43",
+                    "date": "2020-11-21 15:34:59",
+                    "git_tag": "1.0.44",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.43",
-                    "version": "2020.0607.1715"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.44",
+                    "version": "2020.1121.1534"
                 }
             ]
         },
@@ -5793,13 +5793,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/plantumlconnection",
-                    "date": "2018-12-15 21:30:38",
-                    "git_tag": "1.1.2",
+                    "date": "2020-11-21 15:25:36",
+                    "git_tag": "1.1.3",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/plantumlconnection/zip/1.1.2",
-                    "version": "2018.1215.2130"
+                    "url": "https://codeload.github.com/evandrocoan/plantumlconnection/zip/1.1.3",
+                    "version": "2020.1121.1525"
                 }
             ]
         },
