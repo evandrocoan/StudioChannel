@@ -2450,12 +2450,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
             "releases": [
                 {
-                    "date": "2020-10-22 16:51:29",
-                    "git_tag": "1.0.15",
+                    "date": "2020-11-22 14:01:05",
+                    "git_tag": "1.0.16",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.15",
-                    "version": "2020.1022.1651"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.16",
+                    "version": "2020.1122.1401"
                 }
             ]
         },
