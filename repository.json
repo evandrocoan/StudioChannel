@@ -3855,13 +3855,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-22 13:13:19",
+                    "date": "2020-11-22 19:09:33",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2020.1122.1313"
+                    "version": "2020.1122.1909"
                 }
             ]
         },
