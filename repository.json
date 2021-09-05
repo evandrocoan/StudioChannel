@@ -272,12 +272,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
             "releases": [
                 {
-                    "date": "2020-06-17 15:24:04",
-                    "git_tag": "3.0.41",
+                    "date": "2021-02-20 16:17:20",
+                    "git_tag": "3.0.42",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.41",
-                    "version": "2020.0617.1524"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.42",
+                    "version": "2021.0220.1617"
                 }
             ]
         },
@@ -744,12 +744,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-05-07 11:25:29",
-                    "git_tag": "1.0.11",
+                    "date": "2021-04-20 20:37:05",
+                    "git_tag": "1.0.12",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.11",
-                    "version": "2020.0507.1125"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.12",
+                    "version": "2021.0420.2037"
                 }
             ]
         },
@@ -1280,12 +1280,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-15 21:37:42",
-                    "git_tag": "1.0.53",
+                    "date": "2021-05-26 14:15:56",
+                    "git_tag": "1.0.54",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.53",
-                    "version": "2020.1115.2137"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.54",
+                    "version": "2021.0526.1415"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -1968,12 +1968,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:34",
-                    "git_tag": "1.0.17",
+                    "date": "2021-06-08 20:49:21",
+                    "git_tag": "1.0.18",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.17",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.18",
+                    "version": "2021.0608.2049"
                 }
             ]
         },
@@ -2450,12 +2450,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
             "releases": [
                 {
-                    "date": "2020-11-22 14:01:05",
-                    "git_tag": "1.0.16",
+                    "date": "2021-09-05 02:06:29",
+                    "git_tag": "1.0.17",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.16",
-                    "version": "2020.1122.1401"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.17",
+                    "version": "2021.0905.0206"
                 }
             ]
         },
@@ -3150,12 +3150,12 @@
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:18:51",
-                    "git_tag": "0.8.11",
+                    "date": "2021-05-06 23:47:37",
+                    "git_tag": "0.9.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.8.11",
-                    "version": "2019.1226.1418"
+                    "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.9.8",
+                    "version": "2021.0506.2347"
                 }
             ]
         },
@@ -3855,13 +3855,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-22 19:09:33",
+                    "date": "2021-09-05 02:51:38",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2020.1122.1909"
+                    "version": "2021.0905.0251"
                 }
             ]
         },
@@ -4200,12 +4200,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:07",
-                    "git_tag": "1.0.17",
+                    "date": "2021-05-19 21:18:59",
+                    "git_tag": "1.0.18",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.17",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.18",
+                    "version": "2021.0519.2118"
                 }
             ]
         },
@@ -4907,13 +4907,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-15 21:39:48",
+                    "date": "2020-11-22 19:13:05",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2020.1115.2139"
+                    "version": "2020.1122.1913"
                 }
             ]
         },
@@ -5414,12 +5414,12 @@
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
             "releases": [
                 {
-                    "date": "2020-11-17 21:47:56",
-                    "git_tag": "3.9.3",
+                    "date": "2021-06-08 20:50:42",
+                    "git_tag": "3.9.4",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.9.3",
-                    "version": "2020.1117.2147"
+                    "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.9.4",
+                    "version": "2021.0608.2050"
                 }
             ]
         },
@@ -5460,12 +5460,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2020-11-21 15:34:59",
-                    "git_tag": "1.0.44",
+                    "date": "2021-09-05 02:14:18",
+                    "git_tag": "1.0.45",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.44",
-                    "version": "2020.1121.1534"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.45",
+                    "version": "2021.0905.0214"
                 }
             ]
         },
@@ -5535,12 +5535,12 @@
             "readme": "https://raw.githubusercontent.com/SalGnt/Sublime-VimL/master/README.md",
             "releases": [
                 {
-                    "date": "2019-12-26 14:19:27",
-                    "git_tag": "0.1.7",
+                    "date": "2021-09-05 02:02:29",
+                    "git_tag": "0.1.8",
                     "platforms": "*",
                     "sublime_text": ">=3126",
-                    "url": "https://codeload.github.com/evandroforks/VimL/zip/0.1.7",
-                    "version": "2019.1226.1419"
+                    "url": "https://codeload.github.com/evandroforks/VimL/zip/0.1.8",
+                    "version": "2021.0905.0202"
                 }
             ]
         },
@@ -5694,13 +5694,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2020-11-14 21:40:11",
-                    "git_tag": "1.0.108",
+                    "date": "2021-04-09 23:14:41",
+                    "git_tag": "1.0.109",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.108",
-                    "version": "2020.1114.2140"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.109",
+                    "version": "2021.0409.2314"
                 }
             ]
         },
@@ -5743,13 +5743,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2020-11-14 21:43:07",
-                    "git_tag": "2.6.23",
+                    "date": "2021-06-07 20:41:04",
+                    "git_tag": "2.6.24",
                     "platforms": "*",
                     "sublime_text": ">=3126",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.23",
-                    "version": "2020.1114.2143"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.24",
+                    "version": "2021.0607.2041"
                 }
             ]
         },
