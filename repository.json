@@ -1280,12 +1280,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-05-26 14:15:56",
-                    "git_tag": "1.0.54",
+                    "date": "2021-09-12 04:20:16",
+                    "git_tag": "1.0.55",
                     "platforms": "*",
                     "sublime_text": ">3200",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.54",
-                    "version": "2021.0526.1415"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.55",
+                    "version": "2021.0912.0420"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
