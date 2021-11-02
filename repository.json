@@ -6438,13 +6438,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 22:32:14",
+                    "date": "2021-11-01 23:30:20",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2021.1101.2232"
+                    "version": "2021.1101.2330"
                 },
                 {
                     "date": "2021-10-13 00:55:05",
