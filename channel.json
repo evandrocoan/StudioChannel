@@ -4131,12 +4131,12 @@
                 "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/main/README.md",
                 "releases": [
                     {
-                        "date": "2021-11-01 21:52:53",
-                        "git_tag": "0.9.9",
+                        "date": "2021-11-01 23:26:44",
+                        "git_tag": "0.9.10",
                         "platforms": "*",
                         "sublime_text": ">3999",
-                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.9.9",
-                        "version": "2021.1101.2152"
+                        "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.9.10",
+                        "version": "2021.1101.2326"
                     },
                     {
                         "date": "2021-05-06 23:47:37",
@@ -6442,13 +6442,13 @@
                 "previous_names": [],
                 "releases": [
                     {
-                        "date": "2021-10-26 20:40:00",
+                        "date": "2021-11-01 22:32:14",
                         "git_tag": "master",
                         "is_branched_tag": true,
                         "platforms": "*",
                         "sublime_text": ">3999",
                         "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                        "version": "2021.1026.2040"
+                        "version": "2021.1101.2232"
                     },
                     {
                         "date": "2021-10-13 00:55:05",
