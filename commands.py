@@ -179,6 +179,20 @@ def load_installation_details():
 
 
 def load_channel_settings():
+    try:
+        from package_control import comment_json
+        settings_name = "PackagesManager.sublime-settings"
+
+    except( ImportError, ValueError ):
+        settings_name = "Package Control.sublime-settings"
+
+    packagesmanager_settings = sublime.load_settings( settings_name )
+    in_process_packages = packagesmanager_settings.get( "in_process_packages", [] )
+
+    if in_process_packages:
+        log( 1, "Waiting %s %s '%s' to finish installing.", g_settings.PACKAGE_ROOT_DIRECTORY, settings_name, in_process_packages )
+        sublime.set_timeout( plugin_loaded, 10000 )
+        return False
 
     # If the settings are not yet loaded, wait a little
     if hasattr( g_settings, "g_channelSettings" ) \
