@@ -89,12 +89,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:06",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:17:55",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageActionScript/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageActionScript/zip/1.0.7",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:49",
@@ -442,12 +442,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:09",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:17:55",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageAppleScript/zip/1.0.5",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageAppleScript/zip/1.0.6",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2019-12-26 14:18:10",
@@ -502,12 +502,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:10",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:17:55",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageASP/zip/1.0.5",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageASP/zip/1.0.6",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2019-12-26 14:18:11",
@@ -691,12 +691,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:13",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:17:55",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageBatchFile/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageBatchFile/zip/1.0.7",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:49",
@@ -932,12 +932,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:15",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:56",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:49",
@@ -959,12 +959,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:15",
-                    "git_tag": "1.0.13",
+                    "date": "2021-11-02 21:17:56",
+                    "git_tag": "1.0.14",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.13",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.14",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2021-09-05 02:24:01",
@@ -1301,12 +1301,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:18",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:17:56",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.8",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.9",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-05-20 22:47:37",
@@ -1594,12 +1594,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:22",
-                    "git_tag": "1.0.10",
+                    "date": "2021-11-02 21:17:57",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.10",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.11",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-05-07 08:28:47",
@@ -1621,12 +1621,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:22",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:57",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageD/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageD/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:50",
@@ -1834,12 +1834,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:24",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:57",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageDiff/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageDiff/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:51",
@@ -2091,12 +2091,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:26",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:17:57",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageErlang/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageErlang/zip/1.0.7",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:51",
@@ -2820,12 +2820,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:32",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:58",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGitFormats/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGitFormats/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:51",
@@ -2948,12 +2948,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:33",
-                    "git_tag": "1.0.10",
+                    "date": "2021-11-02 21:17:58",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.10",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.11",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-05-07 11:25:30",
@@ -3039,12 +3039,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:34",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:58",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGraphviz/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGraphviz/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:52",
@@ -3066,12 +3066,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:34",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:59",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageGroovy/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageGroovy/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:52",
@@ -3093,12 +3093,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:34",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:17:59",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageHaskell/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageHaskell/zip/1.0.8",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:52",
@@ -3270,12 +3270,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:36",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:17:59",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageHTML/zip/1.0.8",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageHTML/zip/1.0.9",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:52",
@@ -3498,12 +3498,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:38",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:17:59",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageJava/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJava/zip/1.0.7",
+                    "version": "2021.1102.2117"
                 },
                 {
                     "date": "2020-03-30 21:59:53",
@@ -3525,12 +3525,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:38",
-                    "git_tag": "1.0.12",
+                    "date": "2021-11-02 21:18:00",
+                    "git_tag": "1.0.13",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.12",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.13",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-05-20 21:36:39",
@@ -3624,12 +3624,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:39",
-                    "git_tag": "1.0.2",
+                    "date": "2021-11-02 21:18:00",
+                    "git_tag": "1.0.3",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/1.0.2",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/1.0.3",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-05-02 21:28:31",
@@ -3771,12 +3771,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:40",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:01",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageLaTeX/zip/1.0.8",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageLaTeX/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:53",
@@ -4030,12 +4030,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:42",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:18:01",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageLisp/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageLisp/zip/1.0.7",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:53",
@@ -4154,12 +4154,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:43",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:01",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageLua/zip/1.0.8",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageLua/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:53",
@@ -4181,12 +4181,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:43",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:18:02",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMakefile/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMakefile/zip/1.0.8",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:54",
@@ -4208,12 +4208,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:44",
-                    "git_tag": "1.0.12",
+                    "date": "2021-11-02 21:18:02",
+                    "git_tag": "1.0.13",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.12",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.13",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-06-06 12:24:26",
@@ -4302,12 +4302,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:44",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:02",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageMatlab/zip/1.0.8",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageMatlab/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:54",
@@ -4700,12 +4700,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:48",
-                    "git_tag": "1.0.10",
+                    "date": "2021-11-02 21:18:03",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.10",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.11",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-05-07 11:25:31",
@@ -4727,12 +4727,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:48",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:18:03",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageOCaml/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageOCaml/zip/1.0.7",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:55",
@@ -5118,12 +5118,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:53",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:18:03",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePascal/zip/1.0.5",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePascal/zip/1.0.6",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2019-12-26 14:19:02",
@@ -5173,12 +5173,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:54",
-                    "git_tag": "1.0.9",
+                    "date": "2021-11-02 21:18:03",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePerl/zip/1.0.9",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePerl/zip/1.0.10",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:55",
@@ -5200,12 +5200,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:54",
-                    "git_tag": "1.0.9",
+                    "date": "2021-11-02 21:18:04",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.9",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.10",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-05-02 21:30:09",
@@ -5450,12 +5450,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:57",
-                    "git_tag": "1.0.10",
+                    "date": "2021-11-02 21:18:04",
+                    "git_tag": "1.0.11",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackagePython/zip/1.0.10",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackagePython/zip/1.0.11",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:55",
@@ -5513,12 +5513,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:58",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:18:05",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageR/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageR/zip/1.0.7",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:56",
@@ -5540,12 +5540,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:59",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:18:05",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRails/zip/1.0.7",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRails/zip/1.0.8",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:56",
@@ -5628,12 +5628,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:00",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:18:05",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRegularExpressions/zip/1.0.5",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRegularExpressions/zip/1.0.6",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2019-12-26 14:19:08",
@@ -5807,12 +5807,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:01",
-                    "git_tag": "1.0.9",
+                    "date": "2021-11-02 21:18:05",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.9",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.10",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-05-20 22:53:56",
@@ -5834,12 +5834,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:02",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:05",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageRust/zip/1.0.8",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageRust/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:56",
@@ -5889,12 +5889,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:02",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:06",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageScala/zip/1.0.8",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageScala/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:57",
@@ -6102,12 +6102,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:04",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:06",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageShellScript/zip/1.0.8",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageShellScript/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:57",
@@ -6279,12 +6279,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:05",
-                    "git_tag": "1.0.8",
+                    "date": "2021-11-02 21:18:06",
+                    "git_tag": "1.0.9",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageSQL/zip/1.0.8",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageSQL/zip/1.0.9",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:57",
@@ -6438,13 +6438,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 23:30:20",
+                    "date": "2021-11-01 23:32:48",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2021.1101.2330"
+                    "version": "2021.1101.2332"
                 },
                 {
                     "date": "2021-10-13 00:55:05",
@@ -6768,12 +6768,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:10",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:18:07",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageTCL/zip/1.0.5",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageTCL/zip/1.0.6",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2019-12-26 14:19:21",
@@ -6892,12 +6892,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:11",
-                    "git_tag": "1.0.5",
+                    "date": "2021-11-02 21:18:07",
+                    "git_tag": "1.0.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageTextile/zip/1.0.5",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageTextile/zip/1.0.6",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2019-12-26 14:19:23",
@@ -7390,12 +7390,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:24",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-02 21:18:07",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageXML/zip/1.0.6",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageXML/zip/1.0.7",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:57",
@@ -7417,12 +7417,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:25",
-                    "git_tag": "1.0.7",
+                    "date": "2021-11-02 21:18:07",
+                    "git_tag": "1.0.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SublimePackageYAML/zip/1.0.7",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SublimePackageYAML/zip/1.0.8",
+                    "version": "2021.1102.2118"
                 },
                 {
                     "date": "2020-03-30 21:59:58",
