@@ -1622,12 +1622,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2014-01-15 19:22:00",
-                    "git_tag": "1.0.0",
+                    "date": "2021-11-03 01:15:47",
+                    "git_tag": "1.0.1",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/CythonSyntax/zip/1.0.0",
-                    "version": "2014.0115.1922"
+                    "url": "https://codeload.github.com/evandroforks/CythonSyntax/zip/1.0.1",
+                    "version": "2021.1103.0115"
                 },
                 {
                     "date": "2014-01-15 19:22:00",
@@ -1677,12 +1677,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 21:35:38",
-                    "git_tag": "1.0.56",
+                    "date": "2021-11-03 20:23:43",
+                    "git_tag": "1.0.57",
                     "platforms": "*",
                     "sublime_text": ">4113",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.56",
-                    "version": "2021.1101.2135"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.57",
+                    "version": "2021.1103.2023"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -2062,12 +2062,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:25",
-                    "git_tag": "1.0.6",
+                    "date": "2021-11-03 20:14:37",
+                    "git_tag": "1.0.7",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/EditPreferences/zip/1.0.6",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/EditPreferences/zip/1.0.7",
+                    "version": "2021.1103.2014"
                 },
                 {
                     "date": "2013-02-26 19:14:25",
@@ -4195,12 +4195,12 @@
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP-pylsp/master/README.md",
             "releases": [
                 {
-                    "date": "2021-09-04 22:19:15",
-                    "git_tag": "2.2.3",
+                    "date": "2021-11-03 01:15:47",
+                    "git_tag": "2.2.4",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/LSP-pylsp/zip/2.2.3",
-                    "version": "2021.0904.2219"
+                    "url": "https://codeload.github.com/evandroforks/LSP-pylsp/zip/2.2.4",
+                    "version": "2021.1103.0115"
                 },
                 {
                     "date": "2021-10-17 22:13:33",
@@ -5102,13 +5102,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 22:09:10",
+                    "date": "2021-11-03 20:32:57",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2021.1101.2209"
+                    "version": "2021.1103.2032"
                 },
                 {
                     "date": "2021-09-05 02:54:25",
@@ -6506,13 +6506,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 23:32:48",
+                    "date": "2021-11-03 01:17:58",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2021.1101.2332"
+                    "version": "2021.1103.0117"
                 },
                 {
                     "date": "2021-10-13 00:55:05",
@@ -7581,13 +7581,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2021-10-26 20:36:34",
-                    "git_tag": "1.0.110",
+                    "date": "2021-11-03 20:11:20",
+                    "git_tag": "1.0.111",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.110",
-                    "version": "2021.1026.2036"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.111",
+                    "version": "2021.1103.2011"
                 },
                 {
                     "date": "2021-10-13 02:46:35",
@@ -7644,13 +7644,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2021-10-26 20:36:35",
-                    "git_tag": "2.6.25",
+                    "date": "2021-11-03 19:49:25",
+                    "git_tag": "2.6.26",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.25",
-                    "version": "2021.1026.2036"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.26",
+                    "version": "2021.1103.1949"
                 },
                 {
                     "date": "2021-06-07 20:41:04",
@@ -7708,13 +7708,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandroforks/lsp_utils",
-                    "date": "2021-10-06 09:11:16",
-                    "git_tag": "1.16.0",
+                    "date": "2021-11-03 01:15:47",
+                    "git_tag": "1.16.1",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/lsp_utils/zip/1.16.0",
-                    "version": "2021.1006.0911"
+                    "url": "https://codeload.github.com/evandroforks/lsp_utils/zip/1.16.1",
+                    "version": "2021.1103.0115"
                 },
                 {
                     "date": "2021-10-14 21:26:42",
@@ -7740,13 +7740,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandroforks/mdpopups",
-                    "date": "2021-09-07 16:53:09",
-                    "git_tag": "4.2.1",
+                    "date": "2021-11-03 01:15:47",
+                    "git_tag": "4.2.2",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandroforks/mdpopups/zip/4.2.1",
-                    "version": "2021.0907.1653"
+                    "url": "https://codeload.github.com/evandroforks/mdpopups/zip/4.2.2",
+                    "version": "2021.1103.0115"
                 },
                 {
                     "date": "2021-09-07 16:53:09",
@@ -7868,13 +7868,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/pushdownparser",
-                    "date": "2021-10-17 17:52:49",
-                    "git_tag": "0.66.5",
+                    "date": "2021-11-03 01:03:46",
+                    "git_tag": "0.66.6",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.5",
-                    "version": "2021.1017.1752"
+                    "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.6",
+                    "version": "2021.1103.0103"
                 },
                 {
                     "date": "2020-10-13 20:50:04",
