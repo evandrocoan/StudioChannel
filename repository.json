@@ -334,7 +334,7 @@
                 "pawn",
                 "build system"
             ],
-            "last_modified": "2021-02-20 19:17:20",
+            "last_modified": "2021-10-26 23:39:58",
             "name": "AmxxEditor",
             "previous_names": [
                 "Amxmodx"
@@ -372,7 +372,7 @@
                 "amxmodx",
                 "amx mod x"
             ],
-            "last_modified": "2020-06-07 20:14:59",
+            "last_modified": "2021-10-13 06:10:08",
             "name": "AmxxPawn",
             "previous_names": [
                 "Amxx Pawn"
@@ -1213,7 +1213,7 @@
             "homepage": "https://github.com/evandrocoan/ClearCursorsCarets",
             "issues": "https://github.com/evandrocoan/ClearCursorsCarets/issues",
             "labels": [],
-            "last_modified": "2019-12-26 17:18:20",
+            "last_modified": "2021-10-13 06:10:18",
             "name": "ClearCursorsCarets",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/ClearCursorsCarets/master/README.md",
@@ -1391,12 +1391,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Sublime plugin that provides helpful color tooltips",
+            "description": "Sublime plugin that provides helpful color previews and tooltips",
             "donate": null,
             "homepage": "https://github.com/evandroforks/ColorHelper",
             "issues": "https://github.com/facelessuser/ColorHelper/issues",
             "labels": [],
-            "last_modified": "2021-09-06 16:44:41",
+            "last_modified": "2021-10-19 18:42:33",
             "name": "ColorHelper",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md",
@@ -1612,6 +1612,34 @@
         },
         {
             "authors": [
+                "NotSqrt",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/CythonSyntax",
+            "homepage": "https://github.com/evandroforks/CythonSyntax",
+            "name": "CythonSyntax",
+            "previous_names": [],
+            "releases": [
+                {
+                    "date": "2014-01-15 19:22:00",
+                    "git_tag": "1.0.0",
+                    "platforms": "*",
+                    "sublime_text": ">3999",
+                    "url": "https://codeload.github.com/evandroforks/CythonSyntax/zip/1.0.0",
+                    "version": "2014.0115.1922"
+                },
+                {
+                    "date": "2014-01-15 19:22:00",
+                    "platforms": "*",
+                    "sublime_text": "<=3999",
+                    "url": "https://codeload.github.com/evandroforks/CythonSyntax/zip/3999",
+                    "version": "2014.0115.1922"
+                }
+            ]
+        },
+        {
+            "authors": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1652,7 +1680,7 @@
                     "date": "2021-11-01 21:35:38",
                     "git_tag": "1.0.56",
                     "platforms": "*",
-                    "sublime_text": ">3999",
+                    "sublime_text": ">4113",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.56",
                     "version": "2021.1101.2135"
                 },
@@ -1732,6 +1760,13 @@
                     "sublime_text": "<=3999",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/3999",
                     "version": "2021.0912.0420"
+                },
+                {
+                    "date": "2021-10-14 21:25:53",
+                    "platforms": "*",
+                    "sublime_text": "<=4113",
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4113",
+                    "version": "2021.1014.2125"
                 }
             ]
         },
@@ -2593,7 +2628,7 @@
             "labels": [
                 "formatting"
             ],
-            "last_modified": "2019-12-26 17:18:35",
+            "last_modified": "2021-10-13 06:10:30",
             "name": "FixSelectionAfterIndent",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/FixSelectionAfterIndent/master/README.md",
@@ -3591,7 +3626,7 @@
                 "javascript",
                 "syntax"
             ],
-            "last_modified": "2021-08-26 19:58:50",
+            "last_modified": "2021-10-29 15:39:02",
             "name": "JSCustom",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -3678,7 +3713,7 @@
             "homepage": "https://github.com/evandrocoan/KeepPastedTextSelected",
             "issues": "https://github.com/evandrocoan/KeepPastedTextSelected/issues",
             "labels": [],
-            "last_modified": "2019-12-26 17:18:46",
+            "last_modified": "2021-10-13 06:10:39",
             "name": "KeepPastedTextSelected",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/KeepPastedTextSelected/master/README.md",
@@ -4121,7 +4156,7 @@
                 "method completion",
                 "intellicode"
             ],
-            "last_modified": "2021-10-05 09:19:53",
+            "last_modified": "2021-10-30 19:41:16",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/main/README.md",
@@ -4140,6 +4175,39 @@
                     "sublime_text": "<=3999",
                     "url": "https://codeload.github.com/evandrocoan/LSP/zip/3999",
                     "version": "2021.0506.2347"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "sublimelsp",
+                "Forked by evandroforks"
+            ],
+            "buy": null,
+            "description": "Convenience package for the Python Language Server",
+            "donate": null,
+            "homepage": "https://github.com/evandroforks/LSP-pylsp",
+            "issues": "https://github.com/sublimelsp/LSP-pylsp/issues",
+            "labels": [],
+            "last_modified": "2021-10-27 11:37:12",
+            "name": "LSP-pylsp",
+            "previous_names": [],
+            "readme": "https://raw.githubusercontent.com/sublimelsp/LSP-pylsp/master/README.md",
+            "releases": [
+                {
+                    "date": "2021-09-04 22:19:15",
+                    "git_tag": "2.2.3",
+                    "platforms": "*",
+                    "sublime_text": ">3999",
+                    "url": "https://codeload.github.com/evandroforks/LSP-pylsp/zip/2.2.3",
+                    "version": "2021.0904.2219"
+                },
+                {
+                    "date": "2021-10-17 22:13:33",
+                    "platforms": "*",
+                    "sublime_text": "<=3999",
+                    "url": "https://codeload.github.com/evandroforks/LSP-pylsp/zip/3999",
+                    "version": "2021.1017.2213"
                 }
             ]
         },
@@ -4595,7 +4663,7 @@
                 "color scheme",
                 "notepad++"
             ],
-            "last_modified": "2020-05-16 00:56:52",
+            "last_modified": "2021-10-13 06:09:35",
             "name": "Notepad++ Color Scheme",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/NotepadPlusPlusColorScheme/master/README.md",
@@ -4905,7 +4973,7 @@
             "homepage": "https://github.com/evandrocoan/OverrideEditSettingsDefaultContents",
             "issues": "https://github.com/evandrocoan/OverrideEditSettingsDefaultContents/issues",
             "labels": [],
-            "last_modified": "2019-12-26 17:18:59",
+            "last_modified": "2021-10-13 06:10:50",
             "name": "OverrideEditSettingsDefaultContents",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/OverrideEditSettingsDefaultContents/master/README.md",
@@ -5222,7 +5290,7 @@
                 "evandrocoan"
             ],
             "buy": null,
-            "description": "A fork from https://github.com/jvantuyl/sublime_diagram_plugin package for Sublime Text 3, to render diagrams in your source code",
+            "description": "A fork from https://github.com/jvantuyl/sublime_diagram_plugin package for Sublime Text, to render diagrams in your source code",
             "donate": null,
             "homepage": "https://github.com/evandrocoan/PlantUmlDiagrams",
             "issues": "https://github.com/evandrocoan/PlantUmlDiagrams/issues",
@@ -5230,7 +5298,7 @@
                 "uml",
                 "plantuml"
             ],
-            "last_modified": "2019-12-26 17:19:04",
+            "last_modified": "2021-11-02 01:01:00",
             "name": "PlantUmlDiagrams",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/PlantUmlDiagrams/master/README.md",
@@ -5480,7 +5548,7 @@
                 "preferences",
                 "settings"
             ],
-            "last_modified": "2021-05-20 00:18:59",
+            "last_modified": "2021-10-26 23:39:59",
             "name": "QuickSettings",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/QuickSettings/master/README.md",
@@ -5687,7 +5755,7 @@
             "homepage": "https://github.com/evandrocoan/RememberCommandPaletteInput",
             "issues": "https://github.com/evandrocoan/RememberCommandPaletteInput/issues",
             "labels": [],
-            "last_modified": "2019-12-26 17:19:09",
+            "last_modified": "2021-10-26 23:39:59",
             "name": "RememberCommandPaletteInput",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/RememberCommandPaletteInput/master/README.md",
@@ -6135,7 +6203,7 @@
                 "file",
                 "clipboard"
             ],
-            "last_modified": "2020-01-21 13:19:07",
+            "last_modified": "2021-11-01 13:13:43",
             "name": "SideBarEnhancements",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -7622,6 +7690,70 @@
                     "sublime_text": "<=3999",
                     "url": "https://codeload.github.com/evandroforks/diffmatchpatch/zip/3999",
                     "version": "2020.1013.2026"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "sublimelsp",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/lsp_utils",
+            "homepage": "https://github.com/evandroforks/lsp_utils",
+            "issues": "https://github.com/evandroforks/lsp_utils/issues",
+            "load_order": "10",
+            "name": "lsp_utils",
+            "previous_names": [],
+            "releases": [
+                {
+                    "base": "https://github.com/evandroforks/lsp_utils",
+                    "date": "2021-10-06 09:11:16",
+                    "git_tag": "1.16.0",
+                    "platforms": "*",
+                    "sublime_text": ">3999",
+                    "tags": true,
+                    "url": "https://codeload.github.com/evandroforks/lsp_utils/zip/1.16.0",
+                    "version": "2021.1006.0911"
+                },
+                {
+                    "date": "2021-10-14 21:26:42",
+                    "platforms": "*",
+                    "sublime_text": "<=3999",
+                    "url": "https://codeload.github.com/evandroforks/lsp_utils/zip/3999",
+                    "version": "2021.1014.2126"
+                }
+            ]
+        },
+        {
+            "authors": [
+                "facelessuser",
+                "Forked by evandroforks"
+            ],
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/mdpopups",
+            "homepage": "https://github.com/evandroforks/mdpopups",
+            "issues": "https://github.com/evandroforks/mdpopups/issues",
+            "load_order": "",
+            "name": "mdpopups",
+            "previous_names": [],
+            "releases": [
+                {
+                    "base": "https://github.com/evandroforks/mdpopups",
+                    "date": "2021-09-07 16:53:09",
+                    "git_tag": "4.2.1",
+                    "platforms": "*",
+                    "sublime_text": ">3999",
+                    "tags": true,
+                    "url": "https://codeload.github.com/evandroforks/mdpopups/zip/4.2.1",
+                    "version": "2021.0907.1653"
+                },
+                {
+                    "date": "2021-09-07 16:53:09",
+                    "platforms": "*",
+                    "sublime_text": "<=3999",
+                    "url": "https://codeload.github.com/evandroforks/mdpopups/zip/3999",
+                    "version": "2021.0907.1653"
                 }
             ]
         },
