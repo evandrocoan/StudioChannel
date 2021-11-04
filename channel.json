@@ -4673,12 +4673,12 @@
                 "readme": "https://raw.githubusercontent.com/evandrocoan/NotepadPlusPlusColorScheme/master/README.md",
                 "releases": [
                     {
-                        "date": "2021-10-13 03:09:35",
-                        "git_tag": "2.0.17",
+                        "date": "2021-11-03 21:35:18",
+                        "git_tag": "2.0.18",
                         "platforms": "*",
                         "sublime_text": ">3999",
-                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.17",
-                        "version": "2021.1013.0309"
+                        "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.18",
+                        "version": "2021.1103.2135"
                     },
                     {
                         "date": "2017-08-10 23:50:25",
