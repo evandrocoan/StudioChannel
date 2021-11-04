@@ -117,6 +117,7 @@ def plugin_loaded():
     [
         "ApplySyntax",
         "AutoFileName",
+        "Color Highlighter",
         "C++ Completions",
         "C++ Qt Completions",
         "C++ Snippets",
