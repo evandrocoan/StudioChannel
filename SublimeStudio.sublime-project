@@ -19,7 +19,7 @@
                 ".gitignore",
                 ".gitmodules",
                 "LICENSE",
-                "README.MD",
+                "README.md",
                 "SublimeStudio.bbcode",
                 "SublimeStudio.sublime-project",
             ],
