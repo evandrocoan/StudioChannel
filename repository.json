@@ -299,13 +299,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-26 20:39:58",
+                    "date": "2022-09-18 11:01:00",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
-                    "version": "2021.1026.2039"
+                    "version": "2022.0918.1101"
                 },
                 {
                     "date": "2020-04-26 18:50:11",
@@ -342,12 +342,12 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
             "releases": [
                 {
-                    "date": "2021-10-26 20:39:58",
-                    "git_tag": "3.0.43",
+                    "date": "2022-03-17 22:30:39",
+                    "git_tag": "3.0.44",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.43",
-                    "version": "2021.1026.2039"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.44",
+                    "version": "2022.0317.2230"
                 },
                 {
                     "date": "2021-02-20 16:17:20",
@@ -811,12 +811,12 @@
             "readme": "https://raw.githubusercontent.com/aziz/BetterFindBuffer/master/README.md",
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:14",
-                    "git_tag": "1.0.11",
+                    "date": "2022-09-18 11:36:38",
+                    "git_tag": "1.0.12",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.11",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.12",
+                    "version": "2022.0918.1136"
                 },
                 {
                     "date": "2020-09-27 21:48:06",
@@ -1534,12 +1534,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/README.md",
             "releases": [
                 {
-                    "date": "2021-10-13 03:10:21",
-                    "git_tag": "1.2.19",
+                    "date": "2022-03-17 22:31:37",
+                    "git_tag": "1.2.20",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.19",
-                    "version": "2021.1013.0310"
+                    "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.20",
+                    "version": "2022.0317.2231"
                 },
                 {
                     "date": "2019-12-26 14:18:23",
@@ -1677,12 +1677,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-03 20:44:01",
-                    "git_tag": "1.0.58",
+                    "date": "2022-09-18 11:00:21",
+                    "git_tag": "1.0.59",
                     "platforms": "*",
                     "sublime_text": ">4121",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.58",
-                    "version": "2021.1103.2044"
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.59",
+                    "version": "2022.0918.1100"
                 },
                 {
                     "date": "2018-10-17 23:51:58",
@@ -3224,12 +3224,12 @@
             "readme": "https://raw.githubusercontent.com/seanliang/HighlightWords/master/README.md",
             "releases": [
                 {
-                    "date": "2021-10-26 20:39:59",
-                    "git_tag": "1.0.18",
+                    "date": "2022-09-18 10:54:33",
+                    "git_tag": "1.0.19",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.18",
-                    "version": "2021.1026.2039"
+                    "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.19",
+                    "version": "2022.0918.1054"
                 },
                 {
                     "date": "2021-10-09 23:30:08",
@@ -5104,13 +5104,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-03 20:32:57",
+                    "date": "2022-09-18 11:43:09",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2021.1103.2032"
+                    "version": "2022.0918.1143"
                 },
                 {
                     "date": "2021-09-05 02:54:25",
@@ -6448,12 +6448,12 @@
             "readme": "https://raw.githubusercontent.com/mtxr/SublimeText-SQLTools/master/README.md",
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:06",
-                    "git_tag": "0.9.17",
+                    "date": "2022-09-18 11:12:23",
+                    "git_tag": "0.9.18",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/SQLTools/zip/0.9.17",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/SQLTools/zip/0.9.18",
+                    "version": "2022.0918.1112"
                 },
                 {
                     "date": "2019-12-26 14:19:17",
@@ -6508,13 +6508,13 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-03 21:01:02",
+                    "date": "2022-09-18 11:41:55",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
-                    "version": "2021.1103.2101"
+                    "version": "2022.0918.1141"
                 },
                 {
                     "date": "2021-10-13 00:55:05",
@@ -6866,12 +6866,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:10",
-                    "git_tag": "1.18.7",
+                    "date": "2022-09-18 11:10:41",
+                    "git_tag": "1.18.8",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/TerminalShortcuts/zip/1.18.7",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/TerminalShortcuts/zip/1.18.8",
+                    "version": "2022.0918.1110"
                 },
                 {
                     "date": "2019-12-26 14:19:22",
@@ -7017,12 +7017,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:12",
-                    "git_tag": "1.0.9",
+                    "date": "2022-02-13 15:00:48",
+                    "git_tag": "1.0.10",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.9",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.10",
+                    "version": "2022.0213.1500"
                 },
                 {
                     "date": "2019-12-26 14:19:24",
@@ -7045,12 +7045,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-10-13 03:11:12",
-                    "git_tag": "2.0.9",
+                    "date": "2022-02-02 20:15:35",
+                    "git_tag": "2.0.10",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandroforks/ToggleWords/zip/2.0.9",
-                    "version": "2021.1013.0311"
+                    "url": "https://codeload.github.com/evandroforks/ToggleWords/zip/2.0.10",
+                    "version": "2022.0202.2015"
                 },
                 {
                     "date": "2019-12-26 14:19:24",
@@ -7215,12 +7215,12 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2021-11-01 20:08:40",
-                    "git_tag": "1.0.46",
+                    "date": "2022-09-18 11:37:39",
+                    "git_tag": "1.0.47",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.46",
-                    "version": "2021.1101.2008"
+                    "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.47",
+                    "version": "2022.0918.1137"
                 },
                 {
                     "date": "2021-10-09 23:30:54",
@@ -7583,13 +7583,13 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2021-11-03 20:11:20",
-                    "git_tag": "1.0.111",
+                    "date": "2022-09-18 11:01:00",
+                    "git_tag": "1.0.112",
                     "platforms": "*",
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.111",
-                    "version": "2021.1103.2011"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.112",
+                    "version": "2022.0918.1101"
                 },
                 {
                     "date": "2021-10-13 02:46:35",
