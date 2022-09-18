@@ -17,7 +17,7 @@
                 "file",
                 "icons"
             ],
-            "last_modified": "2021-09-08 17:23:21",
+            "last_modified": "2022-09-04 17:54:04",
             "name": "A File Icon",
             "previous_names": [
                 "File Icons Extended",
@@ -464,12 +464,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Syntax detector for Sublime Text http://facelessuser.github.io/ApplySyntax/",
+            "description": "Syntax detector for Sublime Text",
             "donate": null,
             "homepage": "https://github.com/evandroforks/ApplySyntax",
             "issues": "https://github.com/facelessuser/ApplySyntax/issues",
             "labels": [],
-            "last_modified": "2021-07-10 17:03:51",
+            "last_modified": "2022-08-12 02:02:02",
             "name": "ApplySyntax",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -595,7 +595,7 @@
             "homepage": "https://github.com/evandroforks/AutomaticPackageReloader",
             "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
             "labels": [],
-            "last_modified": "2021-06-09 19:59:55",
+            "last_modified": "2021-11-15 07:50:21",
             "name": "AutomaticPackageReloader",
             "previous_names": [
                 "PackageReloader"
@@ -838,7 +838,7 @@
             "homepage": "https://github.com/evandroforks/BracketHighlighter",
             "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
             "labels": [],
-            "last_modified": "2021-07-10 16:55:59",
+            "last_modified": "2022-09-02 01:23:45",
             "name": "BracketHighlighter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -1396,7 +1396,7 @@
             "homepage": "https://github.com/evandroforks/ColorHelper",
             "issues": "https://github.com/facelessuser/ColorHelper/issues",
             "labels": [],
-            "last_modified": "2021-10-19 18:42:33",
+            "last_modified": "2022-08-12 01:55:45",
             "name": "ColorHelper",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md",
@@ -1680,7 +1680,7 @@
                     "date": "2021-11-03 20:44:01",
                     "git_tag": "1.0.58",
                     "platforms": "*",
-                    "sublime_text": ">4113",
+                    "sublime_text": ">4121",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.58",
                     "version": "2021.1103.2044"
                 },
@@ -1767,6 +1767,13 @@
                     "sublime_text": "<=4113",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4113",
                     "version": "2021.1014.2125"
+                },
+                {
+                    "date": "2021-11-06 13:10:40",
+                    "platforms": "*",
+                    "sublime_text": "<=4121",
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4121",
+                    "version": "2021.1106.1310"
                 }
             ]
         },
@@ -2374,7 +2381,7 @@
             "labels": [
                 "diff/merge"
             ],
-            "last_modified": "2018-10-29 14:37:43",
+            "last_modified": "2022-03-29 14:26:49",
             "name": "FileDiffs",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeFileDiffs/main/README.md",
@@ -2443,7 +2450,7 @@
                 "file creation",
                 "file navigation"
             ],
-            "last_modified": "2020-01-24 22:19:22",
+            "last_modified": "2022-03-08 10:26:06",
             "name": "FileManager",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/math2001/FileManager/master/README.md",
@@ -2780,16 +2787,11 @@
                 "condemil",
                 "Forked by evandroforks"
             ],
-            "buy": null,
-            "description": "Sublime Text plugin for creating new Gists from selected text",
-            "donate": null,
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/Gist",
             "homepage": "https://github.com/evandroforks/Gist",
-            "issues": "https://github.com/condemil/Gist/issues",
-            "labels": [],
-            "last_modified": "2017-07-31 18:43:39",
             "name": "Gist",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/condemil/Gist/master/README.md",
             "releases": [
                 {
                     "date": "2021-10-13 03:10:31",
@@ -3626,7 +3628,7 @@
                 "javascript",
                 "syntax"
             ],
-            "last_modified": "2021-10-29 15:39:02",
+            "last_modified": "2022-04-30 15:10:50",
             "name": "JSCustom",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -4156,7 +4158,7 @@
                 "method completion",
                 "intellicode"
             ],
-            "last_modified": "2021-10-30 19:41:16",
+            "last_modified": "2022-08-30 21:19:32",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/main/README.md",
@@ -4189,7 +4191,7 @@
             "homepage": "https://github.com/evandroforks/LSP-pylsp",
             "issues": "https://github.com/sublimelsp/LSP-pylsp/issues",
             "labels": [],
-            "last_modified": "2021-10-27 11:37:12",
+            "last_modified": "2022-08-24 06:10:33",
             "name": "LSP-pylsp",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP-pylsp/master/README.md",
@@ -4307,7 +4309,7 @@
                 "preview",
                 "build"
             ],
-            "last_modified": "2021-03-04 04:00:38",
+            "last_modified": "2022-08-12 12:53:50",
             "name": "MarkdownPreview",
             "previous_names": [
                 "Markdown Preview"
@@ -4663,7 +4665,7 @@
                 "color scheme",
                 "notepad++"
             ],
-            "last_modified": "2021-10-13 06:09:35",
+            "last_modified": "2021-11-04 00:35:18",
             "name": "Notepad++ Color Scheme",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/evandrocoan/NotepadPlusPlusColorScheme/master/README.md",
@@ -4707,10 +4709,10 @@
                 "nsis",
                 "build system"
             ],
-            "last_modified": "2021-09-30 22:26:05",
+            "last_modified": "2022-09-08 10:29:26",
             "name": "NSIS",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/SublimeText/NSIS/master/README.md",
+            "readme": "https://raw.githubusercontent.com/SublimeText/NSIS/main/README.md",
             "releases": [
                 {
                     "date": "2021-10-13 03:10:48",
@@ -4914,7 +4916,7 @@
                 "resource",
                 "package development"
             ],
-            "last_modified": "2021-10-13 03:34:23",
+            "last_modified": "2022-06-07 04:17:20",
             "name": "OverrideAudit",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -5033,7 +5035,7 @@
             "homepage": "https://github.com/evandroforks/PackageDev",
             "issues": "https://github.com/SublimeText/PackageDev/issues",
             "labels": [],
-            "last_modified": "2021-01-23 01:00:03",
+            "last_modified": "2022-09-02 21:29:50",
             "name": "PackageDev",
             "previous_names": [
                 "AAAPackageDev"
@@ -6017,7 +6019,7 @@
             "homepage": "https://github.com/evandroforks/ScopeHunter",
             "issues": "https://github.com/facelessuser/ScopeHunter/issues",
             "labels": [],
-            "last_modified": "2021-09-05 22:51:21",
+            "last_modified": "2022-03-19 19:06:17",
             "name": "ScopeHunter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ScopeHunter/master/readme.md",
@@ -6203,7 +6205,7 @@
                 "file",
                 "clipboard"
             ],
-            "last_modified": "2021-11-01 13:13:43",
+            "last_modified": "2022-09-09 11:33:03",
             "name": "SideBarEnhancements",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -6537,7 +6539,7 @@
                 "linting",
                 "SublimeLinter"
             ],
-            "last_modified": "2021-06-10 19:33:03",
+            "last_modified": "2022-09-09 20:57:44",
             "name": "SublimeLinter",
             "previous_names": [
                 "SublimeLinter Beta"
@@ -6899,7 +6901,7 @@
                 "cmd",
                 "powershell"
             ],
-            "last_modified": "2021-10-07 16:56:40",
+            "last_modified": "2022-06-13 21:36:36",
             "name": "Terminus",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -7070,7 +7072,7 @@
             "homepage": "https://github.com/evandroforks/Toml",
             "issues": "https://github.com/jasonwilliams/sublime_toml_highlighting/issues",
             "labels": [],
-            "last_modified": "2019-10-20 18:10:00",
+            "last_modified": "2022-01-19 19:02:16",
             "name": "TOML",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/jasonwilliams/sublime_toml_highlighting/master/README.md",
@@ -7147,7 +7149,7 @@
                 "typescript",
                 "javascript"
             ],
-            "last_modified": "2021-08-26 04:46:49",
+            "last_modified": "2022-08-25 21:41:06",
             "name": "TypeScript",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Microsoft/TypeScript-Sublime-Plugin/master/README.md",
@@ -7180,7 +7182,7 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting",
             "issues": "https://github.com/SublimeText/UnitTesting/issues",
             "labels": [],
-            "last_modified": "2021-08-06 17:35:54",
+            "last_modified": "2022-05-29 17:41:44",
             "name": "UnitTesting",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
