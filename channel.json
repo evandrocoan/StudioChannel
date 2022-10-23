@@ -7381,12 +7381,12 @@
                 "readme": "https://raw.githubusercontent.com/philipbelesky/WordCount/st3/readme.md",
                 "releases": [
                     {
-                        "date": "2021-10-13 03:11:22",
-                        "git_tag": "1.0.11",
+                        "date": "2022-10-23 14:43:40",
+                        "git_tag": "1.1.0",
                         "platforms": "*",
                         "sublime_text": ">3999",
-                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.0.11",
-                        "version": "2021.1013.0311"
+                        "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.1.0",
+                        "version": "2022.1023.1443"
                     },
                     {
                         "date": "2019-12-26 14:19:27",
