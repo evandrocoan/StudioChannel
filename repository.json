@@ -7368,27 +7368,27 @@
             "buy": null,
             "description": "Real-time Word, Char, Line and Page counter, in the status-bar for the document, line or selection. Sublime Text. A fork of titoBouzout's original repo so that it can be submitted to Package Control.",
             "donate": null,
-            "homepage": "https://github.com/evandrocoan/WordCount",
+            "homepage": "https://github.com/evandrocoan/WordingStatus",
             "issues": null,
             "labels": [],
             "last_modified": "2016-03-18 07:01:42",
-            "name": "WordCount",
+            "name": "WordingStatus",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/philipbelesky/WordCount/st3/readme.md",
+            "readme": "https://raw.githubusercontent.com/philipbelesky/WordingStatus/st3/readme.md",
             "releases": [
                 {
-                    "date": "2022-10-23 14:43:40",
-                    "git_tag": "1.1.0",
+                    "date": "2022-10-24 21:20:30",
+                    "git_tag": "2.0.0",
                     "platforms": "*",
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/1.1.0",
-                    "version": "2022.1023.1443"
+                    "url": "https://codeload.github.com/evandrocoan/WordingStatus/zip/2.0.0",
+                    "version": "2022.1024.2120"
                 },
                 {
                     "date": "2019-12-26 14:19:27",
                     "platforms": "*",
                     "sublime_text": "<=3999",
-                    "url": "https://codeload.github.com/evandrocoan/WordCount/zip/3999",
+                    "url": "https://codeload.github.com/evandrocoan/WordingStatus/zip/3999",
                     "version": "2019.1226.1419"
                 }
             ]
