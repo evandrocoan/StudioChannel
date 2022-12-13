@@ -7381,12 +7381,12 @@
                 "readme": "https://raw.githubusercontent.com/philipbelesky/WordingStatus/st3/readme.md",
                 "releases": [
                     {
-                        "date": "2022-10-24 21:20:30",
-                        "git_tag": "2.0.0",
+                        "date": "2022-12-12 21:15:50",
+                        "git_tag": "2.1.0",
                         "platforms": "*",
                         "sublime_text": ">3999",
-                        "url": "https://codeload.github.com/evandrocoan/WordingStatus/zip/2.0.0",
-                        "version": "2022.1024.2120"
+                        "url": "https://codeload.github.com/evandrocoan/WordingStatus/zip/2.1.0",
+                        "version": "2022.1212.2115"
                     },
                     {
                         "date": "2019-12-26 14:19:27",
