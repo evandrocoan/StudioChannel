@@ -7348,12 +7348,12 @@
                 "readme": "https://raw.githubusercontent.com/randy3k/Whitespace/master/README.md",
                 "releases": [
                     {
-                        "date": "2021-10-13 03:11:21",
-                        "git_tag": "0.1.11",
+                        "date": "2023-12-23 16:30:24",
+                        "git_tag": "0.1.12",
                         "platforms": "*",
                         "sublime_text": ">3999",
-                        "url": "https://codeload.github.com/evandroforks/Whitespace/zip/0.1.11",
-                        "version": "2021.1013.0311"
+                        "url": "https://codeload.github.com/evandroforks/Whitespace/zip/0.1.12",
+                        "version": "2023.1223.1630"
                     },
                     {
                         "date": "2019-12-26 14:19:27",
