@@ -17,7 +17,7 @@
                 "file",
                 "icons"
             ],
-            "last_modified": "2022-09-04 17:54:04",
+            "last_modified": "2024-01-07 16:13:36",
             "name": "A File Icon",
             "previous_names": [
                 "File Icons Extended",
@@ -29,6 +29,9 @@
                     "date": "2021-10-13 03:10:06",
                     "git_tag": "3.15.2",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AFileIcon/zip/3.15.2",
                     "version": "2021.1013.0310"
@@ -65,6 +68,9 @@
                     "date": "2021-10-13 03:10:06",
                     "git_tag": "1.8.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AceJump/zip/1.8.11",
                     "version": "2021.1013.0310"
@@ -92,6 +98,9 @@
                     "date": "2021-11-02 21:17:55",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageActionScript/zip/1.0.7",
                     "version": "2021.1102.2117"
@@ -120,6 +129,9 @@
                     "date": "2021-10-13 03:10:06",
                     "git_tag": "1.1.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AddFolderToProject/zip/1.1.11",
                     "version": "2021.1013.0310"
@@ -148,6 +160,9 @@
                     "date": "2021-10-13 03:10:06",
                     "git_tag": "1.1.19",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AdvancedCSV/zip/1.1.19",
                     "version": "2021.1013.0310"
@@ -181,6 +196,9 @@
                     "date": "2021-10-13 03:10:07",
                     "git_tag": "2.1.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Alignment/zip/2.1.7",
                     "version": "2021.1013.0310"
@@ -214,6 +232,9 @@
                     "date": "2021-10-13 03:10:07",
                     "git_tag": "2.1.20",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AlignTab/zip/2.1.20",
                     "version": "2021.1013.0310"
@@ -242,6 +263,9 @@
                     "date": "2021-10-13 03:10:07",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AllAutocomplete/zip/1.0.13",
                     "version": "2021.1013.0310"
@@ -275,6 +299,9 @@
                     "date": "2021-10-13 03:10:07",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AltUp/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -303,6 +330,9 @@
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AmxxChannel/zip/master",
                     "version": "2022.0918.1101"
@@ -334,7 +364,7 @@
                 "pawn",
                 "build system"
             ],
-            "last_modified": "2021-10-26 23:39:58",
+            "last_modified": "2022-03-18 01:30:39",
             "name": "AmxxEditor",
             "previous_names": [
                 "Amxmodx"
@@ -345,6 +375,9 @@
                     "date": "2022-03-17 22:30:39",
                     "git_tag": "3.0.44",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.44",
                     "version": "2022.0317.2230"
@@ -383,6 +416,9 @@
                     "date": "2021-10-13 03:10:08",
                     "git_tag": "1.0.27",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AmxxPawn/zip/1.0.27",
                     "version": "2021.1013.0310"
@@ -409,7 +445,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2021-06-13 06:06:01",
+            "last_modified": "2022-11-13 18:58:13",
             "name": "ANSIescape",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/SublimeANSI/master/README.md",
@@ -418,6 +454,9 @@
                     "date": "2021-10-13 22:01:56",
                     "git_tag": "0.2.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ANSIescape/zip/0.2.12",
                     "version": "2021.1013.2201"
@@ -445,6 +484,9 @@
                     "date": "2021-11-02 21:17:55",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageAppleScript/zip/1.0.6",
                     "version": "2021.1102.2117"
@@ -469,7 +511,7 @@
             "homepage": "https://github.com/evandroforks/ApplySyntax",
             "issues": "https://github.com/facelessuser/ApplySyntax/issues",
             "labels": [],
-            "last_modified": "2022-08-12 02:02:02",
+            "last_modified": "2023-08-06 18:17:59",
             "name": "ApplySyntax",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ApplySyntax/master/readme.md",
@@ -478,6 +520,9 @@
                     "date": "2021-10-13 03:10:09",
                     "git_tag": "2.5.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ApplySyntax/zip/2.5.8",
                     "version": "2021.1013.0310"
@@ -505,6 +550,9 @@
                     "date": "2021-11-02 21:17:55",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageASP/zip/1.0.6",
                     "version": "2021.1102.2117"
@@ -538,6 +586,9 @@
                     "date": "2021-10-13 03:10:10",
                     "git_tag": "1.0.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AutoFileName/zip/1.0.12",
                     "version": "2021.1013.0310"
@@ -571,6 +622,9 @@
                     "date": "2021-10-13 03:10:11",
                     "git_tag": "1.7.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeAutoHotkey/zip/1.7.8",
                     "version": "2021.1013.0310"
@@ -595,7 +649,7 @@
             "homepage": "https://github.com/evandroforks/AutomaticPackageReloader",
             "issues": "https://github.com/randy3k/AutomaticPackageReloader/issues",
             "labels": [],
-            "last_modified": "2021-11-15 07:50:21",
+            "last_modified": "2024-01-08 18:14:57",
             "name": "AutomaticPackageReloader",
             "previous_names": [
                 "PackageReloader"
@@ -606,6 +660,9 @@
                     "date": "2021-11-01 20:18:34",
                     "git_tag": "1.3.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AutomaticPackageReloader/zip/1.3.9",
                     "version": "2021.1101.2018"
@@ -634,6 +691,9 @@
                     "date": "2021-10-13 03:10:12",
                     "git_tag": "1.0.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/AutoRefresh/zip/1.0.12",
                     "version": "2021.1013.0310"
@@ -667,6 +727,9 @@
                     "date": "2021-10-13 03:10:12",
                     "git_tag": "1.3.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/AutoWrap/zip/1.3.13",
                     "version": "2021.1013.0310"
@@ -694,6 +757,9 @@
                     "date": "2021-11-02 21:17:55",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageBatchFile/zip/1.0.7",
                     "version": "2021.1102.2117"
@@ -722,6 +788,9 @@
                     "date": "2021-10-13 03:10:13",
                     "git_tag": "1.2.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/BBCode/zip/1.2.10",
                     "version": "2021.1013.0310"
@@ -750,6 +819,9 @@
                     "date": "2021-10-13 03:10:13",
                     "git_tag": "2.2.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/BeautifyJavaScript/zip/2.2.11",
                     "version": "2021.1013.0310"
@@ -778,6 +850,9 @@
                     "date": "2021-10-13 03:10:14",
                     "git_tag": "0.6.41",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/BetterCoffeescript/zip/0.6.41",
                     "version": "2021.1013.0310"
@@ -814,6 +889,9 @@
                     "date": "2022-09-18 11:36:38",
                     "git_tag": "1.0.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/BetterFindBuffer/zip/1.0.12",
                     "version": "2022.0918.1136"
@@ -838,7 +916,7 @@
             "homepage": "https://github.com/evandroforks/BracketHighlighter",
             "issues": "https://github.com/facelessuser/BracketHighlighter/issues",
             "labels": [],
-            "last_modified": "2022-09-02 01:23:45",
+            "last_modified": "2023-11-08 15:57:16",
             "name": "BracketHighlighter",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/BracketHighlighter/master/readme.md",
@@ -847,6 +925,9 @@
                     "date": "2021-10-13 03:10:14",
                     "git_tag": "2.26.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/BracketHighlighter/zip/2.26.10",
                     "version": "2021.1013.0310"
@@ -880,6 +961,9 @@
                     "date": "2021-10-13 03:10:15",
                     "git_tag": "1.0.17",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/BufferScroll/zip/1.0.17",
                     "version": "2021.1013.0310"
@@ -908,6 +992,9 @@
                     "date": "2021-10-14 22:48:30",
                     "git_tag": "1.2.17",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/BuildView/zip/1.2.17",
                     "version": "2021.1014.2248"
@@ -935,6 +1022,9 @@
                     "date": "2021-11-02 21:17:56",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageCsharp/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -962,6 +1052,9 @@
                     "date": "2021-11-02 21:17:56",
                     "git_tag": "1.0.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageCpp/zip/1.0.14",
                     "version": "2021.1102.2117"
@@ -1003,6 +1096,9 @@
                     "date": "2021-10-13 03:10:16",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CppCompletions/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -1031,6 +1127,9 @@
                     "date": "2021-10-13 03:10:16",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CppQtCompletions/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -1066,6 +1165,9 @@
                     "date": "2021-10-13 03:10:16",
                     "git_tag": "1.2.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CppSnippets/zip/1.2.13",
                     "version": "2021.1013.0310"
@@ -1094,6 +1196,9 @@
                     "date": "2021-10-13 03:10:16",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/CaseConversion/zip/1.0.10",
                     "version": "2021.1013.0310"
@@ -1122,6 +1227,9 @@
                     "date": "2021-10-13 03:10:17",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ChainOfCommand/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -1148,7 +1256,7 @@
             "labels": [
                 "text manipulation"
             ],
-            "last_modified": "2016-06-27 15:59:50",
+            "last_modified": "2023-01-19 14:43:23",
             "name": "ChangeQuotes",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeChangeQuotes/main/README.md",
@@ -1157,6 +1265,9 @@
                     "date": "2021-10-13 03:10:17",
                     "git_tag": "2.3.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ChangeQuotes/zip/2.3.8",
                     "version": "2021.1013.0310"
@@ -1190,6 +1301,9 @@
                     "date": "2021-10-13 03:10:17",
                     "git_tag": "1.1.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ChannelRepositoryTools/zip/1.1.11",
                     "version": "2021.1013.0310"
@@ -1222,6 +1336,9 @@
                     "date": "2021-10-13 03:10:18",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ClearCursorsCarets/zip/1.0.10",
                     "version": "2021.1013.0310"
@@ -1250,6 +1367,9 @@
                     "date": "2021-10-13 03:10:18",
                     "git_tag": "1.3.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ClickableURLs/zip/1.3.9",
                     "version": "2021.1013.0310"
@@ -1277,6 +1397,9 @@
                     "date": "2021-10-13 03:10:18",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ClipboardScopeCopy/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -1304,6 +1427,9 @@
                     "date": "2021-11-02 21:17:56",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageClojure/zip/1.0.9",
                     "version": "2021.1102.2117"
@@ -1330,7 +1456,7 @@
             "labels": [
                 "language syntax"
             ],
-            "last_modified": "2021-05-06 18:44:00",
+            "last_modified": "2023-02-21 17:38:50",
             "name": "CMake",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/zyxar/Sublime-CMakeLists/master/README.md",
@@ -1339,6 +1465,9 @@
                     "date": "2021-10-13 03:10:19",
                     "git_tag": "1.0.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CMake/zip/1.0.5",
                     "version": "2021.1013.0310"
@@ -1372,6 +1501,9 @@
                     "date": "2021-10-13 03:10:19",
                     "git_tag": "8.0.21",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ColorHighlighter/zip/8.0.21",
                     "version": "2021.1013.0310"
@@ -1396,7 +1528,7 @@
             "homepage": "https://github.com/evandroforks/ColorHelper",
             "issues": "https://github.com/facelessuser/ColorHelper/issues",
             "labels": [],
-            "last_modified": "2022-08-12 01:55:45",
+            "last_modified": "2023-12-06 22:00:11",
             "name": "ColorHelper",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ColorHelper/master/README.md",
@@ -1405,6 +1537,9 @@
                     "date": "2021-10-13 03:10:19",
                     "git_tag": "2.5.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ColorHelper/zip/2.5.9",
                     "version": "2021.1013.0310"
@@ -1438,6 +1573,9 @@
                     "date": "2021-10-13 03:10:19",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ColorSchemeEditor/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -1465,7 +1603,7 @@
                 "color scheme",
                 "testing"
             ],
-            "last_modified": "2020-01-22 13:49:27",
+            "last_modified": "2023-12-07 19:08:18",
             "name": "ColorSchemeUnit",
             "previous_names": [
                 "color_scheme_unit"
@@ -1476,6 +1614,9 @@
                     "date": "2021-10-13 03:10:20",
                     "git_tag": "1.10.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ColorSchemeUnit/zip/1.10.9",
                     "version": "2021.1013.0310"
@@ -1504,6 +1645,9 @@
                     "date": "2021-10-13 03:10:20",
                     "git_tag": "1.9.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ColumnSelect/zip/1.9.6",
                     "version": "2021.1013.0310"
@@ -1537,6 +1681,9 @@
                     "date": "2022-03-17 22:31:37",
                     "git_tag": "1.2.20",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ConvertToUTF8/zip/1.2.20",
                     "version": "2022.0317.2231"
@@ -1564,12 +1711,15 @@
             "last_modified": "2016-07-19 20:11:46",
             "name": "CopyWithLineNumbersReloaded",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/master/README.md",
+            "readme": "https://raw.githubusercontent.com/crash5/CopyWithLineNumbersReloaded/main/README.md",
             "releases": [
                 {
                     "date": "2021-10-13 03:10:21",
                     "git_tag": "1.2.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CopyWithLineNumbersReloaded/zip/1.2.13",
                     "version": "2021.1013.0310"
@@ -1597,6 +1747,9 @@
                     "date": "2021-11-02 21:17:57",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageCSS/zip/1.0.11",
                     "version": "2021.1102.2117"
@@ -1625,6 +1778,9 @@
                     "date": "2021-11-03 01:15:47",
                     "git_tag": "1.0.1",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CythonSyntax/zip/1.0.1",
                     "version": "2021.1103.0115"
@@ -1652,6 +1808,9 @@
                     "date": "2021-11-02 21:17:57",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageD/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -1680,7 +1839,10 @@
                     "date": "2022-09-18 11:00:21",
                     "git_tag": "1.0.59",
                     "platforms": "*",
-                    "sublime_text": ">4121",
+                    "python_versions": [
+                        "3.8"
+                    ],
+                    "sublime_text": ">4113",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.59",
                     "version": "2022.0918.1100"
                 },
@@ -1767,13 +1929,6 @@
                     "sublime_text": "<=4113",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4113",
                     "version": "2021.1014.2125"
-                },
-                {
-                    "date": "2021-11-06 13:10:40",
-                    "platforms": "*",
-                    "sublime_text": "<=4121",
-                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4121",
-                    "version": "2021.1106.1310"
                 }
             ]
         },
@@ -1791,6 +1946,9 @@
                     "date": "2021-10-13 03:10:23",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/DefaultSyntax/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -1819,6 +1977,9 @@
                     "date": "2021-10-13 03:10:23",
                     "git_tag": "0.3.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DeleteCurrentFile/zip/0.3.6",
                     "version": "2021.1013.0310"
@@ -1852,6 +2013,9 @@
                     "date": "2021-10-13 03:10:23",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DictionaryAutoComplete/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -1879,6 +2043,9 @@
                     "date": "2021-11-02 21:17:57",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageDiff/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -1906,7 +2073,7 @@
                 "fullscreen",
                 "distraction-free"
             ],
-            "last_modified": "2019-03-05 02:27:44",
+            "last_modified": "2023-11-08 09:42:54",
             "name": "DistractionFreeWindow",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/aziz/DistractionFreeWindow/master/README.md",
@@ -1915,6 +2082,9 @@
                     "date": "2021-10-13 03:10:24",
                     "git_tag": "0.6.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DistractionFreeWindow/zip/0.6.16",
                     "version": "2021.1013.0310"
@@ -1953,6 +2123,9 @@
                     "date": "2021-10-13 03:10:24",
                     "git_tag": "2.14.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DocBlockr/zip/2.14.16",
                     "version": "2021.1013.0310"
@@ -1981,6 +2154,9 @@
                     "date": "2021-10-13 03:10:25",
                     "git_tag": "1.5.3",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DockerSyntaxHighlight/zip/1.5.3",
                     "version": "2021.1013.0310"
@@ -2009,6 +2185,9 @@
                     "date": "2021-10-13 03:10:25",
                     "git_tag": "1.2.29",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Dotfiles/zip/1.2.29",
                     "version": "2021.1013.0310"
@@ -2035,7 +2214,7 @@
             "labels": [
                 "text manipulation"
             ],
-            "last_modified": "2015-04-16 20:14:22",
+            "last_modified": "2023-11-01 15:44:20",
             "name": "DuplicateSelections",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeDuplicateSelections/main/README.md",
@@ -2044,6 +2223,9 @@
                     "date": "2021-10-13 03:10:25",
                     "git_tag": "2.1.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/DuplicateSelections/zip/2.1.8",
                     "version": "2021.1013.0310"
@@ -2072,6 +2254,9 @@
                     "date": "2021-11-03 20:14:37",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/EditPreferences/zip/1.0.7",
                     "version": "2021.1103.2014"
@@ -2100,7 +2285,7 @@
                 "snippets",
                 "text manipulation"
             ],
-            "last_modified": "2021-03-06 19:43:21",
+            "last_modified": "2023-01-18 23:59:20",
             "name": "Emmet",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/emmetio/sublime-text-plugin/master/README.md",
@@ -2109,6 +2294,9 @@
                     "date": "2021-11-01 21:41:47",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Emmet/zip/1.0.13",
                     "version": "2021.1101.2141"
@@ -2136,6 +2324,9 @@
                     "date": "2021-11-02 21:17:57",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageErlang/zip/1.0.7",
                     "version": "2021.1102.2117"
@@ -2164,6 +2355,9 @@
                     "date": "2021-10-13 03:10:26",
                     "git_tag": "0.2.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/InlinePython/zip/0.2.9",
                     "version": "2021.1013.0310"
@@ -2192,6 +2386,9 @@
                     "date": "2021-10-13 03:10:26",
                     "git_tag": "1.2.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/EvalPrinter/zip/1.2.9",
                     "version": "2021.1013.0310"
@@ -2220,6 +2417,9 @@
                     "date": "2021-10-13 03:10:27",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ShellEvaluate/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -2258,6 +2458,9 @@
                     "date": "2021-10-13 03:10:27",
                     "git_tag": "1.3.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ExpandRegion/zip/1.3.16",
                     "version": "2021.1013.0310"
@@ -2282,7 +2485,7 @@
             "homepage": "https://github.com/evandroforks/ExportHtml",
             "issues": "https://github.com/facelessuser/ExportHtml/issues",
             "labels": [],
-            "last_modified": "2021-09-07 17:46:08",
+            "last_modified": "2023-06-30 13:43:50",
             "name": "ExportHtml",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/ExportHtml/master/readme.md",
@@ -2291,6 +2494,9 @@
                     "date": "2021-10-13 03:10:27",
                     "git_tag": "2.10.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ExportHtml/zip/2.10.9",
                     "version": "2021.1013.0310"
@@ -2327,6 +2533,9 @@
                     "date": "2021-10-13 03:10:27",
                     "git_tag": "2.3.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ExtendedTabSwitcher/zip/2.3.14",
                     "version": "2021.1013.0310"
@@ -2355,6 +2564,9 @@
                     "date": "2021-10-13 03:10:28",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ExtractText/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -2381,7 +2593,7 @@
             "labels": [
                 "diff/merge"
             ],
-            "last_modified": "2022-03-29 14:26:49",
+            "last_modified": "2024-01-10 12:34:22",
             "name": "FileDiffs",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeFileDiffs/main/README.md",
@@ -2390,6 +2602,9 @@
                     "date": "2021-10-13 03:10:28",
                     "git_tag": "2.8.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FileDiffs/zip/2.8.7",
                     "version": "2021.1013.0310"
@@ -2418,6 +2633,9 @@
                     "date": "2021-10-13 03:10:28",
                     "git_tag": "1.8.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FileHistory/zip/1.8.11",
                     "version": "2021.1013.0310"
@@ -2459,6 +2677,9 @@
                     "date": "2021-10-13 03:10:29",
                     "git_tag": "1.4.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FileManager/zip/1.4.14",
                     "version": "2021.1013.0310"
@@ -2487,6 +2708,9 @@
                     "date": "2021-10-13 03:10:29",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FileRename/zip/1.0.13",
                     "version": "2021.1013.0310"
@@ -2523,6 +2747,9 @@
                     "date": "2021-10-13 03:10:29",
                     "git_tag": "0.4.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FindPlusPlus/zip/0.4.11",
                     "version": "2021.1013.0310"
@@ -2556,6 +2783,9 @@
                     "date": "2021-10-13 03:10:29",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FindKeyConflicts/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -2583,6 +2813,9 @@
                     "date": "2021-10-13 03:10:30",
                     "git_tag": "1.0.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/FixedToggleFindPanel/zip/1.0.14",
                     "version": "2021.1013.0310"
@@ -2610,6 +2843,9 @@
                     "date": "2021-10-13 21:52:46",
                     "git_tag": "1.0.19",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/FixProjectSwitchRestartBug/zip/1.0.19",
                     "version": "2021.1013.2152"
@@ -2644,6 +2880,9 @@
                     "date": "2021-10-13 03:10:30",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/FixSelectionAfterIndent/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -2671,6 +2910,9 @@
                     "date": "2021-10-13 03:10:30",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ForceRewriteSublimeSettings/zip/1.0.9",
                     "version": "2021.1013.0310"
@@ -2704,6 +2946,9 @@
                     "date": "2021-10-13 03:10:31",
                     "git_tag": "1.3.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FuzzyFileNav/zip/1.3.9",
                     "version": "2021.1013.0310"
@@ -2741,6 +2986,9 @@
                     "date": "2021-11-01 19:57:49",
                     "git_tag": "0.5.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/FuzzyFilePath/zip/0.5.12",
                     "version": "2021.1101.1957"
@@ -2769,6 +3017,9 @@
                     "date": "2021-10-13 03:10:31",
                     "git_tag": "0.0.18",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/GenericConfig/zip/0.0.18",
                     "version": "2021.1013.0310"
@@ -2797,6 +3048,9 @@
                     "date": "2021-10-13 03:10:31",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Gist/zip/1.0.9",
                     "version": "2021.1013.0310"
@@ -2833,6 +3087,9 @@
                     "date": "2021-10-13 03:10:32",
                     "git_tag": "1.0.19",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeGit/zip/1.0.19",
                     "version": "2021.1013.0310"
@@ -2860,6 +3117,9 @@
                     "date": "2021-11-02 21:17:58",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageGitFormats/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -2884,7 +3144,7 @@
             "homepage": "https://github.com/evandroforks/GitGutter",
             "issues": "https://github.com/jisaacks/GitGutter/issues",
             "labels": [],
-            "last_modified": "2021-09-29 16:59:15",
+            "last_modified": "2023-12-08 20:03:41",
             "name": "GitGutter",
             "previous_names": [
                 "Git Gutter",
@@ -2896,6 +3156,9 @@
                     "date": "2021-10-13 03:10:32",
                     "git_tag": "1.9.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/GitGutter/zip/1.9.10",
                     "version": "2021.1013.0310"
@@ -2924,6 +3187,9 @@
                     "date": "2021-10-13 03:10:32",
                     "git_tag": "2.1.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/GithubMarkdownSnippets/zip/2.1.7",
                     "version": "2021.1013.0310"
@@ -2961,6 +3227,9 @@
                     "date": "2021-10-13 03:10:33",
                     "git_tag": "0.9.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Glue/zip/0.9.14",
                     "version": "2021.1013.0310"
@@ -2988,6 +3257,9 @@
                     "date": "2021-11-02 21:17:58",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageGo/zip/1.0.11",
                     "version": "2021.1102.2117"
@@ -3016,6 +3288,9 @@
                     "date": "2021-10-13 03:10:33",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/GoogleSpellCheck/zip/1.0.9",
                     "version": "2021.1013.0310"
@@ -3052,6 +3327,9 @@
                     "date": "2021-10-13 03:10:33",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/GotoLastEditEnhanced/zip/1.0.11",
                     "version": "2021.1013.0310"
@@ -3079,6 +3357,9 @@
                     "date": "2021-11-02 21:17:58",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageGraphviz/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -3106,6 +3387,9 @@
                     "date": "2021-11-02 21:17:59",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageGroovy/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -3133,6 +3417,9 @@
                     "date": "2021-11-02 21:17:59",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageHaskell/zip/1.0.8",
                     "version": "2021.1102.2117"
@@ -3166,6 +3453,9 @@
                     "date": "2021-10-13 03:10:35",
                     "git_tag": "1.8.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/HexViewer/zip/1.8.5",
                     "version": "2021.1013.0310"
@@ -3194,6 +3484,9 @@
                     "date": "2021-10-13 03:10:35",
                     "git_tag": "3.0.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/HighlightBuildErrors/zip/3.0.14",
                     "version": "2021.1013.0310"
@@ -3227,6 +3520,9 @@
                     "date": "2022-09-18 10:54:33",
                     "git_tag": "1.0.19",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/HighlightWords/zip/1.0.19",
                     "version": "2022.0918.1054"
@@ -3255,6 +3551,9 @@
                     "date": "2021-10-13 03:10:35",
                     "git_tag": "1.0.23",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/HighlightWordsOnSelection/zip/1.0.23",
                     "version": "2021.1013.0310"
@@ -3283,6 +3582,9 @@
                     "date": "2021-10-13 03:10:36",
                     "git_tag": "1.1.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/HorizontalScroll/zip/1.1.11",
                     "version": "2021.1013.0310"
@@ -3310,6 +3612,9 @@
                     "date": "2021-11-02 21:17:59",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageHTML/zip/1.0.9",
                     "version": "2021.1102.2117"
@@ -3338,6 +3643,9 @@
                     "date": "2021-10-13 03:10:36",
                     "git_tag": "1.1.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/HungryBackspace/zip/1.1.16",
                     "version": "2021.1013.0310"
@@ -3371,6 +3679,9 @@
                     "date": "2021-10-13 03:10:36",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Incrementor/zip/1.0.9",
                     "version": "2021.1013.0310"
@@ -3399,6 +3710,9 @@
                     "date": "2021-10-13 03:10:37",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/IncrementSelection/zip/1.0.10",
                     "version": "2021.1013.0310"
@@ -3427,6 +3741,9 @@
                     "date": "2021-10-13 03:10:37",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/IndentAndBraces/zip/1.0.13",
                     "version": "2021.1013.0310"
@@ -3455,6 +3772,9 @@
                     "date": "2021-10-13 03:10:37",
                     "git_tag": "0.1.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/IndentSize/zip/0.1.9",
                     "version": "2021.1013.0310"
@@ -3483,6 +3803,9 @@
                     "date": "2021-10-13 03:10:37",
                     "git_tag": "2.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/InsertNums/zip/2.0.9",
                     "version": "2021.1013.0310"
@@ -3511,6 +3834,9 @@
                     "date": "2021-10-13 03:10:38",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/InvertSelection/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -3538,6 +3864,9 @@
                     "date": "2021-11-02 21:17:59",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageJava/zip/1.0.7",
                     "version": "2021.1102.2117"
@@ -3565,6 +3894,9 @@
                     "date": "2021-11-02 21:18:00",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageJavaScript/zip/1.0.13",
                     "version": "2021.1102.2118"
@@ -3601,6 +3933,9 @@
                     "date": "2021-10-13 03:10:38",
                     "git_tag": "2.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Javatar/zip/2.0.8",
                     "version": "2021.1013.0310"
@@ -3628,7 +3963,7 @@
                 "javascript",
                 "syntax"
             ],
-            "last_modified": "2022-04-30 15:10:50",
+            "last_modified": "2023-05-06 17:22:10",
             "name": "JSCustom",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/Thom1729/Sublime-JS-Custom/master/README.md",
@@ -3637,6 +3972,9 @@
                     "date": "2021-10-13 03:10:39",
                     "git_tag": "1.1.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/JSCustom/zip/1.1.7",
                     "version": "2021.1013.0310"
@@ -3664,6 +4002,9 @@
                     "date": "2021-11-02 21:18:00",
                     "git_tag": "1.0.3",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageJSON/zip/1.0.3",
                     "version": "2021.1102.2118"
@@ -3692,6 +4033,9 @@
                     "date": "2021-10-13 03:10:39",
                     "git_tag": "0.4.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/JumpAlongIndent/zip/0.4.8",
                     "version": "2021.1013.0310"
@@ -3724,6 +4068,9 @@
                     "date": "2021-10-13 03:10:39",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/KeepPastedTextSelected/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -3751,6 +4098,9 @@
                     "date": "2021-10-13 03:10:40",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/LanguageEnglishAndPortuguese/zip/1.0.10",
                     "version": "2021.1013.0310"
@@ -3784,6 +4134,9 @@
                     "date": "2021-10-13 03:10:40",
                     "git_tag": "0.2.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LanguageTool/zip/0.2.14",
                     "version": "2021.1013.0310"
@@ -3811,6 +4164,9 @@
                     "date": "2021-11-02 21:18:01",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageLaTeX/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -3837,7 +4193,7 @@
             "labels": [
                 "latex"
             ],
-            "last_modified": "2016-07-25 08:30:08",
+            "last_modified": "2022-12-10 13:13:04",
             "name": "LaTeXSmartQuotes",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/r-stein/sublime-text-latex-smart-quotes/master/README.md",
@@ -3846,6 +4202,9 @@
                     "date": "2021-10-13 03:10:40",
                     "git_tag": "1.0.23",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LaTeXSmartQuotes/zip/1.0.23",
                     "version": "2021.1013.0310"
@@ -3879,6 +4238,9 @@
                     "date": "2021-10-13 03:10:41",
                     "git_tag": "4.0.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LaTeXTools/zip/4.0.16",
                     "version": "2021.1013.0310"
@@ -3907,6 +4269,9 @@
                     "date": "2021-10-13 03:10:41",
                     "git_tag": "1.1.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LaTeXWordCount/zip/1.1.11",
                     "version": "2021.1013.0310"
@@ -3942,6 +4307,9 @@
                     "date": "2021-10-13 03:10:41",
                     "git_tag": "0.1.21",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LaTeXYZ/zip/0.1.21",
                     "version": "2021.1013.0310"
@@ -3960,23 +4328,19 @@
                 "danro",
                 "Forked by evandroforks"
             ],
-            "buy": null,
-            "description": "LESS syntax highlighting for Sublime Text.",
-            "donate": "https://paypal.me/koenlageveen",
+            "description": "No description available.",
+            "details": "https://github.com/evandroforks/LESS",
             "homepage": "https://github.com/evandroforks/LESS",
-            "issues": "https://github.com/danro/LESS-sublime/issues",
-            "labels": [
-                "language syntax"
-            ],
-            "last_modified": "2021-06-02 14:08:06",
             "name": "LESS",
             "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/danro/LESS-sublime/master/README.md",
             "releases": [
                 {
                     "date": "2021-10-13 03:10:41",
                     "git_tag": "2.6.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LESS/zip/2.6.8",
                     "version": "2021.1013.0310"
@@ -4005,6 +4369,9 @@
                     "date": "2021-10-13 03:10:42",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LineEndingsUnify/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -4043,6 +4410,9 @@
                     "date": "2021-10-13 03:10:42",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LinesMultisets/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -4070,6 +4440,9 @@
                     "date": "2021-11-02 21:18:01",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageLisp/zip/1.0.7",
                     "version": "2021.1102.2118"
@@ -4098,6 +4471,9 @@
                     "date": "2021-11-01 21:39:53",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LocalHistory/zip/1.0.11",
                     "version": "2021.1101.2139"
@@ -4158,7 +4534,7 @@
                 "method completion",
                 "intellicode"
             ],
-            "last_modified": "2022-08-30 21:19:32",
+            "last_modified": "2024-01-26 18:58:21",
             "name": "LSP",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP/main/README.md",
@@ -4167,6 +4543,9 @@
                     "date": "2021-11-01 23:26:44",
                     "git_tag": "0.9.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/LSP/zip/0.9.10",
                     "version": "2021.1101.2326"
@@ -4191,7 +4570,7 @@
             "homepage": "https://github.com/evandroforks/LSP-pylsp",
             "issues": "https://github.com/sublimelsp/LSP-pylsp/issues",
             "labels": [],
-            "last_modified": "2022-08-24 06:10:33",
+            "last_modified": "2024-01-12 23:13:22",
             "name": "LSP-pylsp",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/sublimelsp/LSP-pylsp/master/README.md",
@@ -4200,6 +4579,9 @@
                     "date": "2021-11-03 01:15:47",
                     "git_tag": "2.2.4",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/LSP-pylsp/zip/2.2.4",
                     "version": "2021.1103.0115"
@@ -4227,6 +4609,9 @@
                     "date": "2021-11-02 21:18:01",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageLua/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -4254,6 +4639,9 @@
                     "date": "2021-11-02 21:18:02",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageMakefile/zip/1.0.8",
                     "version": "2021.1102.2118"
@@ -4281,6 +4669,9 @@
                     "date": "2021-11-02 21:18:02",
                     "git_tag": "1.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageMarkdown/zip/1.0.13",
                     "version": "2021.1102.2118"
@@ -4309,7 +4700,7 @@
                 "preview",
                 "build"
             ],
-            "last_modified": "2022-08-12 12:53:50",
+            "last_modified": "2024-01-14 20:50:42",
             "name": "MarkdownPreview",
             "previous_names": [
                 "Markdown Preview"
@@ -4320,6 +4711,9 @@
                     "date": "2021-10-13 03:10:44",
                     "git_tag": "1.4.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MarkdownPreview/zip/1.4.13",
                     "version": "2021.1013.0310"
@@ -4348,6 +4742,9 @@
                     "date": "2021-10-13 03:10:44",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/MarkdownToBBCode/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -4375,6 +4772,9 @@
                     "date": "2021-11-02 21:18:02",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageMatlab/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -4403,6 +4803,9 @@
                     "date": "2021-10-13 03:10:45",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MatlabCompletions/zip/1.0.9",
                     "version": "2021.1013.0310"
@@ -4439,6 +4842,9 @@
                     "date": "2021-10-13 03:10:45",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MatlabFilenameAutoComplete/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -4472,6 +4878,9 @@
                     "date": "2021-10-13 03:10:45",
                     "git_tag": "2.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Maven/zip/2.0.9",
                     "version": "2021.1013.0310"
@@ -4505,6 +4914,9 @@
                     "date": "2021-10-17 22:14:00",
                     "git_tag": "1.0.15",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/MaxPane/zip/1.0.15",
                     "version": "2021.1017.2214"
@@ -4527,7 +4939,7 @@
             "description": "Plugin for Sublime Text to move tabs around",
             "donate": null,
             "homepage": "https://github.com/evandroforks/MoveTab",
-            "issues": null,
+            "issues": "https://github.com/SublimeText/MoveTab/issues",
             "labels": [],
             "last_modified": "2021-05-22 12:19:22",
             "name": "MoveTab",
@@ -4538,6 +4950,9 @@
                     "date": "2021-10-13 03:10:46",
                     "git_tag": "1.0.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MoveTab/zip/1.0.5",
                     "version": "2021.1013.0310"
@@ -4565,7 +4980,7 @@
                 "formatting",
                 "text manipulation"
             ],
-            "last_modified": "2018-01-26 16:35:33",
+            "last_modified": "2023-05-20 04:32:34",
             "name": "MoveText",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/colinta/SublimeMoveText/main/README.md",
@@ -4574,6 +4989,9 @@
                     "date": "2021-10-13 03:10:46",
                     "git_tag": "2.0.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MoveText/zip/2.0.13",
                     "version": "2021.1013.0310"
@@ -4611,6 +5029,9 @@
                     "date": "2021-10-13 03:10:47",
                     "git_tag": "1.9.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MultiEditUtils/zip/1.9.14",
                     "version": "2021.1013.0310"
@@ -4639,6 +5060,9 @@
                     "date": "2021-10-13 03:10:47",
                     "git_tag": "1.6.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/MySqlSnippets/zip/1.6.7",
                     "version": "2021.1013.0310"
@@ -4674,6 +5098,9 @@
                     "date": "2021-11-03 21:35:18",
                     "git_tag": "2.0.18",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/NotepadPlusPlusColorScheme/zip/2.0.18",
                     "version": "2021.1103.2135"
@@ -4709,7 +5136,7 @@
                 "nsis",
                 "build system"
             ],
-            "last_modified": "2022-09-08 10:29:26",
+            "last_modified": "2023-07-02 19:09:50",
             "name": "NSIS",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/NSIS/main/README.md",
@@ -4718,6 +5145,9 @@
                     "date": "2021-10-13 03:10:48",
                     "git_tag": "2.5.2",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/NSIS/zip/2.5.2",
                     "version": "2021.1013.0310"
@@ -4746,6 +5176,9 @@
                     "date": "2021-10-13 03:10:48",
                     "git_tag": "1.2.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/NumberKing/zip/1.2.7",
                     "version": "2021.1013.0310"
@@ -4773,6 +5206,9 @@
                     "date": "2021-11-02 21:18:03",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageObjective-C/zip/1.0.11",
                     "version": "2021.1102.2118"
@@ -4800,6 +5236,9 @@
                     "date": "2021-11-02 21:18:03",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageOCaml/zip/1.0.7",
                     "version": "2021.1102.2118"
@@ -4827,6 +5266,9 @@
                     "date": "2021-10-13 03:10:49",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/SublimeOctave/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -4854,6 +5296,9 @@
                     "date": "2021-10-13 03:10:49",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/OpenAutoCompletion/zip/1.0.10",
                     "version": "2021.1013.0310"
@@ -4878,7 +5323,7 @@
             "homepage": "https://github.com/evandroforks/Origami",
             "issues": "https://github.com/SublimeText/Origami/issues",
             "labels": [],
-            "last_modified": "2021-07-15 20:11:47",
+            "last_modified": "2023-09-19 20:23:17",
             "name": "Origami",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/Origami/master/README.md",
@@ -4887,6 +5332,9 @@
                     "date": "2021-10-13 03:10:49",
                     "git_tag": "1.0.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Origami/zip/1.0.16",
                     "version": "2021.1013.0310"
@@ -4916,7 +5364,7 @@
                 "resource",
                 "package development"
             ],
-            "last_modified": "2022-06-07 04:17:20",
+            "last_modified": "2023-09-15 21:11:31",
             "name": "OverrideAudit",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
@@ -4925,6 +5373,9 @@
                     "date": "2021-10-13 03:10:50",
                     "git_tag": "1.1.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/OverrideAudit/zip/1.1.10",
                     "version": "2021.1013.0310"
@@ -4952,6 +5403,9 @@
                     "date": "2021-10-13 03:10:50",
                     "git_tag": "1.0.17",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/OverrideCommitCompletion/zip/1.0.17",
                     "version": "2021.1013.0310"
@@ -4984,6 +5438,9 @@
                     "date": "2021-10-13 03:10:50",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/OverrideEditSettingsDefaultContents/zip/1.0.7",
                     "version": "2021.1013.0310"
@@ -5011,6 +5468,9 @@
                     "date": "2021-10-13 03:10:51",
                     "git_tag": "1.0.17",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/OverrideUnpackedPackages/zip/1.0.17",
                     "version": "2021.1013.0310"
@@ -5035,7 +5495,7 @@
             "homepage": "https://github.com/evandroforks/PackageDev",
             "issues": "https://github.com/SublimeText/PackageDev/issues",
             "labels": [],
-            "last_modified": "2022-09-02 21:29:50",
+            "last_modified": "2024-01-28 21:00:45",
             "name": "PackageDev",
             "previous_names": [
                 "AAAPackageDev"
@@ -5046,6 +5506,9 @@
                     "date": "2021-10-17 17:00:43",
                     "git_tag": "3.2.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PackageDev/zip/3.2.9",
                     "version": "2021.1017.1700"
@@ -5079,6 +5542,9 @@
                     "date": "2021-10-17 22:14:23",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PackageResourceViewer/zip/1.0.8",
                     "version": "2021.1017.2214"
@@ -5104,13 +5570,16 @@
             "previous_names": [],
             "releases": [
                 {
-                    "date": "2022-09-18 11:43:09",
+                    "date": "2023-12-06 19:08:20",
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/PackagesManager/zip/master",
-                    "version": "2022.0918.1143"
+                    "version": "2023.1206.1908"
                 },
                 {
                     "date": "2021-09-05 02:54:25",
@@ -5136,6 +5605,9 @@
                     "date": "2021-10-13 03:10:52",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PanelManager/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -5164,6 +5636,9 @@
                     "date": "2021-10-13 03:10:53",
                     "git_tag": "1.0.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PaneNavigation/zip/1.0.5",
                     "version": "2021.1013.0310"
@@ -5191,6 +5666,9 @@
                     "date": "2021-11-02 21:18:03",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackagePascal/zip/1.0.6",
                     "version": "2021.1102.2118"
@@ -5219,6 +5697,9 @@
                     "date": "2021-10-13 03:10:53",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PathTranslator/zip/1.0.8",
                     "version": "2021.1013.0310"
@@ -5246,6 +5727,9 @@
                     "date": "2021-11-02 21:18:03",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackagePerl/zip/1.0.10",
                     "version": "2021.1102.2118"
@@ -5273,6 +5757,9 @@
                     "date": "2021-11-02 21:18:04",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackagePHP/zip/1.0.10",
                     "version": "2021.1102.2118"
@@ -5309,6 +5796,9 @@
                     "date": "2021-11-01 22:01:00",
                     "git_tag": "3.0.15",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/PlantUmlDiagrams/zip/3.0.15",
                     "version": "2021.1101.2201"
@@ -5344,6 +5834,9 @@
                     "date": "2021-10-13 03:10:55",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PostScript/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -5377,6 +5870,9 @@
                     "date": "2021-10-13 03:10:55",
                     "git_tag": "1.2.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PowerCursors/zip/1.2.11",
                     "version": "2021.1013.0310"
@@ -5412,6 +5908,9 @@
                     "date": "2021-10-13 03:10:56",
                     "git_tag": "3.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PowerShell/zip/3.0.6",
                     "version": "2021.1013.0310"
@@ -5440,6 +5939,9 @@
                     "date": "2021-10-13 03:10:56",
                     "git_tag": "1.0.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/PrettyJSON/zip/1.0.5",
                     "version": "2021.1013.0310"
@@ -5468,6 +5970,9 @@
                     "date": "2021-10-13 03:10:56",
                     "git_tag": "0.0.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ProjectSpecificSyntax/zip/0.0.14",
                     "version": "2021.1013.0310"
@@ -5496,6 +6001,9 @@
                     "date": "2021-10-17 17:26:54",
                     "git_tag": "1.1.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/pushdown_syntax/zip/1.1.10",
                     "version": "2021.1017.1726"
@@ -5523,6 +6031,9 @@
                     "date": "2021-11-02 21:18:04",
                     "git_tag": "1.0.11",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackagePython/zip/1.0.11",
                     "version": "2021.1102.2118"
@@ -5559,6 +6070,9 @@
                     "date": "2021-10-26 20:39:59",
                     "git_tag": "1.0.19",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/QuickSettings/zip/1.0.19",
                     "version": "2021.1026.2039"
@@ -5586,6 +6100,9 @@
                     "date": "2021-11-02 21:18:05",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageR/zip/1.0.7",
                     "version": "2021.1102.2118"
@@ -5613,6 +6130,9 @@
                     "date": "2021-11-02 21:18:05",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageRails/zip/1.0.8",
                     "version": "2021.1102.2118"
@@ -5641,6 +6161,9 @@
                     "date": "2021-10-13 03:10:59",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/RandomEverything/zip/1.0.6",
                     "version": "2021.1013.0310"
@@ -5674,6 +6197,9 @@
                     "date": "2021-10-13 03:10:59",
                     "git_tag": "2.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/REG/zip/2.0.7",
                     "version": "2021.1013.0310"
@@ -5701,6 +6227,9 @@
                     "date": "2021-11-02 21:18:05",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageRegularExpressions/zip/1.0.6",
                     "version": "2021.1102.2118"
@@ -5734,6 +6263,9 @@
                     "date": "2021-10-13 03:11:00",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ReIndent/zip/1.0.6",
                     "version": "2021.1013.0311"
@@ -5766,6 +6298,9 @@
                     "date": "2021-10-26 20:39:59",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/RememberCommandPaletteInput/zip/1.0.9",
                     "version": "2021.1026.2039"
@@ -5799,6 +6334,9 @@
                     "date": "2021-10-13 03:11:01",
                     "git_tag": "0.1.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/RemoveNonAsciiChars/zip/0.1.6",
                     "version": "2021.1013.0311"
@@ -5826,6 +6364,9 @@
                     "date": "2021-10-13 03:11:01",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageRestructuredText/zip/1.0.6",
                     "version": "2021.1013.0311"
@@ -5853,6 +6394,9 @@
                     "date": "2021-10-13 03:11:01",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/RichPlainText/zip/1.0.6",
                     "version": "2021.1013.0311"
@@ -5880,6 +6424,9 @@
                     "date": "2021-11-02 21:18:05",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageRuby/zip/1.0.10",
                     "version": "2021.1102.2118"
@@ -5907,6 +6454,9 @@
                     "date": "2021-11-02 21:18:05",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageRust/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -5935,6 +6485,9 @@
                     "date": "2021-10-13 03:11:02",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SassSyntax/zip/1.0.9",
                     "version": "2021.1013.0311"
@@ -5962,6 +6515,9 @@
                     "date": "2021-11-02 21:18:06",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageScala/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -5995,6 +6551,9 @@
                     "date": "2021-10-13 03:11:02",
                     "git_tag": "0.3.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ScopeAlways/zip/0.3.5",
                     "version": "2021.1013.0311"
@@ -6028,6 +6587,9 @@
                     "date": "2021-10-13 03:11:03",
                     "git_tag": "2.10.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ScopeHunter/zip/2.10.9",
                     "version": "2021.1013.0311"
@@ -6056,6 +6618,9 @@
                     "date": "2021-10-13 03:11:03",
                     "git_tag": "0.1.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SelectAll/zip/0.1.7",
                     "version": "2021.1013.0311"
@@ -6083,6 +6648,9 @@
                     "date": "2021-10-13 03:11:03",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/SelectAllSpellingErrors/zip/1.0.7",
                     "version": "2021.1013.0311"
@@ -6120,6 +6688,9 @@
                     "date": "2021-10-13 03:11:03",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SelectUntil/zip/1.0.7",
                     "version": "2021.1013.0311"
@@ -6148,6 +6719,9 @@
                     "date": "2021-10-13 03:11:03",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SemanticLineWrap/zip/1.0.6",
                     "version": "2021.1013.0311"
@@ -6175,6 +6749,9 @@
                     "date": "2021-11-02 21:18:06",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageShellScript/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -6205,7 +6782,7 @@
                 "file",
                 "clipboard"
             ],
-            "last_modified": "2022-09-09 11:33:03",
+            "last_modified": "2023-06-13 20:34:22",
             "name": "SideBarEnhancements",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
@@ -6214,6 +6791,9 @@
                     "date": "2021-10-13 03:11:04",
                     "git_tag": "5.0.39",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SideBarEnhancements/zip/5.0.39",
                     "version": "2021.1013.0311"
@@ -6242,6 +6822,9 @@
                     "date": "2021-10-13 03:11:04",
                     "git_tag": "1.16.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/CompareSideBySide/zip/1.16.10",
                     "version": "2021.1013.0311"
@@ -6270,6 +6853,9 @@
                     "date": "2021-10-26 20:39:59",
                     "git_tag": "1.6.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SideBySideSettings/zip/1.6.7",
                     "version": "2021.1026.2039"
@@ -6297,6 +6883,9 @@
                     "date": "2021-10-13 03:11:05",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/SkipCloseForClonedViews/zip/1.0.8",
                     "version": "2021.1013.0311"
@@ -6325,6 +6914,9 @@
                     "date": "2021-10-13 03:11:05",
                     "git_tag": "1.0.4",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/sublime-sort-numerically/zip/1.0.4",
                     "version": "2021.1013.0311"
@@ -6352,6 +6944,9 @@
                     "date": "2021-11-02 21:18:06",
                     "git_tag": "1.0.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageSQL/zip/1.0.9",
                     "version": "2021.1102.2118"
@@ -6385,6 +6980,9 @@
                     "date": "2021-10-13 03:11:06",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SQLExec/zip/1.0.8",
                     "version": "2021.1013.0311"
@@ -6412,6 +7010,9 @@
                     "date": "2021-10-13 03:11:06",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/SQLKeywordUppercase/zip/1.0.7",
                     "version": "2021.1013.0311"
@@ -6451,6 +7052,9 @@
                     "date": "2022-09-18 11:12:23",
                     "git_tag": "0.9.18",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SQLTools/zip/0.9.18",
                     "version": "2022.0918.1112"
@@ -6470,12 +7074,12 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "Sublime Text 3 plugin - persistent highlight of selected text",
+            "description": "A Sublime Text plugin - persistently highlighting selected text",
             "donate": null,
             "homepage": "https://github.com/evandroforks/StickySearch",
             "issues": "https://github.com/vim-zz/StickySearch/issues",
             "labels": [],
-            "last_modified": "2015-06-03 07:22:22",
+            "last_modified": "2023-08-19 14:18:08",
             "name": "StickySearch",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/vim-zz/StickySearch/master/README.md",
@@ -6484,6 +7088,9 @@
                     "date": "2021-10-13 03:11:06",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/StickySearch/zip/1.0.10",
                     "version": "2021.1013.0311"
@@ -6512,6 +7119,9 @@
                     "git_tag": "master",
                     "is_branched_tag": true,
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/StudioChannel/zip/master",
                     "version": "2022.0918.1141"
@@ -6531,15 +7141,15 @@
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "The code linting framework for Sublime Text 3",
-            "donate": "https://paypal.me/pools/c/82jmBQtUbY",
+            "description": "The code linting framework for Sublime Text",
+            "donate": "https://paypal.me/herrkaste",
             "homepage": "https://github.com/evandroforks/SublimeLinter",
             "issues": "https://github.com/SublimeLinter/SublimeLinter/issues",
             "labels": [
                 "linting",
                 "SublimeLinter"
             ],
-            "last_modified": "2022-09-09 20:57:44",
+            "last_modified": "2024-01-26 13:44:37",
             "name": "SublimeLinter",
             "previous_names": [
                 "SublimeLinter Beta"
@@ -6550,6 +7160,9 @@
                     "date": "2021-10-13 03:11:07",
                     "git_tag": "4.9.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3.6\n3.4.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeLinter/zip/4.9.6",
                     "version": "2021.1013.0311"
@@ -6587,6 +7200,9 @@
                     "date": "2021-10-13 03:11:07",
                     "git_tag": "1.1.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeLinter-javac/zip/1.1.16",
                     "version": "2021.1013.0311"
@@ -6624,6 +7240,9 @@
                     "date": "2021-10-13 03:11:07",
                     "git_tag": "1.5.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeLinter-pylint/zip/1.5.6",
                     "version": "2021.1013.0311"
@@ -6652,6 +7271,9 @@
                     "date": "2021-10-13 03:11:07",
                     "git_tag": "0.2.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimeTutorial/zip/0.2.6",
                     "version": "2021.1013.0311"
@@ -6687,6 +7309,9 @@
                     "date": "2021-10-13 03:11:08",
                     "git_tag": "0.0.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Swift/zip/0.0.16",
                     "version": "2021.1013.0311"
@@ -6711,7 +7336,7 @@
             "homepage": "https://github.com/evandroforks/SyncedSideBar",
             "issues": "https://github.com/TheSpyder/SyncedSideBar/issues",
             "labels": [],
-            "last_modified": "2021-03-22 07:23:28",
+            "last_modified": "2023-06-02 12:34:17",
             "name": "SyncedSideBar",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/TheSpyder/SyncedSideBar/master/README.md",
@@ -6720,6 +7345,9 @@
                     "date": "2021-10-13 03:11:08",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SyncedSideBar/zip/1.0.7",
                     "version": "2021.1013.0311"
@@ -6748,6 +7376,9 @@
                     "date": "2021-10-13 03:11:09",
                     "git_tag": "0.3.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SyncViewScroll/zip/0.3.8",
                     "version": "2021.1013.0311"
@@ -6781,6 +7412,9 @@
                     "date": "2021-10-13 03:11:09",
                     "git_tag": "1.1.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SyntaxManager/zip/1.1.14",
                     "version": "2021.1013.0311"
@@ -6805,7 +7439,7 @@
             "homepage": "https://github.com/evandroforks/TabsExtra",
             "issues": "https://github.com/facelessuser/TabsExtra/issues",
             "labels": [],
-            "last_modified": "2020-08-12 17:55:35",
+            "last_modified": "2023-05-16 13:48:04",
             "name": "TabsExtra",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/facelessuser/TabsExtra/master/README.md",
@@ -6814,6 +7448,9 @@
                     "date": "2021-10-13 03:11:10",
                     "git_tag": "1.4.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/TabsExtra/zip/1.4.9",
                     "version": "2021.1013.0311"
@@ -6841,6 +7478,9 @@
                     "date": "2021-11-02 21:18:07",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageTCL/zip/1.0.6",
                     "version": "2021.1102.2118"
@@ -6869,6 +7509,9 @@
                     "date": "2022-09-18 11:10:41",
                     "git_tag": "1.18.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/TerminalShortcuts/zip/1.18.8",
                     "version": "2022.0918.1110"
@@ -6901,7 +7544,7 @@
                 "cmd",
                 "powershell"
             ],
-            "last_modified": "2022-06-13 21:36:36",
+            "last_modified": "2024-01-18 07:02:43",
             "name": "Terminus",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/randy3k/Terminus/master/README.md",
@@ -6910,6 +7553,9 @@
                     "date": "2021-10-13 03:11:10",
                     "git_tag": "0.2.18",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Terminus/zip/0.2.18",
                     "version": "2021.1013.0311"
@@ -6938,6 +7584,9 @@
                     "date": "2021-10-13 03:11:11",
                     "git_tag": "1.3.13",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/TestPlier/zip/1.3.13",
                     "version": "2021.1013.0311"
@@ -6965,6 +7614,9 @@
                     "date": "2021-11-02 21:18:07",
                     "git_tag": "1.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageTextile/zip/1.0.6",
                     "version": "2021.1102.2118"
@@ -6993,6 +7645,9 @@
                     "date": "2021-10-13 03:11:11",
                     "git_tag": "1.5.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/TextPastry/zip/1.5.8",
                     "version": "2021.1013.0311"
@@ -7020,6 +7675,9 @@
                     "date": "2022-02-13 15:00:48",
                     "git_tag": "1.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ToggleSettingsInBatch/zip/1.0.10",
                     "version": "2022.0213.1500"
@@ -7048,6 +7706,9 @@
                     "date": "2022-02-02 20:15:35",
                     "git_tag": "2.0.10",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/ToggleWords/zip/2.0.10",
                     "version": "2022.0202.2015"
@@ -7081,6 +7742,9 @@
                     "date": "2021-10-13 03:11:13",
                     "git_tag": "1.0.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Toml/zip/1.0.14",
                     "version": "2021.1013.0311"
@@ -7108,7 +7772,7 @@
                 "text manipulation",
                 "formatting"
             ],
-            "last_modified": "2021-08-11 04:33:57",
+            "last_modified": "2023-08-11 12:58:34",
             "name": "Trimmer",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/jonlabelle/Trimmer/master/README.md",
@@ -7117,6 +7781,9 @@
                     "date": "2021-10-13 03:11:13",
                     "git_tag": "1.4.16",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Trimmer/zip/1.4.16",
                     "version": "2021.1013.0311"
@@ -7158,6 +7825,9 @@
                     "date": "2021-11-01 19:57:50",
                     "git_tag": "3.9.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/TypeScript/zip/3.9.5",
                     "version": "2021.1101.1957"
@@ -7182,7 +7852,7 @@
             "homepage": "https://github.com/evandrocoan/UnitTesting",
             "issues": "https://github.com/SublimeText/UnitTesting/issues",
             "labels": [],
-            "last_modified": "2022-05-29 17:41:44",
+            "last_modified": "2022-11-16 19:48:07",
             "name": "UnitTesting",
             "previous_names": [],
             "readme": "https://raw.githubusercontent.com/SublimeText/UnitTesting/master/README.md",
@@ -7191,6 +7861,9 @@
                     "date": "2021-10-24 21:38:54",
                     "git_tag": "1.5.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.8"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/UnitTesting/zip/1.5.6",
                     "version": "2021.1024.2138"
@@ -7218,6 +7891,9 @@
                     "date": "2022-09-18 11:37:39",
                     "git_tag": "1.0.47",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/User/zip/1.0.47",
                     "version": "2022.0918.1137"
@@ -7251,6 +7927,9 @@
                     "date": "2021-10-13 03:11:16",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/VBScript/zip/1.0.7",
                     "version": "2021.1013.0311"
@@ -7278,6 +7957,9 @@
                     "date": "2021-10-13 03:11:17",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/ViewSettingsFreely/zip/1.0.8",
                     "version": "2021.1013.0311"
@@ -7314,6 +7996,9 @@
                     "date": "2021-10-13 03:11:19",
                     "git_tag": "0.1.9",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/VimL/zip/0.1.9",
                     "version": "2021.1013.0311"
@@ -7347,6 +8032,9 @@
                     "date": "2023-12-23 16:30:24",
                     "git_tag": "0.1.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/Whitespace/zip/0.1.12",
                     "version": "2023.1223.1630"
@@ -7363,26 +8051,31 @@
         {
             "authors": [
                 "titoBouzout",
-                "Forked by evandrocoan"
+                "evandrocoan"
             ],
             "buy": null,
-            "description": "Real-time Word, Char, Line and Page counter, in the status-bar for the document, line or selection. Sublime Text. A fork of titoBouzout's original repo so that it can be submitted to Package Control.",
+            "description": "Real-time Word, Char, Line and Page counter, in the status-bar for the document, line or selection. Sublime Text",
             "donate": null,
             "homepage": "https://github.com/evandrocoan/WordingStatus",
-            "issues": null,
+            "issues": "https://github.com/evandrocoan/WordingStatus/issues",
             "labels": [],
-            "last_modified": "2016-03-18 07:01:42",
+            "last_modified": "2022-12-13 00:47:29",
             "name": "WordingStatus",
-            "previous_names": [],
-            "readme": "https://raw.githubusercontent.com/philipbelesky/WordingStatus/st3/readme.md",
+            "previous_names": [
+                "WordCount"
+            ],
+            "readme": "https://raw.githubusercontent.com/evandrocoan/WordingStatus/master/README.md",
             "releases": [
                 {
-                    "date": "2022-12-12 21:15:50",
+                    "date": "2022-12-12 21:47:29",
                     "git_tag": "2.1.0",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/WordingStatus/zip/2.1.0",
-                    "version": "2022.1212.2115"
+                    "version": "2022.1212.2147"
                 },
                 {
                     "date": "2019-12-26 14:19:27",
@@ -7408,6 +8101,9 @@
                     "date": "2021-10-13 03:11:23",
                     "git_tag": "1.8.12",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandrocoan/WrapPlus/zip/1.8.12",
                     "version": "2021.1013.0311"
@@ -7436,6 +8132,9 @@
                     "date": "2021-10-13 03:11:24",
                     "git_tag": "3.0.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/X86Assembly/zip/3.0.6",
                     "version": "2021.1013.0311"
@@ -7463,6 +8162,9 @@
                     "date": "2021-11-02 21:18:07",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageXML/zip/1.0.7",
                     "version": "2021.1102.2118"
@@ -7490,6 +8192,9 @@
                     "date": "2021-11-02 21:18:07",
                     "git_tag": "1.0.8",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "url": "https://codeload.github.com/evandroforks/SublimePackageYAML/zip/1.0.8",
                     "version": "2021.1102.2118"
@@ -7523,6 +8228,9 @@
                     "date": "2021-10-13 03:10:13",
                     "git_tag": "1.9.1",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/sublime-backrefs/zip/1.9.1",
@@ -7555,6 +8263,9 @@
                     "date": "2021-10-13 03:10:14",
                     "git_tag": "2.1.2",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/sublime-bracex/zip/2.1.2",
@@ -7583,17 +8294,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2024-02-01 23:03:50",
-                    "git_tag": "1.0.114",
+                    "date": "2024-02-01 23:20:33",
+                    "git_tag": "1.1.0",
                     "platforms": "*",
                     "python_versions": [
-                        "3.3",
                         "3.8"
                     ],
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.114",
-                    "version": "2024.0201.2303"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.1.0",
+                    "version": "2024.0201.2320"
                 },
                 {
                     "date": "2021-10-13 02:46:35",
@@ -7622,6 +8332,9 @@
                     "date": "2021-10-13 03:10:21",
                     "git_tag": "0.9.14",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/concurrentloghandler/zip/0.9.14",
@@ -7654,7 +8367,6 @@
                     "git_tag": "2.6.27",
                     "platforms": "*",
                     "python_versions": [
-                        "3.3",
                         "3.8"
                     ],
                     "sublime_text": ">3999",
@@ -7689,6 +8401,9 @@
                     "date": "2021-10-13 03:10:24",
                     "git_tag": "1.0.7",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/diffmatchpatch/zip/1.0.7",
@@ -7721,6 +8436,9 @@
                     "date": "2021-11-03 01:15:47",
                     "git_tag": "1.16.1",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/lsp_utils/zip/1.16.1",
@@ -7753,6 +8471,9 @@
                     "date": "2021-11-03 01:15:47",
                     "git_tag": "4.2.2",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/mdpopups/zip/4.2.2",
@@ -7785,6 +8506,9 @@
                     "date": "2021-10-13 03:10:47",
                     "git_tag": "5.2.1",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/sublime-natsort/zip/5.2.1",
@@ -7817,6 +8541,9 @@
                     "date": "2021-10-13 03:10:54",
                     "git_tag": "1.1.4",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/plantumlconnection/zip/1.1.4",
@@ -7849,6 +8576,9 @@
                     "date": "2021-10-13 03:10:55",
                     "git_tag": "2.0.4",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/portalockerfile/zip/2.0.4",
@@ -7881,6 +8611,9 @@
                     "date": "2021-11-03 01:03:46",
                     "git_tag": "0.66.6",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/pushdownparser/zip/0.66.6",
@@ -7913,6 +8646,9 @@
                     "date": "2021-10-13 03:10:58",
                     "git_tag": "0.0.225",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/python-pywin32/zip/0.0.225",
@@ -7945,6 +8681,9 @@
                     "date": "2021-10-14 20:52:46",
                     "git_tag": "1.2.5",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/sublime_lib/zip/1.2.5",
@@ -7977,6 +8716,9 @@
                     "date": "2021-10-13 03:11:20",
                     "git_tag": "1.2.2",
                     "platforms": "*",
+                    "python_versions": [
+                        "3.3"
+                    ],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandroforks/sublime-wcmatch/zip/1.2.2",
