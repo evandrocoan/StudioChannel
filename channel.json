@@ -7589,14 +7589,17 @@
                 "releases": [
                     {
                         "base": "https://github.com/evandrocoan/channelmanager",
-                        "date": "2024-02-01 21:32:50",
-                        "git_tag": "1.0.113",
+                        "date": "2024-02-01 23:03:50",
+                        "git_tag": "1.0.114",
                         "platforms": "*",
+                        "python_versions": [
+                            "3.3",
+                            "3.8"
+                        ],
                         "sublime_text": ">3999",
-                        "python_versions": ["3.3", "3.8"],
                         "tags": true,
-                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.113",
-                        "version": "2024.0201.2132"
+                        "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.114",
+                        "version": "2024.0201.2303"
                     },
                     {
                         "date": "2021-10-13 02:46:35",
@@ -7656,8 +7659,11 @@
                         "date": "2024-02-01 21:33:12",
                         "git_tag": "2.6.27",
                         "platforms": "*",
+                        "python_versions": [
+                            "3.3",
+                            "3.8"
+                        ],
                         "sublime_text": ">3999",
-                        "python_versions": ["3.3", "3.8"],
                         "tags": true,
                         "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.27",
                         "version": "2024.0201.2133"
