@@ -7586,6 +7586,7 @@
                     "date": "2024-02-01 21:32:50",
                     "git_tag": "1.0.113",
                     "platforms": "*",
+                    "python_versions": ["3.3", "3.8"],
                     "sublime_text": ">3999",
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.0.113",
@@ -7650,6 +7651,7 @@
                     "git_tag": "2.6.27",
                     "platforms": "*",
                     "sublime_text": ">3999",
+                    "python_versions": ["3.3", "3.8"],
                     "tags": true,
                     "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.27",
                     "version": "2024.0201.2133"
