@@ -8302,16 +8302,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/channelmanager",
-                    "date": "2024-02-01 23:20:33",
-                    "git_tag": "1.1.0",
+                    "date": "2024-02-04 00:26:04",
+                    "git_tag": "1.1.1",
                     "platforms": "*",
                     "python_versions": [
                         "3.8"
                     ],
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.1.0",
-                    "version": "2024.0201.2320"
+                    "url": "https://codeload.github.com/evandrocoan/channelmanager/zip/1.1.1",
+                    "version": "2024.0204.0026"
                 },
                 {
                     "date": "2021-10-13 02:46:35",
