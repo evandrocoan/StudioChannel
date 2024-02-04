@@ -1,8 +1,9 @@
 {
-    "schema_version": "3.0.0",
+    "$schema": "sublime://packagecontrol.io/schemas/channel",
+    "schema_version": "4.0.0",
     "packages": [
         {
-            "authors": [
+            "author": [
                 "ihodev",
                 "DeathAxe",
                 "Forked by evandroforks"
@@ -46,7 +47,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "ice9js",
                 "Forked by evandroforks"
             ],
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -115,7 +116,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "DavidGerva",
                 "Forked by evandroforks"
             ],
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "wadetb",
                 "Forked by evandroforks"
             ],
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Will Bond (wbond)",
                 "Forked by evandroforks"
             ],
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -249,7 +250,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "alienhard",
                 "Forked by evandrocoan"
             ],
@@ -280,7 +281,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "germtb",
                 "Forked by evandroforks"
             ],
@@ -316,7 +317,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -392,7 +393,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -433,7 +434,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "aziz",
                 "Forked by evandroforks"
             ],
@@ -471,7 +472,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -501,7 +502,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -567,7 +568,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "liamcain",
                 "Forked by evandrocoan"
             ],
@@ -603,7 +604,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "ahkscript",
                 "Forked by evandroforks"
             ],
@@ -639,7 +640,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Wouterdek",
                 "Forked by evandrocoan"
             ],
@@ -708,7 +709,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -744,7 +745,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -774,7 +775,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "chipotle",
                 "Forked by evandrocoan"
             ],
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "victorporof",
                 "Forked by evandroforks"
             ],
@@ -836,7 +837,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "aponxi",
                 "Forked by evandroforks"
             ],
@@ -867,7 +868,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "aziz",
                 "Forked by evandroforks"
             ],
@@ -906,7 +907,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -942,7 +943,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "titoBouzout",
                 "Forked by evandrocoan"
             ],
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "rctay",
                 "Forked by evandrocoan"
             ],
@@ -1009,7 +1010,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1039,7 +1040,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "tushortz",
                 "Forked by evandroforks"
             ],
@@ -1113,7 +1114,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "tushortz",
                 "Forked by evandroforks"
             ],
@@ -1144,7 +1145,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Rapptz",
                 "Forked by evandroforks"
             ],
@@ -1182,7 +1183,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jdavisclark",
                 "Forked by evandrocoan"
             ],
@@ -1213,7 +1214,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jisaacks",
                 "Forked by evandroforks"
             ],
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Colin T.A. Gray (colinta)",
                 "Forked by evandroforks"
             ],
@@ -1282,7 +1283,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Will Bond (wbond)",
                 "Forked by evandroforks"
             ],
@@ -1318,7 +1319,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -1353,7 +1354,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "leonid-shevtsov",
                 "Forked by evandroforks"
             ],
@@ -1384,7 +1385,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -1414,7 +1415,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1444,7 +1445,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "zyxar",
                 "Forked by evandroforks"
             ],
@@ -1482,7 +1483,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Monnoroch",
                 "Forked by evandroforks"
             ],
@@ -1518,7 +1519,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -1554,7 +1555,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "bobef",
                 "Forked by evandroforks"
             ],
@@ -1590,7 +1591,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "gerardroche",
                 "Forked by evandroforks"
             ],
@@ -1631,7 +1632,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "ehuss",
                 "Forked by evandroforks"
             ],
@@ -1662,7 +1663,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "seanliang",
                 "Forked by evandroforks"
             ],
@@ -1698,7 +1699,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "crash5",
                 "Forked by evandroforks"
             ],
@@ -1734,7 +1735,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1764,7 +1765,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "NotSqrt",
                 "Forked by evandroforks"
             ],
@@ -1795,7 +1796,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks",
                 "Forked by evandrocoan"
             ],
@@ -1842,7 +1843,7 @@
                     "python_versions": [
                         "3.8"
                     ],
-                    "sublime_text": ">4113",
+                    "sublime_text": ">4121",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/1.0.59",
                     "version": "2022.0918.1100"
                 },
@@ -1929,11 +1930,18 @@
                     "sublime_text": "<=4113",
                     "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4113",
                     "version": "2021.1014.2125"
+                },
+                {
+                    "date": "2021-11-08 12:55:37",
+                    "platforms": "*",
+                    "sublime_text": "<=4121",
+                    "url": "https://codeload.github.com/evandrocoan/SublimePackageDefault/zip/4121",
+                    "version": "2021.1108.1255"
                 }
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -1963,7 +1971,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "yaworsw",
                 "Forked by evandroforks"
             ],
@@ -1994,7 +2002,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Zinggi",
                 "Forked by evandroforks"
             ],
@@ -2030,7 +2038,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -2060,7 +2068,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "aziz",
                 "Forked by evandroforks"
             ],
@@ -2099,7 +2107,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "spadgos",
                 "Forked by evandroforks"
             ],
@@ -2140,7 +2148,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "asbjornenge",
                 "Forked by evandroforks"
             ],
@@ -2171,7 +2179,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "mattbanks",
                 "Forked by evandroforks"
             ],
@@ -2202,7 +2210,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Colin T.A. Gray (colinta)",
                 "Forked by evandroforks"
             ],
@@ -2240,7 +2248,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "sublimator",
                 "Forked by evandroforks"
             ],
@@ -2271,7 +2279,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "emmetio",
                 "Forked by evandroforks"
             ],
@@ -2311,7 +2319,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -2341,7 +2349,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "apiad",
                 "Forked by evandroforks"
             ],
@@ -2372,7 +2380,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "philippotto",
                 "Forked by evandroforks"
             ],
@@ -2403,7 +2411,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jbrooksuk",
                 "Forked by evandroforks"
             ],
@@ -2434,7 +2442,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "aronwoost",
                 "Forked by evandroforks"
             ],
@@ -2475,7 +2483,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -2511,7 +2519,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "rajeshvaya",
                 "Forked by evandrocoan"
             ],
@@ -2550,7 +2558,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "dreki",
                 "Forked by evandroforks"
             ],
@@ -2581,7 +2589,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Colin T.A. Gray (colinta)",
                 "Forked by evandroforks"
             ],
@@ -2619,7 +2627,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "FichteFoll",
                 "Forked by evandroforks"
             ],
@@ -2650,7 +2658,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "math2001",
                 "Forked by evandroforks"
             ],
@@ -2694,7 +2702,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "brianlow",
                 "Forked by evandroforks"
             ],
@@ -2725,7 +2733,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "twolfson",
                 "Forked by evandroforks"
             ],
@@ -2764,7 +2772,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "skuroda",
                 "Forked by evandroforks"
             ],
@@ -2800,7 +2808,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -2830,7 +2838,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -2860,7 +2868,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -2897,7 +2905,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -2927,7 +2935,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -2963,7 +2971,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "sagold",
                 "Forked by evandroforks"
             ],
@@ -3003,7 +3011,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "skozlovf",
                 "Forked by evandroforks"
             ],
@@ -3034,7 +3042,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "condemil",
                 "Forked by evandroforks"
             ],
@@ -3065,7 +3073,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "kemayo",
                 "Forked by evandroforks"
             ],
@@ -3104,7 +3112,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3134,7 +3142,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jisaacks",
                 "Forked by evandroforks"
             ],
@@ -3173,7 +3181,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "praveenpuglia",
                 "Forked by evandroforks"
             ],
@@ -3204,7 +3212,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "chrissimpkins",
                 "Forked by evandroforks"
             ],
@@ -3244,7 +3252,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3274,7 +3282,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "noahcoad",
                 "Forked by evandroforks"
             ],
@@ -3305,7 +3313,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "shagabutdinov",
                 "Forked by evandroforks"
             ],
@@ -3344,7 +3352,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3374,7 +3382,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3404,7 +3412,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3434,7 +3442,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -3470,7 +3478,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "bblanchon",
                 "Forked by evandroforks"
             ],
@@ -3501,7 +3509,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "seanliang",
                 "Forked by evandrocoan"
             ],
@@ -3537,7 +3545,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandrocoan"
             ],
@@ -3568,7 +3576,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "pyrrho",
                 "Forked by evandroforks"
             ],
@@ -3599,7 +3607,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3629,7 +3637,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "xdrop",
                 "Forked by evandroforks"
             ],
@@ -3660,7 +3668,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "eBookArchitects",
                 "Forked by evandroforks"
             ],
@@ -3696,7 +3704,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "yulanggong",
                 "Forked by evandroforks"
             ],
@@ -3727,7 +3735,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Epskampie",
                 "Forked by evandroforks"
             ],
@@ -3758,7 +3766,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "socsieng",
                 "Forked by evandroforks"
             ],
@@ -3789,7 +3797,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jbrooksuk",
                 "Forked by evandroforks"
             ],
@@ -3820,7 +3828,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "vontio",
                 "Forked by evandroforks"
             ],
@@ -3851,7 +3859,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3881,7 +3889,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -3911,7 +3919,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "spywhere",
                 "Forked by evandroforks"
             ],
@@ -3950,7 +3958,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Thom1729",
                 "Forked by evandroforks"
             ],
@@ -3989,7 +3997,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4019,7 +4027,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "mwean",
                 "Forked by evandroforks"
             ],
@@ -4050,7 +4058,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -4085,7 +4093,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -4115,7 +4123,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "gtarawneh",
                 "Forked by evandroforks"
             ],
@@ -4151,7 +4159,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4181,7 +4189,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "r-stein",
                 "Forked by evandroforks"
             ],
@@ -4219,12 +4227,12 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
             "buy": null,
-            "description": "LaTeX plugin for Sublime Text 2 and 3",
+            "description": "LaTeX plugin for Sublime Text",
             "donate": null,
             "homepage": "https://github.com/evandroforks/LaTeXTools",
             "issues": "https://github.com/SublimeText/LaTeXTools/issues",
@@ -4255,7 +4263,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "kevinstadler",
                 "Forked by evandroforks"
             ],
@@ -4286,7 +4294,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -4324,7 +4332,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "danro",
                 "Forked by evandroforks"
             ],
@@ -4355,7 +4363,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "vontio",
                 "Forked by evandroforks"
             ],
@@ -4386,7 +4394,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "heldev",
                 "Forked by evandroforks"
             ],
@@ -4427,7 +4435,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4457,7 +4465,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "vishr",
                 "Forked by evandroforks"
             ],
@@ -4488,7 +4496,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "sublimelsp",
                 "Forked by evandrocoan"
             ],
@@ -4560,7 +4568,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "sublimelsp",
                 "Forked by evandroforks"
             ],
@@ -4596,7 +4604,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4626,7 +4634,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4656,7 +4664,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4686,7 +4694,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -4728,7 +4736,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Kristinita",
                 "Forked by evandrocoan"
             ],
@@ -4759,7 +4767,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -4789,7 +4797,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "tushortz",
                 "Forked by evandroforks"
             ],
@@ -4820,7 +4828,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "joepmoritz",
                 "Forked by evandroforks"
             ],
@@ -4859,7 +4867,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "nlloyd",
                 "Forked by evandroforks"
             ],
@@ -4895,7 +4903,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jisaacks",
                 "Forked by evandrocoan"
             ],
@@ -4931,7 +4939,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
@@ -4967,7 +4975,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Colin T.A. Gray (colinta)",
                 "Forked by evandroforks"
             ],
@@ -5006,7 +5014,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "philippotto",
                 "Forked by evandroforks"
             ],
@@ -5046,7 +5054,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "korniychuk",
                 "Forked by evandroforks"
             ],
@@ -5077,7 +5085,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -5122,7 +5130,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
@@ -5162,7 +5170,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "hktonylee",
                 "Forked by evandroforks"
             ],
@@ -5193,7 +5201,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -5223,7 +5231,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -5253,7 +5261,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -5283,7 +5291,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -5313,7 +5321,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
@@ -5349,7 +5357,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "OdatNurd",
                 "Forked by evandroforks"
             ],
@@ -5390,7 +5398,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -5420,7 +5428,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -5455,7 +5463,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -5485,7 +5493,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "FichteFoll",
                 "Forked by evandroforks"
             ],
@@ -5523,7 +5531,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "skuroda",
                 "Forked by evandroforks"
             ],
@@ -5559,7 +5567,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "wbond",
                 "Forked by evandrocoan"
             ],
@@ -5591,7 +5599,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "stoivo",
                 "Forked by evandroforks"
             ],
@@ -5622,7 +5630,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "borist",
                 "Forked by evandroforks"
             ],
@@ -5653,7 +5661,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -5683,7 +5691,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "hbhakhra",
                 "Forked by evandroforks"
             ],
@@ -5714,7 +5722,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -5744,7 +5752,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -5774,7 +5782,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jvantuyl",
                 "evandrocoan"
             ],
@@ -5813,7 +5821,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Briles",
                 "Forked by evandroforks"
             ],
@@ -5851,7 +5859,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "MaokaiLin",
                 "Forked by evandroforks"
             ],
@@ -5887,7 +5895,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
@@ -5925,7 +5933,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "dzhibas",
                 "Forked by evandroforks"
             ],
@@ -5956,7 +5964,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "reywood",
                 "Forked by evandroforks"
             ],
@@ -5987,7 +5995,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "lark-parser",
                 "Forked by evandrocoan"
             ],
@@ -6018,7 +6026,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6048,7 +6056,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "klorenz",
                 "evandrocoan"
             ],
@@ -6087,7 +6095,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6117,7 +6125,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6147,7 +6155,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "kimpettersen",
                 "Forked by evandroforks"
             ],
@@ -6178,7 +6186,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "robertcollier4",
                 "Forked by evandroforks"
             ],
@@ -6214,7 +6222,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6244,7 +6252,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "kamilkp",
                 "Forked by evandroforks"
             ],
@@ -6280,7 +6288,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "buy": null,
@@ -6315,7 +6323,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Gabriel-p",
                 "Forked by evandrocoan"
             ],
@@ -6351,7 +6359,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6381,7 +6389,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -6411,7 +6419,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6441,7 +6449,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6471,7 +6479,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "P233",
                 "Forked by evandroforks"
             ],
@@ -6502,7 +6510,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6532,7 +6540,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "yaworsw",
                 "Forked by evandroforks"
             ],
@@ -6568,7 +6576,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -6604,7 +6612,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "mreq",
                 "Forked by evandroforks"
             ],
@@ -6635,7 +6643,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -6665,7 +6673,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "xavi-",
                 "Forked by evandroforks"
             ],
@@ -6705,7 +6713,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "bordaigorl",
                 "Forked by evandroforks"
             ],
@@ -6736,7 +6744,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6766,7 +6774,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "titoBouzout",
                 "Forked by evandroforks"
             ],
@@ -6808,7 +6816,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "dougty",
                 "Forked by evandroforks"
             ],
@@ -6839,7 +6847,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jgbishop",
                 "Forked by evandroforks"
             ],
@@ -6870,7 +6878,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -6900,7 +6908,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "alimony",
                 "Forked by evandroforks"
             ],
@@ -6931,7 +6939,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -6961,7 +6969,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jum4",
                 "Forked by evandroforks"
             ],
@@ -6997,7 +7005,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -7027,7 +7035,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "mtxr",
                 "Forked by evandroforks"
             ],
@@ -7069,7 +7077,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "vim-zz",
                 "Forked by evandroforks"
             ],
@@ -7105,7 +7113,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -7136,7 +7144,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeLinter",
                 "Forked by evandroforks"
             ],
@@ -7177,7 +7185,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeLinter",
                 "Forked by evandroforks"
             ],
@@ -7217,7 +7225,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeLinter",
                 "Forked by evandroforks"
             ],
@@ -7257,7 +7265,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jaipandya",
                 "Forked by evandroforks"
             ],
@@ -7288,7 +7296,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "quiqueg",
                 "Forked by evandroforks"
             ],
@@ -7326,7 +7334,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "TheSpyder",
                 "Forked by evandroforks"
             ],
@@ -7362,7 +7370,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "zzjin",
                 "Forked by evandroforks"
             ],
@@ -7393,7 +7401,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -7429,7 +7437,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -7465,7 +7473,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -7495,7 +7503,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "wbond",
                 "Forked by evandroforks"
             ],
@@ -7526,7 +7534,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -7570,7 +7578,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "asfaltboy",
                 "Forked by evandrocoan"
             ],
@@ -7601,7 +7609,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -7631,7 +7639,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "duydao",
                 "Forked by evandroforks"
             ],
@@ -7662,7 +7670,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -7692,7 +7700,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "gordio",
                 "Forked by evandroforks"
             ],
@@ -7723,7 +7731,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jasonwilliams",
                 "Forked by evandroforks"
             ],
@@ -7759,7 +7767,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "jonlabelle",
                 "Forked by evandroforks"
             ],
@@ -7798,7 +7806,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "microsoft",
                 "Forked by evandroforks"
             ],
@@ -7842,7 +7850,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandrocoan"
             ],
@@ -7878,7 +7886,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -7908,7 +7916,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandroforks"
             ],
@@ -7944,7 +7952,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -7974,7 +7982,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Salvatore Gentile",
                 "Forked by evandroforks"
             ],
@@ -8013,7 +8021,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "randy3k",
                 "Forked by evandroforks"
             ],
@@ -8049,7 +8057,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "titoBouzout",
                 "evandrocoan"
             ],
@@ -8087,7 +8095,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "ehuss",
                 "Forked by evandrocoan"
             ],
@@ -8118,7 +8126,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "13xforever",
                 "Forked by evandroforks"
             ],
@@ -8149,7 +8157,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -8179,7 +8187,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandroforks"
             ],
             "description": "No description available.",
@@ -8209,9 +8217,9 @@
             ]
         }
     ],
-    "dependencies": [
+    "libraries": [
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -8246,7 +8254,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -8281,7 +8289,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -8315,7 +8323,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "Preston-Landers",
                 "Forked by evandroforks"
             ],
@@ -8350,7 +8358,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "evandrocoan"
             ],
             "description": "No description available.",
@@ -8384,7 +8392,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "google",
                 "Forked by evandroforks"
             ],
@@ -8419,7 +8427,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "sublimelsp",
                 "Forked by evandroforks"
             ],
@@ -8454,7 +8462,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
@@ -8489,7 +8497,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "alimony",
                 "Forked by evandroforks"
             ],
@@ -8524,7 +8532,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SamuelMarks",
                 "Forked by evandrocoan"
             ],
@@ -8559,7 +8567,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "WoLpH",
                 "Forked by evandroforks"
             ],
@@ -8594,7 +8602,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "lark-parser",
                 "Forked by evandrocoan"
             ],
@@ -8629,7 +8637,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "packagecontrol",
                 "Forked by evandroforks"
             ],
@@ -8664,7 +8672,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "SublimeText",
                 "Forked by evandrocoan"
             ],
@@ -8699,7 +8707,7 @@
             ]
         },
         {
-            "authors": [
+            "author": [
                 "facelessuser",
                 "Forked by evandroforks"
             ],
