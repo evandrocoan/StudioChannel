@@ -373,15 +373,15 @@
             "readme": "https://raw.githubusercontent.com/evandrocoan/AmxxEditor/master/README.md",
             "releases": [
                 {
-                    "date": "2026-09-04 00:42:46",
-                    "git_tag": "3.0.45",
+                    "date": "2026-09-26 01:55:39",
+                    "git_tag": "3.0.46",
                     "platforms": "*",
                     "python_versions": [
                         "3.8"
                     ],
                     "sublime_text": ">3999",
-                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.45",
-                    "version": "2026.0904.0042"
+                    "url": "https://codeload.github.com/evandrocoan/AmxxEditor/zip/3.0.46",
+                    "version": "2026.0926.0155"
                 },
                 {
                     "date": "2021-02-20 16:17:20",
@@ -8371,16 +8371,16 @@
             "releases": [
                 {
                     "base": "https://github.com/evandrocoan/debugtools",
-                    "date": "2024-02-01 21:33:12",
-                    "git_tag": "2.6.27",
+                    "date": "2026-09-26 01:55:47",
+                    "git_tag": "2.6.28",
                     "platforms": "*",
                     "python_versions": [
                         "3.8"
                     ],
                     "sublime_text": ">3999",
                     "tags": true,
-                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.27",
-                    "version": "2024.0201.2133"
+                    "url": "https://codeload.github.com/evandrocoan/debugtools/zip/2.6.28",
+                    "version": "2026.0926.0155"
                 },
                 {
                     "date": "2021-06-07 20:41:04",
